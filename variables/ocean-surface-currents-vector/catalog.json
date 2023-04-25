@@ -16,7 +16,7 @@
     },
     {
       "rel": "items",
-      "href": "/items?osc:variables:Ocean surface currents (vector)&f=json",
+      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25variables%3A%25Ocean surface currents (vector)%25%27&type=catalog&f=json",
       "type": "application/json"
     },
     {

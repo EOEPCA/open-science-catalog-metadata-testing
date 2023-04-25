@@ -16,7 +16,7 @@
     },
     {
       "rel": "items",
-      "href": "/items?osc:processes:Test Process&f=json",
+      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25process%3A%25Test Process%25%27&type=catalog&f=json",
       "type": "application/json"
     },
     {

@@ -16,7 +16,7 @@
     },
     {
       "rel": "items",
-      "href": "/items?osc:eo-mission:Sentinel-1&f=json",
+      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25eo-missions%3A%25Sentinel-1%25%27&type=catalog&f=json",
       "type": "application/json"
     },
     {

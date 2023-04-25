@@ -16,7 +16,7 @@
     },
     {
       "rel": "items",
-      "href": "https://resource-catalogue.staging.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25theme%3A%25Oceans%25%27&type=dataset&f=json",
+      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25theme%3A%25Oceans%25%27&type=catalog&f=json",
       "type": "application/json"
     },
     {
