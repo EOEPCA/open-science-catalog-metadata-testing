@@ -1,8 +1,8 @@
 {
   "type": "Catalog",
-  "id": "variables",
+  "id": "Variables",
   "stac_version": "1.0.0",
-  "description": "Variables",
+  "description": "Geoscience, climate and environmental variables",
   "links": [
     {
       "rel": "root",

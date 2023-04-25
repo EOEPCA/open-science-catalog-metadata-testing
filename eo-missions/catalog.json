@@ -1,8 +1,8 @@
 {
   "type": "Catalog",
-  "id": "eo-missions",
+  "id": "EO Missions",
   "stac_version": "1.0.0",
-  "description": "EO Missions",
+  "description": "Earth Obeservation Satellite Missions by ESA",
   "links": [
     {
       "rel": "root",
