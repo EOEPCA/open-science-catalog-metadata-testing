@@ -13,37 +13,37 @@
       "rel": "child",
       "href": "./eo-missions/catalog.json",
       "type": "application/json",
-      "title": "Open Science Catalog EO Missions"
+      "title": "EO Missions"
     },
     {
       "rel": "child",
       "href": "./processes/catalog.json",
       "type": "application/json",
-      "title": "Open Science Catalog Processes"
+      "title": "Processes"
     },
     {
       "rel": "child",
       "href": "./products/collection.json",
       "type": "application/json",
-      "title": "Open Science Catalog Products"
+      "title": "Products"
     },
     {
       "rel": "child",
       "href": "./projects/catalog.json",
       "type": "application/json",
-      "title": "Open Science Catalog Projects"
+      "title": "Projects"
     },
     {
       "rel": "child",
       "href": "./themes/catalog.json",
       "type": "application/json",
-      "title": "Open Science Catalog Themes"
+      "title": "Themes"
     },
     {
       "rel": "child",
       "href": "./variables/catalog.json",
       "type": "application/json",
-      "title": "Open Science Catalog Variables"
+      "title": "Variables"
     }
   ]
 }
