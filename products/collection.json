@@ -11,9 +11,9 @@
     },
     {
       "rel": "child",
-      "href": "./world-ocean-circulation/collection.json",
+      "href": "./doppler-derived-surface-current-world-ocean-circulation/collection.json",
       "type": "application/json",
-      "title": "WOC"
+      "title": "Sentinel-1 IW Ocean Surface Current Radial Velocity product in Agulhas current"
     }
   ],
   "stac_extensions": [],
