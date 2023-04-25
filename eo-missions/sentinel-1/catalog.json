@@ -6,7 +6,7 @@
   "links": [
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-testing/catalog.json",
+      "href": "../../catalog.json",
       "type": "application/json"
     },
     {

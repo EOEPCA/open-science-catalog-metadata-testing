@@ -6,22 +6,22 @@
   "links": [
     {
       "rel": "root",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-testing/catalog.json",
+      "href": "../../../../catalog.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-testing/products/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/001/catalog.json",
+      "href": "./001/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-testing/products/doppler-derived-surface-current-world-ocean-circulation/v1.1/catalog.json",
+      "href": "../catalog.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "https://eoepca.github.io/open-science-catalog-metadata-testing/products/doppler-derived-surface-current-world-ocean-circulation/v1.1/2020/catalog.json",
+      "href": "./catalog.json",
       "type": "application/json"
     }
   ],
