@@ -2,7 +2,7 @@
     "type": "Catalog",
     "id": "processes",
     "stac_version": "1.0.0",
-    "description": "Open Science Catalog Processes",
+    "description": "Processes",
     "links": [
       {
         "rel": "root",
