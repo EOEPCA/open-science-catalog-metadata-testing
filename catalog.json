@@ -17,6 +17,12 @@
     },
     {
       "rel": "child",
+      "href": "./processes/catalog.json",
+      "type": "application/json",
+      "title": "Open Science Catalog Processes"
+    },
+    {
+      "rel": "child",
       "href": "./products/collection.json",
       "type": "application/json",
       "title": "Open Science Catalog Products"
