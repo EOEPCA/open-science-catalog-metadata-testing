@@ -1,0 +1,92 @@
+{
+    "id": "OSC-Catalog",
+    "summary": {
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020
+      ],
+      "numberOfProducts": 1,
+      "numberOfProjects": 1,
+      "numberOfVariables": 1,
+      "numberOfThemes": 1
+    },
+    "themes": [
+      {
+        "name": "Oceans",
+        "description": "Society is facing today a number of global environmental challenges requiring the better understanding and monitoring of the interconnected Earth System processes. Ocean is one key gearing of this complex engine. However, knowledge gaps remain in order to better understand, characterize and monitor its role in all major Earth System global cycles (e.g. water, energy, gas, and in particular carbon, momentum cycles\u2026). To fill these gaps, dedicated research activities are needed, embracing a large number of disciplines as physical oceanography, biogeochemistry, ecology, and further exploring the interaction of the ocean with the other components of the Earth System, in particular the atmosphere, the land, and the cryosphere. To make the best of it, this research shall be based on the optimal and synergistic exploitation of all available observing systems (EO satellite data, in-situ and citizen observations), advanced modelling capabilities, interdisciplinary research and new technologies.",
+        "image": "./themes/EO_Oceans.webp",
+        "website": "https://eo4society.esa.int/2019/11/11/collaboration-ocean-science/",
+        "summary": {
+          "years": [
+            2010,
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+          ],
+          "numberOfProducts": 1,
+          "numberOfProjects": 1,
+          "numberOfVariables": 1
+        },
+        "variables": [
+          {
+            "name": "Ocean surface currents (vector)",
+            "description": "Water flow on ocean surface - Physical unit: [ cm/s ] - Accuracy unit: [ cm/s ] intended as vector error, i.e. the module of the vector difference between the observed vector and the true vector.",
+            "summary": {
+              "years": [
+                2010,
+                2011,
+                2012,
+                2013,
+                2014,
+                2015,
+                2016,
+                2017,
+                2018,
+                2019,
+                2020
+              ],
+              "numberOfProducts": 1
+            }
+          }
+        ]
+      }
+    ],
+    "missions": [
+      {
+        "name": "Sentinel-1",
+        "summary": {
+          "years": [
+            2010,
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016,
+            2017,
+            2018,
+            2019,
+            2020
+          ],
+          "numberOfProducts": 27,
+          "numberOfProjects": 7
+        }
+      }
+    ]
+  }
