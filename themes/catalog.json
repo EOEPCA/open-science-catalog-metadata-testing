@@ -1,0 +1,24 @@
+{
+  "type": "Catalog",
+  "id": "themes",
+  "stac_version": "1.0.0",
+  "description": "Open Science Catalog Themes",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./oceans/catalog.json",
+      "type": "application/json",
+      "title": "Oceans"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ]
+}

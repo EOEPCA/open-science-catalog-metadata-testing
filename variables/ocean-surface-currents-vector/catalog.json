@@ -1,0 +1,28 @@
+{
+  "type": "Catalog",
+  "id": "Ocean surface currents (vector)",
+  "stac_version": "1.0.0",
+  "description": "Water flow on ocean surface - Physical unit: [ cm/s ] - Accuracy unit: [ cm/s ] intended as vector error, i.e. the module of the vector difference between the observed vector and the true vector.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://space.oscar.wmo.int/variables/view/ocean_surface_currents_vector",
+      "type": "application/json"
+    },
+    {
+      "rel": "items",
+      "href": "/items?osc:variables:Ocean surface currents (vector)&f=json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ]
+}

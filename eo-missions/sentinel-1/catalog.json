@@ -1,0 +1,28 @@
+{
+  "type": "Catalog",
+  "id": "Sentinel-1",
+  "stac_version": "1.0.0",
+  "description": "The Sentinel-1 mission comprises a constellation of two polar-orbiting satellites, operating day and night performing C-band synthetic aperture radar imaging, enabling them to acquire imagery regardless of the weather.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-1",
+      "type": "application/json"
+    },
+    {
+      "rel": "items",
+      "href": "/items?osc:eo-mission:Sentinel-1&f=json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ]
+}

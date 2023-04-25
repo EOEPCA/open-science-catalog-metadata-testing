@@ -1,0 +1,36 @@
+{
+  "type": "Catalog",
+  "id": "Test Process",
+  "stac_version": "1.0.0",
+  "description": "A test process.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://opensciencedata.esa.int",
+      "type": "application/json"
+    },
+    {
+      "rel": "items",
+      "href": "/items?osc:processes:Test Process&f=json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "process": {
+      "href": "./test-process.cwl",
+      "type": "application/text",
+      "title": "Test Process",
+      "description": "Test Process CWL file"
+    }
+  }
+}
