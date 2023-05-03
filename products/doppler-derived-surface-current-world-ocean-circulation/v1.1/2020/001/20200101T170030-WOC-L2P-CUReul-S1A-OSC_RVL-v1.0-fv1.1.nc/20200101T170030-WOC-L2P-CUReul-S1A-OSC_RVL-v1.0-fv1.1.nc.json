@@ -35,7 +35,7 @@
     },
     {
       "rel": "collection",
-      "href": "../../../collection.json",
+      "href": "../../../../collection.json",
       "type": "application/json"
     },
     {
