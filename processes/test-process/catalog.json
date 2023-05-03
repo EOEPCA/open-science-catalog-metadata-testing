@@ -30,7 +30,7 @@
   "assets": {
     "process": {
       "href": "./test-process.cwl",
-      "type": "application/text",
+      "type": "text/plain",
       "title": "Test Process",
       "description": "Test Process CWL file"
     }
