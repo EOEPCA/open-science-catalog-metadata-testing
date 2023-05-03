@@ -1,9 +1,8 @@
 {
   "type": "Catalog",
-  "id": "v1.1",
+  "id": "doppler-derived-surface-current-world-ocean-circulation-1-1",
   "title": "v1.1",
   "stac_version": "1.0.0",
-  "description": "",
   "links": [
     {
       "rel": "root",
