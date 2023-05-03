@@ -30,7 +30,8 @@
   "assets": {
     "image": {
       "href": "./EO_Oceans.webp",
-      "title": "image",
+      "title": "Oceans",
+      "type": "image/webp",
       "roles": [
         "thumbnail"
       ]
