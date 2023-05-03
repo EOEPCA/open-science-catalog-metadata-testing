@@ -13,7 +13,7 @@
       "rel": "item",
       "href": "./20200101T170030-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc/20200101T170030-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc.json",
       "title": "20200101T170030-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc",
-      "type": "application/json"
+      "type": "application/geo+json"
     },
     {
       "rel": "parent",
