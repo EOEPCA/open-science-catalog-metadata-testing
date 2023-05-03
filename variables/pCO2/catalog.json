@@ -1,0 +1,37 @@
+{
+  "type": "Catalog",
+  "id": "pCO2",
+  "stac_version": "1.0.0",
+  "description": "Partial pressure of carbon dioxide at the surface of the sea",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://space.oscar.wmo.int/variables/view/pco2",
+      "type": "text/html",
+      "title": "Description"
+    },
+    {
+      "rel": "items",
+      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25variable%3ApCO2%25%27&type=catalog&f=json",
+      "type": "application/json",
+      "title": "Items"
+    },
+    {
+      "rel": "related",
+      "href": "../../themes/Oceans/catalog.json",
+      "type": "application/json",
+      "title": "Theme"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": []
+}

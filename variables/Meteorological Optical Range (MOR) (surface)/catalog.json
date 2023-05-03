@@ -1,0 +1,37 @@
+{
+  "type": "Catalog",
+  "id": "Meteorological Optical Range (MOR) (surface)",
+  "stac_version": "1.0.0",
+  "description": "Length of path in the atmosphere required to reduce the luminous flux in a collimated beam from an incandescent lamp, at a colour temperature of 2 700 K, to 5 per cent of its original value, the luminous flux being evaluated by means of the photometric luminosity function of the International Commission on Illumination.  For aeronautical purposes, the surface MOR is measured at a height of 2.5 m above the surface. \n(Unit: m )\n",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://space.oscar.wmo.int/variables/view/meteorological_optical_range_mor_surface",
+      "type": "text/html",
+      "title": "Description"
+    },
+    {
+      "rel": "items",
+      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25variable%3AMeteorological+Optical+Range+%28MOR%29+%28surface%29%25%27&type=catalog&f=json",
+      "type": "application/json",
+      "title": "Items"
+    },
+    {
+      "rel": "related",
+      "href": "../../themes/Atmosphere/catalog.json",
+      "type": "application/json",
+      "title": "Theme"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": []
+}

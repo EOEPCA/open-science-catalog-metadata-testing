@@ -1,0 +1,37 @@
+{
+  "type": "Catalog",
+  "id": "Cosmic ray neutron flux spectrum",
+  "stac_version": "1.0.0",
+  "description": "Flux density energy spectrum of neutrons from the Sun or as component of the cosmic radiation.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://space.oscar.wmo.int/variables/view/cosmic_ray_neutron_flux_spectrum",
+      "type": "text/html",
+      "title": "Description"
+    },
+    {
+      "rel": "items",
+      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25variable%3ACosmic+ray+neutron+flux+spectrum%25%27&type=catalog&f=json",
+      "type": "application/json",
+      "title": "Items"
+    },
+    {
+      "rel": "related",
+      "href": "../../themes/Magnetosphere_Ionosphere/catalog.json",
+      "type": "application/json",
+      "title": "Theme"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": []
+}

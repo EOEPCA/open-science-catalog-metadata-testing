@@ -1,9 +1,8 @@
 {
   "type": "Catalog",
   "id": "themes",
-  "title": "Themes",
   "stac_version": "1.0.0",
-  "description": "Earth Science topics linked to the grand science challenges set in the ESA strategy",
+  "description": "Open Science Catalog themes",
   "links": [
     {
       "rel": "root",
@@ -12,14 +11,39 @@
     },
     {
       "rel": "child",
-      "href": "./oceans/catalog.json",
-      "type": "application/json",
-      "title": "Oceans"
+      "href": "./Atmosphere/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Cryosphere/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Land/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Oceans/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Magnetosphere_Ionosphere/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Solid Earth/catalog.json",
+      "type": "application/json"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json"
     }
-  ]
+  ],
+  "stac_extensions": []
 }

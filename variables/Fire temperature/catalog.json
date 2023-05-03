@@ -1,0 +1,37 @@
+{
+  "type": "Catalog",
+  "id": "Fire temperature",
+  "stac_version": "1.0.0",
+  "description": "Temperature of the fire occurring within an area",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://space.oscar.wmo.int/variables/view/fire_temperature",
+      "type": "text/html",
+      "title": "Description"
+    },
+    {
+      "rel": "items",
+      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25variable%3AFire+temperature%25%27&type=catalog&f=json",
+      "type": "application/json",
+      "title": "Items"
+    },
+    {
+      "rel": "related",
+      "href": "../../themes/Land/catalog.json",
+      "type": "application/json",
+      "title": "Theme"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": []
+}

@@ -1,0 +1,37 @@
+{
+  "type": "Catalog",
+  "id": "Precipitation intensity at surface (liquid or solid)",
+  "stac_version": "1.0.0",
+  "description": "Intensity of precipitation reaching the ground - Physical unit: [ mm/h ] (if solid, mm/h of liquid water after melting) - Accuracy unit: [ mm/h ]. Since accuracy changes with intensity, it is necessary to specify a reference intensity. Assumed rate: 5 mm/h.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://space.oscar.wmo.int/variables/view/precipitation_intensity_at_surface_liquid_or_solid",
+      "type": "text/html",
+      "title": "Description"
+    },
+    {
+      "rel": "items",
+      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25variable%3APrecipitation+intensity+at+surface+%28liquid+or+solid%29%25%27&type=catalog&f=json",
+      "type": "application/json",
+      "title": "Items"
+    },
+    {
+      "rel": "related",
+      "href": "../../themes/Atmosphere/catalog.json",
+      "type": "application/json",
+      "title": "Theme"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": []
+}

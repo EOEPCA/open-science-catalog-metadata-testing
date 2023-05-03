@@ -1,0 +1,37 @@
+{
+  "type": "Catalog",
+  "id": "Upward short-wave irradiance at TOA",
+  "stac_version": "1.0.0",
+  "description": "Flux density of solar radiation, reflected by the Earth surface and atmosphere, emitted to space at the top of the atmosphere",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://space.oscar.wmo.int/variables/view/upward_short_wave_irradiance_at_toa",
+      "type": "text/html",
+      "title": "Description"
+    },
+    {
+      "rel": "items",
+      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25variable%3AUpward+short-wave+irradiance+at+TOA%25%27&type=catalog&f=json",
+      "type": "application/json",
+      "title": "Items"
+    },
+    {
+      "rel": "related",
+      "href": "../../themes/Atmosphere/catalog.json",
+      "type": "application/json",
+      "title": "Theme"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": []
+}

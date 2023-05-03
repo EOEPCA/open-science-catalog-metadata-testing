@@ -1,0 +1,97 @@
+{
+  "type": "Collection",
+  "id": "melt-indicator-4dantarctica",
+  "stac_version": "1.0.0",
+  "description": "Multifrequencies melt indicator",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "http://www.4d-antarctica.org/",
+      "title": "Website"
+    },
+    {
+      "rel": "related",
+      "href": "../../projects/4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "Project"
+    },
+    {
+      "rel": "related",
+      "href": "../../themes/Cryosphere/catalog.json",
+      "type": "application/json",
+      "title": "Theme"
+    },
+    {
+      "rel": "related",
+      "href": "../../variables/Glacier cover/catalog.json",
+      "type": "application/json",
+      "title": "Variable"
+    },
+    {
+      "rel": "related",
+      "href": "../../eo-missions/AMSR2/catalog.json",
+      "type": "application/json",
+      "title": "EO Mission"
+    },
+    {
+      "rel": "related",
+      "href": "../../eo-missions/SMOS/catalog.json",
+      "type": "application/json",
+      "title": "EO Mission"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ],
+  "title": "MultiFrequenciesMeltIndicator_Antarctica_Multimission_2012-2022",
+  "osc:missions": [
+    "AMSR2",
+    "SMOS"
+  ],
+  "osc:project": "4DANTARCTICA",
+  "osc:themes": [
+    "Cryosphere"
+  ],
+  "osc:variable": "Glacier cover",
+  "osc:status": "ONGOING",
+  "osc:region": "Antarctica",
+  "osc:type": "Product",
+  "created": "2022-05-01T00:00:00Z",
+  "start_datetime": "2012-01-01T00:00:00Z",
+  "end_datetime": "2022-12-31T23:59:59Z",
+  "version": "1",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        -180.0,
+        -80.0,
+        180.0,
+        -61.0
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2012-01-01T00:00:00Z",
+          "2022-12-31T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary",
+  "keywords": [
+    "theme:Cryosphere",
+    "variable:Glacier cover",
+    "region:Antarctica"
+  ]
+}

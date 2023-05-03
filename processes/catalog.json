@@ -1,26 +1,19 @@
 {
-    "type": "Catalog",
-    "id": "processes",
-    "title": "Processes",
-    "stac_version": "1.0.0",
-    "description": "Processes for reproducible science",
-    "links": [
-      {
-        "rel": "root",
-        "href": "../catalog.json",
-        "type": "application/json"
-      },
-      {
-        "rel": "child",
-        "href": "./test-process/catalog.json",
-        "type": "application/json",
-        "title": "Test Process"
-      },
-      {
-        "rel": "parent",
-        "href": "../catalog.json",
-        "type": "application/json"
-      }
-    ]
-  }
-  
+  "type": "Catalog",
+  "id": "processes",
+  "stac_version": "1.0.0",
+  "description": "Open Science Catalog processes",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": []
+}

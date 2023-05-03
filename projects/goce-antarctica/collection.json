@@ -1,0 +1,89 @@
+{
+  "type": "Collection",
+  "id": "goce-antarctica",
+  "stac_version": "1.0.0",
+  "description": "Exploring the potential of GOCE to improve lithospheric modelling over Antarctica, to reduce uncertainties in bedrock topography and to study the implication on GIA modelling",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://www.bas.ac.uk/project/goceantarctica/",
+      "title": "Website"
+    },
+    {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/projects/goce-antarctica/",
+      "title": "EO4Society Link"
+    },
+    {
+      "rel": "related",
+      "href": "../../themes/Solid Earth/catalog.json",
+      "type": "application/json",
+      "title": "Theme"
+    },
+    {
+      "rel": "related",
+      "href": "../../themes/Cryosphere/catalog.json",
+      "type": "application/json",
+      "title": "Theme"
+    },
+    {
+      "rel": "related",
+      "href": "../../products/lithosphere-density-temperature-viscosity-goce-antarctica/collection.json",
+      "type": "application/json",
+      "title": "Product"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ],
+  "title": "GOCE+ ANTARCTICA",
+  "osc:name": "GOCE+ ANTARCTICA",
+  "osc:themes": [
+    "Solid Earth",
+    "Cryosphere"
+  ],
+  "osc:status": "COMPLETED",
+  "osc:technical_officer": {
+    "name": "Michael Kern",
+    "e-mail": "michael.kern@esa.int"
+  },
+  "osc:consortium": [
+    "UNIVERSITY OF KIEL (DE)",
+    "BRITISH ANTARCTIC SURVEY (GB)",
+    "TU DELFT (NL)",
+    "Technical University of Denmark (DK)"
+  ],
+  "osc:type": "Project",
+  "start_datetime": "2015-08-20T00:00:00Z",
+  "end_datetime": "2019-06-25T23:59:59Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        []
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2015-08-20T00:00:00Z",
+          "2019-06-25T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary",
+  "keywords": [
+    "theme:Solid Earth",
+    "theme:Cryosphere"
+  ]
+}

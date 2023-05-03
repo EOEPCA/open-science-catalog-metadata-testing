@@ -1,0 +1,37 @@
+{
+  "type": "Catalog",
+  "id": "Ionospheric Vertical Total Electron Content (VTEC)",
+  "stac_version": "1.0.0",
+  "description": "Number of electrons between two points.\u00a0",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://space.oscar.wmo.int/variables/view/ionospheric_vertical_total_electron_content_vtec",
+      "type": "text/html",
+      "title": "Description"
+    },
+    {
+      "rel": "items",
+      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25variable%3AIonospheric+Vertical+Total+Electron+Content+%28VTEC%29%25%27&type=catalog&f=json",
+      "type": "application/json",
+      "title": "Items"
+    },
+    {
+      "rel": "related",
+      "href": "../../themes/Magnetosphere_Ionosphere/catalog.json",
+      "type": "application/json",
+      "title": "Theme"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": []
+}

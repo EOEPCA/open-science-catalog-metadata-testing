@@ -1,9 +1,8 @@
 {
   "type": "Catalog",
   "id": "eo-missions",
-  "title": "EO Missions",
   "stac_version": "1.0.0",
-  "description": "Earth Obeservation Satellite Missions by ESA",
+  "description": "Open Science Catalog EO missions",
   "links": [
     {
       "rel": "root",
@@ -12,14 +11,259 @@
     },
     {
       "rel": "child",
-      "href": "./sentinel-1/catalog.json",
-      "type": "application/json",
-      "title": "Sentinel-1"
+      "href": "./AEOLUS/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./AMSR-E/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./AMSR2/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./ASCAT/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./CALIPSO/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./CHAMP/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./CryoSat/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./CryoSat-2/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./EARTHCARE/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./ENVISAT/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./ERS-1/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./ERS-2/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./GCOM-W1/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./GCOM-W2/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./GLONAS/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./GOCE/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./GOSAT/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./GPS/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./GRACE/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./GRACE-FO/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./ICESat/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./In-situ/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Jason-1/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Jason-2/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Jason-3/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Landsat/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Landsat-8/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./MERIS/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./MeteoSat/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Model/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./MODIS/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./MSG-SEVIRI/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./OERSTED/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./OMI/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./SAC-C/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./SARAL/ALtiKa/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./SeaWiFS/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Sentinel-1/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Sentinel-2/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Sentinel-3/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Sentinel-5p/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./Sentinel-6/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./SMAP/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./SMOS/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./SWARM/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./TanDEM-X/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./TerraSAR-X/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./TOPEX/Poseidon/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./VIIRS/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./MSG-SEVIRI/catalog.json",
+      "type": "application/json"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json"
     }
-  ]
+  ],
+  "stac_extensions": []
 }

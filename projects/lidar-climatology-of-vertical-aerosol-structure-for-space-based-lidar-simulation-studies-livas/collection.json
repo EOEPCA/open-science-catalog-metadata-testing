@@ -1,0 +1,181 @@
+{
+  "type": "Collection",
+  "id": "lidar-climatology-of-vertical-aerosol-structure-for-space-based-lidar-simulation-studies-livas",
+  "stac_version": "1.0.0",
+  "description": "Lidar Climatology of Vertical Aerosol Structure for Space-Based Lidar Simulation Studies",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "http://lrsu.physics.ntua.gr/en/content/esa-livas",
+      "title": "Website"
+    },
+    {
+      "rel": "related",
+      "href": "../../themes/Atmosphere/catalog.json",
+      "type": "application/json",
+      "title": "Theme"
+    },
+    {
+      "rel": "related",
+      "href": "../../products/clima-aerosol-op-livas/collection.json",
+      "type": "application/json",
+      "title": "Product"
+    },
+    {
+      "rel": "related",
+      "href": "../../products/clima-aerosol-od-livas/collection.json",
+      "type": "application/json",
+      "title": "Product"
+    },
+    {
+      "rel": "related",
+      "href": "../../products/clima-cloud-profile-livas/collection.json",
+      "type": "application/json",
+      "title": "Product"
+    },
+    {
+      "rel": "related",
+      "href": "../../products/cliima-cloud-od-livas/collection.json",
+      "type": "application/json",
+      "title": "Product"
+    },
+    {
+      "rel": "related",
+      "href": "../../products/clima-strat-aerosol-cloud-op-livas/collection.json",
+      "type": "application/json",
+      "title": "Product"
+    },
+    {
+      "rel": "related",
+      "href": "../../products/clima-strat-aerosol-cloud-od-livas/collection.json",
+      "type": "application/json",
+      "title": "Product"
+    },
+    {
+      "rel": "related",
+      "href": "../../products/dust-od-livas/collection.json",
+      "type": "application/json",
+      "title": "Product"
+    },
+    {
+      "rel": "related",
+      "href": "../../products/aerosol-dust-mass-op-livas/collection.json",
+      "type": "application/json",
+      "title": "Product"
+    },
+    {
+      "rel": "related",
+      "href": "../../products/aerosol-dust-od-livas/collection.json",
+      "type": "application/json",
+      "title": "Product"
+    },
+    {
+      "rel": "related",
+      "href": "../../products/cloud-op-livas/collection.json",
+      "type": "application/json",
+      "title": "Product"
+    },
+    {
+      "rel": "related",
+      "href": "../../products/cloud-od-livas/collection.json",
+      "type": "application/json",
+      "title": "Product"
+    },
+    {
+      "rel": "related",
+      "href": "../../products/aerosol-pure-dust-op-livas/collection.json",
+      "type": "application/json",
+      "title": "Product"
+    },
+    {
+      "rel": "related",
+      "href": "../../products/aerosol-dust-od-averaged-livas/collection.json",
+      "type": "application/json",
+      "title": "Product"
+    },
+    {
+      "rel": "related",
+      "href": "../../products/cloud-op-averaged-livas/collection.json",
+      "type": "application/json",
+      "title": "Product"
+    },
+    {
+      "rel": "related",
+      "href": "../../products/cloud-od-averaged-livas/collection.json",
+      "type": "application/json",
+      "title": "Product"
+    },
+    {
+      "rel": "related",
+      "href": "../../products/clima-aerosol-op-all-livas/collection.json",
+      "type": "application/json",
+      "title": "Product"
+    },
+    {
+      "rel": "related",
+      "href": "../../products/clima-aerosol-od-all-livas/collection.json",
+      "type": "application/json",
+      "title": "Product"
+    },
+    {
+      "rel": "related",
+      "href": "../../products/time-clima-aerosol-op-all-livas/collection.json",
+      "type": "application/json",
+      "title": "Product"
+    },
+    {
+      "rel": "related",
+      "href": "../../products/time-clima-aerosol-od-all-livas/collection.json",
+      "type": "application/json",
+      "title": "Product"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ],
+  "title": "LIVAS",
+  "osc:name": "Lidar Climatology of Vertical Aerosol Structure for Space-Based Lidar Simulation Studies-LIVAS",
+  "osc:themes": [
+    "Atmosphere"
+  ],
+  "osc:status": "COMPLETED",
+  "osc:technical_officer": {
+    "name": "",
+    "e-mail": ""
+  },
+  "osc:consortium": [
+    "NATIONAL OBSERVATORY OF ATHENS (GR)"
+  ],
+  "osc:type": "Project",
+  "start_datetime": "2011-01-01T00:00:00Z",
+  "end_datetime": "2013-12-31T23:59:59Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        []
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2011-01-01T00:00:00Z",
+          "2013-12-31T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary",
+  "keywords": [
+    "theme:Atmosphere"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "type": "Collection",
+  "id": "pre-operational-sentinel-3-snow-and-ice-products-sice",
+  "stac_version": "1.0.0",
+  "description": "Automated open source processing chain using Sentinel-3 OLCI and SLSTR sensors to determine a dry/wet snow and clean/polluted bare ice spectral and broadband optical albedo 1 km daily product for land ice (glaciers, ice caps, ice sheet)",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "http://snow.geus.dk/",
+      "title": "Website"
+    },
+    {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/projects/pre-operational-sentinel-3-snow-and-ice-products-sice/",
+      "title": "EO4Society Link"
+    },
+    {
+      "rel": "related",
+      "href": "../../themes/Cryosphere/catalog.json",
+      "type": "application/json",
+      "title": "Theme"
+    },
+    {
+      "rel": "related",
+      "href": "../../products/broadband-albedo-arctic-sice/collection.json",
+      "type": "application/json",
+      "title": "Product"
+    },
+    {
+      "rel": "related",
+      "href": "../../products/spectral-albedo-arctic-sice/collection.json",
+      "type": "application/json",
+      "title": "Product"
+    },
+    {
+      "rel": "related",
+      "href": "../../products/snow-grain-diameter-arctic-sice/collection.json",
+      "type": "application/json",
+      "title": "Product"
+    },
+    {
+      "rel": "related",
+      "href": "../../products/nrt-sice-rasters-greenland-arctic-sice/collection.json",
+      "type": "application/json",
+      "title": "Product"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
+  ],
+  "title": "S3 snow and ice products",
+  "osc:name": "Pre-Operational Sentinel-3 snow and ice products (SICE)",
+  "osc:themes": [
+    "Cryosphere"
+  ],
+  "osc:status": "COMPLETED",
+  "osc:technical_officer": {
+    "name": "Michael Kern",
+    "e-mail": "michael.kern@esa.int"
+  },
+  "osc:consortium": [
+    "GEOLOGICAL SURVEY OF DENMARK AND GREENLAND (DK)",
+    "VITROCISET BELGIUM SPRL (BE)"
+  ],
+  "osc:type": "Project",
+  "start_datetime": "2018-08-07T00:00:00Z",
+  "end_datetime": "2019-12-03T23:59:59Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        []
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2018-08-07T00:00:00Z",
+          "2019-12-03T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary",
+  "keywords": [
+    "theme:Cryosphere"
+  ]
+}

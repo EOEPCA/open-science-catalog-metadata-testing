@@ -1,7 +1,6 @@
 {
   "type": "Catalog",
-  "id": "open-science-catalog",
-  "title": "Open Science Catalog",
+  "id": "osc",
   "stac_version": "1.0.0",
   "description": "Open Science Catalog",
   "links": [
@@ -12,39 +11,34 @@
     },
     {
       "rel": "child",
-      "href": "./eo-missions/catalog.json",
-      "type": "application/json",
-      "title": "EO Missions"
-    },
-    {
-      "rel": "child",
-      "href": "./processes/catalog.json",
-      "type": "application/json",
-      "title": "Processes"
-    },
-    {
-      "rel": "child",
-      "href": "./products/collection.json",
-      "type": "application/json",
-      "title": "Products"
-    },
-    {
-      "rel": "child",
       "href": "./projects/catalog.json",
-      "type": "application/json",
-      "title": "Projects"
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./products/catalog.json",
+      "type": "application/json"
     },
     {
       "rel": "child",
       "href": "./themes/catalog.json",
-      "type": "application/json",
-      "title": "Themes"
+      "type": "application/json"
     },
     {
       "rel": "child",
       "href": "./variables/catalog.json",
-      "type": "application/json",
-      "title": "Variables"
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./processes/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "./eo-missions/catalog.json",
+      "type": "application/json"
     }
-  ]
+  ],
+  "stac_extensions": []
 }

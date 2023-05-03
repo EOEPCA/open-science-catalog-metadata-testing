@@ -1,0 +1,37 @@
+{
+  "type": "Catalog",
+  "id": "Dissolved inorganic carbon  (DIC)",
+  "stac_version": "1.0.0",
+  "description": "The cumulated concentration of inorganic carbon species (dissolved carbon dioxide, carbonic acid, bicarbonate and carbonate) in solution.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://space.oscar.wmo.int/variables/view/dissolved_inorganic_carbon_dic",
+      "type": "text/html",
+      "title": "Description"
+    },
+    {
+      "rel": "items",
+      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25variable%3ADissolved+inorganic+carbon++%28DIC%29%25%27&type=catalog&f=json",
+      "type": "application/json",
+      "title": "Items"
+    },
+    {
+      "rel": "related",
+      "href": "../../themes/Oceans/catalog.json",
+      "type": "application/json",
+      "title": "Theme"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": []
+}
