@@ -1,6 +1,7 @@
 {
   "type": "Catalog",
-  "id": "Projects",
+  "id": "projects",
+  "title": "Projects",
   "stac_version": "1.0.0",
   "description": "Activities funded by ESA",
   "links": [

@@ -2,6 +2,7 @@
   "type": "Feature",
   "stac_version": "1.0.0",
   "id": "20200101T170030-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc",
+  "title": "20200101T170030-WOC-L2P-CUReul-S1A-OSC_RVL-v1.0-fv1.1.nc",
   "properties": {
     "datetime": null,
     "start_datetime": "2020-01-01T17:00:56.250000Z",

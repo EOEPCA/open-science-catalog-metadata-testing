@@ -1,6 +1,7 @@
 {
     "type": "Catalog",
-    "id": "Processes",
+    "id": "processes",
+    "title": "Processes",
     "stac_version": "1.0.0",
     "description": "Processes for reproducible science",
     "links": [

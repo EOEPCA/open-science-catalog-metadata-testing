@@ -1,6 +1,7 @@
 {
   "type": "Catalog",
-  "id": "Test Process",
+  "id": "test-process",
+  "title": "Test Process",
   "stac_version": "1.0.0",
   "description": "A test process.",
   "links": [

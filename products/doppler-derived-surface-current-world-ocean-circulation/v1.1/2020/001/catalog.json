@@ -1,6 +1,7 @@
 {
   "type": "Catalog",
   "id": "001",
+  "title": "001",
   "stac_version": "1.0.0",
   "description": "",
   "links": [

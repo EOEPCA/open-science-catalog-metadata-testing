@@ -1,6 +1,7 @@
 {
   "type": "Catalog",
-  "id": "Themes",
+  "id": "themes",
+  "title": "Themes",
   "stac_version": "1.0.0",
   "description": "Earth Science topics linked to the grand science challenges set in the ESA strategy",
   "links": [

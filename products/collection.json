@@ -1,6 +1,7 @@
 {
   "type": "Collection",
-  "id": "Products",
+  "id": "products",
+  "title": "Products",
   "stac_version": "1.0.0",
   "description": "Geoscience products representing the measured or inferred values of one or more variables over a given time range and spatial area.",
   "links": [

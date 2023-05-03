@@ -1,6 +1,7 @@
 {
   "type": "Catalog",
-  "id": "Open Science Catalog",
+  "id": "open-science-catalog",
+  "title": "Open Science Catalog",
   "stac_version": "1.0.0",
   "description": "Open Science Catalog",
   "links": [

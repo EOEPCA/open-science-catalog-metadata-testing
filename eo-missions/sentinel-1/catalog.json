@@ -1,6 +1,7 @@
 {
   "type": "Catalog",
-  "id": "Sentinel-1",
+  "id": "sentinel-1",
+  "title": "Sentinel-1",
   "stac_version": "1.0.0",
   "description": "The Sentinel-1 mission comprises a constellation of two polar-orbiting satellites, operating day and night performing C-band synthetic aperture radar imaging, enabling them to acquire imagery regardless of the weather.",
   "links": [

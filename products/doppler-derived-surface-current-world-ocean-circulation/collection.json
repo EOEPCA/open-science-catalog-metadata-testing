@@ -1,6 +1,7 @@
 {
   "type": "Collection",
   "id": "doppler-derived-surface-current-world-ocean-circulation",
+  "title": "Doppler derived surface current_Agulhas_S1",
   "stac_version": "1.0.0",
   "description": "Sentinel-1 IW Ocean Surface Current Radial Velocity product in Agulhas current",
   "links": [
@@ -43,7 +44,6 @@
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json"
   ],
-  "title": "Doppler derived surface current_Agulhas_S1",
   "osc:missions": [],
   "osc:project": "World Ocean circulation",
   "osc:themes": ["Oceans"],
