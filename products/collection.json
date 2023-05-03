@@ -23,7 +23,9 @@
       "bbox": [[-180.0, -90.0, 180.0, 90.0]]
     },
     "temporal": {
-      "interval": [[null, null]]
+      "interval": [
+        ["2019-05-08T16:44:03.750000Z", "2020-04-29T17:17:48.750000Z"]
+      ]
     }
   },
   "license": "proprietary"
