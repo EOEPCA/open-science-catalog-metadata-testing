@@ -12,6 +12,7 @@
     {
       "rel": "child",
       "href": "./2020/catalog.json",
+      "title": "2020",
       "type": "application/json"
     },
     {

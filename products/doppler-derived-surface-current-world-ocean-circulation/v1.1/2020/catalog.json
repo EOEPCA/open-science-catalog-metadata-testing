@@ -12,6 +12,7 @@
     {
       "rel": "child",
       "href": "./001/catalog.json",
+      "title": "001",
       "type": "application/json"
     },
     {
