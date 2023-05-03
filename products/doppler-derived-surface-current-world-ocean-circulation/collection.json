@@ -12,17 +12,20 @@
     {
       "rel": "via",
       "href": "https://www.worldoceancirculation.org/",
-      "title": "Website"
+      "title": "Website",
+      "type": "text/html"
     },
     {
       "rel": "via",
       "href": "https://www.worldoceancirculation.org/Products",
-      "title": "Access"
+      "title": "Access",
+      "type": "text/html"
     },
     {
       "rel": "via",
       "href": "https://drive.google.com/file/d/1X2RyNDp550pSnQik6tX0g2WwsWiS6ioz/view?usp=sharing",
-      "title": "Documentation"
+      "title": "Documentation",
+      "type": "text/html"
     },
     {
       "rel": "parent",

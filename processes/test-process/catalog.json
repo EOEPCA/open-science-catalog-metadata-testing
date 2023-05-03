@@ -12,7 +12,8 @@
     {
       "rel": "via",
       "href": "https://opensciencedata.esa.int",
-      "type": "application/json"
+      "title": "Website",
+      "type": "text/html"
     },
     {
       "rel": "items",

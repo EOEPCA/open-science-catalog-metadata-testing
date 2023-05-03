@@ -12,12 +12,14 @@
     {
       "rel": "via",
       "href": "https://www.worldoceancirculation.org/",
-      "title": "Website"
+      "title": "Website",
+      "type": "text/html"
     },
     {
       "rel": "via",
       "href": "https://eo4society.esa.int/projects/world-ocean-circulation/",
-      "title": "EO4Society Link"
+      "title": "EO4Society Link",
+      "type": "text/html"
     },
     {
       "rel": "items",

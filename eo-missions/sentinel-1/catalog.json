@@ -12,7 +12,8 @@
     {
       "rel": "via",
       "href": "https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-1",
-      "type": "application/json"
+      "title": "Website",
+      "type": "text/html"
     },
     {
       "rel": "items",

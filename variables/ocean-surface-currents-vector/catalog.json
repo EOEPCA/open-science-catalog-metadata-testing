@@ -12,7 +12,8 @@
     {
       "rel": "via",
       "href": "https://space.oscar.wmo.int/variables/view/ocean_surface_currents_vector",
-      "type": "application/json"
+      "title": "Website",
+      "type": "text/html"
     },
     {
       "rel": "items",
