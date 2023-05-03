@@ -25,7 +25,7 @@
     {
       "rel": "items",
       "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25project%3A%25World Ocean circulation%25%27&type=catalog&f=json",
-      "type": "application/json"
+      "type": "application/geo+json"
     },
     {
       "rel": "parent",
