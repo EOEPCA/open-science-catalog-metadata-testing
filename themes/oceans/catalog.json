@@ -25,16 +25,11 @@
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json"
-    }
-  ],
-  "assets": {
-    "image": {
+    },
+    {
+      "rel": "preview",
       "href": "./EO_Oceans.webp",
-      "title": "Oceans",
-      "type": "image/webp",
-      "roles": [
-        "thumbnail"
-      ]
+      "type": "image/webp"
     }
-  }
+  ]
 }
