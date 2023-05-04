@@ -10,7 +10,7 @@
       "type": "application/json"
     },
     {
-      "rel": "icon",
+      "rel": "preview",
       "href": "./EO_Land.webp",
       "type": "image/webp",
       "title": "Image"
