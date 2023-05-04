@@ -1,6 +1,7 @@
 {
   "type": "Catalog",
   "id": "doppler-derived-surface-current-world-ocean-circulation-1-1-2020-001",
+  "description": "doppler-derived-surface-current-world-ocean-circulation-1-1-2020-001",
   "title": "001",
   "stac_version": "1.0.0",
   "links": [
