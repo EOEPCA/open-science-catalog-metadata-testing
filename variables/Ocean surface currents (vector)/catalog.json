@@ -16,16 +16,70 @@
       "title": "Description"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25variable%3AOcean+surface+currents+%28vector%29%25%27&type=catalog&f=json",
-      "type": "application/json",
-      "title": "Items"
-    },
-    {
       "rel": "related",
       "href": "../../themes/Oceans/catalog.json",
       "type": "application/json",
       "title": "Theme"
+    },
+    {
+      "rel": "child",
+      "href": "./gridded-surface-current-world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Gridded Surface Current_Oceans_Agulhas"
+    },
+    {
+      "rel": "child",
+      "href": "./doppler-derived-surface-current-world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Doppler derived surface current_Agulhas_S1"
+    },
+    {
+      "rel": "child",
+      "href": "./daily-3d-ocean-currents-world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Daily 3D ocean currents_North Atlantic"
+    },
+    {
+      "rel": "child",
+      "href": "./daily-2d-ocean-currents-world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Daily 2D ocean surface currents_North Atlantic"
+    },
+    {
+      "rel": "child",
+      "href": "./oceanic-current-fronts-world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Oceanic/current fronts_Gibraltar"
+    },
+    {
+      "rel": "child",
+      "href": "./total-surface-current-north-atlantic-world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Total surface current_North-Atlantic"
+    },
+    {
+      "rel": "child",
+      "href": "./total-surface-current-tropical-atlantic-world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Total surface current_Tropical Atlantic"
+    },
+    {
+      "rel": "child",
+      "href": "./stokes-drift-atlantic-world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Stokes drift estimation_Atlantic Ocean"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/SMOS/eddy-census-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Eddy census"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/SMOS/l4-geostrophic-currents-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 4, geostrophic currents, multi-mission gridded merged products for a period of 1 year, 0.0625\u00b0*0.0625\u00b0, daily"
     },
     {
       "rel": "parent",

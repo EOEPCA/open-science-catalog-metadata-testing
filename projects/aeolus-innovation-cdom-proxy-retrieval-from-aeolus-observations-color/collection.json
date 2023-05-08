@@ -33,19 +33,19 @@
     },
     {
       "rel": "related",
-      "href": "../../products/diffuse-attenuation-aeolus-innovation-color/collection.json",
+      "href": "../../eo-missions/AEOLUS/diffuse-attenuation-aeolus-innovation-color/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/particulate-backscatter-aeolus-innovation-color/collection.json",
+      "href": "../../eo-missions/AEOLUS/particulate-backscatter-aeolus-innovation-color/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/cdom-aeolus-innovation-color/collection.json",
+      "href": "../../eo-missions/AEOLUS/cdom-aeolus-innovation-color/collection.json",
       "type": "application/json",
       "title": "Product"
     },

@@ -10,10 +10,10 @@
       "type": "application/json"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25mission%3AICESat%25%27&type=catalog&f=json",
+      "rel": "child",
+      "href": "../SMOS/ocean-freshwater-flux-arctic-theme3/collection.json",
       "type": "application/json",
-      "title": "Items"
+      "title": "Ocean freshwater fluxes_Arctic_Multimission"
     },
     {
       "rel": "parent",

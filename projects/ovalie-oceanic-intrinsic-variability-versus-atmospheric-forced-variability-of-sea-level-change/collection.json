@@ -27,13 +27,13 @@
     },
     {
       "rel": "related",
-      "href": "../../products/sea-level-lpf-ovalie/collection.json",
+      "href": "../../variables/Ocean dynamic topography/sea-level-lpf-ovalie/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/sea-level-variability-lpf-ovalie/collection.json",
+      "href": "../../variables/Ocean dynamic topography/sea-level-variability-lpf-ovalie/collection.json",
       "type": "application/json",
       "title": "Product"
     },

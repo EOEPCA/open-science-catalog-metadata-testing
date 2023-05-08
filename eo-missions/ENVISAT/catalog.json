@@ -10,10 +10,40 @@
       "type": "application/json"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25mission%3AENVISAT%25%27&type=catalog&f=json",
+      "rel": "child",
+      "href": "../MODIS/sea-ice-retracker-clima-snow-depth-lpf-cassis/collection.json",
       "type": "application/json",
-      "title": "Items"
+      "title": "Sea ice freeboard and thickness_heuristic retracker TFMRA50 and AMSR climatology snow depth_Antarctic_Envisat"
+    },
+    {
+      "rel": "child",
+      "href": "../MODIS/sea-ice-retracker-snow-depth-envisat-lpf-cassis/collection.json",
+      "type": "application/json",
+      "title": "Sea ice freeboard and thickness_heuristic retracker TFMRA50 and AMSR-2 snow depth_Antarctic_Envisat"
+    },
+    {
+      "rel": "child",
+      "href": "../SMOS/ocean-freshwater-flux-arctic-theme3/collection.json",
+      "type": "application/json",
+      "title": "Ocean freshwater fluxes_Arctic_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../TOPEX/Poseidon/baltic-sea-level-baltic-seal/collection.json",
+      "type": "application/json",
+      "title": "Baltic Sea Level_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../TOPEX/Poseidon/hydrodynamic-model-baltic-seal/collection.json",
+      "type": "application/json",
+      "title": "Hydrodynamic model data (deviation from Sea Level Mean)_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../TanDEM-X/subglacial-lake-drainage-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "Subglacial Lake Drainage and Filling_Antarctica_Multimission"
     },
     {
       "rel": "parent",

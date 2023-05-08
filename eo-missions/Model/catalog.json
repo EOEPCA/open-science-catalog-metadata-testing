@@ -10,10 +10,10 @@
       "type": "application/json"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25mission%3AModel%25%27&type=catalog&f=json",
+      "rel": "child",
+      "href": "./model-based-cdom-baltic-sealabio/collection.json",
       "type": "application/json",
-      "title": "Items"
+      "title": "Model based Colored Dissolved Organic Matter (CDOM) _Baltics_Model"
     },
     {
       "rel": "parent",

@@ -16,16 +16,22 @@
       "title": "Description"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25variable%3AGlacier+topography%25%27&type=catalog&f=json",
-      "type": "application/json",
-      "title": "Items"
-    },
-    {
       "rel": "related",
       "href": "../../themes/Land/catalog.json",
       "type": "application/json",
       "title": "Theme"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/TanDEM-X/glacier-mass-balance-lpf-mitap/collection.json",
+      "type": "application/json",
+      "title": "Geodetic glacier mass balances Antarctic Peninsula <70\u00b0S between 2013 and 2017_Antarctica_TanDEM-X"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/CryoSat-2/glacier-elevation-cryosat-mountain-glaciers/collection.json",
+      "type": "application/json",
+      "title": "Mountain glacier elevation and elevation change_Global_Cryosat-2"
     },
     {
       "rel": "parent",

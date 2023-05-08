@@ -16,16 +16,22 @@
       "title": "Description"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25variable%3AO3+Stratospheric+Column%25%27&type=catalog&f=json",
-      "type": "application/json",
-      "title": "Items"
-    },
-    {
       "rel": "related",
       "href": "../../themes/Atmosphere/catalog.json",
       "type": "application/json",
       "title": "Theme"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-3/limb-ozone-lpf-solve/collection.json",
+      "type": "application/json",
+      "title": "IUP-OMPS L2 and L3 limb ozone data sets_Global_S2/3"
+    },
+    {
+      "rel": "child",
+      "href": "./stratospheric-ozone-column-limb-sunlit/collection.json",
+      "type": "application/json",
+      "title": "Stratospheric ozone column from limb satellites_Global"
     },
     {
       "rel": "parent",

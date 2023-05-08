@@ -16,16 +16,22 @@
       "title": "Description"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25variable%3AO3+Tropospheric+Column%25%27&type=catalog&f=json",
-      "type": "application/json",
-      "title": "Items"
-    },
-    {
       "rel": "related",
       "href": "../../themes/Atmosphere/catalog.json",
       "type": "application/json",
       "title": "Theme"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-5p/tropospheric-ozone-column-tropomi-sunlit/collection.json",
+      "type": "application/json",
+      "title": "Tropospheric ozone column(TrOC)_2018-2020_Global_S5p-TROPOMI_Limb"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/OMI/tropospheric-ozone-column-omi-sunlit/collection.json",
+      "type": "application/json",
+      "title": "Tropospheric ozone column (TrOC)_Global_OMI and limb satellites"
     },
     {
       "rel": "parent",

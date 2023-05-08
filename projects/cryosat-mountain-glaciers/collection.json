@@ -27,7 +27,7 @@
     },
     {
       "rel": "related",
-      "href": "../../products/glacier-elevation-cryosat-mountain-glaciers/collection.json",
+      "href": "../../eo-missions/CryoSat-2/glacier-elevation-cryosat-mountain-glaciers/collection.json",
       "type": "application/json",
       "title": "Product"
     },

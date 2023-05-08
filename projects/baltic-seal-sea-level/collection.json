@@ -27,25 +27,25 @@
     },
     {
       "rel": "related",
-      "href": "../../products/baltic-sea-level-baltic-seal/collection.json",
+      "href": "../../eo-missions/TOPEX/Poseidon/baltic-sea-level-baltic-seal/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/hydrodynamic-model-baltic-seal/collection.json",
+      "href": "../../eo-missions/TOPEX/Poseidon/hydrodynamic-model-baltic-seal/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/ocean-heat-content-baltic-seal/collection.json",
+      "href": "../../eo-missions/GRACE-FO/ocean-heat-content-baltic-seal/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/earth-energy-imballance-baltic-seal/collection.json",
+      "href": "../../eo-missions/GRACE-FO/earth-energy-imballance-baltic-seal/collection.json",
       "type": "application/json",
       "title": "Product"
     },

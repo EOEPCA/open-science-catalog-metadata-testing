@@ -16,16 +16,16 @@
       "title": "Description"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25variable%3ACO2+flux%25%27&type=catalog&f=json",
-      "type": "application/json",
-      "title": "Items"
-    },
-    {
       "rel": "related",
       "href": "../../themes/Land/catalog.json",
       "type": "application/json",
       "title": "Theme"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/SMOS/gross-net-carbon-flux-lpf-vad3emecum/collection.json",
+      "type": "application/json",
+      "title": "Gross and net Carbon Flux Estimates_Fluxcom2.0 Carbon"
     },
     {
       "rel": "parent",

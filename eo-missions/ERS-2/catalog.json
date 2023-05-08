@@ -10,10 +10,28 @@
       "type": "application/json"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25mission%3AERS-2%25%27&type=catalog&f=json",
+      "rel": "child",
+      "href": "../SMOS/ocean-freshwater-flux-arctic-theme3/collection.json",
       "type": "application/json",
-      "title": "Items"
+      "title": "Ocean freshwater fluxes_Arctic_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../TOPEX/Poseidon/baltic-sea-level-baltic-seal/collection.json",
+      "type": "application/json",
+      "title": "Baltic Sea Level_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../TOPEX/Poseidon/hydrodynamic-model-baltic-seal/collection.json",
+      "type": "application/json",
+      "title": "Hydrodynamic model data (deviation from Sea Level Mean)_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../TanDEM-X/subglacial-lake-drainage-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "Subglacial Lake Drainage and Filling_Antarctica_Multimission"
     },
     {
       "rel": "parent",

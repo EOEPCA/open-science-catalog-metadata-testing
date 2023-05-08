@@ -27,7 +27,7 @@
     },
     {
       "rel": "related",
-      "href": "../../products/gross-net-carbon-flux-lpf-vad3emecum/collection.json",
+      "href": "../../eo-missions/SMOS/gross-net-carbon-flux-lpf-vad3emecum/collection.json",
       "type": "application/json",
       "title": "Product"
     },

@@ -16,16 +16,28 @@
       "title": "Description"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25variable%3ALake+area%25%27&type=catalog&f=json",
-      "type": "application/json",
-      "title": "Items"
-    },
-    {
       "rel": "related",
       "href": "../../themes/Land/catalog.json",
       "type": "application/json",
       "title": "Theme"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-3/hydrodynamic-model-alpine-lakes-s24land/collection.json",
+      "type": "application/json",
+      "title": "Hydrodynamic models of Alpine lakes_Western Europe_S2/3"
+    },
+    {
+      "rel": "child",
+      "href": "./subglacial-lakes-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "Modelled subglacial lake locations"
+    },
+    {
+      "rel": "child",
+      "href": "./subglacial-catchements-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "Modelled subglacial catchement boundaries"
     },
     {
       "rel": "parent",

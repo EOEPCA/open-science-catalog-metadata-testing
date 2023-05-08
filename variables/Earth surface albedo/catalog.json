@@ -16,16 +16,22 @@
       "title": "Description"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25variable%3AEarth+surface+albedo%25%27&type=catalog&f=json",
-      "type": "application/json",
-      "title": "Items"
-    },
-    {
       "rel": "related",
       "href": "../../themes/Atmosphere/catalog.json",
       "type": "application/json",
       "title": "Theme"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-2/snow-albedo-europe-alps-alpsnow/collection.json",
+      "type": "application/json",
+      "title": "Snow albedo for European Alps_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-3/albedo-circas/collection.json",
+      "type": "application/json",
+      "title": "Albedo_Regional_S3A/SLSTR"
     },
     {
       "rel": "parent",

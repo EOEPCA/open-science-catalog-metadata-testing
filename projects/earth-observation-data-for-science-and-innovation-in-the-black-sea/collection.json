@@ -27,85 +27,85 @@
     },
     {
       "rel": "related",
-      "href": "../../products/l3-chla-daily-eo4sibs/collection.json",
+      "href": "../../eo-missions/SMOS/l3-chla-daily-eo4sibs/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/l3-spm-daily-eo4sibs/collection.json",
+      "href": "../../eo-missions/SMOS/l3-spm-daily-eo4sibs/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/l3-turbidity-daily-monthly-eo4sibs/collection.json",
+      "href": "../../eo-missions/SMOS/l3-turbidity-daily-monthly-eo4sibs/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/l4-chla-eo4sibs/collection.json",
+      "href": "../../eo-missions/SMOS/l4-chla-eo4sibs/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/l3-cryosat2-sea-level-anomaly-eo4sibs/collection.json",
+      "href": "../../eo-missions/SMOS/l3-cryosat2-sea-level-anomaly-eo4sibs/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/l3-s3-sea-level-anomaly-eo4sibs/collection.json",
+      "href": "../../eo-missions/SMOS/l3-s3-sea-level-anomaly-eo4sibs/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/l4-dynamic-topography-eo4sibs/collection.json",
+      "href": "../../eo-missions/SMOS/l4-dynamic-topography-eo4sibs/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/l4-sea-level-anomaly-eo4sibs/collection.json",
+      "href": "../../eo-missions/SMOS/l4-sea-level-anomaly-eo4sibs/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/eddy-census-eo4sibs/collection.json",
+      "href": "../../eo-missions/SMOS/eddy-census-eo4sibs/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/l4-geostrophic-currents-eo4sibs/collection.json",
+      "href": "../../eo-missions/SMOS/l4-geostrophic-currents-eo4sibs/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/l2-smos-sss-daily-ascending-eo4sibs/collection.json",
+      "href": "../../eo-missions/SMOS/l2-smos-sss-daily-ascending-eo4sibs/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/l2-smos-sss-daily-descending-eo4sibs/collection.json",
+      "href": "../../eo-missions/SMOS/l2-smos-sss-daily-descending-eo4sibs/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/l3-sss-9day-average-eo4sibs/collection.json",
+      "href": "../../eo-missions/SMOS/l3-sss-9day-average-eo4sibs/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/l4-sss-eo4sibs/collection.json",
+      "href": "../../eo-missions/SMOS/l4-sss-eo4sibs/collection.json",
       "type": "application/json",
       "title": "Product"
     },

@@ -10,10 +10,34 @@
       "type": "application/json"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25mission%3ATanDEM-X%25%27&type=catalog&f=json",
+      "rel": "child",
+      "href": "./dem-antarctica-2013-lpf-mitap/collection.json",
       "type": "application/json",
-      "title": "Items"
+      "title": "Digital Elevation Model Antarctic Peninsula <70\u00b0S 2013_Antarctica_TanDEM-X"
+    },
+    {
+      "rel": "child",
+      "href": "./dem-antarctica-2017-lpf-mitap/collection.json",
+      "type": "application/json",
+      "title": "Digital Elevation Model Antarctic Peninsula <70\u00b0S 2017_Antarctica_TanDEM-X"
+    },
+    {
+      "rel": "child",
+      "href": "./surface-elevation-change-lpf-mitap/collection.json",
+      "type": "application/json",
+      "title": "Surface elevation changes Antarctic Peninsula <70\u00b0S between 2013 and 2017_Antarctica_TanDEM-X"
+    },
+    {
+      "rel": "child",
+      "href": "./glacier-mass-balance-lpf-mitap/collection.json",
+      "type": "application/json",
+      "title": "Geodetic glacier mass balances Antarctic Peninsula <70\u00b0S between 2013 and 2017_Antarctica_TanDEM-X"
+    },
+    {
+      "rel": "child",
+      "href": "./subglacial-lake-drainage-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "Subglacial Lake Drainage and Filling_Antarctica_Multimission"
     },
     {
       "rel": "parent",

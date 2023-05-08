@@ -10,10 +10,88 @@
       "type": "application/json"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25mission%3AGPS%25%27&type=catalog&f=json",
+      "rel": "child",
+      "href": "../Sentinel-1/target-locations-baltics-sar-hsu/collection.json",
       "type": "application/json",
-      "title": "Items"
+      "title": "PTA-RES:\u00a0Extracted Target Locations_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../Sentinel-1/sar-observation-solution-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "SAR-OBS:\u00a0SAR Observation Solution_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../Sentinel-1/sar-positioning-solution-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "SAR-POS:\u00a0SAR Positioning Solution_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../Sentinel-1/absolute-sea-level-heights-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "SL-ABS:\u00a0Absolute Sea Level Heights_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../Sentinel-1/tide-gauge-heights-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "TG-HGT: Tide Gauge Heights_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../Sentinel-1/sea-surface-heights-corrected-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "TG-SSH:\u00a0Corrected Sea Surface Height at Tide Gauge Stations_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../Sentinel-1/sar-raw-measurements-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "PTA-OBS:\u00a0SAR Raw Measurements_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../Sentinel-1/gnss-positioning-solution-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "GNSS-POS:\u00a0GNSS positioning solution_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../Sentinel-1/geoid-heights-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "GEO-HGT:\u00a0Geoid Heights_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../Sentinel-1/tropospheric-delays-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "COR-TD:\u00a0Tropospheric Delays_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../Sentinel-1/s1-corrections-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "COR-SC:\u00a0Sentinel-1 Systematic\u00a0Effects Corrections_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../Sentinel-1/ionospheric-delays-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "COR-ID:\u00a0Ionospheric Delays_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../Sentinel-1/geodynamic-corrections-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "COR-GC:\u00a0Geodynamic Corrections_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../Sentinel-1/electronic-delay-correction-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "COR-EC2:\u00a0ECR Electronic Delay Correction_Baltics_Multimission"
     },
     {
       "rel": "parent",

@@ -22,115 +22,115 @@
     },
     {
       "rel": "related",
-      "href": "../../products/clima-aerosol-op-livas/collection.json",
+      "href": "../../eo-missions/EARTHCARE/clima-aerosol-op-livas/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/clima-aerosol-od-livas/collection.json",
+      "href": "../../eo-missions/EARTHCARE/clima-aerosol-od-livas/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/clima-cloud-profile-livas/collection.json",
+      "href": "../../eo-missions/EARTHCARE/clima-cloud-profile-livas/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/cliima-cloud-od-livas/collection.json",
+      "href": "../../eo-missions/EARTHCARE/cliima-cloud-od-livas/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/clima-strat-aerosol-cloud-op-livas/collection.json",
+      "href": "../../eo-missions/EARTHCARE/clima-strat-aerosol-cloud-op-livas/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/clima-strat-aerosol-cloud-od-livas/collection.json",
+      "href": "../../eo-missions/EARTHCARE/clima-strat-aerosol-cloud-od-livas/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/dust-od-livas/collection.json",
+      "href": "../../eo-missions/CALIPSO/dust-od-livas/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/aerosol-dust-mass-op-livas/collection.json",
+      "href": "../../eo-missions/CALIPSO/aerosol-dust-mass-op-livas/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/aerosol-dust-od-livas/collection.json",
+      "href": "../../eo-missions/CALIPSO/aerosol-dust-od-livas/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/cloud-op-livas/collection.json",
+      "href": "../../eo-missions/CALIPSO/cloud-op-livas/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/cloud-od-livas/collection.json",
+      "href": "../../eo-missions/CALIPSO/cloud-od-livas/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/aerosol-pure-dust-op-livas/collection.json",
+      "href": "../../eo-missions/CALIPSO/aerosol-pure-dust-op-livas/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/aerosol-dust-od-averaged-livas/collection.json",
+      "href": "../../eo-missions/CALIPSO/aerosol-dust-od-averaged-livas/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/cloud-op-averaged-livas/collection.json",
+      "href": "../../eo-missions/CALIPSO/cloud-op-averaged-livas/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/cloud-od-averaged-livas/collection.json",
+      "href": "../../eo-missions/CALIPSO/cloud-od-averaged-livas/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/clima-aerosol-op-all-livas/collection.json",
+      "href": "../../eo-missions/CALIPSO/clima-aerosol-op-all-livas/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/clima-aerosol-od-all-livas/collection.json",
+      "href": "../../eo-missions/CALIPSO/clima-aerosol-od-all-livas/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/time-clima-aerosol-op-all-livas/collection.json",
+      "href": "../../eo-missions/CALIPSO/time-clima-aerosol-op-all-livas/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/time-clima-aerosol-od-all-livas/collection.json",
+      "href": "../../eo-missions/CALIPSO/time-clima-aerosol-od-all-livas/collection.json",
       "type": "application/json",
       "title": "Product"
     },

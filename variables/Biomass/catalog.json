@@ -16,16 +16,22 @@
       "title": "Description"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25variable%3ABiomass%25%27&type=catalog&f=json",
-      "type": "application/json",
-      "title": "Items"
-    },
-    {
       "rel": "related",
       "href": "../../themes/Land/catalog.json",
       "type": "application/json",
       "title": "Theme"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-3/biomass-s3-africa-albiom/collection.json",
+      "type": "application/json",
+      "title": "Prototype biomass product using Sentinel-3 altimetry_Africa_S3"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/SMOS/vod-africa-smos-vegetation/collection.json",
+      "type": "application/json",
+      "title": "VOD_Africa_SMOS IC products CATDS"
     },
     {
       "rel": "parent",

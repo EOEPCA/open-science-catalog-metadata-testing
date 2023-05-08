@@ -16,16 +16,34 @@
       "title": "Description"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25variable%3AOcean+chlorophyll+concentration%25%27&type=catalog&f=json",
-      "type": "application/json",
-      "title": "Items"
-    },
-    {
       "rel": "related",
       "href": "../../themes/Oceans/catalog.json",
       "type": "application/json",
       "title": "Theme"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/VIIRS/secchi-disk-depth-lpf-physioglob/collection.json",
+      "type": "application/json",
+      "title": "Secchi Disk depth_Global Oceans_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/AEOLUS/particulate-backscatter-aeolus-innovation-color/collection.json",
+      "type": "application/json",
+      "title": "Particulate backscatter: bbp_Global_AEOLUS"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/SMOS/l3-chla-daily-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 3 Chl-a, 300m daily and monthly"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/SMOS/l4-chla-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 4 Ocean Colour products Chl-a, 300m, daily"
     },
     {
       "rel": "parent",

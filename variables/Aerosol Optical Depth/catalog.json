@@ -16,16 +16,100 @@
       "title": "Description"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25variable%3AAerosol+Optical+Depth%25%27&type=catalog&f=json",
-      "type": "application/json",
-      "title": "Items"
-    },
-    {
       "rel": "related",
       "href": "../../themes/Atmosphere/catalog.json",
       "type": "application/json",
       "title": "Theme"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/EARTHCARE/clima-aerosol-op-livas/collection.json",
+      "type": "application/json",
+      "title": "Climatology of aerosol optical property profiles_Global_CALIPSO_EARTHCARE"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/EARTHCARE/clima-aerosol-od-livas/collection.json",
+      "type": "application/json",
+      "title": "Climatology of aerosol optical depth (AOD)_Global_CALIPSO_EARTHCARE"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/EARTHCARE/clima-strat-aerosol-cloud-op-livas/collection.json",
+      "type": "application/json",
+      "title": "Climatology of stratospheric aerosol and cloud optical property profiles_Global_CALIPSO_EARTHCARE"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/EARTHCARE/clima-strat-aerosol-cloud-od-livas/collection.json",
+      "type": "application/json",
+      "title": "Climatology of stratospheric aerosol and cloud optical depth_Global_CALIPSO_EARTHCARE"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/CALIPSO/dust-od-livas/collection.json",
+      "type": "application/json",
+      "title": "Dust optical depth (DOD) of dust layers_Global_CALIPSO"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/CALIPSO/aerosol-dust-mass-op-livas/collection.json",
+      "type": "application/json",
+      "title": "Aerosol and Dust aerosol optical property profiles_Dust mass concentration profiles_cloud-relevant dust number concentrations profiles_Global_CALIPSO"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/CALIPSO/aerosol-dust-od-livas/collection.json",
+      "type": "application/json",
+      "title": "Aerosol (and dust aerosol) optical depth_Global_CALIPSO"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/CALIPSO/aerosol-pure-dust-op-livas/collection.json",
+      "type": "application/json",
+      "title": "Aerosol (and dust aerosol) optical property profiles_Pure Dust concentration profiles_cloud-relevant dust number concentrations profiles_Global_CALIPSO"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/CALIPSO/aerosol-dust-od-averaged-livas/collection.json",
+      "type": "application/json",
+      "title": "Aerosol (and dust aerosol) optical depth, averaged per overpass along 1x1 degree grid_Global_CALIPSO"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/CALIPSO/clima-aerosol-op-all-livas/collection.json",
+      "type": "application/json",
+      "title": "Climatology of aerosol optical property profiles for all aerosols and separately for the CALIPSO aerosol types: pure dust, marine, smoke and continental_Global_CALIPSO"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/CALIPSO/clima-aerosol-od-all-livas/collection.json",
+      "type": "application/json",
+      "title": "Climatology of aerosol optical depth, for all aerosols and separately for the CALIPSO aerosol types: pure dust, marine, smoke and continental. Boundaries of dust layers_Global_CALIPSO"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/CALIPSO/time-clima-aerosol-op-all-livas/collection.json",
+      "type": "application/json",
+      "title": "Time-Based Climatology of aerosol optical property profiles, for all aerosols and separately for the CALIPSO aerosol types: pure dust, marine, smoke and continental_Global_CALIPSO"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/CALIPSO/time-clima-aerosol-od-all-livas/collection.json",
+      "type": "application/json",
+      "title": "Time-Based Climatology of aerosol optical depth, for all aerosols and separately for the CALIPSO aerosol types: pure dust, marine, smoke and continental. Boundaries of dust layers_Global_CALIPSO"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/AEOLUS/lidar-aerosol-aeolus-swails/collection.json",
+      "type": "application/json",
+      "title": "Lidar Aerosol Retrieval based on Information from Surface Signal of Aeolus_Global Oceans_AEOLUS"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-3/cloud-aerosol-circas/collection.json",
+      "type": "application/json",
+      "title": "Cloud and aerosol products_Regional_S3A/SLSTR"
     },
     {
       "rel": "parent",

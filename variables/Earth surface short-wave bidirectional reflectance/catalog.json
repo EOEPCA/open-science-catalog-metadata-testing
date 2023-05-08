@@ -16,16 +16,16 @@
       "title": "Description"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25variable%3AEarth+surface+short-wave+bidirectional+reflectance%25%27&type=catalog&f=json",
-      "type": "application/json",
-      "title": "Items"
-    },
-    {
       "rel": "related",
       "href": "../../themes/Atmosphere/catalog.json",
       "type": "application/json",
       "title": "Theme"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-2/s2l2a-uncertainty-sr-lpf-l2arut/collection.json",
+      "type": "application/json",
+      "title": "S2 L2A uncertainty_Surface reflectance estimates_S2"
     },
     {
       "rel": "parent",

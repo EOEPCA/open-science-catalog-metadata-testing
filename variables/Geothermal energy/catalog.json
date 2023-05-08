@@ -16,16 +16,28 @@
       "title": "Description"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25variable%3AGeothermal+energy%25%27&type=catalog&f=json",
-      "type": "application/json",
-      "title": "Items"
-    },
-    {
       "rel": "related",
       "href": "../../themes/Solid Earth/catalog.json",
       "type": "application/json",
       "title": "Theme"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/SWARM/geothermal-heat-flow-greenland-3d-earth/collection.json",
+      "type": "application/json",
+      "title": "Geothermal Heat Flow Database and Map_Greenland_GOCE_SWARM"
+    },
+    {
+      "rel": "child",
+      "href": "./subglacial-melt-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "Subglacial Melt"
+    },
+    {
+      "rel": "child",
+      "href": "./geothermal-heat-flux-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "Geothermal Heat flux estimate from aeromagnetic data"
     },
     {
       "rel": "parent",

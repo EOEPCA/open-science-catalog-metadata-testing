@@ -10,10 +10,40 @@
       "type": "application/json"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25mission%3ACHAMP%25%27&type=catalog&f=json",
+      "rel": "child",
+      "href": "./ground-virtual-observatory-champ-4d-earth-swarm/collection.json",
       "type": "application/json",
-      "title": "Items"
+      "title": "Ground Virtual Observatory Data CHAMP"
+    },
+    {
+      "rel": "child",
+      "href": "../SWARM/chaos-field-model-core-4d-earth-swarm/collection.json",
+      "type": "application/json",
+      "title": "CHAOS field model_Core"
+    },
+    {
+      "rel": "child",
+      "href": "../SWARM/chaos-field-model-spline-4d-earth-swarm/collection.json",
+      "type": "application/json",
+      "title": "CHAOS field model_SplineCoefficients"
+    },
+    {
+      "rel": "child",
+      "href": "../SWARM/chaos-field-model-4d-earth-swarm/collection.json",
+      "type": "application/json",
+      "title": "CHAOS field model"
+    },
+    {
+      "rel": "child",
+      "href": "../SWARM/satellite-data-chaos-field-model-4d-earth-swarm/collection.json",
+      "type": "application/json",
+      "title": "Vector and scalar satellite data files as used in the CHAOS field model"
+    },
+    {
+      "rel": "child",
+      "href": "../SWARM/geodynamo-simulation-4d-earth-swarm/collection.json",
+      "type": "application/json",
+      "title": "Geodynamo simulation data_Earth core"
     },
     {
       "rel": "parent",

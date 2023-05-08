@@ -16,16 +16,28 @@
       "title": "Description"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25variable%3ALand+cover%25%27&type=catalog&f=json",
-      "type": "application/json",
-      "title": "Items"
-    },
-    {
       "rel": "related",
       "href": "../../themes/Land/catalog.json",
       "type": "application/json",
       "title": "Theme"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-2/land-cover-map-italy-s24land/collection.json",
+      "type": "application/json",
+      "title": "Land cover map_Italy_2018_S2"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-2/crop-map-multitemporal-s24land/collection.json",
+      "type": "application/json",
+      "title": "Multitemporal crop map - phenological parameters and phenological parameters_Italy_2017/2018_S2"
+    },
+    {
+      "rel": "child",
+      "href": "./regional-esdl-south-america-esdl/collection.json",
+      "type": "application/json",
+      "title": "Code for Regional Earth System Data Lab: Tropical South America"
     },
     {
       "rel": "parent",

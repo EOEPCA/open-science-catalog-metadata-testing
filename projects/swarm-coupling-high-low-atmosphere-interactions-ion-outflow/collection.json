@@ -27,25 +27,25 @@
     },
     {
       "rel": "related",
-      "href": "../../products/solar-activity-polar-cap-plasma-density-ion-outflow/collection.json",
+      "href": "../../eo-missions/SWARM/solar-activity-polar-cap-plasma-density-ion-outflow/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/swarm-eiscat-conjunction-list-ion-outflow/collection.json",
+      "href": "../../eo-missions/SWARM/swarm-eiscat-conjunction-list-ion-outflow/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/cluster-swarm-ac-conjunctions-ion-outflow/collection.json",
+      "href": "../../eo-missions/SWARM/cluster-swarm-ac-conjunctions-ion-outflow/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/cluster-swarm-b-conjunctions-ion-outflow/collection.json",
+      "href": "../../eo-missions/SWARM/cluster-swarm-b-conjunctions-ion-outflow/collection.json",
       "type": "application/json",
       "title": "Product"
     },

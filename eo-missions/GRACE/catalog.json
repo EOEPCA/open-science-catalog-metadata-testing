@@ -10,10 +10,28 @@
       "type": "application/json"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25mission%3AGRACE%25%27&type=catalog&f=json",
+      "rel": "child",
+      "href": "../SMOS/ocean-freshwater-flux-arctic-theme3/collection.json",
       "type": "application/json",
-      "title": "Items"
+      "title": "Ocean freshwater fluxes_Arctic_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../GRACE-FO/ocean-heat-content-baltic-seal/collection.json",
+      "type": "application/json",
+      "title": "Global Ocean Heat Content (GOHC)_GRACE/GRACE-FO"
+    },
+    {
+      "rel": "child",
+      "href": "../GRACE-FO/earth-energy-imballance-baltic-seal/collection.json",
+      "type": "application/json",
+      "title": "Earth Energy Imballance (EEI)_GRACE/GRACE-FO"
+    },
+    {
+      "rel": "child",
+      "href": "./gravity-anomalies-goce-airborne-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "Gravity anomalies from GOCE and airborne data"
     },
     {
       "rel": "parent",

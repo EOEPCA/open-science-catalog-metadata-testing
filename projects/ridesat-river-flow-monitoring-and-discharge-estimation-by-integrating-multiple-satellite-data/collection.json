@@ -27,133 +27,133 @@
     },
     {
       "rel": "related",
-      "href": "../../products/water-level-amazon-itapeua-ridesat/collection.json",
+      "href": "../../eo-missions/Sentinel-3/water-level-amazon-itapeua-ridesat/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/water-level-amazon-manacapuru-ridesat/collection.json",
+      "href": "../../eo-missions/Sentinel-3/water-level-amazon-manacapuru-ridesat/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/water-level-mississippi-memphis-ridesat/collection.json",
+      "href": "../../eo-missions/Sentinel-3/water-level-mississippi-memphis-ridesat/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/water-level-mississippi-chester-ridesat/collection.json",
+      "href": "../../eo-missions/Sentinel-3/water-level-mississippi-chester-ridesat/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/water-level-congo-brazaville-ridesat/collection.json",
+      "href": "../../eo-missions/Sentinel-3/water-level-congo-brazaville-ridesat/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/water-level-po-pontelagoscuro-ridesat/collection.json",
+      "href": "../../eo-missions/Sentinel-3/water-level-po-pontelagoscuro-ridesat/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/water-level-po-sermide-ridesat/collection.json",
+      "href": "../../eo-missions/Sentinel-3/water-level-po-sermide-ridesat/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/water-level-po-cremona-ridesat/collection.json",
+      "href": "../../eo-missions/Sentinel-3/water-level-po-cremona-ridesat/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/water-level-po-borgoforte-ridesat/collection.json",
+      "href": "../../eo-missions/Sentinel-3/water-level-po-borgoforte-ridesat/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/water-level-danube-baja-ridesat/collection.json",
+      "href": "../../eo-missions/Sentinel-3/water-level-danube-baja-ridesat/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/water-level-danube-mohacs-ridesat/collection.json",
+      "href": "../../eo-missions/Sentinel-3/water-level-danube-mohacs-ridesat/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/simulated-river-discharge-amazon-itapeua-ridesat/collection.json",
+      "href": "../../eo-missions/Sentinel-3/simulated-river-discharge-amazon-itapeua-ridesat/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/simulated-river-discharge-amazon-manacapuru-ridesat/collection.json",
+      "href": "../../eo-missions/Sentinel-3/simulated-river-discharge-amazon-manacapuru-ridesat/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/simulated-river-discharge-mississippi-memphis-ridesat/collection.json",
+      "href": "../../eo-missions/Sentinel-3/simulated-river-discharge-mississippi-memphis-ridesat/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/simulated-river-discharge-mississippi-chester-ridesat/collection.json",
+      "href": "../../eo-missions/Sentinel-3/simulated-river-discharge-mississippi-chester-ridesat/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/simulated-river-discharge-congo-brazaville-ridesat/collection.json",
+      "href": "../../eo-missions/Sentinel-3/simulated-river-discharge-congo-brazaville-ridesat/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/simulated-river-discharge-po-pontelagoscuro-ridesat/collection.json",
+      "href": "../../eo-missions/Sentinel-3/simulated-river-discharge-po-pontelagoscuro-ridesat/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/simulated-river-discharge-po-sermide-ridesat/collection.json",
+      "href": "../../eo-missions/Sentinel-3/simulated-river-discharge-po-sermide-ridesat/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/simulated-river-discharge-po-cremona-ridesat/collection.json",
+      "href": "../../eo-missions/Sentinel-3/simulated-river-discharge-po-cremona-ridesat/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/simulated-river-discharge-po-borgoforte-ridesat/collection.json",
+      "href": "../../eo-missions/Sentinel-3/simulated-river-discharge-po-borgoforte-ridesat/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/simulated-river-discharge-danube-baja-ridesat/collection.json",
+      "href": "../../eo-missions/Sentinel-3/simulated-river-discharge-danube-baja-ridesat/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/simulated-river-discharge-danube-mohacs-ridesat/collection.json",
+      "href": "../../eo-missions/Sentinel-3/simulated-river-discharge-danube-mohacs-ridesat/collection.json",
       "type": "application/json",
       "title": "Product"
     },

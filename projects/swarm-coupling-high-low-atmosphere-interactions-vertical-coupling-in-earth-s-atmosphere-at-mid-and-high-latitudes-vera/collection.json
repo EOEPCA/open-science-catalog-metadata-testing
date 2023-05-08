@@ -27,7 +27,7 @@
     },
     {
       "rel": "related",
-      "href": "../../products/sudden-stratospheric-warming-vera/collection.json",
+      "href": "../../eo-missions/SWARM/sudden-stratospheric-warming-vera/collection.json",
       "type": "application/json",
       "title": "Product"
     },

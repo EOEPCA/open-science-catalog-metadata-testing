@@ -10,10 +10,16 @@
       "type": "application/json"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25mission%3ATOPEX%2FPoseidon%25%27&type=catalog&f=json",
+      "rel": "child",
+      "href": "./baltic-sea-level-baltic-seal/collection.json",
       "type": "application/json",
-      "title": "Items"
+      "title": "Baltic Sea Level_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "./hydrodynamic-model-baltic-seal/collection.json",
+      "type": "application/json",
+      "title": "Hydrodynamic model data (deviation from Sea Level Mean)_Multimission"
     },
     {
       "rel": "parent",

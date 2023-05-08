@@ -16,16 +16,22 @@
       "title": "Description"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25variable%3AOcean+Diffuse+Attenuation+Coefficient+%28DAC%29%25%27&type=catalog&f=json",
-      "type": "application/json",
-      "title": "Items"
-    },
-    {
       "rel": "related",
       "href": "../../themes/Oceans/catalog.json",
       "type": "application/json",
       "title": "Theme"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/AEOLUS/diffuse-attenuation-aeolus-innovation-color/collection.json",
+      "type": "application/json",
+      "title": "Diffuse attenuation: Kd_Global_AEOLUS"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/SMOS/l3-turbidity-daily-monthly-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 3 Turbidity, 300m, daily and monthly"
     },
     {
       "rel": "parent",

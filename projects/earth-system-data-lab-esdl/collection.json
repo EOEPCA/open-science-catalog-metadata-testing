@@ -39,7 +39,7 @@
     },
     {
       "rel": "related",
-      "href": "../../products/regional-esdl-south-america-esdl/collection.json",
+      "href": "../../variables/Land cover/regional-esdl-south-america-esdl/collection.json",
       "type": "application/json",
       "title": "Product"
     },

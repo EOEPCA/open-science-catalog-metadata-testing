@@ -10,10 +10,10 @@
       "type": "application/json"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25mission%3AAMSR2%25%27&type=catalog&f=json",
+      "rel": "child",
+      "href": "../SMOS/melt-indicator-4dantarctica/collection.json",
       "type": "application/json",
-      "title": "Items"
+      "title": "MultiFrequenciesMeltIndicator_Antarctica_Multimission_2012-2022"
     },
     {
       "rel": "parent",

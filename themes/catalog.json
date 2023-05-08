@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "themes",
   "stac_version": "1.0.0",
-  "description": "Open Science Catalog themes",
+  "description": "Open Science Catalog Themes",
   "links": [
     {
       "rel": "root",

@@ -27,37 +27,37 @@
     },
     {
       "rel": "related",
-      "href": "../../products/snow-area-europe-alps-alpsnow/collection.json",
+      "href": "../../eo-missions/Sentinel-2/snow-area-europe-alps-alpsnow/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/snow-albedo-europe-alps-alpsnow/collection.json",
+      "href": "../../eo-missions/Sentinel-2/snow-albedo-europe-alps-alpsnow/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/snow-water-equivalent-europe-alps-alpsnow/collection.json",
+      "href": "../../eo-missions/Sentinel-2/snow-water-equivalent-europe-alps-alpsnow/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/snow-depth-europe-alps-alpsnow/collection.json",
+      "href": "../../eo-missions/Sentinel-2/snow-depth-europe-alps-alpsnow/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/snow-grain-europe-alps-alpsnow/collection.json",
+      "href": "../../eo-missions/Sentinel-2/snow-grain-europe-alps-alpsnow/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/snow-liquid-water-europe-alps-alpsnow/collection.json",
+      "href": "../../eo-missions/Sentinel-2/snow-liquid-water-europe-alps-alpsnow/collection.json",
       "type": "application/json",
       "title": "Product"
     },

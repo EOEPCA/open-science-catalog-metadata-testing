@@ -33,7 +33,7 @@
     },
     {
       "rel": "related",
-      "href": "../../products/sea-surface-salinity-arctic-salinity/collection.json",
+      "href": "../../eo-missions/SMOS/sea-surface-salinity-arctic-salinity/collection.json",
       "type": "application/json",
       "title": "Product"
     },

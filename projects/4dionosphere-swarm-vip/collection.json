@@ -27,7 +27,7 @@
     },
     {
       "rel": "related",
-      "href": "../../products/model-ionosphere-4dionosphere/collection.json",
+      "href": "../../eo-missions/SWARM/model-ionosphere-4dionosphere/collection.json",
       "type": "application/json",
       "title": "Product"
     },

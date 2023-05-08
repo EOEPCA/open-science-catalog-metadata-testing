@@ -10,10 +10,10 @@
       "type": "application/json"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25mission%3AGCOM-W1%25%27&type=catalog&f=json",
+      "rel": "child",
+      "href": "../MODIS/sea-ice-retracker-clima-snow-depth-lpf-cassis/collection.json",
       "type": "application/json",
-      "title": "Items"
+      "title": "Sea ice freeboard and thickness_heuristic retracker TFMRA50 and AMSR climatology snow depth_Antarctic_Envisat"
     },
     {
       "rel": "parent",

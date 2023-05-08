@@ -27,97 +27,97 @@
     },
     {
       "rel": "related",
-      "href": "../../products/land-ice-elevation-point-greenland-cryotop-evolution/collection.json",
+      "href": "../../eo-missions/CryoSat/land-ice-elevation-point-greenland-cryotop-evolution/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/land-ice-elevation-point-antarctica-cryotop-evolution/collection.json",
+      "href": "../../eo-missions/CryoSat/land-ice-elevation-point-antarctica-cryotop-evolution/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/land-ice-elevation-point-iceland-cryotop-evolution/collection.json",
+      "href": "../../eo-missions/CryoSat/land-ice-elevation-point-iceland-cryotop-evolution/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/land-ice-elevation-point-svalbard-cryotop-evolution/collection.json",
+      "href": "../../eo-missions/CryoSat/land-ice-elevation-point-svalbard-cryotop-evolution/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/land-ice-elevation-point-russian-arctic-cryotop-evolution/collection.json",
+      "href": "../../eo-missions/CryoSat/land-ice-elevation-point-russian-arctic-cryotop-evolution/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/land-ice-elevation-point-arctic-canada-north-cryotop-evolution/collection.json",
+      "href": "../../eo-missions/CryoSat/land-ice-elevation-point-arctic-canada-north-cryotop-evolution/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/land-ice-elevation-point-arctic-canada-south-cryotop-evolution/collection.json",
+      "href": "../../eo-missions/CryoSat/land-ice-elevation-point-arctic-canada-south-cryotop-evolution/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/land-ice-elevation-point-southern-andes-cryotop-evolution/collection.json",
+      "href": "../../eo-missions/CryoSat/land-ice-elevation-point-southern-andes-cryotop-evolution/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/land-ice-elevation-grid-greenland-cryotop-evolution/collection.json",
+      "href": "../../eo-missions/CryoSat/land-ice-elevation-grid-greenland-cryotop-evolution/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/land-ice-elevation-grid-antarctica-cryotop-evolution/collection.json",
+      "href": "../../eo-missions/CryoSat/land-ice-elevation-grid-antarctica-cryotop-evolution/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/land-ice-elevation-grid-iceland-cryotop-evolution/collection.json",
+      "href": "../../eo-missions/CryoSat/land-ice-elevation-grid-iceland-cryotop-evolution/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/land-ice-elevation-grid-svalbard-cryotop-evolution/collection.json",
+      "href": "../../eo-missions/CryoSat/land-ice-elevation-grid-svalbard-cryotop-evolution/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/land-ice-elevation-grid-russian-arctic-cryotop-evolution/collection.json",
+      "href": "../../eo-missions/CryoSat/land-ice-elevation-grid-russian-arctic-cryotop-evolution/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/land-ice-elevation-grid-arctic-canada-north-cryotop-evolution/collection.json",
+      "href": "../../eo-missions/CryoSat/land-ice-elevation-grid-arctic-canada-north-cryotop-evolution/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/land-ice-elevation-grid-arctic-canada-south-cryotop-evolution/collection.json",
+      "href": "../../eo-missions/CryoSat/land-ice-elevation-grid-arctic-canada-south-cryotop-evolution/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/land-ice-elevation-grid-southern-andes-cryotop-evolution/collection.json",
+      "href": "../../eo-missions/CryoSat/land-ice-elevation-grid-southern-andes-cryotop-evolution/collection.json",
       "type": "application/json",
       "title": "Product"
     },

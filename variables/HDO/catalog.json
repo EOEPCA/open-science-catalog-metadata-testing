@@ -16,16 +16,40 @@
       "title": "Description"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25variable%3AHDO%25%27&type=catalog&f=json",
-      "type": "application/json",
-      "title": "Items"
-    },
-    {
       "rel": "related",
       "href": "../../themes/Atmosphere/catalog.json",
       "type": "application/json",
       "title": "Theme"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/GOSAT/water-vapour-isotopologues-lpf-weather/collection.json",
+      "type": "application/json",
+      "title": "GOSAT PBL XH2O and Stable Water Vapour Isotopologues_Global"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-5p/total-column-h2o-hdo-clear-sky-lpf-wift/collection.json",
+      "type": "application/json",
+      "title": "HDO/H2O non-scattering product_S5p-TROPOMI"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-5p/total-column-h2o-hdo-cloudy-lpf-wift/collection.json",
+      "type": "application/json",
+      "title": "HDO/H2O scattering product_S5p-TROPOMI"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-5p/hdo-total-column-tropomi-extended-wift/collection.json",
+      "type": "application/json",
+      "title": "Extended scientific HDO/H2O total column_TROPOMI"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-5p/hdo-total-column-tropomi-clear-sky-wift/collection.json",
+      "type": "application/json",
+      "title": "Clear-sky HDO/H2O total column_TROPOMI"
     },
     {
       "rel": "parent",

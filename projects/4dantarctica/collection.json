@@ -27,79 +27,79 @@
     },
     {
       "rel": "related",
-      "href": "../../products/subglacial-lake-drainage-4dantarctica/collection.json",
+      "href": "../../eo-missions/TanDEM-X/subglacial-lake-drainage-4dantarctica/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/supraglacial-lakes-west-4dantarctica/collection.json",
+      "href": "../../eo-missions/Sentinel-2/supraglacial-lakes-west-4dantarctica/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/gravity-anomalies-goce-airborne-4dantarctica/collection.json",
+      "href": "../../eo-missions/GRACE/gravity-anomalies-goce-airborne-4dantarctica/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/surface-melt-ascat-4dantarctica/collection.json",
+      "href": "../../eo-missions/ASCAT/surface-melt-ascat-4dantarctica/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/surface-melt-s1-4dantarctica/collection.json",
+      "href": "../../eo-missions/Sentinel-1/surface-melt-s1-4dantarctica/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/radar-brightness-s1-4dantarctica/collection.json",
+      "href": "../../eo-missions/Sentinel-1/radar-brightness-s1-4dantarctica/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/ice-temperature-smos-4dantarctica/collection.json",
+      "href": "../../eo-missions/SMOS/ice-temperature-smos-4dantarctica/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/melt-indicator-4dantarctica/collection.json",
+      "href": "../../eo-missions/SMOS/melt-indicator-4dantarctica/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/gridded-subglacial-discharge-4dantarctica/collection.json",
+      "href": "../../variables/River discharge/gridded-subglacial-discharge-4dantarctica/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/subglacial-lakes-4dantarctica/collection.json",
+      "href": "../../variables/Lake area/subglacial-lakes-4dantarctica/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/subglacial-catchements-4dantarctica/collection.json",
+      "href": "../../variables/Lake area/subglacial-catchements-4dantarctica/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/subglacial-melt-4dantarctica/collection.json",
+      "href": "../../variables/Geothermal energy/subglacial-melt-4dantarctica/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/geothermal-heat-flux-4dantarctica/collection.json",
+      "href": "../../variables/Geothermal energy/geothermal-heat-flux-4dantarctica/collection.json",
       "type": "application/json",
       "title": "Product"
     },

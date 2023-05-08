@@ -10,10 +10,166 @@
       "type": "application/json"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25mission%3ASentinel-1%25%27&type=catalog&f=json",
+      "rel": "child",
+      "href": "../Sentinel-2/ice-sheet-surface-melt-4dgreenland/collection.json",
       "type": "application/json",
-      "title": "Items"
+      "title": "Ice Sheet Surface Melt_Greenland_S-1/2"
+    },
+    {
+      "rel": "child",
+      "href": "../Sentinel-2/hydrological-surface-features-4dgreenland/collection.json",
+      "type": "application/json",
+      "title": "Extent and volume of hydrological surface features_Greenland_S1/2"
+    },
+    {
+      "rel": "child",
+      "href": "../Sentinel-2/ice-sheet-subglacial-hydrology-4dgreenland/collection.json",
+      "type": "application/json",
+      "title": "Ice Sheet subglacial hydrology_Greenland_S1/2"
+    },
+    {
+      "rel": "child",
+      "href": "../SMOS/ocean-freshwater-flux-arctic-theme3/collection.json",
+      "type": "application/json",
+      "title": "Ocean freshwater fluxes_Arctic_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "./surface-soil-moisture-s1-for-surface-soil-moisture/collection.json",
+      "type": "application/json",
+      "title": "Surface soil moisture time series_1 km resolution_Southern Italy_S1"
+    },
+    {
+      "rel": "child",
+      "href": "./target-locations-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "PTA-RES:\u00a0Extracted Target Locations_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "./sar-observation-solution-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "SAR-OBS:\u00a0SAR Observation Solution_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "./sar-positioning-solution-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "SAR-POS:\u00a0SAR Positioning Solution_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "./absolute-sea-level-heights-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "SL-ABS:\u00a0Absolute Sea Level Heights_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "./tide-gauge-heights-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "TG-HGT: Tide Gauge Heights_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "./sea-surface-heights-corrected-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "TG-SSH:\u00a0Corrected Sea Surface Height at Tide Gauge Stations_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "./sar-raw-measurements-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "PTA-OBS:\u00a0SAR Raw Measurements_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "./gnss-positioning-solution-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "GNSS-POS:\u00a0GNSS positioning solution_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "./geoid-heights-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "GEO-HGT:\u00a0Geoid Heights_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "./tropospheric-delays-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "COR-TD:\u00a0Tropospheric Delays_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "./s1-corrections-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "COR-SC:\u00a0Sentinel-1 Systematic\u00a0Effects Corrections_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "./ionospheric-delays-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "COR-ID:\u00a0Ionospheric Delays_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "./geodynamic-corrections-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "COR-GC:\u00a0Geodynamic Corrections_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "./electronic-delay-correction-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "COR-EC2:\u00a0ECR Electronic Delay Correction_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../Sentinel-2/snow-cover-alpglacier/collection.json",
+      "type": "application/json",
+      "title": "Snow cover on glaciers_SwissAlps_S1/2"
+    },
+    {
+      "rel": "child",
+      "href": "../Sentinel-2/glacier-surface-flow-velocity-alpglacier/collection.json",
+      "type": "application/json",
+      "title": "Glacier surface flow velocity_SwissAlps_S1/2"
+    },
+    {
+      "rel": "child",
+      "href": "../Sentinel-2/dynamics-of-glacier-lakes-alpglacier/collection.json",
+      "type": "application/json",
+      "title": "Dynamics of glacier lakes_SwissAlps_S1/2"
+    },
+    {
+      "rel": "child",
+      "href": "../Sentinel-2/slope-instabilities-glacier-forefields-alpglacier/collection.json",
+      "type": "application/json",
+      "title": "Slope instabilities in glacier forefields_SwissAlps_S1/2"
+    },
+    {
+      "rel": "child",
+      "href": "../Sentinel-3/binary-wet-snow-s14science-snow/collection.json",
+      "type": "application/json",
+      "title": "Binary wet snow extent products"
+    },
+    {
+      "rel": "child",
+      "href": "../TanDEM-X/subglacial-lake-drainage-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "Subglacial Lake Drainage and Filling_Antarctica_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "./surface-melt-s1-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "Surface Melt Classification_Antarctic-Peninsula_Sentinel-1_v1"
+    },
+    {
+      "rel": "child",
+      "href": "./radar-brightness-s1-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "Radar Brightness_Antarctica_Sentinel-1_v1"
     },
     {
       "rel": "parent",

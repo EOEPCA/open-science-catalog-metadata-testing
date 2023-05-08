@@ -27,13 +27,13 @@
     },
     {
       "rel": "related",
-      "href": "../../products/smos-l3-africa-smos-vegetation/collection.json",
+      "href": "../../eo-missions/SMOS/smos-l3-africa-smos-vegetation/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/vod-africa-smos-vegetation/collection.json",
+      "href": "../../eo-missions/SMOS/vod-africa-smos-vegetation/collection.json",
       "type": "application/json",
       "title": "Product"
     },

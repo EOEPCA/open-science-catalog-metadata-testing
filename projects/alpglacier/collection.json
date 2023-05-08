@@ -27,25 +27,25 @@
     },
     {
       "rel": "related",
-      "href": "../../products/snow-cover-alpglacier/collection.json",
+      "href": "../../eo-missions/Sentinel-2/snow-cover-alpglacier/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/glacier-surface-flow-velocity-alpglacier/collection.json",
+      "href": "../../eo-missions/Sentinel-2/glacier-surface-flow-velocity-alpglacier/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/dynamics-of-glacier-lakes-alpglacier/collection.json",
+      "href": "../../eo-missions/Sentinel-2/dynamics-of-glacier-lakes-alpglacier/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/slope-instabilities-glacier-forefields-alpglacier/collection.json",
+      "href": "../../eo-missions/Sentinel-2/slope-instabilities-glacier-forefields-alpglacier/collection.json",
       "type": "application/json",
       "title": "Product"
     },

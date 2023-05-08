@@ -27,25 +27,25 @@
     },
     {
       "rel": "related",
-      "href": "../../products/total-column-h2o-hdo-clear-sky-lpf-wift/collection.json",
+      "href": "../../eo-missions/Sentinel-5p/total-column-h2o-hdo-clear-sky-lpf-wift/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/total-column-h2o-hdo-cloudy-lpf-wift/collection.json",
+      "href": "../../eo-missions/Sentinel-5p/total-column-h2o-hdo-cloudy-lpf-wift/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/hdo-total-column-tropomi-extended-wift/collection.json",
+      "href": "../../eo-missions/Sentinel-5p/hdo-total-column-tropomi-extended-wift/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/hdo-total-column-tropomi-clear-sky-wift/collection.json",
+      "href": "../../eo-missions/Sentinel-5p/hdo-total-column-tropomi-clear-sky-wift/collection.json",
       "type": "application/json",
       "title": "Product"
     },

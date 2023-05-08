@@ -16,16 +16,34 @@
       "title": "Description"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25variable%3AGlacier+motion%25%27&type=catalog&f=json",
-      "type": "application/json",
-      "title": "Items"
-    },
-    {
       "rel": "related",
       "href": "../../themes/Land/catalog.json",
       "type": "application/json",
       "title": "Theme"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-2/ice-sheet-subglacial-hydrology-4dgreenland/collection.json",
+      "type": "application/json",
+      "title": "Ice Sheet subglacial hydrology_Greenland_S1/2"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-2/glacier-surface-flow-velocity-alpglacier/collection.json",
+      "type": "application/json",
+      "title": "Glacier surface flow velocity_SwissAlps_S1/2"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-2/dynamics-of-glacier-lakes-alpglacier/collection.json",
+      "type": "application/json",
+      "title": "Dynamics of glacier lakes_SwissAlps_S1/2"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-2/slope-instabilities-glacier-forefields-alpglacier/collection.json",
+      "type": "application/json",
+      "title": "Slope instabilities in glacier forefields_SwissAlps_S1/2"
     },
     {
       "rel": "parent",

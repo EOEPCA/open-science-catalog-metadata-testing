@@ -27,7 +27,7 @@
     },
     {
       "rel": "related",
-      "href": "../../products/water-vapour-isotopologues-lpf-weather/collection.json",
+      "href": "../../eo-missions/GOSAT/water-vapour-isotopologues-lpf-weather/collection.json",
       "type": "application/json",
       "title": "Product"
     },

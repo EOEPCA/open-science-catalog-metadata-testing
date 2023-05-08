@@ -16,16 +16,28 @@
       "title": "Description"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25variable%3AOcean+dynamic+topography%25%27&type=catalog&f=json",
-      "type": "application/json",
-      "title": "Items"
-    },
-    {
       "rel": "related",
       "href": "../../themes/Oceans/catalog.json",
       "type": "application/json",
       "title": "Theme"
+    },
+    {
+      "rel": "child",
+      "href": "./sea-level-lpf-ovalie/collection.json",
+      "type": "application/json",
+      "title": "Sea level trends over 1993-2015 and 2005-2015 from the OCCIPUT ensemble simulation"
+    },
+    {
+      "rel": "child",
+      "href": "./sea-level-variability-lpf-ovalie/collection.json",
+      "type": "application/json",
+      "title": "Atmospherically-forced and chaotic interannual variability of the sea level and its components over 1993-2015 from the OCCIPUT ensemble simulations"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/SMOS/l4-dynamic-topography-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 4, absolute dynamic topography, multi-mission gridded merged products for a period of 1 year, 0.0625\u00b0*0.0625\u00b0, daily"
     },
     {
       "rel": "parent",

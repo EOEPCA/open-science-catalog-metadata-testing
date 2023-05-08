@@ -16,16 +16,172 @@
       "title": "Description"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25variable%3ASea+surface+height+anomaly%25%27&type=catalog&f=json",
-      "type": "application/json",
-      "title": "Items"
-    },
-    {
       "rel": "related",
       "href": "../../themes/Oceans/catalog.json",
       "type": "application/json",
       "title": "Theme"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/GRACE-FO/ocean-heat-content-baltic-seal/collection.json",
+      "type": "application/json",
+      "title": "Global Ocean Heat Content (GOHC)_GRACE/GRACE-FO"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/GRACE-FO/earth-energy-imballance-baltic-seal/collection.json",
+      "type": "application/json",
+      "title": "Earth Energy Imballance (EEI)_GRACE/GRACE-FO"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/CryoSat/lr-satellite-altimeter-open-ocean-cp4o/collection.json",
+      "type": "application/json",
+      "title": "Low Resolution Mode satellite altimeter product _Open Ocean_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/CryoSat/rdsar-satellite-sar-altimeter-open-ocean-cp4o/collection.json",
+      "type": "application/json",
+      "title": "RDSAR Satellite SAR altimeter product_Open Ocean_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/CryoSat/satellite-sar-altimeter-open-ocean-cp4o/collection.json",
+      "type": "application/json",
+      "title": "Satellite SAR altimeter product_Open Ocean_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/CryoSat/satellite-sar-altimeter-coastal-cp4o/collection.json",
+      "type": "application/json",
+      "title": "Satellite SAR altimeter product_Coastal Ocean_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/CryoSat/satellite-sarin-altimeter-coastal-cp4o/collection.json",
+      "type": "application/json",
+      "title": "Satellite SARIN altimeter product_Coastal Ocean_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/CryoSat/satellite-altimeter-polar-ocean-cp4o/collection.json",
+      "type": "application/json",
+      "title": "Satellite LRM, SAR, SARIN polar altimeter product_Polar Ocean_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/CryoSat/wet-troposphere-correction-cryosat-cp4o/collection.json",
+      "type": "application/json",
+      "title": "Wet Troposphere Correction_for Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/CryoSat/hr-tidal-atlas-arctic-ocean-cp4o/collection.json",
+      "type": "application/json",
+      "title": "Arctide2017_High-resolution tidal atlas_Arctic Ocean_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-1/target-locations-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "PTA-RES:\u00a0Extracted Target Locations_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-1/sar-observation-solution-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "SAR-OBS:\u00a0SAR Observation Solution_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-1/sar-positioning-solution-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "SAR-POS:\u00a0SAR Positioning Solution_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-1/absolute-sea-level-heights-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "SL-ABS:\u00a0Absolute Sea Level Heights_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-1/tide-gauge-heights-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "TG-HGT: Tide Gauge Heights_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-1/sea-surface-heights-corrected-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "TG-SSH:\u00a0Corrected Sea Surface Height at Tide Gauge Stations_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-1/sar-raw-measurements-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "PTA-OBS:\u00a0SAR Raw Measurements_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-1/gnss-positioning-solution-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "GNSS-POS:\u00a0GNSS positioning solution_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-1/geoid-heights-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "GEO-HGT:\u00a0Geoid Heights_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-1/tropospheric-delays-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "COR-TD:\u00a0Tropospheric Delays_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-1/s1-corrections-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "COR-SC:\u00a0Sentinel-1 Systematic\u00a0Effects Corrections_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-1/ionospheric-delays-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "COR-ID:\u00a0Ionospheric Delays_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-1/geodynamic-corrections-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "COR-GC:\u00a0Geodynamic Corrections_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-1/electronic-delay-correction-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "COR-EC2:\u00a0ECR Electronic Delay Correction_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/SMOS/l3-cryosat2-sea-level-anomaly-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level-3 Cryosat-2 [2011, 2019] along-track 5Hz product, sea level anomaly, ~1km resolution."
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/SMOS/l3-s3-sea-level-anomaly-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level-3 Sentinel-3A [mid 2016, 2018] along-track 5Hz product, sea level anomaly, ~1km resolution"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/SMOS/l4-sea-level-anomaly-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 4, sea level anomaly, multi-mission gridded merged products for a period of 1 year, 0.0625\u00b0*0.0625\u00b0, daily"
     },
     {
       "rel": "parent",

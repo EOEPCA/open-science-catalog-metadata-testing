@@ -16,16 +16,22 @@
       "title": "Description"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25variable%3ASoil+moisture+at+surface%25%27&type=catalog&f=json",
-      "type": "application/json",
-      "title": "Items"
-    },
-    {
       "rel": "related",
       "href": "../../themes/Land/catalog.json",
       "type": "application/json",
       "title": "Theme"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-1/surface-soil-moisture-s1-for-surface-soil-moisture/collection.json",
+      "type": "application/json",
+      "title": "Surface soil moisture time series_1 km resolution_Southern Italy_S1"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/SMOS/smos-l3-africa-smos-vegetation/collection.json",
+      "type": "application/json",
+      "title": "Gridded_Africa_SMOS level 3 products CATDS"
     },
     {
       "rel": "parent",

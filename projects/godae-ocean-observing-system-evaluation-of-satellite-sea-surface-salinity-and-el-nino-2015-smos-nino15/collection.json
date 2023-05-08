@@ -27,7 +27,7 @@
     },
     {
       "rel": "related",
-      "href": "../../products/sea-surface-salinity-godae-oceanview/collection.json",
+      "href": "../../eo-missions/SMOS/sea-surface-salinity-godae-oceanview/collection.json",
       "type": "application/json",
       "title": "Product"
     },

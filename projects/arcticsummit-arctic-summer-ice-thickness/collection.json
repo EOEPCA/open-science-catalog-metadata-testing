@@ -27,13 +27,13 @@
     },
     {
       "rel": "related",
-      "href": "../../products/sea-ice-thickness-lpf-arcticsummit/collection.json",
+      "href": "../../eo-missions/CryoSat-2/sea-ice-thickness-lpf-arcticsummit/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/sea-ice-phys-ocean-lpf-arcticsummit/collection.json",
+      "href": "../../eo-missions/CryoSat-2/sea-ice-phys-ocean-lpf-arcticsummit/collection.json",
       "type": "application/json",
       "title": "Product"
     },

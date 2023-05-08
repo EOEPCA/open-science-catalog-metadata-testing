@@ -33,61 +33,61 @@
     },
     {
       "rel": "related",
-      "href": "../../products/lr-satellite-altimeter-open-ocean-cp4o/collection.json",
+      "href": "../../eo-missions/CryoSat/lr-satellite-altimeter-open-ocean-cp4o/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/rdsar-satellite-sar-altimeter-open-ocean-cp4o/collection.json",
+      "href": "../../eo-missions/CryoSat/rdsar-satellite-sar-altimeter-open-ocean-cp4o/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/satellite-sar-altimeter-open-ocean-cp4o/collection.json",
+      "href": "../../eo-missions/CryoSat/satellite-sar-altimeter-open-ocean-cp4o/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/satellite-sar-altimeter-coastal-cp4o/collection.json",
+      "href": "../../eo-missions/CryoSat/satellite-sar-altimeter-coastal-cp4o/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/satellite-sarin-altimeter-coastal-cp4o/collection.json",
+      "href": "../../eo-missions/CryoSat/satellite-sarin-altimeter-coastal-cp4o/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/satellite-altimeter-polar-ocean-cp4o/collection.json",
+      "href": "../../eo-missions/CryoSat/satellite-altimeter-polar-ocean-cp4o/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/satellite-sar-altimeter-sea-floor-cp4o/collection.json",
+      "href": "../../eo-missions/CryoSat/satellite-sar-altimeter-sea-floor-cp4o/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/wet-troposphere-correction-cryosat-cp4o/collection.json",
+      "href": "../../eo-missions/CryoSat/wet-troposphere-correction-cryosat-cp4o/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/hr-tidal-atlas-arctic-ocean-cp4o/collection.json",
+      "href": "../../eo-missions/CryoSat/hr-tidal-atlas-arctic-ocean-cp4o/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/bathymetry-arctic-cp4o/collection.json",
+      "href": "../../eo-missions/CryoSat/bathymetry-arctic-cp4o/collection.json",
       "type": "application/json",
       "title": "Product"
     },

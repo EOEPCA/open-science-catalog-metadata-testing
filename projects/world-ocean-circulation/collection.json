@@ -27,55 +27,55 @@
     },
     {
       "rel": "related",
-      "href": "../../products/wind-stress-vector-world-ocean-circulation/collection.json",
+      "href": "../../variables/Wind stress/wind-stress-vector-world-ocean-circulation/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/gridded-surface-current-world-ocean-circulation/collection.json",
+      "href": "../../variables/Ocean surface currents (vector)/gridded-surface-current-world-ocean-circulation/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/doppler-derived-surface-current-world-ocean-circulation/collection.json",
+      "href": "../../variables/Ocean surface currents (vector)/doppler-derived-surface-current-world-ocean-circulation/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/daily-3d-ocean-currents-world-ocean-circulation/collection.json",
+      "href": "../../variables/Ocean surface currents (vector)/daily-3d-ocean-currents-world-ocean-circulation/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/daily-2d-ocean-currents-world-ocean-circulation/collection.json",
+      "href": "../../variables/Ocean surface currents (vector)/daily-2d-ocean-currents-world-ocean-circulation/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/oceanic-current-fronts-world-ocean-circulation/collection.json",
+      "href": "../../variables/Ocean surface currents (vector)/oceanic-current-fronts-world-ocean-circulation/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/total-surface-current-north-atlantic-world-ocean-circulation/collection.json",
+      "href": "../../variables/Ocean surface currents (vector)/total-surface-current-north-atlantic-world-ocean-circulation/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/total-surface-current-tropical-atlantic-world-ocean-circulation/collection.json",
+      "href": "../../variables/Ocean surface currents (vector)/total-surface-current-tropical-atlantic-world-ocean-circulation/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/stokes-drift-atlantic-world-ocean-circulation/collection.json",
+      "href": "../../variables/Ocean surface currents (vector)/stokes-drift-atlantic-world-ocean-circulation/collection.json",
       "type": "application/json",
       "title": "Product"
     },

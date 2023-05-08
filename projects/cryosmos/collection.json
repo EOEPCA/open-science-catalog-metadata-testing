@@ -27,25 +27,25 @@
     },
     {
       "rel": "related",
-      "href": "../../products/ice-sheet-temperature-antarctica-cryosmos/collection.json",
+      "href": "../../eo-missions/SMOS/ice-sheet-temperature-antarctica-cryosmos/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/ice-shelf-antarctica-cryosmos/collection.json",
+      "href": "../../eo-missions/SMOS/ice-shelf-antarctica-cryosmos/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/surface-melting-antarctica-cryosmos/collection.json",
+      "href": "../../eo-missions/SMOS/surface-melting-antarctica-cryosmos/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/bedrock-topography-antarctica-cryosmos/collection.json",
+      "href": "../../eo-missions/SMOS/bedrock-topography-antarctica-cryosmos/collection.json",
       "type": "application/json",
       "title": "Product"
     },

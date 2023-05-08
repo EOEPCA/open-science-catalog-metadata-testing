@@ -16,16 +16,16 @@
       "title": "Description"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25variable%3AOcean+suspended+sediments+concentration%25%27&type=catalog&f=json",
-      "type": "application/json",
-      "title": "Items"
-    },
-    {
       "rel": "related",
       "href": "../../themes/Oceans/catalog.json",
       "type": "application/json",
       "title": "Theme"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/SMOS/l3-spm-daily-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 3 Suspended Particulate Matter, 300m, daily and monthly"
     },
     {
       "rel": "parent",

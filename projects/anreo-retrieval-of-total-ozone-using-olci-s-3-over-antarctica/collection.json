@@ -27,7 +27,7 @@
     },
     {
       "rel": "related",
-      "href": "../../products/total-ozone-anreo/collection.json",
+      "href": "../../eo-missions/Sentinel-3/total-ozone-anreo/collection.json",
       "type": "application/json",
       "title": "Product"
     },

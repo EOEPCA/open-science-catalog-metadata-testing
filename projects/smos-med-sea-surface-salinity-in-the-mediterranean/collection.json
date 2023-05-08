@@ -27,7 +27,7 @@
     },
     {
       "rel": "related",
-      "href": "../../products/sea-surface-salinity-europe-smos-med/collection.json",
+      "href": "../../eo-missions/SMOS/sea-surface-salinity-europe-smos-med/collection.json",
       "type": "application/json",
       "title": "Product"
     },

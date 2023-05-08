@@ -16,16 +16,52 @@
       "title": "Description"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25variable%3AGlacier+cover%25%27&type=catalog&f=json",
-      "type": "application/json",
-      "title": "Items"
-    },
-    {
       "rel": "related",
       "href": "../../themes/Land/catalog.json",
       "type": "application/json",
       "title": "Theme"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/TanDEM-X/subglacial-lake-drainage-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "Subglacial Lake Drainage and Filling_Antarctica_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-2/supraglacial-lakes-west-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "SupraglacialLake_WestAntarcticIceSheet2017_S2L8_V1.1"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/ASCAT/surface-melt-ascat-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "Surface Melt Classification_Antarctica_ASCAT_v1"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-1/surface-melt-s1-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "Surface Melt Classification_Antarctic-Peninsula_Sentinel-1_v1"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-1/radar-brightness-s1-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "Radar Brightness_Antarctica_Sentinel-1_v1"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/SMOS/ice-temperature-smos-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "IceTemperature_Antarctica_SMOS"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/SMOS/melt-indicator-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "MultiFrequenciesMeltIndicator_Antarctica_Multimission_2012-2022"
     },
     {
       "rel": "parent",

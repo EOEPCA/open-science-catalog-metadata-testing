@@ -27,7 +27,7 @@
     },
     {
       "rel": "related",
-      "href": "../../products/surface-soil-moisture-s1-for-surface-soil-moisture/collection.json",
+      "href": "../../eo-missions/Sentinel-1/surface-soil-moisture-s1-for-surface-soil-moisture/collection.json",
       "type": "application/json",
       "title": "Product"
     },

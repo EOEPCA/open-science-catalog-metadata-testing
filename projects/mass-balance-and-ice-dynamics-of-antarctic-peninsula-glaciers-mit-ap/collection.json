@@ -27,25 +27,25 @@
     },
     {
       "rel": "related",
-      "href": "../../products/dem-antarctica-2013-lpf-mitap/collection.json",
+      "href": "../../eo-missions/TanDEM-X/dem-antarctica-2013-lpf-mitap/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/dem-antarctica-2017-lpf-mitap/collection.json",
+      "href": "../../eo-missions/TanDEM-X/dem-antarctica-2017-lpf-mitap/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/surface-elevation-change-lpf-mitap/collection.json",
+      "href": "../../eo-missions/TanDEM-X/surface-elevation-change-lpf-mitap/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/glacier-mass-balance-lpf-mitap/collection.json",
+      "href": "../../eo-missions/TanDEM-X/glacier-mass-balance-lpf-mitap/collection.json",
       "type": "application/json",
       "title": "Product"
     },

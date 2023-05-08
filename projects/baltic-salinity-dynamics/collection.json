@@ -27,13 +27,13 @@
     },
     {
       "rel": "related",
-      "href": "../../products/baltic-sea-surface-salinity-l4-baltic-salinity-dynamics/collection.json",
+      "href": "../../eo-missions/SMOS/baltic-sea-surface-salinity-l4-baltic-salinity-dynamics/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/baltic-sea-surface-salinity-l3-baltic-salinity-dynamics/collection.json",
+      "href": "../../eo-missions/SMOS/baltic-sea-surface-salinity-l3-baltic-salinity-dynamics/collection.json",
       "type": "application/json",
       "title": "Product"
     },

@@ -16,16 +16,28 @@
       "title": "Description"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25variable%3ADissolved+inorganic+carbon++%28DIC%29%25%27&type=catalog&f=json",
-      "type": "application/json",
-      "title": "Items"
-    },
-    {
       "rel": "related",
       "href": "../../themes/Oceans/catalog.json",
       "type": "application/json",
       "title": "Theme"
+    },
+    {
+      "rel": "child",
+      "href": "./surface-ocean-dic-oceansoda/collection.json",
+      "type": "application/json",
+      "title": "Surface-ocean_Dissolved Inorganic Carbon_Global_v2021"
+    },
+    {
+      "rel": "child",
+      "href": "./surface-ocean-omega-aragonite-saturation-oceansoda/collection.json",
+      "type": "application/json",
+      "title": "Surface-ocean_Omega_Aragonite Saturation State_Global_v2021"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-3/particulate-inorganic-carbon-bicep/collection.json",
+      "type": "application/json",
+      "title": "Particulate Inorganic Carbon"
     },
     {
       "rel": "parent",

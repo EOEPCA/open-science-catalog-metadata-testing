@@ -33,7 +33,7 @@
     },
     {
       "rel": "related",
-      "href": "../../products/lithosphere-density-temperature-viscosity-goce-antarctica/collection.json",
+      "href": "../../eo-missions/GOCE/lithosphere-density-temperature-viscosity-goce-antarctica/collection.json",
       "type": "application/json",
       "title": "Product"
     },

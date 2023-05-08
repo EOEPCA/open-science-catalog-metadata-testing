@@ -27,19 +27,19 @@
     },
     {
       "rel": "related",
-      "href": "../../products/cloud-aerosol-circas/collection.json",
+      "href": "../../eo-missions/Sentinel-3/cloud-aerosol-circas/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/albedo-circas/collection.json",
+      "href": "../../eo-missions/Sentinel-3/albedo-circas/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/radiation-budget-circas/collection.json",
+      "href": "../../eo-missions/Sentinel-3/radiation-budget-circas/collection.json",
       "type": "application/json",
       "title": "Product"
     },

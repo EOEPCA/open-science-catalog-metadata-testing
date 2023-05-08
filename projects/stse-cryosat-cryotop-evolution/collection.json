@@ -27,25 +27,25 @@
     },
     {
       "rel": "related",
-      "href": "../../products/swath-elelvation-greenland-ice-sheet-cryotop-evolution/collection.json",
+      "href": "../../eo-missions/CryoSat-2/swath-elelvation-greenland-ice-sheet-cryotop-evolution/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/ice-sheet-topography-elevation-change-cryotop-evolution/collection.json",
+      "href": "../../eo-missions/CryoSat-2/ice-sheet-topography-elevation-change-cryotop-evolution/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/swath-elelvation-antarctic-ice-sheet-cryotop-evolution/collection.json",
+      "href": "../../eo-missions/CryoSat-2/swath-elelvation-antarctic-ice-sheet-cryotop-evolution/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/elevation-and-elevation-change-antarctic-cryotop-evolution/collection.json",
+      "href": "../../eo-missions/CryoSat-2/elevation-and-elevation-change-antarctic-cryotop-evolution/collection.json",
       "type": "application/json",
       "title": "Product"
     },

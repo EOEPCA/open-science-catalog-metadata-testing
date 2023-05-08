@@ -1,0 +1,184 @@
+{
+  "type": "Collection",
+  "id": "ocean-freshwater-flux-arctic-theme3",
+  "stac_version": "1.0.0",
+  "description": "Estimates of these four freshwater fluxes: discharge from rivers; inflow through ice and melt run off; outflow of freshwater in sea ice; and in/outflow of freshwater through ocean currents.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/projects/arctic-theme-3-fresh-water-fluxes-arcflux/",
+      "title": "Website"
+    },
+    {
+      "rel": "via",
+      "href": "https://link.springer.com/chapter/10.1007%2F1345_2019_75",
+      "title": "Documentation"
+    },
+    {
+      "rel": "cite-as",
+      "href": "https://doi.org/10.1007/1345_2019_75"
+    },
+    {
+      "rel": "related",
+      "href": "../../../projects/arctic-theme-3-fresh-water-fluxes/collection.json",
+      "type": "application/json",
+      "title": "Project"
+    },
+    {
+      "rel": "related",
+      "href": "../../../themes/Cryosphere/catalog.json",
+      "type": "application/json",
+      "title": "Theme"
+    },
+    {
+      "rel": "related",
+      "href": "../../../variables/River discharge/catalog.json",
+      "type": "application/json",
+      "title": "Variable"
+    },
+    {
+      "rel": "related",
+      "href": "../../Sentinel-1/catalog.json",
+      "type": "application/json",
+      "title": "EO Mission"
+    },
+    {
+      "rel": "related",
+      "href": "../../Sentinel-2/catalog.json",
+      "type": "application/json",
+      "title": "EO Mission"
+    },
+    {
+      "rel": "related",
+      "href": "../../Sentinel-3/catalog.json",
+      "type": "application/json",
+      "title": "EO Mission"
+    },
+    {
+      "rel": "related",
+      "href": "../../CryoSat-2/catalog.json",
+      "type": "application/json",
+      "title": "EO Mission"
+    },
+    {
+      "rel": "related",
+      "href": "../../ICESat/catalog.json",
+      "type": "application/json",
+      "title": "EO Mission"
+    },
+    {
+      "rel": "related",
+      "href": "../../GRACE/catalog.json",
+      "type": "application/json",
+      "title": "EO Mission"
+    },
+    {
+      "rel": "related",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "EO Mission"
+    },
+    {
+      "rel": "related",
+      "href": "../../ENVISAT/catalog.json",
+      "type": "application/json",
+      "title": "EO Mission"
+    },
+    {
+      "rel": "related",
+      "href": "../../ERS-1/catalog.json",
+      "type": "application/json",
+      "title": "EO Mission"
+    },
+    {
+      "rel": "related",
+      "href": "../../ERS-2/catalog.json",
+      "type": "application/json",
+      "title": "EO Mission"
+    },
+    {
+      "rel": "related",
+      "href": "../../SARAL/ALtiKa/catalog.json",
+      "type": "application/json",
+      "title": "EO Mission"
+    },
+    {
+      "rel": "related",
+      "href": "../../Jason-1/catalog.json",
+      "type": "application/json",
+      "title": "EO Mission"
+    },
+    {
+      "rel": "related",
+      "href": "../../Jason-2/catalog.json",
+      "type": "application/json",
+      "title": "EO Mission"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/scientific/v1.0.0/schema.json"
+  ],
+  "title": "Ocean freshwater fluxes_Arctic_Multimission",
+  "osc:missions": [
+    "Sentinel-1",
+    "Sentinel-2",
+    "Sentinel-3",
+    "CryoSat-2",
+    "ICESat",
+    "GRACE",
+    "SMOS",
+    "ENVISAT",
+    "ERS-1",
+    "ERS-2",
+    "SARAL/ALtiKa",
+    "Jason-1",
+    "Jason-2"
+  ],
+  "osc:project": "ARCTIC+ THEME 3 \u2013 FRESH WATER FLUXES",
+  "osc:themes": [
+    "Cryosphere"
+  ],
+  "osc:variable": "River discharge",
+  "osc:status": "ONGOING",
+  "osc:region": "Arctic",
+  "osc:type": "Product",
+  "created": "2019-07-17T00:00:00Z",
+  "start_datetime": "2014-01-01T00:00:00Z",
+  "end_datetime": "2017-12-31T23:59:59Z",
+  "sci:doi": "10.1007/1345_2019_75",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        -178.4105321808,
+        60.6134006095,
+        178.3660428163,
+        84.2454100786
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2014-01-01T00:00:00Z",
+          "2017-12-31T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary",
+  "keywords": [
+    "theme:Cryosphere",
+    "variable:River discharge",
+    "region:Arctic"
+  ]
+}

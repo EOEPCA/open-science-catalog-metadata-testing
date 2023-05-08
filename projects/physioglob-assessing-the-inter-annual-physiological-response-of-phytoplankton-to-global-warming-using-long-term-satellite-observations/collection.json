@@ -27,7 +27,7 @@
     },
     {
       "rel": "related",
-      "href": "../../products/secchi-disk-depth-lpf-physioglob/collection.json",
+      "href": "../../eo-missions/VIIRS/secchi-disk-depth-lpf-physioglob/collection.json",
       "type": "application/json",
       "title": "Product"
     },

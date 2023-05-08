@@ -10,10 +10,10 @@
       "type": "application/json"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25mission%3AAMSR-E%25%27&type=catalog&f=json",
+      "rel": "child",
+      "href": "../TanDEM-X/subglacial-lake-drainage-4dantarctica/collection.json",
       "type": "application/json",
-      "title": "Items"
+      "title": "Subglacial Lake Drainage and Filling_Antarctica_Multimission"
     },
     {
       "rel": "parent",

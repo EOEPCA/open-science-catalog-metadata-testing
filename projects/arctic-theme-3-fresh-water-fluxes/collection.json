@@ -27,7 +27,7 @@
     },
     {
       "rel": "related",
-      "href": "../../products/ocean-freshwater-flux-arctic-theme3/collection.json",
+      "href": "../../eo-missions/SMOS/ocean-freshwater-flux-arctic-theme3/collection.json",
       "type": "application/json",
       "title": "Product"
     },

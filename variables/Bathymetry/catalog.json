@@ -16,16 +16,22 @@
       "title": "Description"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25variable%3ABathymetry%25%27&type=catalog&f=json",
-      "type": "application/json",
-      "title": "Items"
-    },
-    {
       "rel": "related",
       "href": "../../themes/Oceans/catalog.json",
       "type": "application/json",
       "title": "Theme"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/CryoSat/satellite-sar-altimeter-sea-floor-cp4o/collection.json",
+      "type": "application/json",
+      "title": "Satellite SAR altimeter product_Sea Floor Mapping_Oceania_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/CryoSat/bathymetry-arctic-cp4o/collection.json",
+      "type": "application/json",
+      "title": "Bathymetry_Arctic_Cryosat"
     },
     {
       "rel": "parent",

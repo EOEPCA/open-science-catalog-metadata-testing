@@ -10,10 +10,10 @@
       "type": "application/json"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25mission%3AGOSAT%25%27&type=catalog&f=json",
+      "rel": "child",
+      "href": "./water-vapour-isotopologues-lpf-weather/collection.json",
       "type": "application/json",
-      "title": "Items"
+      "title": "GOSAT PBL XH2O and Stable Water Vapour Isotopologues_Global"
     },
     {
       "rel": "parent",

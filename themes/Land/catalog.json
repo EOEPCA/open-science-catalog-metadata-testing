@@ -22,10 +22,268 @@
       "title": "Description"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25theme%3ALand%25%27&type=catalog&f=json",
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-2/s2l2a-uncertainty-sr-lpf-l2arut/collection.json",
       "type": "application/json",
-      "title": "Items"
+      "title": "S2 L2A uncertainty_Surface reflectance estimates_S2"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/SMOS/gross-net-carbon-flux-lpf-vad3emecum/collection.json",
+      "type": "application/json",
+      "title": "Gross and net Carbon Flux Estimates_Fluxcom2.0 Carbon"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Model/model-based-cdom-baltic-sealabio/collection.json",
+      "type": "application/json",
+      "title": "Model based Colored Dissolved Organic Matter (CDOM) _Baltics_Model"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/In-situ/in-situ-sealabio/collection.json",
+      "type": "application/json",
+      "title": "In-situ measurements_Baltics"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-3/eo-based-cdom-baltic-sealabio/collection.json",
+      "type": "application/json",
+      "title": "EO based Color Disolved Organic Matter_Baltics_S3"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/SMOS/rainfall-gpm-sm2rain-0-25-v1-global-smos-rainfall/collection.json",
+      "type": "application/json",
+      "title": "GPM+SM2RAIN Rainfall product_v1.0_daily_0.25_quasi-global"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/SMOS/rainfall-prism-0-25-v4-africa-smos-rainfall/collection.json",
+      "type": "application/json",
+      "title": "PrISM SMOS Rainfall product_v4.0_3h_0.25_Africa"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/SMOS/rainfall-prism-0-1-v2-africa-smos-rainfall/collection.json",
+      "type": "application/json",
+      "title": "PrISM SMOS Rainfall product v2.0_3h_0.1_Africa"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/SMOS/rainfall-prism-0-25-v2-africa-smos-rainfall/collection.json",
+      "type": "application/json",
+      "title": "PrISM SMOS Rainfall product_v2.0_3h_0.25_Africa"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-2/land-cover-map-italy-s24land/collection.json",
+      "type": "application/json",
+      "title": "Land cover map_Italy_2018_S2"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-2/crop-map-multitemporal-s24land/collection.json",
+      "type": "application/json",
+      "title": "Multitemporal crop map - phenological parameters and phenological parameters_Italy_2017/2018_S2"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-3/hydrodynamic-model-alpine-lakes-s24land/collection.json",
+      "type": "application/json",
+      "title": "Hydrodynamic models of Alpine lakes_Western Europe_S2/3"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-3/biomass-s3-africa-albiom/collection.json",
+      "type": "application/json",
+      "title": "Prototype biomass product using Sentinel-3 altimetry_Africa_S3"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-3/water-level-amazon-itapeua-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Water level from altimetry_Temporal series_L3 Products Database_Amazon Itapeua_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-3/water-level-amazon-manacapuru-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Water level from altimetry_Temporal series_L3 Products Database_Amazon Manacapuru_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-3/water-level-mississippi-memphis-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Water level from altimetry_Temporal series_L3 Products Database_Mississippi Memphis_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-3/water-level-mississippi-chester-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Water level from altimetry_Temporal series_L3 Products Database_Mississippi Chester_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-3/water-level-congo-brazaville-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Water level from altimetry_Temporal series_L3 Products Database_Congo Brazaville_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-3/water-level-po-pontelagoscuro-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Water level from altimetry_Temporal series_L3 Products Database_Po Pontelagoscuro_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-3/water-level-po-sermide-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Water level from altimetry_Temporal series_L3 Products Database_Po Sermide_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-3/water-level-po-cremona-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Water level from altimetry_Temporal series_L3 Products Database_Po Cremona_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-3/water-level-po-borgoforte-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Water level from altimetry_Temporal series_L3 Products Database_Po Borgoforte_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-3/water-level-danube-baja-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Water level from altimetry_Temporal series_L3 Products Database_Danube Baja_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-3/water-level-danube-mohacs-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Water level from altimetry_Temporal series_L3 Products Database_Danube Mohacs_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-3/simulated-river-discharge-amazon-itapeua-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Simulated River discharge_Amazon Itapeua_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-3/simulated-river-discharge-amazon-manacapuru-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Simulated River discharge_Amazon Manacapuru_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-3/simulated-river-discharge-mississippi-memphis-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Simulated River discharge_Mississippi Memphis_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-3/simulated-river-discharge-mississippi-chester-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Simulated River discharge_Mississippi Chester_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-3/simulated-river-discharge-congo-brazaville-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Simulated River discharge_Congo Brazaville_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-3/simulated-river-discharge-po-pontelagoscuro-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Simulated River discharge products_Po Pontelagoscuro_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-3/simulated-river-discharge-po-sermide-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Simulated River discharge products_Po Sermide_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-3/simulated-river-discharge-po-cremona-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Simulated River discharge products_Po Cremona_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-3/simulated-river-discharge-po-borgoforte-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Simulated River discharge products_Po Borgoforte_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-3/simulated-river-discharge-danube-baja-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Simulated River discharge products_Danube Baja_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-3/simulated-river-discharge-danube-mohacs-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Simulated River discharge products_Danube Mohacs_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-1/surface-soil-moisture-s1-for-surface-soil-moisture/collection.json",
+      "type": "application/json",
+      "title": "Surface soil moisture time series_1 km resolution_Southern Italy_S1"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/SMOS/smos-l3-africa-smos-vegetation/collection.json",
+      "type": "application/json",
+      "title": "Gridded_Africa_SMOS level 3 products CATDS"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/SMOS/vod-africa-smos-vegetation/collection.json",
+      "type": "application/json",
+      "title": "VOD_Africa_SMOS IC products CATDS"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-3/broadband-albedo-greenland-s34science-snow/collection.json",
+      "type": "application/json",
+      "title": "Broadband albedo_Greenland_S3"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-3/spectral-albedo-greenland-s34science-snow/collection.json",
+      "type": "application/json",
+      "title": "Spectral albedo_Greenland_S3"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-3/snow-grain-diameter-greenland-s34science-snow/collection.json",
+      "type": "application/json",
+      "title": "Snow grain diameter_Greenland_S3"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-3/albedo-circas/collection.json",
+      "type": "application/json",
+      "title": "Albedo_Regional_S3A/SLSTR"
+    },
+    {
+      "rel": "child",
+      "href": "../../variables/Land cover/regional-esdl-south-america-esdl/collection.json",
+      "type": "application/json",
+      "title": "Code for Regional Earth System Data Lab: Tropical South America"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-5p/l2b-sif-surface-reflectance-tropomi-troposif/collection.json",
+      "type": "application/json",
+      "title": "Daily ungridded (L2B) SIF and surface reflectance estimates derived from TROPOMI"
     },
     {
       "rel": "parent",

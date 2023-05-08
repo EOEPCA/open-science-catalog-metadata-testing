@@ -27,19 +27,19 @@
     },
     {
       "rel": "related",
-      "href": "../../products/tropospheric-ozone-column-tropomi-sunlit/collection.json",
+      "href": "../../eo-missions/Sentinel-5p/tropospheric-ozone-column-tropomi-sunlit/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/tropospheric-ozone-column-omi-sunlit/collection.json",
+      "href": "../../eo-missions/OMI/tropospheric-ozone-column-omi-sunlit/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/stratospheric-ozone-column-limb-sunlit/collection.json",
+      "href": "../../variables/O3 Stratospheric Column/stratospheric-ozone-column-limb-sunlit/collection.json",
       "type": "application/json",
       "title": "Product"
     },

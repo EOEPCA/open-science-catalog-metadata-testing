@@ -33,7 +33,7 @@
     },
     {
       "rel": "related",
-      "href": "../../products/lidar-aerosol-aeolus-swails/collection.json",
+      "href": "../../eo-missions/AEOLUS/lidar-aerosol-aeolus-swails/collection.json",
       "type": "application/json",
       "title": "Product"
     },

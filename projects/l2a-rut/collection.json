@@ -27,7 +27,7 @@
     },
     {
       "rel": "related",
-      "href": "../../products/s2l2a-uncertainty-sr-lpf-l2arut/collection.json",
+      "href": "../../eo-missions/Sentinel-2/s2l2a-uncertainty-sr-lpf-l2arut/collection.json",
       "type": "application/json",
       "title": "Product"
     },

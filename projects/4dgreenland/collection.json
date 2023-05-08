@@ -27,19 +27,19 @@
     },
     {
       "rel": "related",
-      "href": "../../products/ice-sheet-surface-melt-4dgreenland/collection.json",
+      "href": "../../eo-missions/Sentinel-2/ice-sheet-surface-melt-4dgreenland/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/hydrological-surface-features-4dgreenland/collection.json",
+      "href": "../../eo-missions/Sentinel-2/hydrological-surface-features-4dgreenland/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/ice-sheet-subglacial-hydrology-4dgreenland/collection.json",
+      "href": "../../eo-missions/Sentinel-2/ice-sheet-subglacial-hydrology-4dgreenland/collection.json",
       "type": "application/json",
       "title": "Product"
     },

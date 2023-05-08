@@ -16,16 +16,16 @@
       "title": "Description"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25variable%3AWind+stress%25%27&type=catalog&f=json",
-      "type": "application/json",
-      "title": "Items"
-    },
-    {
       "rel": "related",
       "href": "../../themes/Oceans/catalog.json",
       "type": "application/json",
       "title": "Theme"
+    },
+    {
+      "rel": "child",
+      "href": "./wind-stress-vector-world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Wind stress vector (& anomalies)_Hourly_ERA5"
     },
     {
       "rel": "parent",

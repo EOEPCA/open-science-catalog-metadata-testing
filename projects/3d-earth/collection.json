@@ -27,13 +27,13 @@
     },
     {
       "rel": "related",
-      "href": "../../products/geothermal-heat-flow-greenland-3d-earth/collection.json",
+      "href": "../../eo-missions/SWARM/geothermal-heat-flow-greenland-3d-earth/collection.json",
       "type": "application/json",
       "title": "Product"
     },
     {
       "rel": "related",
-      "href": "../../products/crust-and-upper-mantle-model-3d-earth/collection.json",
+      "href": "../../eo-missions/GOCE/crust-and-upper-mantle-model-3d-earth/collection.json",
       "type": "application/json",
       "title": "Product"
     },

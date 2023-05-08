@@ -16,16 +16,16 @@
       "title": "Description"
     },
     {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25variable%3ASolar-induced+chlorophyll+fluorescence+%28SIF%29%25%27&type=catalog&f=json",
-      "type": "application/json",
-      "title": "Items"
-    },
-    {
       "rel": "related",
       "href": "../../themes/Atmosphere/catalog.json",
       "type": "application/json",
       "title": "Theme"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/Sentinel-5p/l2b-sif-surface-reflectance-tropomi-troposif/collection.json",
+      "type": "application/json",
+      "title": "Daily ungridded (L2B) SIF and surface reflectance estimates derived from TROPOMI"
     },
     {
       "rel": "parent",
