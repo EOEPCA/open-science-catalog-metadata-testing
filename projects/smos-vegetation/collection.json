@@ -28,13 +28,13 @@
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/SMOS/smos-l3-africa-smos-vegetation/collection.json",
+      "href": "../../products/smos-l3-africa-smos-vegetation/collection.json",
       "type": "application/json",
       "title": "Product: Gridded_Africa_SMOS level 3 products CATDS"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/SMOS/vod-africa-smos-vegetation/collection.json",
+      "href": "../../products/vod-africa-smos-vegetation/collection.json",
       "type": "application/json",
       "title": "Product: VOD_Africa_SMOS IC products CATDS"
     },

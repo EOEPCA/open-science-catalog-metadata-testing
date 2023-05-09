@@ -28,7 +28,7 @@
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/SMOS/gross-net-carbon-flux-lpf-vad3emecum/collection.json",
+      "href": "../../products/gross-net-carbon-flux-lpf-vad3emecum/collection.json",
       "type": "application/json",
       "title": "Product: Gross and net Carbon Flux Estimates_Fluxcom2.0 Carbon"
     },

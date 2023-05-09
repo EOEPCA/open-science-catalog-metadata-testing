@@ -34,7 +34,7 @@
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/SWARM/lightning-whistler-ilgew/collection.json",
+      "href": "../../products/lightning-whistler-ilgew/collection.json",
       "type": "application/json",
       "title": "Product: Lightning-generated whistler events_Global_SWARM"
     },

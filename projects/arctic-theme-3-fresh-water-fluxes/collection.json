@@ -28,7 +28,7 @@
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/SMOS/ocean-freshwater-flux-arctic-theme3/collection.json",
+      "href": "../../products/ocean-freshwater-flux-arctic-theme3/collection.json",
       "type": "application/json",
       "title": "Product: Ocean freshwater fluxes_Arctic_Multimission"
     },

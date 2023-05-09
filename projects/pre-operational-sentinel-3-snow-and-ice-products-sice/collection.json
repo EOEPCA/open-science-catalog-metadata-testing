@@ -28,25 +28,25 @@
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/Sentinel-3/broadband-albedo-arctic-sice/collection.json",
+      "href": "../../products/broadband-albedo-arctic-sice/collection.json",
       "type": "application/json",
       "title": "Product: Broadband albedo_Arctic_S3"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/Sentinel-3/spectral-albedo-arctic-sice/collection.json",
+      "href": "../../products/spectral-albedo-arctic-sice/collection.json",
       "type": "application/json",
       "title": "Product: Spectral albedo_Arctic_S3"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/Sentinel-3/snow-grain-diameter-arctic-sice/collection.json",
+      "href": "../../products/snow-grain-diameter-arctic-sice/collection.json",
       "type": "application/json",
       "title": "Product: Snow grain diameter_Arctic_S3"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/Sentinel-3/nrt-sice-rasters-greenland-arctic-sice/collection.json",
+      "href": "../../products/nrt-sice-rasters-greenland-arctic-sice/collection.json",
       "type": "application/json",
       "title": "Product: NRT SICE rasters for Greenland_Arctic_S3"
     },

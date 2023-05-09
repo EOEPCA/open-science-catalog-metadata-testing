@@ -28,7 +28,7 @@
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/CryoSat-2/glacier-elevation-cryosat-mountain-glaciers/collection.json",
+      "href": "../../products/glacier-elevation-cryosat-mountain-glaciers/collection.json",
       "type": "application/json",
       "title": "Product: Mountain glacier elevation and elevation change_Global_Cryosat-2"
     },

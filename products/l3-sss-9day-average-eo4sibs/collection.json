@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -28,48 +29,49 @@
       "rel": "related",
       "href": "../../projects/earth-observation-data-for-science-and-innovation-in-the-black-sea/collection.json",
       "type": "application/json",
-      "title": "Project"
+      "title": "Project: EO4SIBS"
     },
     {
       "rel": "related",
       "href": "../../themes/Oceans/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Oceans"
     },
     {
       "rel": "related",
       "href": "../../variables/Sea surface salinity/catalog.json",
       "type": "application/json",
-      "title": "Variable"
+      "title": "Variable: Sea surface salinity"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/SMOS/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: SMOS"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/Sentinel-2/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: Sentinel-2"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/Sentinel-3/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: Sentinel-3"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/CryoSat-2/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: CryoSat-2"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Products"
     }
   ],
   "stac_extensions": [

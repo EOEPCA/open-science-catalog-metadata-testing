@@ -11,12 +11,6 @@
       "title": "Open Science Catalog"
     },
     {
-      "rel": "child",
-      "href": "../MODIS/sea-ice-retracker-clima-snow-depth-lpf-cassis/collection.json",
-      "type": "application/json",
-      "title": "Sea ice freeboard and thickness_heuristic retracker TFMRA50 and AMSR climatology snow depth_Antarctic_Envisat"
-    },
-    {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",

@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -23,30 +24,31 @@
       "rel": "related",
       "href": "../../projects/pre-operational-sentinel-3-snow-and-ice-products-sice/collection.json",
       "type": "application/json",
-      "title": "Project"
+      "title": "Project: S3 snow and ice products"
     },
     {
       "rel": "related",
       "href": "../../themes/Cryosphere/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Cryosphere"
     },
     {
       "rel": "related",
       "href": "../../variables/Snow cover/catalog.json",
       "type": "application/json",
-      "title": "Variable"
+      "title": "Variable: Snow cover"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/Sentinel-3/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: Sentinel-3"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Products"
     }
   ],
   "stac_extensions": [

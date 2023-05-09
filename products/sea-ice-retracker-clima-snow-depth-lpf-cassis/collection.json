@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -28,42 +29,43 @@
       "rel": "related",
       "href": "../../projects/cassis-climate-altimetric-studies-with-sea-ice-and-snow/collection.json",
       "type": "application/json",
-      "title": "Project"
+      "title": "Project: (LPF) CASSIS"
     },
     {
       "rel": "related",
       "href": "../../themes/Cryosphere/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Cryosphere"
     },
     {
       "rel": "related",
       "href": "../../variables/Sea-ice thickness/catalog.json",
       "type": "application/json",
-      "title": "Variable"
+      "title": "Variable: Sea-ice thickness"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/ENVISAT/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: ENVISAT"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/MODIS/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: MODIS"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/GCOM-W1/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: GCOM-W1"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Products"
     }
   ],
   "stac_extensions": [

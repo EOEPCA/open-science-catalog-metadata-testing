@@ -34,67 +34,67 @@
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/SWARM/webgeodyn-py-4d-earth-swarm/collection.json",
+      "href": "../../products/webgeodyn-py-4d-earth-swarm/collection.json",
       "type": "application/json",
       "title": "Product: Webgeodyn Python package"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/SWARM/ground-virtual-observatory-swarm-4d-earth-swarm/collection.json",
+      "href": "../../products/ground-virtual-observatory-swarm-4d-earth-swarm/collection.json",
       "type": "application/json",
       "title": "Product: Ground Virtual Observatory Data SWARM"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/CHAMP/ground-virtual-observatory-champ-4d-earth-swarm/collection.json",
+      "href": "../../products/ground-virtual-observatory-champ-4d-earth-swarm/collection.json",
       "type": "application/json",
       "title": "Product: Ground Virtual Observatory Data CHAMP"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/CryoSat-2/ground-virtual-observatory-cryosat2-4d-earth-swarm/collection.json",
+      "href": "../../products/ground-virtual-observatory-cryosat2-4d-earth-swarm/collection.json",
       "type": "application/json",
       "title": "Product: Ground Virtual Observatory Data CRYOSAT-2"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/OERSTED/ground-virtual-observatory-oersted-4d-earth-swarm/collection.json",
+      "href": "../../products/ground-virtual-observatory-oersted-4d-earth-swarm/collection.json",
       "type": "application/json",
       "title": "Product: Ground Virtual Observatory Data OERSTED"
     },
     {
       "rel": "related",
-      "href": "../../variables/Geomagnetic field/ground-observatory-data-4d-earth-swarm/collection.json",
+      "href": "../../products/ground-observatory-data-4d-earth-swarm/collection.json",
       "type": "application/json",
       "title": "Product: Ground Observatory data"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/SWARM/chaos-field-model-core-4d-earth-swarm/collection.json",
+      "href": "../../products/chaos-field-model-core-4d-earth-swarm/collection.json",
       "type": "application/json",
       "title": "Product: CHAOS field model_Core"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/SWARM/chaos-field-model-spline-4d-earth-swarm/collection.json",
+      "href": "../../products/chaos-field-model-spline-4d-earth-swarm/collection.json",
       "type": "application/json",
       "title": "Product: CHAOS field model_SplineCoefficients"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/SWARM/chaos-field-model-4d-earth-swarm/collection.json",
+      "href": "../../products/chaos-field-model-4d-earth-swarm/collection.json",
       "type": "application/json",
       "title": "Product: CHAOS field model"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/SWARM/satellite-data-chaos-field-model-4d-earth-swarm/collection.json",
+      "href": "../../products/satellite-data-chaos-field-model-4d-earth-swarm/collection.json",
       "type": "application/json",
       "title": "Product: Vector and scalar satellite data files as used in the CHAOS field model"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/SWARM/geodynamo-simulation-4d-earth-swarm/collection.json",
+      "href": "../../products/geodynamo-simulation-4d-earth-swarm/collection.json",
       "type": "application/json",
       "title": "Product: Geodynamo simulation data_Earth core"
     },

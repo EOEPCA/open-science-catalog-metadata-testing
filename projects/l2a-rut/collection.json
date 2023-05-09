@@ -28,7 +28,7 @@
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/Sentinel-2/s2l2a-uncertainty-sr-lpf-l2arut/collection.json",
+      "href": "../../products/s2l2a-uncertainty-sr-lpf-l2arut/collection.json",
       "type": "application/json",
       "title": "Product: S2 L2A uncertainty_Surface reflectance estimates_S2"
     },

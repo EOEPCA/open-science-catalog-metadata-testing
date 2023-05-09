@@ -11,48 +11,6 @@
       "title": "Open Science Catalog"
     },
     {
-      "rel": "child",
-      "href": "../SMOS/gross-net-carbon-flux-lpf-vad3emecum/collection.json",
-      "type": "application/json",
-      "title": "Gross and net Carbon Flux Estimates_Fluxcom2.0 Carbon"
-    },
-    {
-      "rel": "child",
-      "href": "./total-column-h2o-hdo-clear-sky-lpf-wift/collection.json",
-      "type": "application/json",
-      "title": "HDO/H2O non-scattering product_S5p-TROPOMI"
-    },
-    {
-      "rel": "child",
-      "href": "./total-column-h2o-hdo-cloudy-lpf-wift/collection.json",
-      "type": "application/json",
-      "title": "HDO/H2O scattering product_S5p-TROPOMI"
-    },
-    {
-      "rel": "child",
-      "href": "./tropospheric-ozone-column-tropomi-sunlit/collection.json",
-      "type": "application/json",
-      "title": "Tropospheric ozone column(TrOC)_2018-2020_Global_S5p-TROPOMI_Limb"
-    },
-    {
-      "rel": "child",
-      "href": "./hdo-total-column-tropomi-extended-wift/collection.json",
-      "type": "application/json",
-      "title": "Extended scientific HDO/H2O total column_TROPOMI"
-    },
-    {
-      "rel": "child",
-      "href": "./hdo-total-column-tropomi-clear-sky-wift/collection.json",
-      "type": "application/json",
-      "title": "Clear-sky HDO/H2O total column_TROPOMI"
-    },
-    {
-      "rel": "child",
-      "href": "./l2b-sif-surface-reflectance-tropomi-troposif/collection.json",
-      "type": "application/json",
-      "title": "Daily ungridded (L2B) SIF and surface reflectance estimates derived from TROPOMI"
-    },
-    {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",

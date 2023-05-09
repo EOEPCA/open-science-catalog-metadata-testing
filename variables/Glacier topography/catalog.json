@@ -23,18 +23,6 @@
       "title": "Theme: Land"
     },
     {
-      "rel": "child",
-      "href": "../../eo-missions/TanDEM-X/glacier-mass-balance-lpf-mitap/collection.json",
-      "type": "application/json",
-      "title": "Geodetic glacier mass balances Antarctic Peninsula <70\u00b0S between 2013 and 2017_Antarctica_TanDEM-X"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/CryoSat-2/glacier-elevation-cryosat-mountain-glaciers/collection.json",
-      "type": "application/json",
-      "title": "Mountain glacier elevation and elevation change_Global_Cryosat-2"
-    },
-    {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",

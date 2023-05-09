@@ -28,7 +28,7 @@
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/Sentinel-3/hydrodynamic-model-alpine-lakes-s24land/collection.json",
+      "href": "../../products/hydrodynamic-model-alpine-lakes-s24land/collection.json",
       "type": "application/json",
       "title": "Product: Hydrodynamic models of Alpine lakes_Western Europe_S2/3"
     },

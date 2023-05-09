@@ -23,12 +23,6 @@
       "title": "Theme: Oceans"
     },
     {
-      "rel": "child",
-      "href": "../../eo-missions/SMOS/l3-spm-daily-eo4sibs/collection.json",
-      "type": "application/json",
-      "title": "Level 3 Suspended Particulate Matter, 300m, daily and monthly"
-    },
-    {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",

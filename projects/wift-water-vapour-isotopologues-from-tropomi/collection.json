@@ -28,25 +28,25 @@
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/Sentinel-5p/total-column-h2o-hdo-clear-sky-lpf-wift/collection.json",
+      "href": "../../products/total-column-h2o-hdo-clear-sky-lpf-wift/collection.json",
       "type": "application/json",
       "title": "Product: HDO/H2O non-scattering product_S5p-TROPOMI"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/Sentinel-5p/total-column-h2o-hdo-cloudy-lpf-wift/collection.json",
+      "href": "../../products/total-column-h2o-hdo-cloudy-lpf-wift/collection.json",
       "type": "application/json",
       "title": "Product: HDO/H2O scattering product_S5p-TROPOMI"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/Sentinel-5p/hdo-total-column-tropomi-extended-wift/collection.json",
+      "href": "../../products/hdo-total-column-tropomi-extended-wift/collection.json",
       "type": "application/json",
       "title": "Product: Extended scientific HDO/H2O total column_TROPOMI"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/Sentinel-5p/hdo-total-column-tropomi-clear-sky-wift/collection.json",
+      "href": "../../products/hdo-total-column-tropomi-clear-sky-wift/collection.json",
       "type": "application/json",
       "title": "Product: Clear-sky HDO/H2O total column_TROPOMI"
     },

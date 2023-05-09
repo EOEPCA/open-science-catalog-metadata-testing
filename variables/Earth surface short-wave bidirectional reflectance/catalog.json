@@ -23,12 +23,6 @@
       "title": "Theme: Atmosphere"
     },
     {
-      "rel": "child",
-      "href": "../../eo-missions/Sentinel-2/s2l2a-uncertainty-sr-lpf-l2arut/collection.json",
-      "type": "application/json",
-      "title": "S2 L2A uncertainty_Surface reflectance estimates_S2"
-    },
-    {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",

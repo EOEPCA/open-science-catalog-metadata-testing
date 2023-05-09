@@ -23,30 +23,6 @@
       "title": "Theme: Magnetosphere_Ionosphere"
     },
     {
-      "rel": "child",
-      "href": "../../eo-missions/SWARM/model-ionosphere-4dionosphere/collection.json",
-      "type": "application/json",
-      "title": "Semi-empiric model of ionosphere processes_SWARM"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/SWARM/addit-earthquake-tsunami-tool-costo/collection.json",
-      "type": "application/json",
-      "title": "ADDTID: An Alternative Tool for Studying Earthquake/Tsunami Signatures in the Ionosphere_Japan_SWARM"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/SWARM/lightning-whistler-ilgew/collection.json",
-      "type": "application/json",
-      "title": "Lightning-generated whistler events_Global_SWARM"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/SWARM/solar-activity-polar-cap-plasma-density-ion-outflow/collection.json",
-      "type": "application/json",
-      "title": "CHAMP and Swarm solar activity- and height-scaled polar cap plasma density measurements"
-    },
-    {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",

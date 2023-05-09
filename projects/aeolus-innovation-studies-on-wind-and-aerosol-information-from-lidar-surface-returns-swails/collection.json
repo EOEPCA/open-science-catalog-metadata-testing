@@ -34,7 +34,7 @@
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/AEOLUS/lidar-aerosol-aeolus-swails/collection.json",
+      "href": "../../products/lidar-aerosol-aeolus-swails/collection.json",
       "type": "application/json",
       "title": "Product: Lidar Aerosol Retrieval based on Information from Surface Signal of Aeolus_Global Oceans_AEOLUS"
     },

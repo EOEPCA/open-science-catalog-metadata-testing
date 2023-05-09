@@ -11,54 +11,6 @@
       "title": "Open Science Catalog"
     },
     {
-      "rel": "child",
-      "href": "../Sentinel-2/snow-area-europe-alps-alpsnow/collection.json",
-      "type": "application/json",
-      "title": "Snow area extent for European Alps_Multimission"
-    },
-    {
-      "rel": "child",
-      "href": "../Sentinel-2/snow-albedo-europe-alps-alpsnow/collection.json",
-      "type": "application/json",
-      "title": "Snow albedo for European Alps_Multimission"
-    },
-    {
-      "rel": "child",
-      "href": "../Sentinel-2/snow-water-equivalent-europe-alps-alpsnow/collection.json",
-      "type": "application/json",
-      "title": "Snow water equivalent for European Alps_Multimission"
-    },
-    {
-      "rel": "child",
-      "href": "../Sentinel-2/snow-depth-europe-alps-alpsnow/collection.json",
-      "type": "application/json",
-      "title": "Snow depth for European Alps_Multimission"
-    },
-    {
-      "rel": "child",
-      "href": "../Sentinel-2/snow-grain-europe-alps-alpsnow/collection.json",
-      "type": "application/json",
-      "title": "Snow grain size for European Alps_Multimission"
-    },
-    {
-      "rel": "child",
-      "href": "../Sentinel-2/snow-liquid-water-europe-alps-alpsnow/collection.json",
-      "type": "application/json",
-      "title": "Snow liquid water content (wet snow) for European Alps_Multimission"
-    },
-    {
-      "rel": "child",
-      "href": "../TanDEM-X/subglacial-lake-drainage-4dantarctica/collection.json",
-      "type": "application/json",
-      "title": "Subglacial Lake Drainage and Filling_Antarctica_Multimission"
-    },
-    {
-      "rel": "child",
-      "href": "../Sentinel-2/supraglacial-lakes-west-4dantarctica/collection.json",
-      "type": "application/json",
-      "title": "SupraglacialLake_WestAntarcticIceSheet2017_S2L8_V1.1"
-    },
-    {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",

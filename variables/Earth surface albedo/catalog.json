@@ -23,18 +23,6 @@
       "title": "Theme: Atmosphere"
     },
     {
-      "rel": "child",
-      "href": "../../eo-missions/Sentinel-2/snow-albedo-europe-alps-alpsnow/collection.json",
-      "type": "application/json",
-      "title": "Snow albedo for European Alps_Multimission"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/Sentinel-3/albedo-circas/collection.json",
-      "type": "application/json",
-      "title": "Albedo_Regional_S3A/SLSTR"
-    },
-    {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",

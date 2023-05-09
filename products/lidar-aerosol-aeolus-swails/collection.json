@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -18,36 +19,37 @@
       "rel": "related",
       "href": "../../projects/aeolus-innovation-studies-on-wind-and-aerosol-information-from-lidar-surface-returns-swails/collection.json",
       "type": "application/json",
-      "title": "Project"
+      "title": "Project: AEOLUS+inno - SWAILS+"
     },
     {
       "rel": "related",
       "href": "../../themes/Atmosphere/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Atmosphere"
     },
     {
       "rel": "related",
       "href": "../../themes/Oceans/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Oceans"
     },
     {
       "rel": "related",
       "href": "../../variables/Aerosol Optical Depth/catalog.json",
       "type": "application/json",
-      "title": "Variable"
+      "title": "Variable: Aerosol Optical Depth"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/AEOLUS/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: AEOLUS"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Products"
     }
   ],
   "stac_extensions": [

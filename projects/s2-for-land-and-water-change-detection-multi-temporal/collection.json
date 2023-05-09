@@ -28,13 +28,13 @@
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/Sentinel-2/land-cover-map-italy-s24land/collection.json",
+      "href": "../../products/land-cover-map-italy-s24land/collection.json",
       "type": "application/json",
       "title": "Product: Land cover map_Italy_2018_S2"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/Sentinel-2/crop-map-multitemporal-s24land/collection.json",
+      "href": "../../products/crop-map-multitemporal-s24land/collection.json",
       "type": "application/json",
       "title": "Product: Multitemporal crop map - phenological parameters and phenological parameters_Italy_2017/2018_S2"
     },

@@ -23,12 +23,6 @@
       "title": "Theme: Atmosphere"
     },
     {
-      "rel": "child",
-      "href": "../../eo-missions/Sentinel-5p/l2b-sif-surface-reflectance-tropomi-troposif/collection.json",
-      "type": "application/json",
-      "title": "Daily ungridded (L2B) SIF and surface reflectance estimates derived from TROPOMI"
-    },
-    {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",

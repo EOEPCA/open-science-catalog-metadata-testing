@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -23,48 +24,49 @@
       "rel": "related",
       "href": "../../projects/physioglob-assessing-the-inter-annual-physiological-response-of-phytoplankton-to-global-warming-using-long-term-satellite-observations/collection.json",
       "type": "application/json",
-      "title": "Project"
+      "title": "Project: (LPF) PHYSIOGLOB"
     },
     {
       "rel": "related",
       "href": "../../themes/Oceans/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Oceans"
     },
     {
       "rel": "related",
       "href": "../../variables/Ocean chlorophyll concentration/catalog.json",
       "type": "application/json",
-      "title": "Variable"
+      "title": "Variable: Ocean chlorophyll concentration"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/SeaWiFS/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: SeaWiFS"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/MERIS/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: MERIS"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/MODIS/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: MODIS"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/VIIRS/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: VIIRS"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Products"
     }
   ],
   "stac_extensions": [

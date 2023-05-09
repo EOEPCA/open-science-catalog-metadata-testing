@@ -34,7 +34,7 @@
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/GOCE/lithosphere-density-temperature-viscosity-goce-antarctica/collection.json",
+      "href": "../../products/lithosphere-density-temperature-viscosity-goce-antarctica/collection.json",
       "type": "application/json",
       "title": "Product: Density, Temperature, and Viscosity Structure of the Antarctic Lithosphere_Antarctica_GOCE"
     },

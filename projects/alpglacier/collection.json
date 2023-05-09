@@ -28,25 +28,25 @@
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/Sentinel-2/snow-cover-alpglacier/collection.json",
+      "href": "../../products/snow-cover-alpglacier/collection.json",
       "type": "application/json",
       "title": "Product: Snow cover on glaciers_SwissAlps_S1/2"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/Sentinel-2/glacier-surface-flow-velocity-alpglacier/collection.json",
+      "href": "../../products/glacier-surface-flow-velocity-alpglacier/collection.json",
       "type": "application/json",
       "title": "Product: Glacier surface flow velocity_SwissAlps_S1/2"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/Sentinel-2/dynamics-of-glacier-lakes-alpglacier/collection.json",
+      "href": "../../products/dynamics-of-glacier-lakes-alpglacier/collection.json",
       "type": "application/json",
       "title": "Product: Dynamics of glacier lakes_SwissAlps_S1/2"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/Sentinel-2/slope-instabilities-glacier-forefields-alpglacier/collection.json",
+      "href": "../../products/slope-instabilities-glacier-forefields-alpglacier/collection.json",
       "type": "application/json",
       "title": "Product: Slope instabilities in glacier forefields_SwissAlps_S1/2"
     },

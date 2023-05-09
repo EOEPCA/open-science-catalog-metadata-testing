@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -32,36 +33,37 @@
       "rel": "related",
       "href": "../../projects/lidar-climatology-of-vertical-aerosol-structure-for-space-based-lidar-simulation-studies-livas/collection.json",
       "type": "application/json",
-      "title": "Project"
+      "title": "Project: LIVAS"
     },
     {
       "rel": "related",
       "href": "../../themes/Atmosphere/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Atmosphere"
     },
     {
       "rel": "related",
       "href": "../../variables/Aerosol Optical Depth/catalog.json",
       "type": "application/json",
-      "title": "Variable"
+      "title": "Variable: Aerosol Optical Depth"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/CALIPSO/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: CALIPSO"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/EARTHCARE/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: EARTHCARE"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Products"
     }
   ],
   "stac_extensions": [

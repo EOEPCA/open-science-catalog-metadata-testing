@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -18,30 +19,31 @@
       "rel": "related",
       "href": "../../projects/l2a-rut/collection.json",
       "type": "application/json",
-      "title": "Project"
+      "title": "Project: (LPF) L2A-RUT"
     },
     {
       "rel": "related",
       "href": "../../themes/Land/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Land"
     },
     {
       "rel": "related",
       "href": "../../variables/Earth surface short-wave bidirectional reflectance/catalog.json",
       "type": "application/json",
-      "title": "Variable"
+      "title": "Variable: Earth surface short-wave bidirectional reflectance"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/Sentinel-2/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: Sentinel-2"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Products"
     }
   ],
   "stac_extensions": [

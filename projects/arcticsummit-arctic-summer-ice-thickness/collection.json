@@ -28,13 +28,13 @@
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/CryoSat-2/sea-ice-thickness-lpf-arcticsummit/collection.json",
+      "href": "../../products/sea-ice-thickness-lpf-arcticsummit/collection.json",
       "type": "application/json",
       "title": "Product: Sea ice thickness_monthly_Oct 2010-July 2020Arctic_CryoSat-2 Baseline-D observations"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/CryoSat-2/sea-ice-phys-ocean-lpf-arcticsummit/collection.json",
+      "href": "../../products/sea-ice-phys-ocean-lpf-arcticsummit/collection.json",
       "type": "application/json",
       "title": "Product: Sea ice and physical oceanography_Arctic_CryoSat-2 Baseline-C Level 1b waveform observations"
     },

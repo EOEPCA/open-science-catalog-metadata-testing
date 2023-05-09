@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -23,36 +24,37 @@
       "rel": "related",
       "href": "../../projects/4dgreenland/collection.json",
       "type": "application/json",
-      "title": "Project"
+      "title": "Project: 4D-Greenland"
     },
     {
       "rel": "related",
       "href": "../../themes/Cryosphere/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Cryosphere"
     },
     {
       "rel": "related",
       "href": "../../variables/Glacier motion/catalog.json",
       "type": "application/json",
-      "title": "Variable"
+      "title": "Variable: Glacier motion"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/Sentinel-1/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: Sentinel-1"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/Sentinel-2/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: Sentinel-2"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Products"
     }
   ],
   "stac_extensions": [

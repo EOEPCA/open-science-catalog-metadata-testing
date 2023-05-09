@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -27,30 +28,31 @@
       "rel": "related",
       "href": "../../projects/sentinel-1-for-surface-soil-moisture/collection.json",
       "type": "application/json",
-      "title": "Project"
+      "title": "Project: S1 for Surface Soil Moisture"
     },
     {
       "rel": "related",
       "href": "../../themes/Land/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Land"
     },
     {
       "rel": "related",
       "href": "../../variables/Soil moisture at surface/catalog.json",
       "type": "application/json",
-      "title": "Variable"
+      "title": "Variable: Soil moisture at surface"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/Sentinel-1/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: Sentinel-1"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Products"
     }
   ],
   "stac_extensions": [

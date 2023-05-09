@@ -23,18 +23,6 @@
       "title": "Theme: Land"
     },
     {
-      "rel": "child",
-      "href": "../../eo-missions/Sentinel-2/snow-water-equivalent-europe-alps-alpsnow/collection.json",
-      "type": "application/json",
-      "title": "Snow water equivalent for European Alps_Multimission"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/Sentinel-2/snow-liquid-water-europe-alps-alpsnow/collection.json",
-      "type": "application/json",
-      "title": "Snow liquid water content (wet snow) for European Alps_Multimission"
-    },
-    {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",

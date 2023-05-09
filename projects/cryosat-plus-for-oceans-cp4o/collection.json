@@ -34,61 +34,61 @@
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/CryoSat/lr-satellite-altimeter-open-ocean-cp4o/collection.json",
+      "href": "../../products/lr-satellite-altimeter-open-ocean-cp4o/collection.json",
       "type": "application/json",
       "title": "Product: Low Resolution Mode satellite altimeter product _Open Ocean_Cryosat"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/CryoSat/rdsar-satellite-sar-altimeter-open-ocean-cp4o/collection.json",
+      "href": "../../products/rdsar-satellite-sar-altimeter-open-ocean-cp4o/collection.json",
       "type": "application/json",
       "title": "Product: RDSAR Satellite SAR altimeter product_Open Ocean_Cryosat"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/CryoSat/satellite-sar-altimeter-open-ocean-cp4o/collection.json",
+      "href": "../../products/satellite-sar-altimeter-open-ocean-cp4o/collection.json",
       "type": "application/json",
       "title": "Product: Satellite SAR altimeter product_Open Ocean_Cryosat"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/CryoSat/satellite-sar-altimeter-coastal-cp4o/collection.json",
+      "href": "../../products/satellite-sar-altimeter-coastal-cp4o/collection.json",
       "type": "application/json",
       "title": "Product: Satellite SAR altimeter product_Coastal Ocean_Cryosat"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/CryoSat/satellite-sarin-altimeter-coastal-cp4o/collection.json",
+      "href": "../../products/satellite-sarin-altimeter-coastal-cp4o/collection.json",
       "type": "application/json",
       "title": "Product: Satellite SARIN altimeter product_Coastal Ocean_Cryosat"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/CryoSat/satellite-altimeter-polar-ocean-cp4o/collection.json",
+      "href": "../../products/satellite-altimeter-polar-ocean-cp4o/collection.json",
       "type": "application/json",
       "title": "Product: Satellite LRM, SAR, SARIN polar altimeter product_Polar Ocean_Cryosat"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/CryoSat/satellite-sar-altimeter-sea-floor-cp4o/collection.json",
+      "href": "../../products/satellite-sar-altimeter-sea-floor-cp4o/collection.json",
       "type": "application/json",
       "title": "Product: Satellite SAR altimeter product_Sea Floor Mapping_Oceania_Cryosat"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/CryoSat/wet-troposphere-correction-cryosat-cp4o/collection.json",
+      "href": "../../products/wet-troposphere-correction-cryosat-cp4o/collection.json",
       "type": "application/json",
       "title": "Product: Wet Troposphere Correction_for Cryosat"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/CryoSat/hr-tidal-atlas-arctic-ocean-cp4o/collection.json",
+      "href": "../../products/hr-tidal-atlas-arctic-ocean-cp4o/collection.json",
       "type": "application/json",
       "title": "Product: Arctide2017_High-resolution tidal atlas_Arctic Ocean_Cryosat"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/CryoSat/bathymetry-arctic-cp4o/collection.json",
+      "href": "../../products/bathymetry-arctic-cp4o/collection.json",
       "type": "application/json",
       "title": "Product: Bathymetry_Arctic_Cryosat"
     },

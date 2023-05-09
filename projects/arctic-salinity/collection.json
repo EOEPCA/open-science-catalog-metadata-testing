@@ -34,7 +34,7 @@
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/SMOS/sea-surface-salinity-arctic-salinity/collection.json",
+      "href": "../../products/sea-surface-salinity-arctic-salinity/collection.json",
       "type": "application/json",
       "title": "Product: Sea Surface Salinity L2 orbits and L3 maps (V.3.1) _Arctic_SMOS"
     },

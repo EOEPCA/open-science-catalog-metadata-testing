@@ -34,7 +34,7 @@
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/SWARM/addit-earthquake-tsunami-tool-costo/collection.json",
+      "href": "../../products/addit-earthquake-tsunami-tool-costo/collection.json",
       "type": "application/json",
       "title": "Product: ADDTID: An Alternative Tool for Studying Earthquake/Tsunami Signatures in the Ionosphere_Japan_SWARM"
     },

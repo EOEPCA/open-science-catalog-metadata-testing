@@ -28,13 +28,13 @@
     },
     {
       "rel": "related",
-      "href": "../../variables/Ocean dynamic topography/sea-level-lpf-ovalie/collection.json",
+      "href": "../../products/sea-level-lpf-ovalie/collection.json",
       "type": "application/json",
       "title": "Product: Sea level trends over 1993-2015 and 2005-2015 from the OCCIPUT ensemble simulation"
     },
     {
       "rel": "related",
-      "href": "../../variables/Ocean dynamic topography/sea-level-variability-lpf-ovalie/collection.json",
+      "href": "../../products/sea-level-variability-lpf-ovalie/collection.json",
       "type": "application/json",
       "title": "Product: Atmospherically-forced and chaotic interannual variability of the sea level and its components over 1993-2015 from the OCCIPUT ensemble simulations"
     },

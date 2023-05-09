@@ -28,25 +28,25 @@
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/TanDEM-X/dem-antarctica-2013-lpf-mitap/collection.json",
+      "href": "../../products/dem-antarctica-2013-lpf-mitap/collection.json",
       "type": "application/json",
       "title": "Product: Digital Elevation Model Antarctic Peninsula <70\u00b0S 2013_Antarctica_TanDEM-X"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/TanDEM-X/dem-antarctica-2017-lpf-mitap/collection.json",
+      "href": "../../products/dem-antarctica-2017-lpf-mitap/collection.json",
       "type": "application/json",
       "title": "Product: Digital Elevation Model Antarctic Peninsula <70\u00b0S 2017_Antarctica_TanDEM-X"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/TanDEM-X/surface-elevation-change-lpf-mitap/collection.json",
+      "href": "../../products/surface-elevation-change-lpf-mitap/collection.json",
       "type": "application/json",
       "title": "Product: Surface elevation changes Antarctic Peninsula <70\u00b0S between 2013 and 2017_Antarctica_TanDEM-X"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/TanDEM-X/glacier-mass-balance-lpf-mitap/collection.json",
+      "href": "../../products/glacier-mass-balance-lpf-mitap/collection.json",
       "type": "application/json",
       "title": "Product: Geodetic glacier mass balances Antarctic Peninsula <70\u00b0S between 2013 and 2017_Antarctica_TanDEM-X"
     },

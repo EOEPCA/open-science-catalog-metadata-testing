@@ -28,7 +28,7 @@
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/VIIRS/secchi-disk-depth-lpf-physioglob/collection.json",
+      "href": "../../products/secchi-disk-depth-lpf-physioglob/collection.json",
       "type": "application/json",
       "title": "Product: Secchi Disk depth_Global Oceans_Multimission"
     },

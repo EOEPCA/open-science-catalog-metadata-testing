@@ -23,12 +23,6 @@
       "title": "Theme: Land"
     },
     {
-      "rel": "child",
-      "href": "../../eo-missions/Sentinel-2/snow-depth-europe-alps-alpsnow/collection.json",
-      "type": "application/json",
-      "title": "Snow depth for European Alps_Multimission"
-    },
-    {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",

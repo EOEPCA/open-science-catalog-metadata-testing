@@ -28,31 +28,31 @@
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/Sentinel-3/surface-ocean-pco2-oceansoda/collection.json",
+      "href": "../../products/surface-ocean-pco2-oceansoda/collection.json",
       "type": "application/json",
       "title": "Product: Surface-ocean_pCO2_Global_v2021"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/SMOS/surface-ocean-total-alcalinity-oceansoda/collection.json",
+      "href": "../../products/surface-ocean-total-alcalinity-oceansoda/collection.json",
       "type": "application/json",
       "title": "Product: Surface-ocean_Total Alcalinity_Global_v2021"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/SMOS/suface-ocean-ph-oceansoda/collection.json",
+      "href": "../../products/suface-ocean-ph-oceansoda/collection.json",
       "type": "application/json",
       "title": "Product: Surface-ocean_pH_Global_v2021"
     },
     {
       "rel": "related",
-      "href": "../../variables/Dissolved inorganic carbon  (DIC)/surface-ocean-dic-oceansoda/collection.json",
+      "href": "../../products/surface-ocean-dic-oceansoda/collection.json",
       "type": "application/json",
       "title": "Product: Surface-ocean_Dissolved Inorganic Carbon_Global_v2021"
     },
     {
       "rel": "related",
-      "href": "../../variables/Dissolved inorganic carbon  (DIC)/surface-ocean-omega-aragonite-saturation-oceansoda/collection.json",
+      "href": "../../products/surface-ocean-omega-aragonite-saturation-oceansoda/collection.json",
       "type": "application/json",
       "title": "Product: Surface-ocean_Omega_Aragonite Saturation State_Global_v2021"
     },

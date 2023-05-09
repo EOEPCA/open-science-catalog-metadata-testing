@@ -28,19 +28,19 @@
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/Sentinel-3/cloud-aerosol-circas/collection.json",
+      "href": "../../products/cloud-aerosol-circas/collection.json",
       "type": "application/json",
       "title": "Product: Cloud and aerosol products_Regional_S3A/SLSTR"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/Sentinel-3/albedo-circas/collection.json",
+      "href": "../../products/albedo-circas/collection.json",
       "type": "application/json",
       "title": "Product: Albedo_Regional_S3A/SLSTR"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/Sentinel-3/radiation-budget-circas/collection.json",
+      "href": "../../products/radiation-budget-circas/collection.json",
       "type": "application/json",
       "title": "Product: Radiation budget_Regional_S3"
     },

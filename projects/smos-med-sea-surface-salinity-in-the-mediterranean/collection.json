@@ -28,7 +28,7 @@
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/SMOS/sea-surface-salinity-europe-smos-med/collection.json",
+      "href": "../../products/sea-surface-salinity-europe-smos-med/collection.json",
       "type": "application/json",
       "title": "Product: L4 Interpolated Sea Surface Salinity_Europe_SMOS"
     },

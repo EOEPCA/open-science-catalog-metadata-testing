@@ -28,25 +28,25 @@
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/TOPEX/Poseidon/baltic-sea-level-baltic-seal/collection.json",
+      "href": "../../products/baltic-sea-level-baltic-seal/collection.json",
       "type": "application/json",
       "title": "Product: Baltic Sea Level_Multimission"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/TOPEX/Poseidon/hydrodynamic-model-baltic-seal/collection.json",
+      "href": "../../products/hydrodynamic-model-baltic-seal/collection.json",
       "type": "application/json",
       "title": "Product: Hydrodynamic model data (deviation from Sea Level Mean)_Multimission"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/GRACE-FO/ocean-heat-content-baltic-seal/collection.json",
+      "href": "../../products/ocean-heat-content-baltic-seal/collection.json",
       "type": "application/json",
       "title": "Product: Global Ocean Heat Content (GOHC)_GRACE/GRACE-FO"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/GRACE-FO/earth-energy-imballance-baltic-seal/collection.json",
+      "href": "../../products/earth-energy-imballance-baltic-seal/collection.json",
       "type": "application/json",
       "title": "Product: Earth Energy Imballance (EEI)_GRACE/GRACE-FO"
     },

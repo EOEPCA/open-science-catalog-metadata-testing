@@ -23,18 +23,6 @@
       "title": "Theme: Oceans"
     },
     {
-      "rel": "child",
-      "href": "../../eo-missions/CryoSat/satellite-sar-altimeter-sea-floor-cp4o/collection.json",
-      "type": "application/json",
-      "title": "Satellite SAR altimeter product_Sea Floor Mapping_Oceania_Cryosat"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/CryoSat/bathymetry-arctic-cp4o/collection.json",
-      "type": "application/json",
-      "title": "Bathymetry_Arctic_Cryosat"
-    },
-    {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",

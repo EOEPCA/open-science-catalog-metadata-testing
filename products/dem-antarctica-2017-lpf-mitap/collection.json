@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -18,30 +19,31 @@
       "rel": "related",
       "href": "../../projects/mass-balance-and-ice-dynamics-of-antarctic-peninsula-glaciers-mit-ap/collection.json",
       "type": "application/json",
-      "title": "Project"
+      "title": "Project: (LPF) MIT-AP"
     },
     {
       "rel": "related",
       "href": "../../themes/Cryosphere/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Cryosphere"
     },
     {
       "rel": "related",
       "href": "../../variables/Ice sheet topography/catalog.json",
       "type": "application/json",
-      "title": "Variable"
+      "title": "Variable: Ice sheet topography"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/TanDEM-X/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: TanDEM-X"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Products"
     }
   ],
   "stac_extensions": [

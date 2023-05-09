@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -32,30 +33,31 @@
       "rel": "related",
       "href": "../../projects/arcticsummit-arctic-summer-ice-thickness/collection.json",
       "type": "application/json",
-      "title": "Project"
+      "title": "Project: (LPF) ArcticSummIT"
     },
     {
       "rel": "related",
       "href": "../../themes/Cryosphere/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Cryosphere"
     },
     {
       "rel": "related",
       "href": "../../variables/Sea-ice thickness/catalog.json",
       "type": "application/json",
-      "title": "Variable"
+      "title": "Variable: Sea-ice thickness"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/CryoSat-2/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: CryoSat-2"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Products"
     }
   ],
   "stac_extensions": [

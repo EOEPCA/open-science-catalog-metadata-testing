@@ -11,42 +11,6 @@
       "title": "Open Science Catalog"
     },
     {
-      "rel": "child",
-      "href": "./clima-aerosol-op-livas/collection.json",
-      "type": "application/json",
-      "title": "Climatology of aerosol optical property profiles_Global_CALIPSO_EARTHCARE"
-    },
-    {
-      "rel": "child",
-      "href": "./clima-aerosol-od-livas/collection.json",
-      "type": "application/json",
-      "title": "Climatology of aerosol optical depth (AOD)_Global_CALIPSO_EARTHCARE"
-    },
-    {
-      "rel": "child",
-      "href": "./clima-cloud-profile-livas/collection.json",
-      "type": "application/json",
-      "title": "Climatology of cloud optical property profiles_Global_CALIPSO_EARTHCARE"
-    },
-    {
-      "rel": "child",
-      "href": "./cliima-cloud-od-livas/collection.json",
-      "type": "application/json",
-      "title": "Climatology of cloud optical depth_Global_CALIPSO_EARTHCARE"
-    },
-    {
-      "rel": "child",
-      "href": "./clima-strat-aerosol-cloud-op-livas/collection.json",
-      "type": "application/json",
-      "title": "Climatology of stratospheric aerosol and cloud optical property profiles_Global_CALIPSO_EARTHCARE"
-    },
-    {
-      "rel": "child",
-      "href": "./clima-strat-aerosol-cloud-od-livas/collection.json",
-      "type": "application/json",
-      "title": "Climatology of stratospheric aerosol and cloud optical depth_Global_CALIPSO_EARTHCARE"
-    },
-    {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",

@@ -11,12 +11,6 @@
       "title": "Open Science Catalog"
     },
     {
-      "rel": "child",
-      "href": "../SMOS/melt-indicator-4dantarctica/collection.json",
-      "type": "application/json",
-      "title": "MultiFrequenciesMeltIndicator_Antarctica_Multimission_2012-2022"
-    },
-    {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",

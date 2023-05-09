@@ -34,19 +34,19 @@
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/Sentinel-3/broadband-albedo-greenland-s34science-snow/collection.json",
+      "href": "../../products/broadband-albedo-greenland-s34science-snow/collection.json",
       "type": "application/json",
       "title": "Product: Broadband albedo_Greenland_S3"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/Sentinel-3/spectral-albedo-greenland-s34science-snow/collection.json",
+      "href": "../../products/spectral-albedo-greenland-s34science-snow/collection.json",
       "type": "application/json",
       "title": "Product: Spectral albedo_Greenland_S3"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/Sentinel-3/snow-grain-diameter-greenland-s34science-snow/collection.json",
+      "href": "../../products/snow-grain-diameter-greenland-s34science-snow/collection.json",
       "type": "application/json",
       "title": "Product: Snow grain diameter_Greenland_S3"
     },

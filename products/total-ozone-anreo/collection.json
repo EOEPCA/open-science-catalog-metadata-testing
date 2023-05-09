@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -32,30 +33,31 @@
       "rel": "related",
       "href": "../../projects/anreo-retrieval-of-total-ozone-using-olci-s-3-over-antarctica/collection.json",
       "type": "application/json",
-      "title": "Project"
+      "title": "Project: AnREO"
     },
     {
       "rel": "related",
       "href": "../../themes/Atmosphere/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Atmosphere"
     },
     {
       "rel": "related",
       "href": "../../variables/O3 Total Column/catalog.json",
       "type": "application/json",
-      "title": "Variable"
+      "title": "Variable: O3 Total Column"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/Sentinel-3/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: Sentinel-3"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Products"
     }
   ],
   "stac_extensions": [

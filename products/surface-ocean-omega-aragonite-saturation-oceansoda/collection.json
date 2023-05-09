@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -27,24 +28,25 @@
       "rel": "related",
       "href": "../../projects/satellite-oceanographic-datasets-for-acidification-oceansoda/collection.json",
       "type": "application/json",
-      "title": "Project"
+      "title": "Project: OceanSODA"
     },
     {
       "rel": "related",
       "href": "../../themes/Oceans/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Oceans"
     },
     {
       "rel": "related",
       "href": "../../variables/Dissolved inorganic carbon  (DIC)/catalog.json",
       "type": "application/json",
-      "title": "Variable"
+      "title": "Variable: Dissolved inorganic carbon  (DIC)"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Products"
     }
   ],
   "stac_extensions": [

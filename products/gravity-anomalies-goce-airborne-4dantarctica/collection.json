@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -18,42 +19,43 @@
       "rel": "related",
       "href": "../../projects/4dantarctica/collection.json",
       "type": "application/json",
-      "title": "Project"
+      "title": "Project: 4D-ANTARCTICA"
     },
     {
       "rel": "related",
       "href": "../../themes/Cryosphere/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Cryosphere"
     },
     {
       "rel": "related",
       "href": "../../themes/Solid Earth/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Solid Earth"
     },
     {
       "rel": "related",
       "href": "../../variables/Gravity field/catalog.json",
       "type": "application/json",
-      "title": "Variable"
+      "title": "Variable: Gravity field"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/GOCE/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: GOCE"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/GRACE/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: GRACE"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Products"
     }
   ],
   "stac_extensions": [

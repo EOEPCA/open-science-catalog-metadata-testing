@@ -34,19 +34,19 @@
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/Model/model-based-cdom-baltic-sealabio/collection.json",
+      "href": "../../products/model-based-cdom-baltic-sealabio/collection.json",
       "type": "application/json",
       "title": "Product: Model based Colored Dissolved Organic Matter (CDOM) _Baltics_Model"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/In-situ/in-situ-sealabio/collection.json",
+      "href": "../../products/in-situ-sealabio/collection.json",
       "type": "application/json",
       "title": "Product: In-situ measurements_Baltics"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/Sentinel-3/eo-based-cdom-baltic-sealabio/collection.json",
+      "href": "../../products/eo-based-cdom-baltic-sealabio/collection.json",
       "type": "application/json",
       "title": "Product: EO based Color Disolved Organic Matter_Baltics_S3"
     },

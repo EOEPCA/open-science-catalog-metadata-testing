@@ -28,7 +28,7 @@
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/Sentinel-1/surface-soil-moisture-s1-for-surface-soil-moisture/collection.json",
+      "href": "../../products/surface-soil-moisture-s1-for-surface-soil-moisture/collection.json",
       "type": "application/json",
       "title": "Product: Surface soil moisture time series_1 km resolution_Southern Italy_S1"
     },

@@ -23,24 +23,6 @@
       "title": "Theme: Solid Earth"
     },
     {
-      "rel": "child",
-      "href": "../../eo-missions/GOCE/lithosphere-density-temperature-viscosity-goce-antarctica/collection.json",
-      "type": "application/json",
-      "title": "Density, Temperature, and Viscosity Structure of the Antarctic Lithosphere_Antarctica_GOCE"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/GOCE/crust-and-upper-mantle-model-3d-earth/collection.json",
-      "type": "application/json",
-      "title": "Global Model of Crust and Upper Mantle_WINTERC-G_GOCE"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/GRACE/gravity-anomalies-goce-airborne-4dantarctica/collection.json",
-      "type": "application/json",
-      "title": "Gravity anomalies from GOCE and airborne data"
-    },
-    {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",

@@ -40,7 +40,7 @@
     },
     {
       "rel": "related",
-      "href": "../../variables/Land cover/regional-esdl-south-america-esdl/collection.json",
+      "href": "../../products/regional-esdl-south-america-esdl/collection.json",
       "type": "application/json",
       "title": "Product: Code for Regional Earth System Data Lab: Tropical South America"
     },

@@ -28,7 +28,7 @@
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/Sentinel-3/total-ozone-anreo/collection.json",
+      "href": "../../products/total-ozone-anreo/collection.json",
       "type": "application/json",
       "title": "Product: Total ozone product from OLCI / S-3_Antarctica _S3"
     },

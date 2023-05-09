@@ -11,18 +11,6 @@
       "title": "Open Science Catalog"
     },
     {
-      "rel": "child",
-      "href": "../TOPEX/Poseidon/baltic-sea-level-baltic-seal/collection.json",
-      "type": "application/json",
-      "title": "Baltic Sea Level_Multimission"
-    },
-    {
-      "rel": "child",
-      "href": "../TOPEX/Poseidon/hydrodynamic-model-baltic-seal/collection.json",
-      "type": "application/json",
-      "title": "Hydrodynamic model data (deviation from Sea Level Mean)_Multimission"
-    },
-    {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",

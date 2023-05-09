@@ -34,7 +34,7 @@
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/Sentinel-5p/l2b-sif-surface-reflectance-tropomi-troposif/collection.json",
+      "href": "../../products/l2b-sif-surface-reflectance-tropomi-troposif/collection.json",
       "type": "application/json",
       "title": "Product: Daily ungridded (L2B) SIF and surface reflectance estimates derived from TROPOMI"
     },

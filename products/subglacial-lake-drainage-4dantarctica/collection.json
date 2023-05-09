@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -32,84 +33,85 @@
       "rel": "related",
       "href": "../../projects/4dantarctica/collection.json",
       "type": "application/json",
-      "title": "Project"
+      "title": "Project: 4D-ANTARCTICA"
     },
     {
       "rel": "related",
       "href": "../../themes/Cryosphere/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Cryosphere"
     },
     {
       "rel": "related",
       "href": "../../variables/Glacier cover/catalog.json",
       "type": "application/json",
-      "title": "Variable"
+      "title": "Variable: Glacier cover"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/CryoSat-2/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: CryoSat-2"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/SMOS/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: SMOS"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/Sentinel-1/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: Sentinel-1"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/Sentinel-2/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: Sentinel-2"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/ERS-1/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: ERS-1"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/ERS-2/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: ERS-2"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/ENVISAT/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: ENVISAT"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/AMSR-E/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: AMSR-E"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/TanDEM-X/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: TanDEM-X"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/Landsat-8/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: Landsat-8"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Products"
     }
   ],
   "stac_extensions": [

@@ -34,19 +34,19 @@
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/AEOLUS/diffuse-attenuation-aeolus-innovation-color/collection.json",
+      "href": "../../products/diffuse-attenuation-aeolus-innovation-color/collection.json",
       "type": "application/json",
       "title": "Product: Diffuse attenuation: Kd_Global_AEOLUS"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/AEOLUS/particulate-backscatter-aeolus-innovation-color/collection.json",
+      "href": "../../products/particulate-backscatter-aeolus-innovation-color/collection.json",
       "type": "application/json",
       "title": "Product: Particulate backscatter: bbp_Global_AEOLUS"
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/AEOLUS/cdom-aeolus-innovation-color/collection.json",
+      "href": "../../products/cdom-aeolus-innovation-color/collection.json",
       "type": "application/json",
       "title": "Product: Chromophoric Dissolved Organic Matter (CDOM) absorption_Global_AEOLUS"
     },

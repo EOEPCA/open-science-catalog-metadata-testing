@@ -28,7 +28,7 @@
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/CryoSat-2/sea-ice-and-snow-volume-north-sea-stse-arctic-yopp/collection.json",
+      "href": "../../products/sea-ice-and-snow-volume-north-sea-stse-arctic-yopp/collection.json",
       "type": "application/json",
       "title": "Product: Sea ice volume and snow volume_Prior and posterior uncertainties_North Sea_Cryosat-2"
     },

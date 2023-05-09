@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -23,30 +24,31 @@
       "rel": "related",
       "href": "../../projects/water-cycle-changes-characterised-from-atmospheric-moisture-recycling-weather/collection.json",
       "type": "application/json",
-      "title": "Project"
+      "title": "Project: (LPF) WEATHER"
     },
     {
       "rel": "related",
       "href": "../../themes/Atmosphere/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Atmosphere"
     },
     {
       "rel": "related",
       "href": "../../variables/HDO/catalog.json",
       "type": "application/json",
-      "title": "Variable"
+      "title": "Variable: HDO"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/GOSAT/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: GOSAT"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Products"
     }
   ],
   "stac_extensions": [

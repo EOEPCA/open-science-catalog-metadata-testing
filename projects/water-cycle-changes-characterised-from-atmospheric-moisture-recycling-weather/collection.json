@@ -28,7 +28,7 @@
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/GOSAT/water-vapour-isotopologues-lpf-weather/collection.json",
+      "href": "../../products/water-vapour-isotopologues-lpf-weather/collection.json",
       "type": "application/json",
       "title": "Product: GOSAT PBL XH2O and Stable Water Vapour Isotopologues_Global"
     },

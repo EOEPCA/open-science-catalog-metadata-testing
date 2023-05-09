@@ -23,42 +23,6 @@
       "title": "Theme: Atmosphere"
     },
     {
-      "rel": "child",
-      "href": "../../eo-missions/EARTHCARE/clima-cloud-profile-livas/collection.json",
-      "type": "application/json",
-      "title": "Climatology of cloud optical property profiles_Global_CALIPSO_EARTHCARE"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/EARTHCARE/cliima-cloud-od-livas/collection.json",
-      "type": "application/json",
-      "title": "Climatology of cloud optical depth_Global_CALIPSO_EARTHCARE"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/CALIPSO/cloud-op-livas/collection.json",
-      "type": "application/json",
-      "title": "Cloud optical property profiles_Global_CALIPSO"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/CALIPSO/cloud-od-livas/collection.json",
-      "type": "application/json",
-      "title": "Cloud optical depth_Global_CALIPSO"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/CALIPSO/cloud-op-averaged-livas/collection.json",
-      "type": "application/json",
-      "title": "Cloud optical property profiles, averaged per overpass along 1x1 degree grid_Global_CALIPSO"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/CALIPSO/cloud-od-averaged-livas/collection.json",
-      "type": "application/json",
-      "title": "Cloud optical depth, averaged per overpass along 1x1 degree grid_Global_CALIPSO"
-    },
-    {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",

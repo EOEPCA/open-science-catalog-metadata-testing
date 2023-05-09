@@ -28,7 +28,7 @@
     },
     {
       "rel": "related",
-      "href": "../../eo-missions/Sentinel-3/biomass-s3-africa-albiom/collection.json",
+      "href": "../../products/biomass-s3-africa-albiom/collection.json",
       "type": "application/json",
       "title": "Product: Prototype biomass product using Sentinel-3 altimetry_Africa_S3"
     },

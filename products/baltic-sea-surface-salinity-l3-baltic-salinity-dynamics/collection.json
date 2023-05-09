@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -27,36 +28,37 @@
       "rel": "related",
       "href": "../../projects/baltic-salinity-dynamics/collection.json",
       "type": "application/json",
-      "title": "Project"
+      "title": "Project: BALTIC+ Salinity Dynamics"
     },
     {
       "rel": "related",
       "href": "../../themes/Oceans/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Oceans"
     },
     {
       "rel": "related",
       "href": "../../variables/Sea surface salinity/catalog.json",
       "type": "application/json",
-      "title": "Variable"
+      "title": "Variable: Sea surface salinity"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/SMOS/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: SMOS"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/SMAP/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: SMAP"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Products"
     }
   ],
   "stac_extensions": [
