@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -23,36 +24,37 @@
       "rel": "related",
       "href": "../../themes/Cryosphere/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Cryosphere"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/Sentinel-2/snow-cover-alpglacier/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Snow cover on glaciers_SwissAlps_S1/2"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/Sentinel-2/glacier-surface-flow-velocity-alpglacier/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Glacier surface flow velocity_SwissAlps_S1/2"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/Sentinel-2/dynamics-of-glacier-lakes-alpglacier/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Dynamics of glacier lakes_SwissAlps_S1/2"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/Sentinel-2/slope-instabilities-glacier-forefields-alpglacier/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Slope instabilities in glacier forefields_SwissAlps_S1/2"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Projects"
     }
   ],
   "stac_extensions": [
@@ -83,7 +85,12 @@
   "extent": {
     "spatial": {
       "bbox": [
-        []
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
       ]
     },
     "temporal": {

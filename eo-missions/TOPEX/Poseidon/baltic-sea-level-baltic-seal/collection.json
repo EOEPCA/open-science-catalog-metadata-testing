@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -23,78 +24,79 @@
       "rel": "related",
       "href": "../../../../projects/baltic-seal-sea-level/collection.json",
       "type": "application/json",
-      "title": "Project"
+      "title": "Project: BALTIC+ SEAL - Sea Level"
     },
     {
       "rel": "related",
       "href": "../../../../themes/Oceans/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Oceans"
     },
     {
       "rel": "related",
       "href": "../../../../variables/Coastal sea level (tide)/catalog.json",
       "type": "application/json",
-      "title": "Variable"
+      "title": "Variable: Coastal sea level (tide)"
     },
     {
       "rel": "related",
       "href": "../catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: TOPEX/Poseidon"
     },
     {
       "rel": "related",
       "href": "../../../ERS-2/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: ERS-2"
     },
     {
       "rel": "related",
       "href": "../../../Jason-1/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: Jason-1"
     },
     {
       "rel": "related",
       "href": "../../../Jason-2/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: Jason-2"
     },
     {
       "rel": "related",
       "href": "../../../Jason-3/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: Jason-3"
     },
     {
       "rel": "related",
       "href": "../../../ENVISAT/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: ENVISAT"
     },
     {
       "rel": "related",
       "href": "../../../CryoSat-2/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: CryoSat-2"
     },
     {
       "rel": "related",
       "href": "../../../SARAL/ALtiKa/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: SARAL/ALtiKa"
     },
     {
       "rel": "related",
       "href": "../../../Sentinel-3/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: Sentinel-3"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "TOPEX/Poseidon"
     }
   ],
   "stac_extensions": [

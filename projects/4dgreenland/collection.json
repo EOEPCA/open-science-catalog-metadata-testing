@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -23,30 +24,31 @@
       "rel": "related",
       "href": "../../themes/Cryosphere/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Cryosphere"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/Sentinel-2/ice-sheet-surface-melt-4dgreenland/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Ice Sheet Surface Melt_Greenland_S-1/2"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/Sentinel-2/hydrological-surface-features-4dgreenland/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Extent and volume of hydrological surface features_Greenland_S1/2"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/Sentinel-2/ice-sheet-subglacial-hydrology-4dgreenland/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Ice Sheet subglacial hydrology_Greenland_S1/2"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Projects"
     }
   ],
   "stac_extensions": [
@@ -79,7 +81,12 @@
   "extent": {
     "spatial": {
       "bbox": [
-        []
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
       ]
     },
     "temporal": {

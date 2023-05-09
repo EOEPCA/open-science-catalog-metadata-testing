@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -23,54 +24,55 @@
       "rel": "related",
       "href": "../../themes/Oceans/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Oceans"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/Sentinel-3/global-particulate-organic-carbon-v4-bicep/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Monthly Global Particulate Organic Carbon dataset (4 km, OC-CCI v4.2)"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/Sentinel-3/global-particulate-organic-carbon-v5-bicep/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Monthly Global Particulate Organic Carbon dataset (4 km, OC-CCI v5)"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/Sentinel-3/global-marine-phytoplankton-primary-production-bicep/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Monthly global Marine Phytoplankton Primary Production dataset"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/Sentinel-3/global-marine-phytoplankton-carbon-bicep/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Monthly global Phytoplankton Carbon dataset"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/Sentinel-3/dissolved-organic-carbon-bicep/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Dissolved Organic Carbon"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/Sentinel-3/export-production-bicep/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Export Production"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/Sentinel-3/particulate-inorganic-carbon-bicep/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Particulate Inorganic Carbon"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Projects"
     }
   ],
   "stac_extensions": [
@@ -101,7 +103,12 @@
   "extent": {
     "spatial": {
       "bbox": [
-        []
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
       ]
     },
     "temporal": {

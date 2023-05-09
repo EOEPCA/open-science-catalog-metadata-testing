@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -28,42 +29,43 @@
       "rel": "related",
       "href": "../../../projects/alpsnow/collection.json",
       "type": "application/json",
-      "title": "Project"
+      "title": "Project: AlpSnow"
     },
     {
       "rel": "related",
       "href": "../../../themes/Cryosphere/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Cryosphere"
     },
     {
       "rel": "related",
       "href": "../../../variables/Snow cover/catalog.json",
       "type": "application/json",
-      "title": "Variable"
+      "title": "Variable: Snow cover"
     },
     {
       "rel": "related",
       "href": "../../MODIS/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: MODIS"
     },
     {
       "rel": "related",
       "href": "../catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: Sentinel-2"
     },
     {
       "rel": "related",
       "href": "../../Landsat-8/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: Landsat-8"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Sentinel-2"
     }
   ],
   "stac_extensions": [

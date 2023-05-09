@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -23,36 +24,37 @@
       "rel": "related",
       "href": "../../themes/Magnetosphere_Ionosphere/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Magnetosphere_Ionosphere"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/SWARM/solar-activity-polar-cap-plasma-density-ion-outflow/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: CHAMP and Swarm solar activity- and height-scaled polar cap plasma density measurements"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/SWARM/swarm-eiscat-conjunction-list-ion-outflow/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Swarm-EISCAT conjunction list (2013-2019)"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/SWARM/cluster-swarm-ac-conjunctions-ion-outflow/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Cluster/Swarm A and C conjunctions"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/SWARM/cluster-swarm-b-conjunctions-ion-outflow/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Cluster/Swarm B conjunctions"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Projects"
     }
   ],
   "stac_extensions": [
@@ -77,7 +79,12 @@
   "extent": {
     "spatial": {
       "bbox": [
-        []
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
       ]
     },
     "temporal": {

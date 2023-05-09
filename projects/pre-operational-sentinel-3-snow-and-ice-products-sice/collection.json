@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -23,36 +24,37 @@
       "rel": "related",
       "href": "../../themes/Cryosphere/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Cryosphere"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/Sentinel-3/broadband-albedo-arctic-sice/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Broadband albedo_Arctic_S3"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/Sentinel-3/spectral-albedo-arctic-sice/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Spectral albedo_Arctic_S3"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/Sentinel-3/snow-grain-diameter-arctic-sice/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Snow grain diameter_Arctic_S3"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/Sentinel-3/nrt-sice-rasters-greenland-arctic-sice/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: NRT SICE rasters for Greenland_Arctic_S3"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Projects"
     }
   ],
   "stac_extensions": [
@@ -78,7 +80,12 @@
   "extent": {
     "spatial": {
       "bbox": [
-        []
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
       ]
     },
     "temporal": {

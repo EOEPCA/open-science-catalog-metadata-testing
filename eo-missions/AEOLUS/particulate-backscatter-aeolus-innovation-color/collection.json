@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -23,30 +24,31 @@
       "rel": "related",
       "href": "../../../projects/aeolus-innovation-cdom-proxy-retrieval-from-aeolus-observations-color/collection.json",
       "type": "application/json",
-      "title": "Project"
+      "title": "Project: AEOLUS+inno - COLOR"
     },
     {
       "rel": "related",
       "href": "../../../themes/Oceans/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Oceans"
     },
     {
       "rel": "related",
       "href": "../../../variables/Ocean chlorophyll concentration/catalog.json",
       "type": "application/json",
-      "title": "Variable"
+      "title": "Variable: Ocean chlorophyll concentration"
     },
     {
       "rel": "related",
       "href": "../catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: AEOLUS"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "AEOLUS"
     }
   ],
   "stac_extensions": [

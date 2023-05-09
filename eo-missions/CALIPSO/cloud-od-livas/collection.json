@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -28,30 +29,31 @@
       "rel": "related",
       "href": "../../../projects/lidar-climatology-of-vertical-aerosol-structure-for-space-based-lidar-simulation-studies-livas/collection.json",
       "type": "application/json",
-      "title": "Project"
+      "title": "Project: LIVAS"
     },
     {
       "rel": "related",
       "href": "../../../themes/Atmosphere/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Atmosphere"
     },
     {
       "rel": "related",
       "href": "../../../variables/Cloud optical depth/catalog.json",
       "type": "application/json",
-      "title": "Variable"
+      "title": "Variable: Cloud optical depth"
     },
     {
       "rel": "related",
       "href": "../catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: CALIPSO"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "CALIPSO"
     }
   ],
   "stac_extensions": [

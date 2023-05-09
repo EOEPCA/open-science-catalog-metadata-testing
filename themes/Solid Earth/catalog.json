@@ -7,13 +7,19 @@
     {
       "rel": "root",
       "href": "../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "preview",
       "href": "./EO_Solid_Earth.webp",
       "type": "image/webp",
-      "title": "Image"
+      "title": "Image",
+      "proj:epsg": null,
+      "proj:shape": [
+        1080,
+        1920
+      ]
     },
     {
       "rel": "via",
@@ -120,8 +126,10 @@
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Themes"
     }
   ],
-  "stac_extensions": []
+  "stac_extensions": [],
+  "title": "Solid Earth"
 }

@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -23,30 +24,31 @@
       "rel": "related",
       "href": "../../../projects/3d-earth/collection.json",
       "type": "application/json",
-      "title": "Project"
+      "title": "Project: 3D-EARTH"
     },
     {
       "rel": "related",
       "href": "../../../themes/Solid Earth/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Solid Earth"
     },
     {
       "rel": "related",
       "href": "../../../variables/Gravity field/catalog.json",
       "type": "application/json",
-      "title": "Variable"
+      "title": "Variable: Gravity field"
     },
     {
       "rel": "related",
       "href": "../catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: GOCE"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "GOCE"
     }
   ],
   "stac_extensions": [

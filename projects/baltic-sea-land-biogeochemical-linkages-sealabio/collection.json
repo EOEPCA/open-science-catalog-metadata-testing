@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -23,36 +24,37 @@
       "rel": "related",
       "href": "../../themes/Oceans/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Oceans"
     },
     {
       "rel": "related",
       "href": "../../themes/Land/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Land"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/Model/model-based-cdom-baltic-sealabio/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Model based Colored Dissolved Organic Matter (CDOM) _Baltics_Model"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/In-situ/in-situ-sealabio/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: In-situ measurements_Baltics"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/Sentinel-3/eo-based-cdom-baltic-sealabio/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: EO based Color Disolved Organic Matter_Baltics_S3"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Projects"
     }
   ],
   "stac_extensions": [
@@ -82,7 +84,12 @@
   "extent": {
     "spatial": {
       "bbox": [
-        []
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
       ]
     },
     "temporal": {

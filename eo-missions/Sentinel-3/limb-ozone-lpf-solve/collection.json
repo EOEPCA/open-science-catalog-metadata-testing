@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -23,36 +24,37 @@
       "rel": "related",
       "href": "../../../projects/stratospheric-ozone-from-limb-observations-validation-of-the-profiles-evaluation-of-trends-and-their-dynamical-and-chemical-drivers-solve/collection.json",
       "type": "application/json",
-      "title": "Project"
+      "title": "Project: (LPF) SOLVE"
     },
     {
       "rel": "related",
       "href": "../../../themes/Atmosphere/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Atmosphere"
     },
     {
       "rel": "related",
       "href": "../../../variables/O3 Stratospheric Column/catalog.json",
       "type": "application/json",
-      "title": "Variable"
+      "title": "Variable: O3 Stratospheric Column"
     },
     {
       "rel": "related",
       "href": "../../Sentinel-2/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: Sentinel-2"
     },
     {
       "rel": "related",
       "href": "../catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: Sentinel-3"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Sentinel-3"
     }
   ],
   "stac_extensions": [

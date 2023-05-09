@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -23,36 +24,37 @@
       "rel": "related",
       "href": "../../themes/Cryosphere/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Cryosphere"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/CryoSat-2/swath-elelvation-greenland-ice-sheet-cryotop-evolution/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Swath elevation_Greenland Ice Sheet_2011-2016_CryoSat-2"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/CryoSat-2/ice-sheet-topography-elevation-change-cryotop-evolution/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Ice Sheet_gridded topography_rates of surface elevation change_Greenland_Cryosat-2"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/CryoSat-2/swath-elelvation-antarctic-ice-sheet-cryotop-evolution/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Swath elevation_Antarctic ice Sheet_2011-2016_CryoSat-2"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/CryoSat-2/elevation-and-elevation-change-antarctic-cryotop-evolution/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Swath-derived elevation and elevation change_Antarctic ice Sheet_2011-2016_CryoSat-2"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Projects"
     }
   ],
   "stac_extensions": [
@@ -81,7 +83,12 @@
   "extent": {
     "spatial": {
       "bbox": [
-        []
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
       ]
     },
     "temporal": {

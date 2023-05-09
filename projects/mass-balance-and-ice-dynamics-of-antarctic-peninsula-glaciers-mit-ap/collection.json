@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -23,36 +24,37 @@
       "rel": "related",
       "href": "../../themes/Cryosphere/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Cryosphere"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/TanDEM-X/dem-antarctica-2013-lpf-mitap/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Digital Elevation Model Antarctic Peninsula <70\u00b0S 2013_Antarctica_TanDEM-X"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/TanDEM-X/dem-antarctica-2017-lpf-mitap/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Digital Elevation Model Antarctic Peninsula <70\u00b0S 2017_Antarctica_TanDEM-X"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/TanDEM-X/surface-elevation-change-lpf-mitap/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Surface elevation changes Antarctic Peninsula <70\u00b0S between 2013 and 2017_Antarctica_TanDEM-X"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/TanDEM-X/glacier-mass-balance-lpf-mitap/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Geodetic glacier mass balances Antarctic Peninsula <70\u00b0S between 2013 and 2017_Antarctica_TanDEM-X"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Projects"
     }
   ],
   "stac_extensions": [
@@ -77,7 +79,12 @@
   "extent": {
     "spatial": {
       "bbox": [
-        []
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
       ]
     },
     "temporal": {

@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -23,36 +24,37 @@
       "rel": "related",
       "href": "../../themes/Cryosphere/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Cryosphere"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/SMOS/ice-sheet-temperature-antarctica-cryosmos/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Internal ice-sheet temperature_Antarctica_SMOS"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/SMOS/ice-shelf-antarctica-cryosmos/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Ice shelf product_Antarctica_SMOS"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/SMOS/surface-melting-antarctica-cryosmos/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Occurrence of Surface Melting_Antarctica_SMOS"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/SMOS/bedrock-topography-antarctica-cryosmos/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Bedrock topography and/or geothermal heat flux_Antarctica_GOCE"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Projects"
     }
   ],
   "stac_extensions": [
@@ -82,7 +84,12 @@
   "extent": {
     "spatial": {
       "bbox": [
-        []
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
       ]
     },
     "temporal": {

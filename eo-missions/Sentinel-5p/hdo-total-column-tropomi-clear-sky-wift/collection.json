@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -28,30 +29,31 @@
       "rel": "related",
       "href": "../../../projects/wift-water-vapour-isotopologues-from-tropomi/collection.json",
       "type": "application/json",
-      "title": "Project"
+      "title": "Project: (LPF) WIFT"
     },
     {
       "rel": "related",
       "href": "../../../themes/Atmosphere/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Atmosphere"
     },
     {
       "rel": "related",
       "href": "../../../variables/HDO/catalog.json",
       "type": "application/json",
-      "title": "Variable"
+      "title": "Variable: HDO"
     },
     {
       "rel": "related",
       "href": "../catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: Sentinel-5p"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Sentinel-5p"
     }
   ],
   "stac_extensions": [

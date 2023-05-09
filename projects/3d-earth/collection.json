@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -23,24 +24,25 @@
       "rel": "related",
       "href": "../../themes/Solid Earth/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Solid Earth"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/SWARM/geothermal-heat-flow-greenland-3d-earth/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Geothermal Heat Flow Database and Map_Greenland_GOCE_SWARM"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/GOCE/crust-and-upper-mantle-model-3d-earth/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Global Model of Crust and Upper Mantle_WINTERC-G_GOCE"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Projects"
     }
   ],
   "stac_extensions": [
@@ -71,7 +73,12 @@
   "extent": {
     "spatial": {
       "bbox": [
-        []
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
       ]
     },
     "temporal": {

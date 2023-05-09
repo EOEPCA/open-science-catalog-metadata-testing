@@ -2,1663 +2,1995 @@
   "type": "Catalog",
   "id": "variables",
   "stac_version": "1.0.0",
-  "description": "Open Science Catalog Variables",
+  "description": "Geoscience, climate and environmental variables",
   "links": [
     {
       "rel": "root",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "child",
       "href": "./(13)CH4 delta/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "(13)CH4 delta"
     },
     {
       "rel": "child",
       "href": "./(13)CO Delta/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "(13)CO Delta"
     },
     {
       "rel": "child",
       "href": "./(13)CO2 Delta/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "(13)CO2 Delta"
     },
     {
       "rel": "child",
       "href": "./(14)CH4 Delta/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "(14)CH4 Delta"
     },
     {
       "rel": "child",
       "href": "./(14)CO Number Concentration/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "(14)CO Number Concentration"
     },
     {
       "rel": "child",
       "href": "./(14)CO2 Delta/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "(14)CO2 Delta"
     },
     {
       "rel": "child",
       "href": "./Accumulated precipitation (over 24 h)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Accumulated precipitation (over 24 h)"
     },
     {
       "rel": "child",
       "href": "./Aerosol Absorption Optical Depth/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Aerosol Absorption Optical Depth"
     },
     {
       "rel": "child",
       "href": "./Aerosol column burden/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Aerosol column burden"
     },
     {
       "rel": "child",
       "href": "./Aerosol dust concentration/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Aerosol dust concentration"
     },
     {
       "rel": "child",
       "href": "./Aerosol effective radius/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Aerosol effective radius"
     },
     {
       "rel": "child",
       "href": "./Aerosol Extinction Coefficient/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Aerosol Extinction Coefficient"
     },
     {
       "rel": "child",
       "href": "./Aerosol Layer Height/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Aerosol Layer Height"
     },
     {
       "rel": "child",
       "href": "./Aerosol mass mixing ratio/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Aerosol mass mixing ratio"
     },
     {
       "rel": "child",
       "href": "./Aerosol Optical Depth/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Aerosol Optical Depth"
     },
     {
       "rel": "child",
       "href": "./Aerosol single-scattering albedo/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Aerosol single-scattering albedo"
     },
     {
       "rel": "child",
       "href": "./Aerosol species mole fraction/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Aerosol species mole fraction"
     },
     {
       "rel": "child",
       "href": "./Aerosol species total column burden/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Aerosol species total column burden"
     },
     {
       "rel": "child",
       "href": "./Aerosol type/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Aerosol type"
     },
     {
       "rel": "child",
       "href": "./Aerosol volcanic ash/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Aerosol volcanic ash"
     },
     {
       "rel": "child",
       "href": "./Aerosol volcanic ash  Total Column/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Aerosol volcanic ash  Total Column"
     },
     {
       "rel": "child",
       "href": "./Air pressure (near surface)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Air pressure (near surface)"
     },
     {
       "rel": "child",
       "href": "./Air specific humidity (near surface)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Air specific humidity (near surface)"
     },
     {
       "rel": "child",
       "href": "./Air temperature (near surface)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Air temperature (near surface)"
     },
     {
       "rel": "child",
       "href": "./Alpha particles differential directional flux/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Alpha particles differential directional flux"
     },
     {
       "rel": "child",
       "href": "./Alpha particles integral directional flux/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Alpha particles integral directional flux"
     },
     {
       "rel": "child",
       "href": "./Atmospheric density/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Atmospheric density"
     },
     {
       "rel": "child",
       "href": "./Atmospheric temperature/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Atmospheric temperature"
     },
     {
       "rel": "child",
       "href": "./Aurora/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Aurora"
     },
     {
       "rel": "child",
       "href": "./Background Luminance (surface)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Background Luminance (surface)"
     },
     {
       "rel": "child",
       "href": "./Bathymetry/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Bathymetry"
     },
     {
       "rel": "child",
       "href": "./Biomass/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Biomass"
     },
     {
       "rel": "child",
       "href": "./BrO/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "BrO"
     },
     {
       "rel": "child",
       "href": "./C(17)OO Delta/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "C(17)OO Delta"
     },
     {
       "rel": "child",
       "href": "./C(18)O Delta/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "C(18)O Delta"
     },
     {
       "rel": "child",
       "href": "./C(18)OO Delta/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "C(18)OO Delta"
     },
     {
       "rel": "child",
       "href": "./C10H16 (3-Carene) Mole Fraction/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "C10H16 (3-Carene) Mole Fraction"
     },
     {
       "rel": "child",
       "href": "./C10H16 (alfapinene) Mole Fraction/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "C10H16 (alfapinene) Mole Fraction"
     },
     {
       "rel": "child",
       "href": "./C10H16 (betapinene) Mole Fraction/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "C10H16 (betapinene) Mole Fraction"
     },
     {
       "rel": "child",
       "href": "./C10H16 (Limonene) Mole Fraction/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "C10H16 (Limonene) Mole Fraction"
     },
     {
       "rel": "child",
       "href": "./C2H2/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "C2H2"
     },
     {
       "rel": "child",
       "href": "./C2H5OH Mole Fraction/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "C2H5OH Mole Fraction"
     },
     {
       "rel": "child",
       "href": "./C2H6/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "C2H6"
     },
     {
       "rel": "child",
       "href": "./C2H6S Mole Fraction/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "C2H6S Mole Fraction"
     },
     {
       "rel": "child",
       "href": "./C3H6O Mole Fraction/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "C3H6O Mole Fraction"
     },
     {
       "rel": "child",
       "href": "./C3H8/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "C3H8"
     },
     {
       "rel": "child",
       "href": "./C4H10/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "C4H10"
     },
     {
       "rel": "child",
       "href": "./C4H10 (n-butane)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "C4H10 (n-butane)"
     },
     {
       "rel": "child",
       "href": "./C5H12 (2-Methylbutane)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "C5H12 (2-Methylbutane)"
     },
     {
       "rel": "child",
       "href": "./C5H12 (n-Pentane)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "C5H12 (n-Pentane)"
     },
     {
       "rel": "child",
       "href": "./C5H8/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "C5H8"
     },
     {
       "rel": "child",
       "href": "./C6H6/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "C6H6"
     },
     {
       "rel": "child",
       "href": "./C7H8 Mole Fraction/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "C7H8 Mole Fraction"
     },
     {
       "rel": "child",
       "href": "./CFC-11/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "CFC-11"
     },
     {
       "rel": "child",
       "href": "./CFC-12/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "CFC-12"
     },
     {
       "rel": "child",
       "href": "./CH3Br/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "CH3Br"
     },
     {
       "rel": "child",
       "href": "./CH3CN Mole Fraction/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "CH3CN Mole Fraction"
     },
     {
       "rel": "child",
       "href": "./CH3D Delta/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "CH3D Delta"
     },
     {
       "rel": "child",
       "href": "./CH3OH Mole Fraction/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "CH3OH Mole Fraction"
     },
     {
       "rel": "child",
       "href": "./CH4 column average dry air mixing ratio/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "CH4 column average dry air mixing ratio"
     },
     {
       "rel": "child",
       "href": "./CH4 mole fraction/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "CH4 mole fraction"
     },
     {
       "rel": "child",
       "href": "./CH4 Mole fraction (BG)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "CH4 Mole fraction (BG)"
     },
     {
       "rel": "child",
       "href": "./CH4 Mole fraction (SR)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "CH4 Mole fraction (SR)"
     },
     {
       "rel": "child",
       "href": "./CH4 Tropospheric column/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "CH4 Tropospheric column"
     },
     {
       "rel": "child",
       "href": "./ClO/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "ClO"
     },
     {
       "rel": "child",
       "href": "./ClONO2/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "ClONO2"
     },
     {
       "rel": "child",
       "href": "./Cloud base height/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Cloud base height"
     },
     {
       "rel": "child",
       "href": "./Cloud cover/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Cloud cover"
     },
     {
       "rel": "child",
       "href": "./Cloud drop effective radius/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Cloud drop effective radius"
     },
     {
       "rel": "child",
       "href": "./Cloud ice/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Cloud ice"
     },
     {
       "rel": "child",
       "href": "./Cloud ice effective radius/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Cloud ice effective radius"
     },
     {
       "rel": "child",
       "href": "./Cloud ice Total Column/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Cloud ice Total Column"
     },
     {
       "rel": "child",
       "href": "./Cloud liquid water (CLW)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Cloud liquid water (CLW)"
     },
     {
       "rel": "child",
       "href": "./Cloud liquid water (CLW) total column/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Cloud liquid water (CLW) total column"
     },
     {
       "rel": "child",
       "href": "./Cloud optical depth/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Cloud optical depth"
     },
     {
       "rel": "child",
       "href": "./Cloud to Ground lightning density/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Cloud to Ground lightning density"
     },
     {
       "rel": "child",
       "href": "./Cloud top height/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Cloud top height"
     },
     {
       "rel": "child",
       "href": "./Cloud top pressure/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Cloud top pressure"
     },
     {
       "rel": "child",
       "href": "./Cloud top temperature/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Cloud top temperature"
     },
     {
       "rel": "child",
       "href": "./Cloud type/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Cloud type"
     },
     {
       "rel": "child",
       "href": "./CO mole fraction/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "CO mole fraction"
     },
     {
       "rel": "child",
       "href": "./CO mole fraction (near surface)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "CO mole fraction (near surface)"
     },
     {
       "rel": "child",
       "href": "./CO Total Column/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "CO Total Column"
     },
     {
       "rel": "child",
       "href": "./CO Tropospheric column/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "CO Tropospheric column"
     },
     {
       "rel": "child",
       "href": "./CO2 column average dry air mixing ratio/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "CO2 column average dry air mixing ratio"
     },
     {
       "rel": "child",
       "href": "./CO2 flux/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "CO2 flux"
     },
     {
       "rel": "child",
       "href": "./CO2 mole fraction/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "CO2 mole fraction"
     },
     {
       "rel": "child",
       "href": "./CO2 Mole fraction (BG)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "CO2 Mole fraction (BG)"
     },
     {
       "rel": "child",
       "href": "./CO2 Mole fraction (SR)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "CO2 Mole fraction (SR)"
     },
     {
       "rel": "child",
       "href": "./CO2 Tropospheric Column/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "CO2 Tropospheric Column"
     },
     {
       "rel": "child",
       "href": "./Coastal sea level (tide)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Coastal sea level (tide)"
     },
     {
       "rel": "child",
       "href": "./Coastlines/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Coastlines"
     },
     {
       "rel": "child",
       "href": "./Colour Dissolved Organic Matter (CDOM)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Colour Dissolved Organic Matter (CDOM)"
     },
     {
       "rel": "child",
       "href": "./COS/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "COS"
     },
     {
       "rel": "child",
       "href": "./Cosmic ray neutron flux/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Cosmic ray neutron flux"
     },
     {
       "rel": "child",
       "href": "./Cosmic ray neutron flux spectrum/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Cosmic ray neutron flux spectrum"
     },
     {
       "rel": "child",
       "href": "./Crustal motion (horizontal and vertical)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Crustal motion (horizontal and vertical)"
     },
     {
       "rel": "child",
       "href": "./Crustal plates positioning/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Crustal plates positioning"
     },
     {
       "rel": "child",
       "href": "./Dew Point Temperature/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Dew Point Temperature"
     },
     {
       "rel": "child",
       "href": "./Dissolved inorganic carbon  (DIC)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Dissolved inorganic carbon  (DIC)"
     },
     {
       "rel": "child",
       "href": "./DMS Mole Fraction/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "DMS Mole Fraction"
     },
     {
       "rel": "child",
       "href": "./Dominant wave direction/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Dominant wave direction"
     },
     {
       "rel": "child",
       "href": "./Dominant wave period/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Dominant wave period"
     },
     {
       "rel": "child",
       "href": "./Downward long-wave irradiance at Earth surface/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Downward long-wave irradiance at Earth surface"
     },
     {
       "rel": "child",
       "href": "./Downward short-wave irradiance at Earth surface/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Downward short-wave irradiance at Earth surface"
     },
     {
       "rel": "child",
       "href": "./Downward short-wave irradiance at TOA/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Downward short-wave irradiance at TOA"
     },
     {
       "rel": "child",
       "href": "./Earth Rotation/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Earth Rotation"
     },
     {
       "rel": "child",
       "href": "./Earth surface albedo/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Earth surface albedo"
     },
     {
       "rel": "child",
       "href": "./Earth surface short-wave bidirectional reflectance/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Earth surface short-wave bidirectional reflectance"
     },
     {
       "rel": "child",
       "href": "./Electric Field/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Electric Field"
     },
     {
       "rel": "child",
       "href": "./Electron Density/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Electron Density"
     },
     {
       "rel": "child",
       "href": "./Electron differential directional flux/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Electron differential directional flux"
     },
     {
       "rel": "child",
       "href": "./Electron flux density/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Electron flux density"
     },
     {
       "rel": "child",
       "href": "./Electron flux energy spectrum/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Electron flux energy spectrum"
     },
     {
       "rel": "child",
       "href": "./Electron integral directional flux/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Electron integral directional flux"
     },
     {
       "rel": "child",
       "href": "./Electrostatic charge/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Electrostatic charge"
     },
     {
       "rel": "child",
       "href": "./Energetic Neutral Atom (ENA)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Energetic Neutral Atom (ENA)"
     },
     {
       "rel": "child",
       "href": "./EUV flux/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "EUV flux"
     },
     {
       "rel": "child",
       "href": "./EUV flux spectrum/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "EUV flux spectrum"
     },
     {
       "rel": "child",
       "href": "./EUV sky image/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "EUV sky image"
     },
     {
       "rel": "child",
       "href": "./Evapotranspiration/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Evapotranspiration"
     },
     {
       "rel": "child",
       "href": "./Fire fractional cover/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Fire fractional cover"
     },
     {
       "rel": "child",
       "href": "./Fire radiative power/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Fire radiative power"
     },
     {
       "rel": "child",
       "href": "./Fire temperature/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Fire temperature"
     },
     {
       "rel": "child",
       "href": "./foEs/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "foEs"
     },
     {
       "rel": "child",
       "href": "./foF2/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "foF2"
     },
     {
       "rel": "child",
       "href": "./Fraction of Absorbed PAR (FAPAR)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Fraction of Absorbed PAR (FAPAR)"
     },
     {
       "rel": "child",
       "href": "./Fraction of vegetated land/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Fraction of vegetated land"
     },
     {
       "rel": "child",
       "href": "./Freezing level height in clouds/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Freezing level height in clouds"
     },
     {
       "rel": "child",
       "href": "./Gamma-ray flux/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Gamma-ray flux"
     },
     {
       "rel": "child",
       "href": "./Gamma-ray flux spectrum/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Gamma-ray flux spectrum"
     },
     {
       "rel": "child",
       "href": "./Geoid/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Geoid"
     },
     {
       "rel": "child",
       "href": "./Geomagnetic field/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Geomagnetic field"
     },
     {
       "rel": "child",
       "href": "./Glacier cover/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Glacier cover"
     },
     {
       "rel": "child",
       "href": "./Glacier motion/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Glacier motion"
     },
     {
       "rel": "child",
       "href": "./Glacier topography/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Glacier topography"
     },
     {
       "rel": "child",
       "href": "./Glyoxal Mole Fraction/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Glyoxal Mole Fraction"
     },
     {
       "rel": "child",
       "href": "./Glyoxal Tropospheric column/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Glyoxal Tropospheric column"
     },
     {
       "rel": "child",
       "href": "./Gravity field/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Gravity field"
     },
     {
       "rel": "child",
       "href": "./Gravity gradients/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Gravity gradients"
     },
     {
       "rel": "child",
       "href": "./Ground water/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Ground water"
     },
     {
       "rel": "child",
       "href": "./h'F/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "h'F"
     },
     {
       "rel": "child",
       "href": "./H2 Mole Fraction/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "H2 Mole Fraction"
     },
     {
       "rel": "child",
       "href": "./H2O/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "H2O"
     },
     {
       "rel": "child",
       "href": "./HCFC-22/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "HCFC-22"
     },
     {
       "rel": "child",
       "href": "./HCHO mole fraction/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "HCHO mole fraction"
     },
     {
       "rel": "child",
       "href": "./HCHO Total Column/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "HCHO Total Column"
     },
     {
       "rel": "child",
       "href": "./HCHO Tropospheric column/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "HCHO Tropospheric column"
     },
     {
       "rel": "child",
       "href": "./HCl/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "HCl"
     },
     {
       "rel": "child",
       "href": "./HD Delta/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "HD Delta"
     },
     {
       "rel": "child",
       "href": "./HDO/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "HDO"
     },
     {
       "rel": "child",
       "href": "./Heavy ion angular flux energy and mass spectrum/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Heavy ion angular flux energy and mass spectrum"
     },
     {
       "rel": "child",
       "href": "./Heavy ion differential directional flux/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Heavy ion differential directional flux"
     },
     {
       "rel": "child",
       "href": "./Heavy ion flux energy and mass spectrum/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Heavy ion flux energy and mass spectrum"
     },
     {
       "rel": "child",
       "href": "./Heavy ion integral directional flux/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Heavy ion integral directional flux"
     },
     {
       "rel": "child",
       "href": "./Height of the top of PBL/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Height of the top of PBL"
     },
     {
       "rel": "child",
       "href": "./Height of the tropopause/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Height of the tropopause"
     },
     {
       "rel": "child",
       "href": "./Heliospheric image/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Heliospheric image"
     },
     {
       "rel": "child",
       "href": "./hmF2/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "hmF2"
     },
     {
       "rel": "child",
       "href": "./HNO3/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "HNO3"
     },
     {
       "rel": "child",
       "href": "./Hydrometeor type/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Hydrometeor type"
     },
     {
       "rel": "child",
       "href": "./Ice sheet topography/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Ice sheet topography"
     },
     {
       "rel": "child",
       "href": "./Icing potential/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Icing potential"
     },
     {
       "rel": "child",
       "href": "./Integrated Water Vapour (IWV)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Integrated Water Vapour (IWV)"
     },
     {
       "rel": "child",
       "href": "./Interplanetary magnetic field/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Interplanetary magnetic field"
     },
     {
       "rel": "child",
       "href": "./Ionospheric plasma density/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Ionospheric plasma density"
     },
     {
       "rel": "child",
       "href": "./Ionospheric plasma velocity/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Ionospheric plasma velocity"
     },
     {
       "rel": "child",
       "href": "./Ionospheric Radio Absorption/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Ionospheric Radio Absorption"
     },
     {
       "rel": "child",
       "href": "./Ionospheric Scintillation/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Ionospheric Scintillation"
     },
     {
       "rel": "child",
       "href": "./Ionospheric Vertical Total Electron Content (VTEC)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Ionospheric Vertical Total Electron Content (VTEC)"
     },
     {
       "rel": "child",
       "href": "./Lake area/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Lake area"
     },
     {
       "rel": "child",
       "href": "./Lake level/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Lake level"
     },
     {
       "rel": "child",
       "href": "./Lake Surface Temperature/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Lake Surface Temperature"
     },
     {
       "rel": "child",
       "href": "./Land cover/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Land cover"
     },
     {
       "rel": "child",
       "href": "./Land surface temperature/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Land surface temperature"
     },
     {
       "rel": "child",
       "href": "./Land surface topography/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Land surface topography"
     },
     {
       "rel": "child",
       "href": "./Leaf Area Index (LAI)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Leaf Area Index (LAI)"
     },
     {
       "rel": "child",
       "href": "./Long-wave Earth surface emissivity/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Long-wave Earth surface emissivity"
     },
     {
       "rel": "child",
       "href": "./Melting layer depth in clouds/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Melting layer depth in clouds"
     },
     {
       "rel": "child",
       "href": "./Meteorological Optical Range (MOR) (surface)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Meteorological Optical Range (MOR) (surface)"
     },
     {
       "rel": "child",
       "href": "./N(15)NO Delta/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "N(15)NO Delta"
     },
     {
       "rel": "child",
       "href": "./N(15)NO-Alpha Delta/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "N(15)NO-Alpha Delta"
     },
     {
       "rel": "child",
       "href": "./N(15)NO-Beta Delta/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "N(15)NO-Beta Delta"
     },
     {
       "rel": "child",
       "href": "./N2(18)O Delta/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "N2(18)O Delta"
     },
     {
       "rel": "child",
       "href": "./N2O mole fraction/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "N2O mole fraction"
     },
     {
       "rel": "child",
       "href": "./N2O mole fraction (BG)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "N2O mole fraction (BG)"
     },
     {
       "rel": "child",
       "href": "./N2O mole fraction (SR)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "N2O mole fraction (SR)"
     },
     {
       "rel": "child",
       "href": "./N2O5/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "N2O5"
     },
     {
       "rel": "child",
       "href": "./NH3 Mole Fraction/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "NH3 Mole Fraction"
     },
     {
       "rel": "child",
       "href": "./NH3 Total Column/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "NH3 Total Column"
     },
     {
       "rel": "child",
       "href": "./NIR/SWIR flux/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "NIR/SWIR flux"
     },
     {
       "rel": "child",
       "href": "./NIR/SWIR flux spectrum/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "NIR/SWIR flux spectrum"
     },
     {
       "rel": "child",
       "href": "./NIR/SWIR sky image/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "NIR/SWIR sky image"
     },
     {
       "rel": "child",
       "href": "./NO/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "NO"
     },
     {
       "rel": "child",
       "href": "./NO2  Total Column/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "NO2  Total Column"
     },
     {
       "rel": "child",
       "href": "./NO2 Mole  fraction (SR)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "NO2 Mole  fraction (SR)"
     },
     {
       "rel": "child",
       "href": "./NO2 mole fraction/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "NO2 mole fraction"
     },
     {
       "rel": "child",
       "href": "./NO2 Mole fraction (BG)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "NO2 Mole fraction (BG)"
     },
     {
       "rel": "child",
       "href": "./NO2 mole fraction (near surface)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "NO2 mole fraction (near surface)"
     },
     {
       "rel": "child",
       "href": "./NO2 Stratospheric Column/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "NO2 Stratospheric Column"
     },
     {
       "rel": "child",
       "href": "./NO2 Tropospheric column/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "NO2 Tropospheric column"
     },
     {
       "rel": "child",
       "href": "./NO3 Mole Fraction/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "NO3 Mole Fraction"
     },
     {
       "rel": "child",
       "href": "./Normalised Difference Vegetation Index (NDVI)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Normalised Difference Vegetation Index (NDVI)"
     },
     {
       "rel": "child",
       "href": "./O3/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "O3"
     },
     {
       "rel": "child",
       "href": "./O3 mole fraction/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "O3 mole fraction"
     },
     {
       "rel": "child",
       "href": "./O3 Stratospheric Column/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "O3 Stratospheric Column"
     },
     {
       "rel": "child",
       "href": "./O3 Total Column/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "O3 Total Column"
     },
     {
       "rel": "child",
       "href": "./O3 Tropospheric Column/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "O3 Tropospheric Column"
     },
     {
       "rel": "child",
       "href": "./Ocean chlorophyll concentration/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Ocean chlorophyll concentration"
     },
     {
       "rel": "child",
       "href": "./Ocean Diffuse Attenuation Coefficient (DAC)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Ocean Diffuse Attenuation Coefficient (DAC)"
     },
     {
       "rel": "child",
       "href": "./Ocean dynamic topography/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Ocean dynamic topography"
     },
     {
       "rel": "child",
       "href": "./Ocean salinity/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Ocean salinity"
     },
     {
       "rel": "child",
       "href": "./Ocean subsurface dissolved oxygen concentration/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Ocean subsurface dissolved oxygen concentration"
     },
     {
       "rel": "child",
       "href": "./Ocean subsurface tracers/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Ocean subsurface tracers"
     },
     {
       "rel": "child",
       "href": "./Ocean surface currents (vector)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Ocean surface currents (vector)"
     },
     {
       "rel": "child",
       "href": "./Ocean suspended sediments concentration/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Ocean suspended sediments concentration"
     },
     {
       "rel": "child",
       "href": "./Ocean temperature/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Ocean temperature"
     },
     {
       "rel": "child",
       "href": "./Ocean velocity/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Ocean velocity"
     },
     {
       "rel": "child",
       "href": "./OCS Mole fraction/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "OCS Mole fraction"
     },
     {
       "rel": "child",
       "href": "./OH/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "OH"
     },
     {
       "rel": "child",
       "href": "./Oil spill cover/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Oil spill cover"
     },
     {
       "rel": "child",
       "href": "./PAN/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "PAN"
     },
     {
       "rel": "child",
       "href": "./pCO2/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "pCO2"
     },
     {
       "rel": "child",
       "href": "./Permafrost/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Permafrost"
     },
     {
       "rel": "child",
       "href": "./pH/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "pH"
     },
     {
       "rel": "child",
       "href": "./Photosynthetically Active Radiation (PAR)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Photosynthetically Active Radiation (PAR)"
     },
     {
       "rel": "child",
       "href": "./Precipitation  (liquid or solid)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Precipitation  (liquid or solid)"
     },
     {
       "rel": "child",
       "href": "./Precipitation intensity at surface (liquid or solid)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Precipitation intensity at surface (liquid or solid)"
     },
     {
       "rel": "child",
       "href": "./Precipitation intensity at surface (solid)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Precipitation intensity at surface (solid)"
     },
     {
       "rel": "child",
       "href": "./Precipitation type at the surface/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Precipitation type at the surface"
     },
     {
       "rel": "child",
       "href": "./Proton differential directional flux/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Proton differential directional flux"
     },
     {
       "rel": "child",
       "href": "./Proton integral directional flux/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Proton integral directional flux"
     },
     {
       "rel": "child",
       "href": "./PSC occurrence/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "PSC occurrence"
     },
     {
       "rel": "child",
       "href": "./Radiation Dose Rate/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Radiation Dose Rate"
     },
     {
       "rel": "child",
       "href": "./Radiation profile/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Radiation profile"
     },
     {
       "rel": "child",
       "href": "./Radio-waves/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Radio-waves"
     },
     {
       "rel": "child",
       "href": "./Relative humidity/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Relative humidity"
     },
     {
       "rel": "child",
       "href": "./Relative Humidity (near surface)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Relative Humidity (near surface)"
     },
     {
       "rel": "child",
       "href": "./River discharge/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "River discharge"
     },
     {
       "rel": "child",
       "href": "./Sea surface heat flux/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Sea surface heat flux"
     },
     {
       "rel": "child",
       "href": "./Sea surface height anomaly/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Sea surface height anomaly"
     },
     {
       "rel": "child",
       "href": "./Sea Surface Mass Flux/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Sea Surface Mass Flux"
     },
     {
       "rel": "child",
       "href": "./Sea surface salinity/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Sea surface salinity"
     },
     {
       "rel": "child",
       "href": "./Sea surface temperature/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Sea surface temperature"
     },
     {
       "rel": "child",
       "href": "./Sea-ice cover/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Sea-ice cover"
     },
     {
       "rel": "child",
       "href": "./Sea-ice elevation/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Sea-ice elevation"
     },
     {
       "rel": "child",
       "href": "./Sea-ice motion/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Sea-ice motion"
     },
     {
       "rel": "child",
       "href": "./Sea-ice surface characteristics/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Sea-ice surface characteristics"
     },
     {
       "rel": "child",
       "href": "./Sea-ice surface temperature/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Sea-ice surface temperature"
     },
     {
       "rel": "child",
       "href": "./Sea-ice thickness/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Sea-ice thickness"
     },
     {
       "rel": "child",
       "href": "./Sea-ice type/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Sea-ice type"
     },
     {
       "rel": "child",
       "href": "./SF6/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "SF6"
     },
     {
       "rel": "child",
       "href": "./Short-wave cloud reflectance/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Short-wave cloud reflectance"
     },
     {
       "rel": "child",
       "href": "./Significant wave height/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Significant wave height"
     },
     {
       "rel": "child",
       "href": "./Snow cover/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Snow cover"
     },
     {
       "rel": "child",
       "href": "./Snow depth/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Snow depth"
     },
     {
       "rel": "child",
       "href": "./Snow status (wet/dry)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Snow status (wet/dry)"
     },
     {
       "rel": "child",
       "href": "./Snow water equivalent/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Snow water equivalent"
     },
     {
       "rel": "child",
       "href": "./SO2 mole fraction/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "SO2 mole fraction"
     },
     {
       "rel": "child",
       "href": "./SO2 mole fraction (near surface)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "SO2 mole fraction (near surface)"
     },
     {
       "rel": "child",
       "href": "./SO2 Total Column/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "SO2 Total Column"
     },
     {
       "rel": "child",
       "href": "./SO2 Tropospheric Column/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "SO2 Tropospheric Column"
     },
     {
       "rel": "child",
       "href": "./Soil moisture  (in the roots region)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Soil moisture  (in the roots region)"
     },
     {
       "rel": "child",
       "href": "./Soil moisture at surface/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Soil moisture at surface"
     },
     {
       "rel": "child",
       "href": "./Soil temperature/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Soil temperature"
     },
     {
       "rel": "child",
       "href": "./Soil type/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Soil type"
     },
     {
       "rel": "child",
       "href": "./Solar Ca II-K image/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Solar Ca II-K image"
     },
     {
       "rel": "child",
       "href": "./Solar coronagraphic image/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Solar coronagraphic image"
     },
     {
       "rel": "child",
       "href": "./Solar electric field/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Solar electric field"
     },
     {
       "rel": "child",
       "href": "./Solar EUV flux/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Solar EUV flux"
     },
     {
       "rel": "child",
       "href": "./Solar EUV flux spectrum/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Solar EUV flux spectrum"
     },
     {
       "rel": "child",
       "href": "./Solar EUV image/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Solar EUV image"
     },
     {
       "rel": "child",
       "href": "./Solar gamma-ray flux/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Solar gamma-ray flux"
     },
     {
       "rel": "child",
       "href": "./Solar gamma-ray flux spectrum/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Solar gamma-ray flux spectrum"
     },
     {
       "rel": "child",
       "href": "./Solar H-alpha image/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Solar H-alpha image"
     },
     {
       "rel": "child",
       "href": "./Solar Lyman-alpha flux/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Solar Lyman-alpha flux"
     },
     {
       "rel": "child",
       "href": "./Solar Lyman-alpha image/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Solar Lyman-alpha image"
     },
     {
       "rel": "child",
       "href": "./Solar magnetic field/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Solar magnetic field"
     },
     {
       "rel": "child",
       "href": "./Solar radio flux/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Solar radio flux"
     },
     {
       "rel": "child",
       "href": "./Solar radio flux spectrum/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Solar radio flux spectrum"
     },
     {
       "rel": "child",
       "href": "./Solar radio image/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Solar radio image"
     },
     {
       "rel": "child",
       "href": "./Solar spectral irradiance/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Solar spectral irradiance"
     },
     {
       "rel": "child",
       "href": "./Solar UV flux/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Solar UV flux"
     },
     {
       "rel": "child",
       "href": "./Solar UV flux spectrum/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Solar UV flux spectrum"
     },
     {
       "rel": "child",
       "href": "./Solar UV image/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Solar UV image"
     },
     {
       "rel": "child",
       "href": "./Solar velocity fields/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Solar velocity fields"
     },
     {
       "rel": "child",
       "href": "./Solar VIS flux/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Solar VIS flux"
     },
     {
       "rel": "child",
       "href": "./Solar VIS flux spectrum/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Solar VIS flux spectrum"
     },
     {
       "rel": "child",
       "href": "./Solar VIS image/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Solar VIS image"
     },
     {
       "rel": "child",
       "href": "./Solar white light image/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Solar white light image"
     },
     {
       "rel": "child",
       "href": "./Solar wind density/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Solar wind density"
     },
     {
       "rel": "child",
       "href": "./Solar wind temperature/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Solar wind temperature"
     },
     {
       "rel": "child",
       "href": "./Solar wind velocity/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Solar wind velocity"
     },
     {
       "rel": "child",
       "href": "./Solar X-ray flux/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Solar X-ray flux"
     },
     {
       "rel": "child",
       "href": "./Solar X-ray flux spectrum/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Solar X-ray flux spectrum"
     },
     {
       "rel": "child",
       "href": "./Solar X-ray image/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Solar X-ray image"
     },
     {
       "rel": "child",
       "href": "./Specific humidity/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Specific humidity"
     },
     {
       "rel": "child",
       "href": "./Spread F/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Spread F"
     },
     {
       "rel": "child",
       "href": "./Temperature of the tropopause/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Temperature of the tropopause"
     },
     {
       "rel": "child",
       "href": "./Total alkalinity (AT)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Total alkalinity (AT)"
     },
     {
       "rel": "child",
       "href": "./Total lightning density/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Total lightning density"
     },
     {
       "rel": "child",
       "href": "./Turbulence/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Turbulence"
     },
     {
       "rel": "child",
       "href": "./Upward long-wave irradiance at Earth surface/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Upward long-wave irradiance at Earth surface"
     },
     {
       "rel": "child",
       "href": "./Upward long-wave irradiance at TOA/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Upward long-wave irradiance at TOA"
     },
     {
       "rel": "child",
       "href": "./Upward short-wave irradiance at TOA/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Upward short-wave irradiance at TOA"
     },
     {
       "rel": "child",
       "href": "./Upward spectral radiance at TOA/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Upward spectral radiance at TOA"
     },
     {
       "rel": "child",
       "href": "./UV flux/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "UV flux"
     },
     {
       "rel": "child",
       "href": "./UV flux spectrum/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "UV flux spectrum"
     },
     {
       "rel": "child",
       "href": "./UV sky image/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "UV sky image"
     },
     {
       "rel": "child",
       "href": "./Vegetation type/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Vegetation type"
     },
     {
       "rel": "child",
       "href": "./VIS flux/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "VIS flux"
     },
     {
       "rel": "child",
       "href": "./VIS flux spectrum/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "VIS flux spectrum"
     },
     {
       "rel": "child",
       "href": "./VIS sky image/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "VIS sky image"
     },
     {
       "rel": "child",
       "href": "./Water-leaving spectral radiance/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Water-leaving spectral radiance"
     },
     {
       "rel": "child",
       "href": "./Wave 1D energy frequency spectrum/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Wave 1D energy frequency spectrum"
     },
     {
       "rel": "child",
       "href": "./Wave directional energy frequency spectrum/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Wave directional energy frequency spectrum"
     },
     {
       "rel": "child",
       "href": "./Wetland extent/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Wetland extent"
     },
     {
       "rel": "child",
       "href": "./Wind (horizontal)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Wind (horizontal)"
     },
     {
       "rel": "child",
       "href": "./Wind (vertical)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Wind (vertical)"
     },
     {
       "rel": "child",
       "href": "./Wind direction (near surface)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Wind direction (near surface)"
     },
     {
       "rel": "child",
       "href": "./Wind gust/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Wind gust"
     },
     {
       "rel": "child",
       "href": "./Wind speed (near surface)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Wind speed (near surface)"
     },
     {
       "rel": "child",
       "href": "./Wind stress/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Wind stress"
     },
     {
       "rel": "child",
       "href": "./Wind vector (near surface)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Wind vector (near surface)"
     },
     {
       "rel": "child",
       "href": "./X-ray flux/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "X-ray flux"
     },
     {
       "rel": "child",
       "href": "./X-ray flux spectrum/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "X-ray flux spectrum"
     },
     {
       "rel": "child",
       "href": "./X-ray sky image/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "X-ray sky image"
     },
     {
       "rel": "child",
       "href": "./Geothermal energy/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Geothermal energy"
     },
     {
       "rel": "child",
       "href": "./Solar-induced chlorophyll fluorescence (SIF)/catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Solar-induced chlorophyll fluorescence (SIF)"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     }
   ],
-  "stac_extensions": []
+  "stac_extensions": [],
+  "title": "Variables"
 }

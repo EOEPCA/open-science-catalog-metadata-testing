@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -19,13 +20,15 @@
       "rel": "related",
       "href": "../../themes/Land/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Land"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Variables"
     }
   ],
-  "stac_extensions": []
+  "stac_extensions": [],
+  "title": "Fraction of Absorbed PAR (FAPAR)"
 }

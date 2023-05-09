@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -32,30 +33,31 @@
       "rel": "related",
       "href": "../../../projects/godae-ocean-observing-system-evaluation-of-satellite-sea-surface-salinity-and-el-nino-2015-smos-nino15/collection.json",
       "type": "application/json",
-      "title": "Project"
+      "title": "Project: SMOS-NINO 2015"
     },
     {
       "rel": "related",
       "href": "../../../themes/Oceans/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Oceans"
     },
     {
       "rel": "related",
       "href": "../../../variables/Sea surface salinity/catalog.json",
       "type": "application/json",
-      "title": "Variable"
+      "title": "Variable: Sea surface salinity"
     },
     {
       "rel": "related",
       "href": "../catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: SMOS"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "SMOS"
     }
   ],
   "stac_extensions": [

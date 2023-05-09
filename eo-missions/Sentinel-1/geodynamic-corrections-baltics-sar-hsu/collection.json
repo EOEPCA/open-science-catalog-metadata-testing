@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -23,48 +24,49 @@
       "rel": "related",
       "href": "../../../projects/baltic-geodetic-sar-for-baltic-height-system-unification-sar-hsu/collection.json",
       "type": "application/json",
-      "title": "Project"
+      "title": "Project: SAR-HSU"
     },
     {
       "rel": "related",
       "href": "../../../themes/Oceans/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Oceans"
     },
     {
       "rel": "related",
       "href": "../../../variables/Sea surface height anomaly/catalog.json",
       "type": "application/json",
-      "title": "Variable"
+      "title": "Variable: Sea surface height anomaly"
     },
     {
       "rel": "related",
       "href": "../../GOCE/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: GOCE"
     },
     {
       "rel": "related",
       "href": "../catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: Sentinel-1"
     },
     {
       "rel": "related",
       "href": "../../GPS/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: GPS"
     },
     {
       "rel": "related",
       "href": "../../GLONAS/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: GLONAS"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Sentinel-1"
     }
   ],
   "stac_extensions": [

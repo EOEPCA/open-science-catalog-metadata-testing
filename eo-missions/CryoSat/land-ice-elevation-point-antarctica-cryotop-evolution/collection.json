@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -28,30 +29,31 @@
       "rel": "related",
       "href": "../../../projects/cryotop-evolution/collection.json",
       "type": "application/json",
-      "title": "Project"
+      "title": "Project: CryoTop Evolution"
     },
     {
       "rel": "related",
       "href": "../../../themes/Cryosphere/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Cryosphere"
     },
     {
       "rel": "related",
       "href": "../../../variables/Ice sheet topography/catalog.json",
       "type": "application/json",
-      "title": "Variable"
+      "title": "Variable: Ice sheet topography"
     },
     {
       "rel": "related",
       "href": "../catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: CryoSat"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "CryoSat"
     }
   ],
   "stac_extensions": [

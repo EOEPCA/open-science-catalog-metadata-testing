@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -23,24 +24,25 @@
       "rel": "related",
       "href": "../../themes/Atmosphere/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Atmosphere"
     },
     {
       "rel": "related",
       "href": "../../themes/Magnetosphere_Ionosphere/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Magnetosphere_Ionosphere"
     },
     {
       "rel": "related",
       "href": "../../eo-missions/SWARM/lightning-whistler-ilgew/collection.json",
       "type": "application/json",
-      "title": "Product"
+      "title": "Product: Lightning-generated whistler events_Global_SWARM"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Projects"
     }
   ],
   "stac_extensions": [
@@ -68,7 +70,12 @@
   "extent": {
     "spatial": {
       "bbox": [
-        []
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
       ]
     },
     "temporal": {

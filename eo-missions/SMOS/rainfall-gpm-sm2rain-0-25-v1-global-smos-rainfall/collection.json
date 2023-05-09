@@ -7,7 +7,8 @@
     {
       "rel": "root",
       "href": "../../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
@@ -32,42 +33,43 @@
       "rel": "related",
       "href": "../../../projects/smos-rainfall-land/collection.json",
       "type": "application/json",
-      "title": "Project"
+      "title": "Project: SMOS+ Rainfall Land"
     },
     {
       "rel": "related",
       "href": "../../../themes/Land/catalog.json",
       "type": "application/json",
-      "title": "Theme"
+      "title": "Theme: Land"
     },
     {
       "rel": "related",
       "href": "../../../variables/Precipitation type at the surface/catalog.json",
       "type": "application/json",
-      "title": "Variable"
+      "title": "Variable: Precipitation type at the surface"
     },
     {
       "rel": "related",
       "href": "../../ASCAT/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: ASCAT"
     },
     {
       "rel": "related",
       "href": "../catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: SMOS"
     },
     {
       "rel": "related",
       "href": "../../SMAP/catalog.json",
       "type": "application/json",
-      "title": "EO Mission"
+      "title": "EO Mission: SMAP"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "SMOS"
     }
   ],
   "stac_extensions": [
