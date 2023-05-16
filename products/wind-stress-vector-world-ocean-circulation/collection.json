@@ -59,7 +59,9 @@
   "osc:themes": [
     "Oceans"
   ],
-  "osc:variable": "Wind stress",
+  "osc:variables": [
+    "Wind stress"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "Agulhas",
   "osc:type": "Product",

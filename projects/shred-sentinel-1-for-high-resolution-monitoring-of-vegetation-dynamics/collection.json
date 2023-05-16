@@ -38,18 +38,23 @@
   ],
   "title": "(LPF) SHRED",
   "osc:name": "SHRED: Sentinel-1 for High REsolution monitoring of vegetation Dynamics",
-  "osc:themes": [
-    "Land"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Stephen Plummer",
-    "e-mail": "stephen.plummer@esa.int"
-  },
-  "osc:consortium": [
-    "TECHNISCHE UNIVERSITAT WIEN (TU WIEN) (AT)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Stephen Plummer",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "stephen.plummer@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "TECHNISCHE UNIVERSITAT WIEN (TU WIEN) (AT)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2018-10-02T00:00:00Z",
   "end_datetime": "2020-10-31T23:59:59Z",
   "extent": {

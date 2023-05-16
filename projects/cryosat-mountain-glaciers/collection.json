@@ -27,10 +27,10 @@
       "title": "Theme: Cryosphere"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/glacier-elevation-cryosat-mountain-glaciers/collection.json",
       "type": "application/json",
-      "title": "Product: Mountain glacier elevation and elevation change_Global_Cryosat-2"
+      "title": "Mountain glacier elevation and elevation change_Global_Cryosat-2"
     },
     {
       "rel": "parent",
@@ -44,22 +44,39 @@
   ],
   "title": "CryoSat+ Mountain Glaciers",
   "osc:name": "CryoSat+ Mountain Glaciers",
-  "osc:themes": [
-    "Cryosphere"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Stephen Plummer",
-    "e-mail": "stephen.plummer@esa.int"
-  },
-  "osc:consortium": [
-    "University of Edinburgh (UoE)",
-    "isardSAT",
-    "Environmental Earth Observation Information Technology GMBH",
-    "earthwave Earth Observation and Data Science Specialists",
-    "University College of London \u201a Mullard Space Science Labor (UCL)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Stephen Plummer",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "stephen.plummer@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "University of Edinburgh (UoE)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "isardSAT",
+      "role": "consortium_member"
+    },
+    {
+      "name": "Environmental Earth Observation Information Technology GMBH",
+      "role": "consortium_member"
+    },
+    {
+      "name": "earthwave Earth Observation and Data Science Specialists",
+      "role": "consortium_member"
+    },
+    {
+      "name": "University College of London \u201a Mullard Space Science Labor (UCL)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2015-05-13T00:00:00Z",
   "end_datetime": "2020-12-31T23:59:59Z",
   "extent": {

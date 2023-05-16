@@ -62,7 +62,9 @@
   "osc:themes": [
     "Solid Earth"
   ],
-  "osc:variable": "Gravity field",
+  "osc:variables": [
+    "Gravity field"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "Global",
   "osc:type": "Product",

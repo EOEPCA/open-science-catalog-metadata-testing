@@ -74,7 +74,9 @@
   "osc:themes": [
     "Oceans"
   ],
-  "osc:variable": "pH",
+  "osc:variables": [
+    "pH"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "Global",
   "osc:type": "Product",

@@ -38,24 +38,47 @@
   ],
   "title": "Methane+",
   "osc:name": "Methane+",
-  "osc:themes": [
-    "Atmosphere"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Christian Retscher",
-    "e-mail": "christian.retscher@esa.int"
-  },
-  "osc:consortium": [
-    "Netherlands Institute for Space Research (NWO-I) (NL)",
-    "Laboratoire de M\u221a\u00a9t\u221a\u00a9orologie Dynamique-FX-Conseil (FR)",
-    "MAX PLANCK INSTITUTE FOR BIOGEOCHEMISTRY (DE)",
-    "UKRI Rutherford Appleton Laboratory (GB)",
-    "UNIVERSITAET BREMEN (DE)",
-    "VRIJE UNIVERSITEIT AMSTERDAM",
-    "DEPARTMENT OF EARTH SCIENCES (NL)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Christian Retscher",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "christian.retscher@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "Netherlands Institute for Space Research (NWO-I) (NL)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "Laboratoire de M\u221a\u00a9t\u221a\u00a9orologie Dynamique-FX-Conseil (FR)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "MAX PLANCK INSTITUTE FOR BIOGEOCHEMISTRY (DE)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "UKRI Rutherford Appleton Laboratory (GB)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "UNIVERSITAET BREMEN (DE)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "VRIJE UNIVERSITEIT AMSTERDAM",
+      "role": "consortium_member"
+    },
+    {
+      "name": "DEPARTMENT OF EARTH SCIENCES (NL)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2020-01-20T00:00:00Z",
   "end_datetime": "2022-02-20T23:59:59Z",
   "extent": {

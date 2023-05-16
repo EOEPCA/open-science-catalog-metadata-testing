@@ -54,7 +54,9 @@
   "osc:themes": [
     "Atmosphere"
   ],
-  "osc:variable": "O3 Stratospheric Column",
+  "osc:variables": [
+    "O3 Stratospheric Column"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "Global",
   "osc:type": "Product",

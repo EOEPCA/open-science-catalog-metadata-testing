@@ -83,7 +83,9 @@
   "osc:themes": [
     "Oceans"
   ],
-  "osc:variable": "Sea surface height anomaly",
+  "osc:variables": [
+    "Sea surface height anomaly"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "Baltics",
   "osc:type": "Product",

@@ -72,7 +72,9 @@
   "osc:themes": [
     "Atmosphere"
   ],
-  "osc:variable": "O3 Total Column",
+  "osc:variables": [
+    "O3 Total Column"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "Antarctica",
   "osc:type": "Product",

@@ -33,22 +33,22 @@
       "title": "Theme: Land"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/model-based-cdom-baltic-sealabio/collection.json",
       "type": "application/json",
-      "title": "Product: Model based Colored Dissolved Organic Matter (CDOM) _Baltics_Model"
+      "title": "Model based Colored Dissolved Organic Matter (CDOM) _Baltics_Model"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/in-situ-sealabio/collection.json",
       "type": "application/json",
-      "title": "Product: In-situ measurements_Baltics"
+      "title": "In-situ measurements_Baltics"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/eo-based-cdom-baltic-sealabio/collection.json",
       "type": "application/json",
-      "title": "Product: EO based Color Disolved Organic Matter_Baltics_S3"
+      "title": "EO based Color Disolved Organic Matter_Baltics_S3"
     },
     {
       "rel": "parent",
@@ -62,23 +62,39 @@
   ],
   "title": "BALTIC+ Sea-Land",
   "osc:name": "BALTIC+ Sea-Land biogeochemical linkages (SeaLaBio)",
-  "osc:themes": [
-    "Oceans",
-    "Land"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Diego Fernandez",
-    "e-mail": "diego.fernandez@esa.int"
-  },
-  "osc:consortium": [
-    "FINNISH ENVIRONMENT INSTITUTE (SYKE) (FI)",
-    "BROCKMANN CONSULT GMBH (DE)",
-    "BROCKMANN GEOMATICS SWEDEN AB (HEAD (SE)",
-    "Leibniz Institute for Baltic Sea Re (DE)",
-    "SOLVO (FR)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Diego Fernandez",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "diego.fernandez@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "FINNISH ENVIRONMENT INSTITUTE (SYKE) (FI)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "BROCKMANN CONSULT GMBH (DE)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "BROCKMANN GEOMATICS SWEDEN AB (HEAD (SE)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "Leibniz Institute for Baltic Sea Re (DE)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "SOLVO (FR)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2018-12-14T00:00:00Z",
   "end_datetime": "2020-05-31T23:59:59Z",
   "extent": {

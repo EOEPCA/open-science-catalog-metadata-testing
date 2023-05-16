@@ -38,23 +38,43 @@
   ],
   "title": "SMOS+ SeaIce",
   "osc:name": "STSE SMOS+ SEA ICE",
-  "osc:themes": [
-    "Cryosphere"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Matthias Drusch",
-    "e-mail": "matthias.drusch@esa.int"
-  },
-  "osc:consortium": [
-    "UNIVERSITY OF HAMBURG (DE)",
-    "ALFRED WEGENER INSTITUTE (DE)",
-    "DANISH METEOROLOGICAL INSTITUTE (DK)",
-    "FINNISH METEOROLOGICAL INSTITUTE (FI)",
-    "NANSEN ENVIRONMENTAL AND REMOTE SENSING CENTER (NO)",
-    "UNIVERSITAET BREMEN (DE)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Matthias Drusch",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "matthias.drusch@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "UNIVERSITY OF HAMBURG (DE)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "ALFRED WEGENER INSTITUTE (DE)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "DANISH METEOROLOGICAL INSTITUTE (DK)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "FINNISH METEOROLOGICAL INSTITUTE (FI)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "NANSEN ENVIRONMENTAL AND REMOTE SENSING CENTER (NO)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "UNIVERSITAET BREMEN (DE)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2014-08-20T00:00:00Z",
   "end_datetime": "2017-10-30T23:59:59Z",
   "extent": {

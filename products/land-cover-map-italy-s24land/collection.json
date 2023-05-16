@@ -67,7 +67,9 @@
   "osc:themes": [
     "Land"
   ],
-  "osc:variable": "Land cover",
+  "osc:variables": [
+    "Land cover"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "Italy",
   "osc:type": "Product",

@@ -27,40 +27,40 @@
       "title": "Theme: Cryosphere"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/snow-area-europe-alps-alpsnow/collection.json",
       "type": "application/json",
-      "title": "Product: Snow area extent for European Alps_Multimission"
+      "title": "Snow area extent for European Alps_Multimission"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/snow-albedo-europe-alps-alpsnow/collection.json",
       "type": "application/json",
-      "title": "Product: Snow albedo for European Alps_Multimission"
+      "title": "Snow albedo for European Alps_Multimission"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/snow-water-equivalent-europe-alps-alpsnow/collection.json",
       "type": "application/json",
-      "title": "Product: Snow water equivalent for European Alps_Multimission"
+      "title": "Snow water equivalent for European Alps_Multimission"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/snow-depth-europe-alps-alpsnow/collection.json",
       "type": "application/json",
-      "title": "Product: Snow depth for European Alps_Multimission"
+      "title": "Snow depth for European Alps_Multimission"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/snow-grain-europe-alps-alpsnow/collection.json",
       "type": "application/json",
-      "title": "Product: Snow grain size for European Alps_Multimission"
+      "title": "Snow grain size for European Alps_Multimission"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/snow-liquid-water-europe-alps-alpsnow/collection.json",
       "type": "application/json",
-      "title": "Product: Snow liquid water content (wet snow) for European Alps_Multimission"
+      "title": "Snow liquid water content (wet snow) for European Alps_Multimission"
     },
     {
       "rel": "parent",
@@ -74,26 +74,55 @@
   ],
   "title": "AlpSnow",
   "osc:name": "AlpSnow",
-  "osc:themes": [
-    "Cryosphere"
-  ],
   "osc:status": "ONGOING",
-  "osc:technical_officer": {
-    "name": "Espen Volden",
-    "e-mail": "espen.volden@esa.int"
-  },
-  "osc:consortium": [
-    "ENVEO \u201a ENVIRONMENTAL EARTH OBSERVATION GMBH (AT)",
-    "WSL Swiss Federal Institute for Forest",
-    "Snow and Landscape Research (CH)",
-    "UNIVERSITY OF EDINBURGH (GB)",
-    "UNIV INNSBRUCK (AT)",
-    "Environmental Protection Agency of (IT)",
-    "EURAC RESEARCH \u201a ACCADEMIA EUROPEA (IT)",
-    "DLR \u201a GERMAN AEROSPACE CENTER (DE)",
-    "CENTRAL INSTITUTE FOR METEOROLOGY AND GEODYNAMICS (AT)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Espen Volden",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "espen.volden@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "ENVEO \u201a ENVIRONMENTAL EARTH OBSERVATION GMBH (AT)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "WSL Swiss Federal Institute for Forest",
+      "role": "consortium_member"
+    },
+    {
+      "name": "Snow and Landscape Research (CH)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "UNIVERSITY OF EDINBURGH (GB)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "UNIV INNSBRUCK (AT)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "Environmental Protection Agency of (IT)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "EURAC RESEARCH \u201a ACCADEMIA EUROPEA (IT)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "DLR \u201a GERMAN AEROSPACE CENTER (DE)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "CENTRAL INSTITUTE FOR METEOROLOGY AND GEODYNAMICS (AT)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2020-10-20T00:00:00Z",
   "end_datetime": "2022-12-01T23:59:59Z",
   "extent": {

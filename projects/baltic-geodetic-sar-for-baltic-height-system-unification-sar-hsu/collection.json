@@ -27,88 +27,88 @@
       "title": "Theme: Oceans"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/target-locations-baltics-sar-hsu/collection.json",
       "type": "application/json",
-      "title": "Product: PTA-RES:\u00a0Extracted Target Locations_Baltics_Multimission"
+      "title": "PTA-RES:\u00a0Extracted Target Locations_Baltics_Multimission"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/sar-observation-solution-baltics-sar-hsu/collection.json",
       "type": "application/json",
-      "title": "Product: SAR-OBS:\u00a0SAR Observation Solution_Baltics_Multimission"
+      "title": "SAR-OBS:\u00a0SAR Observation Solution_Baltics_Multimission"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/sar-positioning-solution-baltics-sar-hsu/collection.json",
       "type": "application/json",
-      "title": "Product: SAR-POS:\u00a0SAR Positioning Solution_Baltics_Multimission"
+      "title": "SAR-POS:\u00a0SAR Positioning Solution_Baltics_Multimission"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/absolute-sea-level-heights-baltics-sar-hsu/collection.json",
       "type": "application/json",
-      "title": "Product: SL-ABS:\u00a0Absolute Sea Level Heights_Baltics_Multimission"
+      "title": "SL-ABS:\u00a0Absolute Sea Level Heights_Baltics_Multimission"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/tide-gauge-heights-baltics-sar-hsu/collection.json",
       "type": "application/json",
-      "title": "Product: TG-HGT: Tide Gauge Heights_Baltics_Multimission"
+      "title": "TG-HGT: Tide Gauge Heights_Baltics_Multimission"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/sea-surface-heights-corrected-baltics-sar-hsu/collection.json",
       "type": "application/json",
-      "title": "Product: TG-SSH:\u00a0Corrected Sea Surface Height at Tide Gauge Stations_Baltics_Multimission"
+      "title": "TG-SSH:\u00a0Corrected Sea Surface Height at Tide Gauge Stations_Baltics_Multimission"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/sar-raw-measurements-baltics-sar-hsu/collection.json",
       "type": "application/json",
-      "title": "Product: PTA-OBS:\u00a0SAR Raw Measurements_Baltics_Multimission"
+      "title": "PTA-OBS:\u00a0SAR Raw Measurements_Baltics_Multimission"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/gnss-positioning-solution-baltics-sar-hsu/collection.json",
       "type": "application/json",
-      "title": "Product: GNSS-POS:\u00a0GNSS positioning solution_Baltics_Multimission"
+      "title": "GNSS-POS:\u00a0GNSS positioning solution_Baltics_Multimission"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/geoid-heights-baltics-sar-hsu/collection.json",
       "type": "application/json",
-      "title": "Product: GEO-HGT:\u00a0Geoid Heights_Baltics_Multimission"
+      "title": "GEO-HGT:\u00a0Geoid Heights_Baltics_Multimission"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/tropospheric-delays-baltics-sar-hsu/collection.json",
       "type": "application/json",
-      "title": "Product: COR-TD:\u00a0Tropospheric Delays_Baltics_Multimission"
+      "title": "COR-TD:\u00a0Tropospheric Delays_Baltics_Multimission"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/s1-corrections-baltics-sar-hsu/collection.json",
       "type": "application/json",
-      "title": "Product: COR-SC:\u00a0Sentinel-1 Systematic\u00a0Effects Corrections_Baltics_Multimission"
+      "title": "COR-SC:\u00a0Sentinel-1 Systematic\u00a0Effects Corrections_Baltics_Multimission"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/ionospheric-delays-baltics-sar-hsu/collection.json",
       "type": "application/json",
-      "title": "Product: COR-ID:\u00a0Ionospheric Delays_Baltics_Multimission"
+      "title": "COR-ID:\u00a0Ionospheric Delays_Baltics_Multimission"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/geodynamic-corrections-baltics-sar-hsu/collection.json",
       "type": "application/json",
-      "title": "Product: COR-GC:\u00a0Geodynamic Corrections_Baltics_Multimission"
+      "title": "COR-GC:\u00a0Geodynamic Corrections_Baltics_Multimission"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/electronic-delay-correction-baltics-sar-hsu/collection.json",
       "type": "application/json",
-      "title": "Product: COR-EC2:\u00a0ECR Electronic Delay Correction_Baltics_Multimission"
+      "title": "COR-EC2:\u00a0ECR Electronic Delay Correction_Baltics_Multimission"
     },
     {
       "rel": "parent",
@@ -122,24 +122,47 @@
   ],
   "title": "SAR-HSU",
   "osc:name": "BALTIC+ Geodetic SAR for Baltic Height System Unification (SAR-HSU)",
-  "osc:themes": [
-    "Oceans"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Nuno Miranda",
-    "e-mail": "nuno.miranda@esa.int"
-  },
-  "osc:consortium": [
-    "TECHNICAL UNIVERSITY OF MUNICH (DE)",
-    "LANTMATERIET (SE)",
-    "NLS FINNISH GEOSPATIAL RESEARCH INS (FI)",
-    "Space Research Centre",
-    "Polish Academy of Sciences (CBK-PAN) (PL)",
-    "TALLINNA TEHNIKA\u221a\u00faLIKOOL (EE)",
-    "Technical University of Denmark (DK)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Nuno Miranda",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "nuno.miranda@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "TECHNICAL UNIVERSITY OF MUNICH (DE)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "LANTMATERIET (SE)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "NLS FINNISH GEOSPATIAL RESEARCH INS (FI)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "Space Research Centre",
+      "role": "consortium_member"
+    },
+    {
+      "name": "Polish Academy of Sciences (CBK-PAN) (PL)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "TALLINNA TEHNIKA\u221a\u00faLIKOOL (EE)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "Technical University of Denmark (DK)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2019-03-05T00:00:00Z",
   "end_datetime": "2020-10-31T23:59:59Z",
   "extent": {

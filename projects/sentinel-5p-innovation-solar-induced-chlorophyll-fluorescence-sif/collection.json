@@ -33,10 +33,10 @@
       "title": "Theme: Land"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/l2b-sif-surface-reflectance-tropomi-troposif/collection.json",
       "type": "application/json",
-      "title": "Product: Daily ungridded (L2B) SIF and surface reflectance estimates derived from TROPOMI"
+      "title": "Daily ungridded (L2B) SIF and surface reflectance estimates derived from TROPOMI"
     },
     {
       "rel": "parent",
@@ -50,19 +50,23 @@
   ],
   "title": "S5p Inno - SIF",
   "osc:name": "SENTINEL-5P+ INNOVATION SOLAR INDUCED CHLOROPHYLL FLUORESCENCE (SIF)",
-  "osc:themes": [
-    "Atmosphere",
-    "Land"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Christian Retscher",
-    "e-mail": "christian.retscher@esa.int"
-  },
-  "osc:consortium": [
-    "NOVELTIS SAS (FR)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Christian Retscher",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "christian.retscher@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "NOVELTIS SAS (FR)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2019-07-03T00:00:00Z",
   "end_datetime": "2021-11-09T23:59:59Z",
   "extent": {

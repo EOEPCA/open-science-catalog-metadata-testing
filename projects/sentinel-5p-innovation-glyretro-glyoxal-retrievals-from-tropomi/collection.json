@@ -38,19 +38,27 @@
   ],
   "title": "S5p Inno - Glyoxal",
   "osc:name": "SENTINEL-5P+ INNOVATION - GLYRETRO (GLYoxal Retrievals from TROPOMI)",
-  "osc:themes": [
-    "Atmosphere"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Christian Retscher",
-    "e-mail": "christian.retscher@esa.int"
-  },
-  "osc:consortium": [
-    "BELGIAN INSTITUTE OF SPACE AERONOMY (BIRA-IASB) (BE)",
-    "UNIVERSITAET BREMEN (DE)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Christian Retscher",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "christian.retscher@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "BELGIAN INSTITUTE OF SPACE AERONOMY (BIRA-IASB) (BE)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "UNIVERSITAET BREMEN (DE)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2019-06-26T00:00:00Z",
   "end_datetime": "2021-12-30T23:59:59Z",
   "extent": {

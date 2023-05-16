@@ -23,6 +23,12 @@
       "title": "Theme: Oceans"
     },
     {
+      "rel": "child",
+      "href": "../../products/surface-ocean-pco2-oceansoda/collection.json",
+      "type": "application/json",
+      "title": "Surface-ocean_pCO2_Global_v2021"
+    },
+    {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",

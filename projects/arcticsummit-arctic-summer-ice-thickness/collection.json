@@ -27,16 +27,16 @@
       "title": "Theme: Cryosphere"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/sea-ice-thickness-lpf-arcticsummit/collection.json",
       "type": "application/json",
-      "title": "Product: Sea ice thickness_monthly_Oct 2010-July 2020Arctic_CryoSat-2 Baseline-D observations"
+      "title": "Sea ice thickness_monthly_Oct 2010-July 2020Arctic_CryoSat-2 Baseline-D observations"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/sea-ice-phys-ocean-lpf-arcticsummit/collection.json",
       "type": "application/json",
-      "title": "Product: Sea ice and physical oceanography_Arctic_CryoSat-2 Baseline-C Level 1b waveform observations"
+      "title": "Sea ice and physical oceanography_Arctic_CryoSat-2 Baseline-C Level 1b waveform observations"
     },
     {
       "rel": "parent",
@@ -50,18 +50,23 @@
   ],
   "title": "(LPF) ArcticSummIT",
   "osc:name": "ArcticSummIT: Arctic Summer Ice Thickness",
-  "osc:themes": [
-    "Cryosphere"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Anca Anghelea",
-    "e-mail": "anca.anghelea@esa.int"
-  },
-  "osc:consortium": [
-    "UNIVERSITY OF BRISTOL (GB)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Anca Anghelea",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "anca.anghelea@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "UNIVERSITY OF BRISTOL (GB)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2018-10-16T00:00:00Z",
   "end_datetime": "2020-10-31T23:59:59Z",
   "extent": {

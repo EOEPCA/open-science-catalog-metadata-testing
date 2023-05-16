@@ -27,28 +27,28 @@
       "title": "Theme: Atmosphere"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/total-column-h2o-hdo-clear-sky-lpf-wift/collection.json",
       "type": "application/json",
-      "title": "Product: HDO/H2O non-scattering product_S5p-TROPOMI"
+      "title": "HDO/H2O non-scattering product_S5p-TROPOMI"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/total-column-h2o-hdo-cloudy-lpf-wift/collection.json",
       "type": "application/json",
-      "title": "Product: HDO/H2O scattering product_S5p-TROPOMI"
+      "title": "HDO/H2O scattering product_S5p-TROPOMI"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/hdo-total-column-tropomi-extended-wift/collection.json",
       "type": "application/json",
-      "title": "Product: Extended scientific HDO/H2O total column_TROPOMI"
+      "title": "Extended scientific HDO/H2O total column_TROPOMI"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/hdo-total-column-tropomi-clear-sky-wift/collection.json",
       "type": "application/json",
-      "title": "Product: Clear-sky HDO/H2O total column_TROPOMI"
+      "title": "Clear-sky HDO/H2O total column_TROPOMI"
     },
     {
       "rel": "parent",
@@ -62,18 +62,23 @@
   ],
   "title": "(LPF) WIFT",
   "osc:name": "WIFT: Water vapour Isotopologues From TROPOMI",
-  "osc:themes": [
-    "Atmosphere"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Stephen Plummer",
-    "e-mail": "stephen.plummer@esa.int"
-  },
-  "osc:consortium": [
-    "Netherlands Institute for Space Research (NWO-I) (NL)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Stephen Plummer",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "stephen.plummer@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "Netherlands Institute for Space Research (NWO-I) (NL)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2018-10-17T00:00:00Z",
   "end_datetime": "2020-10-31T23:59:59Z",
   "extent": {

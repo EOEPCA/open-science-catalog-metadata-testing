@@ -59,7 +59,9 @@
   "osc:themes": [
     "Oceans"
   ],
-  "osc:variable": "Ocean surface currents (vector)",
+  "osc:variables": [
+    "Ocean surface currents (vector)"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "Gibraltar",
   "osc:type": "Product",

@@ -11,6 +11,18 @@
       "title": "Open Science Catalog"
     },
     {
+      "rel": "child",
+      "href": "../../products/rainfall-gpm-sm2rain-0-25-v1-global-smos-rainfall/collection.json",
+      "type": "application/json",
+      "title": "GPM+SM2RAIN Rainfall product_v1.0_daily_0.25_quasi-global"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/surface-melt-ascat-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "Surface Melt Classification_Antarctica_ASCAT_v1"
+    },
+    {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",

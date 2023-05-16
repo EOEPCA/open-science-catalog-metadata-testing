@@ -50,22 +50,31 @@
   ],
   "title": "VISTA",
   "osc:name": "Volcanic monItoring using SenTinel sensors by an integrated Approach (VISTA)",
-  "osc:themes": [
-    "Atmosphere",
-    "Land",
-    "Solid Earth"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Christian Retscher",
-    "e-mail": "christian.retscher@esa.int"
-  },
-  "osc:consortium": [
-    "GEO-K SRL (IT)",
-    "AIRES TECH PLC (GB)",
-    "ISTITUTO NAZIONALE DI GEOFISICA E VULCANOLOGIA (IT)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Christian Retscher",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "christian.retscher@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "GEO-K SRL (IT)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "AIRES TECH PLC (GB)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "ISTITUTO NAZIONALE DI GEOFISICA E VULCANOLOGIA (IT)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2019-09-03T00:00:00Z",
   "end_datetime": "2021-11-16T23:59:59Z",
   "extent": {

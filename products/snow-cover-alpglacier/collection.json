@@ -69,7 +69,9 @@
   "osc:themes": [
     "Cryosphere"
   ],
-  "osc:variable": "Snow cover",
+  "osc:variables": [
+    "Snow cover"
+  ],
   "osc:status": "COMPLETED",
   "osc:region": "Switzerland",
   "osc:type": "Product",

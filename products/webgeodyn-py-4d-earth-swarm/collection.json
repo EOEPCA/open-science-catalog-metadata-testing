@@ -74,7 +74,9 @@
     "Solid Earth",
     "Magnetosphere_Ionosphere"
   ],
-  "osc:variable": "Geomagnetic field",
+  "osc:variables": [
+    "Geomagnetic field"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "Global",
   "osc:type": "Product",

@@ -23,6 +23,12 @@
       "title": "Theme: Oceans"
     },
     {
+      "rel": "child",
+      "href": "../../products/surface-ocean-total-alcalinity-oceansoda/collection.json",
+      "type": "application/json",
+      "title": "Surface-ocean_Total Alcalinity_Global_v2021"
+    },
+    {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",

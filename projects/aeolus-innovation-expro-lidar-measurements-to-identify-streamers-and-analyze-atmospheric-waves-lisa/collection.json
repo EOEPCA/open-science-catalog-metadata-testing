@@ -38,19 +38,27 @@
   ],
   "title": "AEOLUS+inno - LISA",
   "osc:name": "AEOLUS+ INNOVATION \u201a EXPRO+ LIDAR MEASUREMENTS TO IDENTIFY STREAMERS AND ANALYZE ATMOSPHERIC WAVES (LISA)",
-  "osc:themes": [
-    "Atmosphere"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Christian Retscher",
-    "e-mail": "christian.retscher@esa.int"
-  },
-  "osc:consortium": [
-    "DLR - GERMAN AEROSPACE CENTER (DE)",
-    "INSTITUTE OF ATMOSPHERIC PHYSICS (CZ)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Christian Retscher",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "christian.retscher@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "DLR - GERMAN AEROSPACE CENTER (DE)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "INSTITUTE OF ATMOSPHERIC PHYSICS (CZ)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2020-11-30T00:00:00Z",
   "end_datetime": "2021-07-02T23:59:59Z",
   "extent": {

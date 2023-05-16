@@ -38,20 +38,31 @@
   ],
   "title": "BathySent",
   "osc:name": "BathySent - An Innovative Method to Retrieve Global Coastal Bathymetry from Sentinel-2",
-  "osc:themes": [
-    "Oceans"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Espen Volden",
-    "e-mail": "espen.volden@esa.int"
-  },
-  "osc:consortium": [
-    "BUREAU DE RECHERCHES GEOLOGIQUES ET MINIERES (BRGM) (FR",
-    "CLOUDFERRO SP Z O. (PL)",
-    "HELLENIC CENTRE FOR MARINE RESEARCH (HCMR) (GR)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Espen Volden",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "espen.volden@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "BUREAU DE RECHERCHES GEOLOGIQUES ET MINIERES (BRGM) (FR",
+      "role": "consortium_member"
+    },
+    {
+      "name": "CLOUDFERRO SP Z O. (PL)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "HELLENIC CENTRE FOR MARINE RESEARCH (HCMR) (GR)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2018-05-07T00:00:00Z",
   "end_datetime": "2019-06-15T23:59:59Z",
   "extent": {

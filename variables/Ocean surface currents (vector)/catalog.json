@@ -23,6 +23,66 @@
       "title": "Theme: Oceans"
     },
     {
+      "rel": "child",
+      "href": "../../products/gridded-surface-current-world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Gridded Surface Current_Oceans_Agulhas"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/doppler-derived-surface-current-world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Doppler derived surface current_Agulhas_S1"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/daily-3d-ocean-currents-world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Daily 3D ocean currents_North Atlantic"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/daily-2d-ocean-currents-world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Daily 2D ocean surface currents_North Atlantic"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/oceanic-current-fronts-world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Oceanic/current fronts_Gibraltar"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/total-surface-current-north-atlantic-world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Total surface current_North-Atlantic"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/total-surface-current-tropical-atlantic-world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Total surface current_Tropical Atlantic"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/stokes-drift-atlantic-world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Stokes drift estimation_Atlantic Ocean"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/eddy-census-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Eddy census"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/l4-geostrophic-currents-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 4, geostrophic currents, multi-mission gridded merged products for a period of 1 year, 0.0625\u00b0*0.0625\u00b0, daily"
+    },
+    {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",

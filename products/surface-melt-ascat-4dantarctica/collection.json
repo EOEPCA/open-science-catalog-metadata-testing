@@ -57,7 +57,9 @@
   "osc:themes": [
     "Cryosphere"
   ],
-  "osc:variable": "Glacier cover",
+  "osc:variables": [
+    "Glacier cover"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "Antarctica",
   "osc:type": "Product",

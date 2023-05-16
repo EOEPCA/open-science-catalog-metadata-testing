@@ -27,16 +27,16 @@
       "title": "Theme: Oceans"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/baltic-sea-surface-salinity-l4-baltic-salinity-dynamics/collection.json",
       "type": "application/json",
-      "title": "Product: Baltic Sea Surface Salinity L4 maps (V.2.0)_Baltics_Multimission"
+      "title": "Baltic Sea Surface Salinity L4 maps (V.2.0)_Baltics_Multimission"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/baltic-sea-surface-salinity-l3-baltic-salinity-dynamics/collection.json",
       "type": "application/json",
-      "title": "Product: Baltic Sea Surface Salinity L3 maps (V.2.0)_Baltics_Multimission"
+      "title": "Baltic Sea Surface Salinity L3 maps (V.2.0)_Baltics_Multimission"
     },
     {
       "rel": "parent",
@@ -50,20 +50,31 @@
   ],
   "title": "BALTIC+ Salinity Dynamics",
   "osc:name": "BALTIC+ Salinity Dynamics",
-  "osc:themes": [
-    "Oceans"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Diego Fernandez",
-    "e-mail": "diego.fernandez@esa.int"
-  },
-  "osc:consortium": [
-    "ARGANS FRANCE (FR)",
-    "AGENCIA ESTATAL CONSEJO SUPERIOR DE (ES)",
-    "FINNISH METEOROLOGICAL INSTITUTE (FI)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Diego Fernandez",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "diego.fernandez@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "ARGANS FRANCE (FR)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "AGENCIA ESTATAL CONSEJO SUPERIOR DE (ES)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "FINNISH METEOROLOGICAL INSTITUTE (FI)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2018-12-04T00:00:00Z",
   "end_datetime": "2019-08-31T23:59:59Z",
   "extent": {

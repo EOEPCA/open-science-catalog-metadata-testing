@@ -38,21 +38,35 @@
   ],
   "title": "AKROSS",
   "osc:name": "AKROSS: Altimetric Ku-Band Radar Observations Simulated with SMRT",
-  "osc:themes": [
-    "Cryosphere"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Jerome Bouffard",
-    "e-mail": "jerome.bouffard@esa.int"
-  },
-  "osc:consortium": [
-    "CORES SCIENCE AND ENGINEERING LIMIT (GB)",
-    "UNIVERSITY OF NORTHUMBRIA AT NEWCAS (GB)",
-    "WSL Swiss Federal Institute for Forest",
-    "Snow and Landscape Research (CH)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Jerome Bouffard",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "jerome.bouffard@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "CORES SCIENCE AND ENGINEERING LIMIT (GB)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "UNIVERSITY OF NORTHUMBRIA AT NEWCAS (GB)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "WSL Swiss Federal Institute for Forest",
+      "role": "consortium_member"
+    },
+    {
+      "name": "Snow and Landscape Research (CH)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2020-02-17T00:00:00Z",
   "end_datetime": "2021-10-01T23:59:59Z",
   "extent": {

@@ -38,19 +38,27 @@
   ],
   "title": "S5p Inno - AOD and BRDF",
   "osc:name": "SENTINEL-5P+ INNOVATION - AEROSOL OPTICAL DEPTH (AOD) AND BIDIRECTIONAL REFLECTANCE DISTRIBUTION FUNCTION (BRDF)",
-  "osc:themes": [
-    "Atmosphere"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Christian Retscher",
-    "e-mail": "christian.retscher@esa.int"
-  },
-  "osc:consortium": [
-    "GRASP-SAS (FR)CATALYSTS GMBH (AT)",
-    "KNMI (NL)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Christian Retscher",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "christian.retscher@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "GRASP-SAS (FR)CATALYSTS GMBH (AT)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "KNMI (NL)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2019-07-01T00:00:00Z",
   "end_datetime": "2021-12-30T23:59:59Z",
   "extent": {

@@ -38,18 +38,23 @@
   ],
   "title": "(LPF) MULTI-FLEX",
   "osc:name": "MULTI-FLEX: towards a strategy for fluorescence monitoring at multiple scales within the context of the FLEX/S-3 tandem mission",
-  "osc:themes": [
-    "Land"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Stephen Plummer",
-    "e-mail": "stephen.plummer@esa.int"
-  },
-  "osc:consortium": [
-    "UNIVERSITY OF MILANO BICOCCA (IT)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Stephen Plummer",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "stephen.plummer@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "UNIVERSITY OF MILANO BICOCCA (IT)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2018-10-02T00:00:00Z",
   "end_datetime": "2020-10-31T23:59:59Z",
   "extent": {

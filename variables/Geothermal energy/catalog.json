@@ -23,6 +23,24 @@
       "title": "Theme: Solid Earth"
     },
     {
+      "rel": "child",
+      "href": "../../products/geothermal-heat-flow-greenland-3d-earth/collection.json",
+      "type": "application/json",
+      "title": "Geothermal Heat Flow Database and Map_Greenland_GOCE_SWARM"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/subglacial-melt-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "Subglacial Melt"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/geothermal-heat-flux-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "Geothermal Heat flux estimate from aeromagnetic data"
+    },
+    {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",

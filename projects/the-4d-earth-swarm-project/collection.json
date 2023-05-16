@@ -33,70 +33,70 @@
       "title": "Theme: Magnetosphere_Ionosphere"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/webgeodyn-py-4d-earth-swarm/collection.json",
       "type": "application/json",
-      "title": "Product: Webgeodyn Python package"
+      "title": "Webgeodyn Python package"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/ground-virtual-observatory-swarm-4d-earth-swarm/collection.json",
       "type": "application/json",
-      "title": "Product: Ground Virtual Observatory Data SWARM"
+      "title": "Ground Virtual Observatory Data SWARM"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/ground-virtual-observatory-champ-4d-earth-swarm/collection.json",
       "type": "application/json",
-      "title": "Product: Ground Virtual Observatory Data CHAMP"
+      "title": "Ground Virtual Observatory Data CHAMP"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/ground-virtual-observatory-cryosat2-4d-earth-swarm/collection.json",
       "type": "application/json",
-      "title": "Product: Ground Virtual Observatory Data CRYOSAT-2"
+      "title": "Ground Virtual Observatory Data CRYOSAT-2"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/ground-virtual-observatory-oersted-4d-earth-swarm/collection.json",
       "type": "application/json",
-      "title": "Product: Ground Virtual Observatory Data OERSTED"
+      "title": "Ground Virtual Observatory Data OERSTED"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/ground-observatory-data-4d-earth-swarm/collection.json",
       "type": "application/json",
-      "title": "Product: Ground Observatory data"
+      "title": "Ground Observatory data"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/chaos-field-model-core-4d-earth-swarm/collection.json",
       "type": "application/json",
-      "title": "Product: CHAOS field model_Core"
+      "title": "CHAOS field model_Core"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/chaos-field-model-spline-4d-earth-swarm/collection.json",
       "type": "application/json",
-      "title": "Product: CHAOS field model_SplineCoefficients"
+      "title": "CHAOS field model_SplineCoefficients"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/chaos-field-model-4d-earth-swarm/collection.json",
       "type": "application/json",
-      "title": "Product: CHAOS field model"
+      "title": "CHAOS field model"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/satellite-data-chaos-field-model-4d-earth-swarm/collection.json",
       "type": "application/json",
-      "title": "Product: Vector and scalar satellite data files as used in the CHAOS field model"
+      "title": "Vector and scalar satellite data files as used in the CHAOS field model"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/geodynamo-simulation-4d-earth-swarm/collection.json",
       "type": "application/json",
-      "title": "Product: Geodynamo simulation data_Earth core"
+      "title": "Geodynamo simulation data_Earth core"
     },
     {
       "rel": "parent",
@@ -110,24 +110,43 @@
   ],
   "title": "4D-Earth SWARM",
   "osc:name": "The 4D-Earth Swarm project",
-  "osc:themes": [
-    "Solid Earth",
-    "Magnetosphere_Ionosphere"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Roger Haagmans",
-    "e-mail": "roger.haagmans@esa.int"
-  },
-  "osc:consortium": [
-    "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE (CNRS) (FR)",
-    "EIDGENOSSISCHE TECHNISCHE HOCHSCHULE ZURICH (ETH ZURICH) (CH)",
-    "INST PHYSIQUE GLOBE (FR)",
-    "Technical University of Denmark (DK)",
-    "UNIVERSITY OF LEEDS",
-    "SCHOOL OF EARTH AND ENVIRONMENT (GB)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Roger Haagmans",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "roger.haagmans@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE (CNRS) (FR)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "EIDGENOSSISCHE TECHNISCHE HOCHSCHULE ZURICH (ETH ZURICH) (CH)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "INST PHYSIQUE GLOBE (FR)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "Technical University of Denmark (DK)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "UNIVERSITY OF LEEDS",
+      "role": "consortium_member"
+    },
+    {
+      "name": "SCHOOL OF EARTH AND ENVIRONMENT (GB)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2019-04-16T00:00:00Z",
   "end_datetime": "2022-04-30T23:59:59Z",
   "extent": {

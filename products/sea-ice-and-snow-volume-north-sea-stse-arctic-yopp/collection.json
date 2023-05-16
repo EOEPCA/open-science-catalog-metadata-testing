@@ -67,7 +67,9 @@
   "osc:themes": [
     "Cryosphere"
   ],
-  "osc:variable": "Sea-ice thickness",
+  "osc:variables": [
+    "Sea-ice thickness"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "North Sea",
   "osc:type": "Product",

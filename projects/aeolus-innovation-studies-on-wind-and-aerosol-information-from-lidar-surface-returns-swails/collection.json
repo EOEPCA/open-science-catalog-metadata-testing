@@ -33,10 +33,10 @@
       "title": "Theme: Oceans"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/lidar-aerosol-aeolus-swails/collection.json",
       "type": "application/json",
-      "title": "Product: Lidar Aerosol Retrieval based on Information from Surface Signal of Aeolus_Global Oceans_AEOLUS"
+      "title": "Lidar Aerosol Retrieval based on Information from Surface Signal of Aeolus_Global Oceans_AEOLUS"
     },
     {
       "rel": "parent",
@@ -50,19 +50,23 @@
   ],
   "title": "AEOLUS+inno - SWAILS+",
   "osc:name": "AEOLUS+ INNOVATION - STUDIES ON WIND AND AEROSOL INFORMATION FROM LIDAR SURFACE RETURNS (SWAILS+)",
-  "osc:themes": [
-    "Atmosphere",
-    "Oceans"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Christian Retscher",
-    "e-mail": "christian.retscher@esa.int"
-  },
-  "osc:consortium": [
-    "KNMI (NL)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Christian Retscher",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "christian.retscher@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "KNMI (NL)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2020-11-10T00:00:00Z",
   "end_datetime": "2021-06-21T23:59:59Z",
   "extent": {

@@ -81,7 +81,9 @@
   "osc:themes": [
     "Cryosphere"
   ],
-  "osc:variable": "Snow depth",
+  "osc:variables": [
+    "Snow depth"
+  ],
   "osc:status": "COMPLETED",
   "osc:region": "Europe",
   "osc:type": "Product",

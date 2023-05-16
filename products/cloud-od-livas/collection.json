@@ -67,7 +67,9 @@
   "osc:themes": [
     "Atmosphere"
   ],
-  "osc:variable": "Cloud optical depth",
+  "osc:variables": [
+    "Cloud optical depth"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "Global",
   "osc:type": "Product",

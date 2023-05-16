@@ -88,7 +88,9 @@
   "osc:themes": [
     "Oceans"
   ],
-  "osc:variable": "Ocean dynamic topography",
+  "osc:variables": [
+    "Ocean dynamic topography"
+  ],
   "osc:status": "COMPLETED",
   "osc:region": "Black Sea",
   "osc:type": "Product",

@@ -88,7 +88,9 @@
   "osc:themes": [
     "Oceans"
   ],
-  "osc:variable": "Ocean suspended sediments concentration",
+  "osc:variables": [
+    "Ocean suspended sediments concentration"
+  ],
   "osc:status": "COMPLETED",
   "osc:region": "Black Sea",
   "osc:type": "Product",

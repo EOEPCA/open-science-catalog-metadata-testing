@@ -67,7 +67,9 @@
   "osc:themes": [
     "Atmosphere"
   ],
-  "osc:variable": "Radiation profile",
+  "osc:variables": [
+    "Radiation profile"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "Regional",
   "osc:type": "Product",

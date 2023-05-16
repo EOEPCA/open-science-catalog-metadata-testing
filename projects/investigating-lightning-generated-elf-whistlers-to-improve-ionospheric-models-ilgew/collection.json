@@ -33,10 +33,10 @@
       "title": "Theme: Magnetosphere_Ionosphere"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/lightning-whistler-ilgew/collection.json",
       "type": "application/json",
-      "title": "Product: Lightning-generated whistler events_Global_SWARM"
+      "title": "Lightning-generated whistler events_Global_SWARM"
     },
     {
       "rel": "parent",
@@ -50,21 +50,31 @@
   ],
   "title": "ILGEW",
   "osc:name": "INVESTIGATING LIGHTNING GENERATED ELF WHISTLERS TO IMPROVE IONOSPHERIC MODELS (ILGEW)",
-  "osc:themes": [
-    "Atmosphere",
-    "Magnetosphere_Ionosphere"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Roger Haagmans",
-    "e-mail": "roger.haagmans@esa.int"
-  },
-  "osc:consortium": [
-    "INST PHYSIQUE GLOBE (FR)",
-    "AGH UST- UNIVERSITY OF SCIENCE AND (PL)",
-    "INSTITUTE OF ATMOSPHERIC PHYSICS (CZ)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Roger Haagmans",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "roger.haagmans@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "INST PHYSIQUE GLOBE (FR)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "AGH UST- UNIVERSITY OF SCIENCE AND (PL)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "INSTITUTE OF ATMOSPHERIC PHYSICS (CZ)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2019-02-22T00:00:00Z",
   "end_datetime": "2020-10-30T23:59:59Z",
   "extent": {

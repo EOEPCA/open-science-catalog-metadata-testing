@@ -15,12 +15,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Open Science Catalog"
-    },
-    {
-      "rel": "child",
-      "href": "./s-expression/collection.json",
-      "type": "application/json",
-      "title": "S-Expression"
     }
   ],
   "stac_extensions": [],

@@ -44,20 +44,27 @@
   ],
   "title": "AEOLUS+inno - AOC",
   "osc:name": "AEOLUS+ INNOVATION - EXPRO+ OCEAN SUB-SURFACE PRODUCTS AND APPLICATIONS",
-  "osc:themes": [
-    "Atmosphere",
-    "Oceans"
-  ],
   "osc:status": "ONGOING",
-  "osc:technical_officer": {
-    "name": "Marie-Helene Rio",
-    "e-mail": "marie-helene.rio@esa.int"
-  },
-  "osc:consortium": [
-    "NOVELTIS SAS (FR)",
-    "UNIVERSITE DU LITTORAL COTE D'OPALE (FR)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Marie-Helene Rio",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "marie-helene.rio@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "NOVELTIS SAS (FR)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "UNIVERSITE DU LITTORAL COTE D'OPALE (FR)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2020-12-09T00:00:00Z",
   "end_datetime": "2021-06-27T23:59:59Z",
   "extent": {

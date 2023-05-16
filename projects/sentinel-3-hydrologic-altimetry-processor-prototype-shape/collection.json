@@ -38,22 +38,39 @@
   ],
   "title": "SHAPE",
   "osc:name": "Sentinel-3 Hydrologic Altimetry Processor prototypE (SHAPE)",
-  "osc:themes": [
-    "Cryosphere"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Jerome Benveniste",
-    "e-mail": "jerome.benveniste@esa.int"
-  },
-  "osc:consortium": [
-    "ALONG-TRACK (FR)",
-    "ISARDSAT LTD. (GB)",
-    "ISARDSAT SP. Z O.O. (PL)",
-    "SWEDISH METEOROLOGICAL AND HYDROLOGICAL INSTITUTE (SE)",
-    "UNIVERSITY OF PORTO \u201a FACULTY OF SCIENCE (PT)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Jerome Benveniste",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "jerome.benveniste@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "ALONG-TRACK (FR)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "ISARDSAT LTD. (GB)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "ISARDSAT SP. Z O.O. (PL)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "SWEDISH METEOROLOGICAL AND HYDROLOGICAL INSTITUTE (SE)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "UNIVERSITY OF PORTO \u201a FACULTY OF SCIENCE (PT)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2015-09-22T00:00:00Z",
   "end_datetime": "2019-09-30T23:59:59Z",
   "extent": {

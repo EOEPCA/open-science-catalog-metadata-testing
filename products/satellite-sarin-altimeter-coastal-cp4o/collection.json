@@ -74,7 +74,9 @@
     "Oceans",
     "Cryosphere"
   ],
-  "osc:variable": "Sea surface height anomaly",
+  "osc:variables": [
+    "Sea surface height anomaly"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "Caribbean",
   "osc:type": "Product",

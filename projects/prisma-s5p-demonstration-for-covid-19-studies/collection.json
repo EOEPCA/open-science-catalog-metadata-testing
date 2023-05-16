@@ -38,23 +38,43 @@
   ],
   "title": "PRISMA+S5p for COVID-19",
   "osc:name": "PRISMA + S5P demonstration for COVID-19 studies",
-  "osc:themes": [
-    "Atmosphere"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Christian Retscher",
-    "e-mail": "christian.retscher@esa.int"
-  },
-  "osc:consortium": [
-    "GRASP-SAS (FR)",
-    "CATALYSTS GMBH (AT)",
-    "CloudFLight (DE)",
-    "CNR-RESEARCH INSTITUTE FOR GEO-HYDROLOGICAL PROTECTION \u201a IRPI (IT)",
-    "Institute of BioEconomy (IBE)-CNR (IT)",
-    "KNMI (NL)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Christian Retscher",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "christian.retscher@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "GRASP-SAS (FR)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "CATALYSTS GMBH (AT)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "CloudFLight (DE)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "CNR-RESEARCH INSTITUTE FOR GEO-HYDROLOGICAL PROTECTION \u201a IRPI (IT)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "Institute of BioEconomy (IBE)-CNR (IT)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "KNMI (NL)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2020-07-24T00:00:00Z",
   "end_datetime": "2021-06-16T23:59:59Z",
   "extent": {

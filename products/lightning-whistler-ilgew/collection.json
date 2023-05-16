@@ -69,7 +69,9 @@
     "Atmosphere",
     "Magnetosphere_Ionosphere"
   ],
-  "osc:variable": "Ionospheric plasma density",
+  "osc:variables": [
+    "Ionospheric plasma density"
+  ],
   "osc:status": "ONGOING",
   "osc:region": null,
   "osc:type": "Product",

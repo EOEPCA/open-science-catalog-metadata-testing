@@ -23,6 +23,12 @@
       "title": "Theme: Land"
     },
     {
+      "rel": "child",
+      "href": "../../../products/binary-wet-snow-s14science-snow/collection.json",
+      "type": "application/json",
+      "title": "Binary wet snow extent products"
+    },
+    {
       "rel": "parent",
       "href": "../../catalog.json",
       "type": "application/json",

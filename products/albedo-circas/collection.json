@@ -67,7 +67,9 @@
   "osc:themes": [
     "Land"
   ],
-  "osc:variable": "Earth surface albedo",
+  "osc:variables": [
+    "Earth surface albedo"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "Regional",
   "osc:type": "Product",

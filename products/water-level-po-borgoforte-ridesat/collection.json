@@ -88,7 +88,9 @@
   "osc:themes": [
     "Land"
   ],
-  "osc:variable": "River discharge",
+  "osc:variables": [
+    "River discharge"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "Europe",
   "osc:type": "Product",

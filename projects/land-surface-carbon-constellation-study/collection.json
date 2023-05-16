@@ -33,30 +33,71 @@
   ],
   "title": "Carbon Constellation",
   "osc:name": "LAND SURFACE CARBON CONSTELLATION STUDY",
-  "osc:themes": [
-    "Land"
-  ],
   "osc:status": "ONGOING",
-  "osc:technical_officer": {
-    "name": "Matthias Drusch",
-    "e-mail": "matthias.drusch@esa.int"
-  },
-  "osc:consortium": [
-    "Lund University (SE)",
-    "TU Vienna (AT)",
-    "Forschungszentrum Julich (DE)",
-    "The Inversion Lab (DE)",
-    "Finnish Meteorological Institute (FI)",
-    "University of Reading (UK)",
-    "CESBIO (FR)",
-    "Eidg. Forschungsanstalt fur Wald",
-    "Schnee und Landschaft WSL (CH)",
-    "TU Delft (NL)",
-    "University of Valencia  (ES)",
-    "University of Edinburgh (UK)",
-    "Max Planck Institute for Biogeochemistry (DE)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Matthias Drusch",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "matthias.drusch@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "Lund University (SE)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "TU Vienna (AT)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "Forschungszentrum Julich (DE)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "The Inversion Lab (DE)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "Finnish Meteorological Institute (FI)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "University of Reading (UK)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "CESBIO (FR)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "Eidg. Forschungsanstalt fur Wald",
+      "role": "consortium_member"
+    },
+    {
+      "name": "Schnee und Landschaft WSL (CH)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "TU Delft (NL)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "University of Valencia  (ES)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "University of Edinburgh (UK)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "Max Planck Institute for Biogeochemistry (DE)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2020-07-08T00:00:00Z",
   "end_datetime": "2023-04-30T23:59:59Z",
   "extent": {

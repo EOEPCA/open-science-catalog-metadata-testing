@@ -27,34 +27,34 @@
       "title": "Theme: Oceans"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/surface-ocean-pco2-oceansoda/collection.json",
       "type": "application/json",
-      "title": "Product: Surface-ocean_pCO2_Global_v2021"
+      "title": "Surface-ocean_pCO2_Global_v2021"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/surface-ocean-total-alcalinity-oceansoda/collection.json",
       "type": "application/json",
-      "title": "Product: Surface-ocean_Total Alcalinity_Global_v2021"
+      "title": "Surface-ocean_Total Alcalinity_Global_v2021"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/suface-ocean-ph-oceansoda/collection.json",
       "type": "application/json",
-      "title": "Product: Surface-ocean_pH_Global_v2021"
+      "title": "Surface-ocean_pH_Global_v2021"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/surface-ocean-dic-oceansoda/collection.json",
       "type": "application/json",
-      "title": "Product: Surface-ocean_Dissolved Inorganic Carbon_Global_v2021"
+      "title": "Surface-ocean_Dissolved Inorganic Carbon_Global_v2021"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/surface-ocean-omega-aragonite-saturation-oceansoda/collection.json",
       "type": "application/json",
-      "title": "Product: Surface-ocean_Omega_Aragonite Saturation State_Global_v2021"
+      "title": "Surface-ocean_Omega_Aragonite Saturation State_Global_v2021"
     },
     {
       "rel": "parent",
@@ -68,22 +68,39 @@
   ],
   "title": "OceanSODA",
   "osc:name": "Satellite Oceanographic Datasets for Acidification (OceanSODA)",
-  "osc:themes": [
-    "Oceans"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Diego Fernandez",
-    "e-mail": "diego.fernandez@esa.int"
-  },
-  "osc:consortium": [
-    "UNIVERSITY OF EXETER (GB)",
-    "EIDGEN\u221a\u00f1SSISCHE TECHNISCHE HOCHSCHULE ZURICH (ETH ZURICH) (CH)",
-    "IFREMER (FR)",
-    "NERC",
-    "PLYMOUTH MARINE LABORATORY (GB)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Diego Fernandez",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "diego.fernandez@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "UNIVERSITY OF EXETER (GB)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "EIDGEN\u221a\u00f1SSISCHE TECHNISCHE HOCHSCHULE ZURICH (ETH ZURICH) (CH)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "IFREMER (FR)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "NERC",
+      "role": "consortium_member"
+    },
+    {
+      "name": "PLYMOUTH MARINE LABORATORY (GB)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2018-11-22T00:00:00Z",
   "end_datetime": "2020-12-15T23:59:59Z",
   "extent": {

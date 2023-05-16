@@ -23,6 +23,12 @@
       "title": "Theme: Atmosphere"
     },
     {
+      "rel": "child",
+      "href": "../../products/total-ozone-anreo/collection.json",
+      "type": "application/json",
+      "title": "Total ozone product from OLCI / S-3_Antarctica _S3"
+    },
+    {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",

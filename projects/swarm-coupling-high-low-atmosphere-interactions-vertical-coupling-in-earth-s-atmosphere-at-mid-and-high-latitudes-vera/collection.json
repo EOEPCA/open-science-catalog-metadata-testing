@@ -27,10 +27,10 @@
       "title": "Theme: Magnetosphere_Ionosphere"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/sudden-stratospheric-warming-vera/collection.json",
       "type": "application/json",
-      "title": "Product: Sudden Stratospheric Warming (SSW)"
+      "title": "Sudden Stratospheric Warming (SSW)"
     },
     {
       "rel": "parent",
@@ -44,20 +44,31 @@
   ],
   "title": "VERA",
   "osc:name": "SWARM+ COUPLING: HIGH-LOW ATMOSPHERE INTERACTIONS: VERtical coupling in Earth's Atmosphere at mid and high latitudes (VERA)",
-  "osc:themes": [
-    "Magnetosphere_Ionosphere"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Roger Haagmans",
-    "e-mail": "roger.haagmans@esa.int"
-  },
-  "osc:consortium": [
-    "HELMHOLTZ-ZENTRUM POTSDAM \u2013 DEUTSCHES GEOFORSCHUNGZENTRUM (GFZ) (DE)",
-    "Research Centre Rez (CZ)",
-    "UNIVERSITY OF NEW BRUNSWICK (CA)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Roger Haagmans",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "roger.haagmans@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "HELMHOLTZ-ZENTRUM POTSDAM \u2013 DEUTSCHES GEOFORSCHUNGZENTRUM (GFZ) (DE)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "Research Centre Rez (CZ)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "UNIVERSITY OF NEW BRUNSWICK (CA)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2019-02-22T00:00:00Z",
   "end_datetime": "2020-11-30T23:59:59Z",
   "extent": {

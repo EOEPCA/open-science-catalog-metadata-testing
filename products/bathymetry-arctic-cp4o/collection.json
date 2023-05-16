@@ -74,7 +74,9 @@
     "Oceans",
     "Cryosphere"
   ],
-  "osc:variable": "Bathymetry",
+  "osc:variables": [
+    "Bathymetry"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "Arctic",
   "osc:type": "Product",

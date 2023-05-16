@@ -79,7 +79,9 @@
     "Oceans",
     "Cryosphere"
   ],
-  "osc:variable": "Sea surface salinity",
+  "osc:variables": [
+    "Sea surface salinity"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "Arctic",
   "osc:type": "Product",

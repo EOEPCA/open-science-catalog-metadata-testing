@@ -76,7 +76,9 @@
   "osc:themes": [
     "Cryosphere"
   ],
-  "osc:variable": "Snow status (wet/dry)",
+  "osc:variables": [
+    "Snow status (wet/dry)"
+  ],
   "osc:status": "COMPLETED",
   "osc:region": "Europe",
   "osc:type": "Product",

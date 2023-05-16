@@ -27,46 +27,46 @@
       "title": "Theme: Oceans"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/global-particulate-organic-carbon-v4-bicep/collection.json",
       "type": "application/json",
-      "title": "Product: Monthly Global Particulate Organic Carbon dataset (4 km, OC-CCI v4.2)"
+      "title": "Monthly Global Particulate Organic Carbon dataset (4 km, OC-CCI v4.2)"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/global-particulate-organic-carbon-v5-bicep/collection.json",
       "type": "application/json",
-      "title": "Product: Monthly Global Particulate Organic Carbon dataset (4 km, OC-CCI v5)"
+      "title": "Monthly Global Particulate Organic Carbon dataset (4 km, OC-CCI v5)"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/global-marine-phytoplankton-primary-production-bicep/collection.json",
       "type": "application/json",
-      "title": "Product: Monthly global Marine Phytoplankton Primary Production dataset"
+      "title": "Monthly global Marine Phytoplankton Primary Production dataset"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/global-marine-phytoplankton-carbon-bicep/collection.json",
       "type": "application/json",
-      "title": "Product: Monthly global Phytoplankton Carbon dataset"
+      "title": "Monthly global Phytoplankton Carbon dataset"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/dissolved-organic-carbon-bicep/collection.json",
       "type": "application/json",
-      "title": "Product: Dissolved Organic Carbon"
+      "title": "Dissolved Organic Carbon"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/export-production-bicep/collection.json",
       "type": "application/json",
-      "title": "Product: Export Production"
+      "title": "Export Production"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/particulate-inorganic-carbon-bicep/collection.json",
       "type": "application/json",
-      "title": "Product: Particulate Inorganic Carbon"
+      "title": "Particulate Inorganic Carbon"
     },
     {
       "rel": "parent",
@@ -80,24 +80,47 @@
   ],
   "title": "BICEP",
   "osc:name": "Biological Pump and Carbon Exchange Processes",
-  "osc:themes": [
-    "Oceans"
-  ],
   "osc:status": "ONGOING",
-  "osc:technical_officer": {
-    "name": "Marie-Helene Rio",
-    "e-mail": "marie-helene.rio@esa.int"
-  },
-  "osc:consortium": [
-    "PLYMOUTH MARINE LABORATORY (GB)",
-    "FINNISH METEOROLOGICAL INSTITUTE (FI)",
-    "HELLENIC CENTRE FOR MARINE RESEARCH (HCMR) (GR)",
-    "HYGEOS (FR)",
-    "NATIONAL AND KAPODISTRIAN UNIVERSIT (GR)",
-    "UNIVERSITY OF EXETER (GB)",
-    "UNIVERSITY OF OXFORD (GB)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Marie-Helene Rio",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "marie-helene.rio@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "PLYMOUTH MARINE LABORATORY (GB)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "FINNISH METEOROLOGICAL INSTITUTE (FI)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "HELLENIC CENTRE FOR MARINE RESEARCH (HCMR) (GR)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "HYGEOS (FR)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "NATIONAL AND KAPODISTRIAN UNIVERSIT (GR)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "UNIVERSITY OF EXETER (GB)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "UNIVERSITY OF OXFORD (GB)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2019-12-09T00:00:00Z",
   "end_datetime": "2021-07-13T23:59:59Z",
   "extent": {

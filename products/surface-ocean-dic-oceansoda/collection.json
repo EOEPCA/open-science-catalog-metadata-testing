@@ -59,7 +59,9 @@
   "osc:themes": [
     "Oceans"
   ],
-  "osc:variable": "Dissolved inorganic carbon  (DIC)",
+  "osc:variables": [
+    "Dissolved inorganic carbon  (DIC)"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "Global",
   "osc:type": "Product",

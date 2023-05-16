@@ -88,7 +88,9 @@
   "osc:themes": [
     "Land"
   ],
-  "osc:variable": "CO2 flux",
+  "osc:variables": [
+    "CO2 flux"
+  ],
   "osc:status": "COMPLETED",
   "osc:region": "Global",
   "osc:type": "Product",

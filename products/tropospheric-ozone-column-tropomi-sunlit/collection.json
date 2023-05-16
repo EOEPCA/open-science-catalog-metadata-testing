@@ -62,7 +62,9 @@
   "osc:themes": [
     "Atmosphere"
   ],
-  "osc:variable": "O3 Tropospheric Column",
+  "osc:variables": [
+    "O3 Tropospheric Column"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "Global",
   "osc:type": "Product",

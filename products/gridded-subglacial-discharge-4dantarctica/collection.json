@@ -49,7 +49,9 @@
   "osc:themes": [
     "Cryosphere"
   ],
-  "osc:variable": "River discharge",
+  "osc:variables": [
+    "River discharge"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "Antarctica",
   "osc:type": "Product",

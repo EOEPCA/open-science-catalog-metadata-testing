@@ -27,10 +27,10 @@
       "title": "Theme: Land"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/biomass-s3-africa-albiom/collection.json",
       "type": "application/json",
-      "title": "Product: Prototype biomass product using Sentinel-3 altimetry_Africa_S3"
+      "title": "Prototype biomass product using Sentinel-3 altimetry_Africa_S3"
     },
     {
       "rel": "parent",
@@ -44,20 +44,31 @@
   ],
   "title": "ALBIOM",
   "osc:name": "ALBIOM (ALtimetry for BIOMass)",
-  "osc:themes": [
-    "Land"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Jerome Benveniste",
-    "e-mail": "jerome.benveniste@esa.int"
-  },
-  "osc:consortium": [
-    "DEIMOS SPACE UK LTD (GB)",
-    "Sapienza University of Rome (IT)",
-    "UNIV II ROMA TOR VERGATA (IT)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Jerome Benveniste",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "jerome.benveniste@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "DEIMOS SPACE UK LTD (GB)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "Sapienza University of Rome (IT)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "UNIV II ROMA TOR VERGATA (IT)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2019-10-16T00:00:00Z",
   "end_datetime": "2020-11-06T23:59:59Z",
   "extent": {

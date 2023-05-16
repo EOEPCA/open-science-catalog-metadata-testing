@@ -81,7 +81,9 @@
   "osc:themes": [
     "Cryosphere"
   ],
-  "osc:variable": "Earth surface albedo",
+  "osc:variables": [
+    "Earth surface albedo"
+  ],
   "osc:status": "COMPLETED",
   "osc:region": "Europe",
   "osc:type": "Product",

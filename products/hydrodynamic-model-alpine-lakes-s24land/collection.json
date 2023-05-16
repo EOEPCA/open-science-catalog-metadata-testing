@@ -69,7 +69,9 @@
   "osc:themes": [
     "Land"
   ],
-  "osc:variable": "Lake area",
+  "osc:variables": [
+    "Lake area"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "Western Europe",
   "osc:type": "Product",

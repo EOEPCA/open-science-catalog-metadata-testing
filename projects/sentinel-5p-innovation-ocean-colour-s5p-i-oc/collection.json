@@ -38,21 +38,35 @@
   ],
   "title": "S5p Inno - S5p-I-OC",
   "osc:name": "SENTINEL-5P+ INNOVATION OCEAN COLOUR (S5P+-I-OC)",
-  "osc:themes": [
-    "Oceans"
-  ],
   "osc:status": "ONGOING",
-  "osc:technical_officer": {
-    "name": "Marie-Helene Rio",
-    "e-mail": "marie-helene.rio@esa.int"
-  },
-  "osc:consortium": [
-    "ALFRED WEGENER INSTITUTE (DE)",
-    "U. LISBON (PT)",
-    "UNIVERSITAET BREMEN (DE)",
-    "UNIVERSITY OF VICTORIA (CA)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Marie-Helene Rio",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "marie-helene.rio@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "ALFRED WEGENER INSTITUTE (DE)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "U. LISBON (PT)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "UNIVERSITAET BREMEN (DE)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "UNIVERSITY OF VICTORIA (CA)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2019-05-29T00:00:00Z",
   "end_datetime": "2021-06-30T23:59:59Z",
   "extent": {

@@ -67,7 +67,9 @@
   "osc:themes": [
     "Cryosphere"
   ],
-  "osc:variable": "Ice sheet topography",
+  "osc:variables": [
+    "Ice sheet topography"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "Greenland",
   "osc:type": "Product",

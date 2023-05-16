@@ -27,16 +27,16 @@
       "title": "Theme: Solid Earth"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/geothermal-heat-flow-greenland-3d-earth/collection.json",
       "type": "application/json",
-      "title": "Product: Geothermal Heat Flow Database and Map_Greenland_GOCE_SWARM"
+      "title": "Geothermal Heat Flow Database and Map_Greenland_GOCE_SWARM"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/crust-and-upper-mantle-model-3d-earth/collection.json",
       "type": "application/json",
-      "title": "Product: Global Model of Crust and Upper Mantle_WINTERC-G_GOCE"
+      "title": "Global Model of Crust and Upper Mantle_WINTERC-G_GOCE"
     },
     {
       "rel": "parent",
@@ -50,24 +50,47 @@
   ],
   "title": "3D-EARTH",
   "osc:name": "3D-Earth",
-  "osc:themes": [
-    "Solid Earth"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Roger Haagmans",
-    "e-mail": "roger.haagmans@esa.int"
-  },
-  "osc:consortium": [
-    "UNIVERSITY OF KIEL (DE)",
-    "BRITISH ANTARCTIC SURVEY (GB)",
-    "DUBLIN INSTITUTE FOR ADVANCED STUDIES (DIAS) (IE)",
-    "GEOLOGICAL SURVEY OF DENMARK AND GREENLAND (DK)",
-    "TU DELFT (NL)",
-    "Technical University of Denmark (DK)",
-    "UNIVERSITY OF OSLO (NO)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Roger Haagmans",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "roger.haagmans@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "UNIVERSITY OF KIEL (DE)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "BRITISH ANTARCTIC SURVEY (GB)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "DUBLIN INSTITUTE FOR ADVANCED STUDIES (DIAS) (IE)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "GEOLOGICAL SURVEY OF DENMARK AND GREENLAND (DK)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "TU DELFT (NL)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "Technical University of Denmark (DK)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "UNIVERSITY OF OSLO (NO)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2019-10-22T00:00:00Z",
   "end_datetime": "2020-11-12T23:59:59Z",
   "extent": {

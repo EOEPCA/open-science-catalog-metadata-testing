@@ -79,7 +79,9 @@
   "osc:themes": [
     "Cryosphere"
   ],
-  "osc:variable": "Glacier cover",
+  "osc:variables": [
+    "Glacier cover"
+  ],
   "osc:status": "COMPLETED",
   "osc:region": "West Antarctic Ice Sheet",
   "osc:type": "Product",

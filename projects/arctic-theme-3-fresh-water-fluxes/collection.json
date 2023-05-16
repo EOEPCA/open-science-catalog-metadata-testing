@@ -27,10 +27,10 @@
       "title": "Theme: Cryosphere"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/ocean-freshwater-flux-arctic-theme3/collection.json",
       "type": "application/json",
-      "title": "Product: Ocean freshwater fluxes_Arctic_Multimission"
+      "title": "Ocean freshwater fluxes_Arctic_Multimission"
     },
     {
       "rel": "parent",
@@ -44,20 +44,31 @@
   ],
   "title": "ArcFlux",
   "osc:name": "ARCTIC+ THEME 3 \u2013 FRESH WATER FLUXES",
-  "osc:themes": [
-    "Cryosphere"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Diego Fernandez",
-    "e-mail": "diego.fernandez@esa.int"
-  },
-  "osc:consortium": [
-    "Technical University of Denmark (DK)",
-    "CNRS \u2013 DELEGATION REGIONALE MIDI-PYRENEE (FR)",
-    "ENVEO \u2013 ENVIRONMENTAL EARTH OBSERVATION GMBH (AT)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Diego Fernandez",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "diego.fernandez@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "Technical University of Denmark (DK)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "CNRS \u2013 DELEGATION REGIONALE MIDI-PYRENEE (FR)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "ENVEO \u2013 ENVIRONMENTAL EARTH OBSERVATION GMBH (AT)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2016-06-25T00:00:00Z",
   "end_datetime": "2018-03-01T23:59:59Z",
   "extent": {

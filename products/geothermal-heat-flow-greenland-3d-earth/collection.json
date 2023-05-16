@@ -74,7 +74,9 @@
   "osc:themes": [
     "Solid Earth"
   ],
-  "osc:variable": "Geothermal energy",
+  "osc:variables": [
+    "Geothermal energy"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "Arctic",
   "osc:type": "Product",

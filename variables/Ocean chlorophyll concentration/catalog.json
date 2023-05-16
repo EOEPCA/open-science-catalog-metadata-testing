@@ -23,6 +23,30 @@
       "title": "Theme: Oceans"
     },
     {
+      "rel": "child",
+      "href": "../../products/secchi-disk-depth-lpf-physioglob/collection.json",
+      "type": "application/json",
+      "title": "Secchi Disk depth_Global Oceans_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/particulate-backscatter-aeolus-innovation-color/collection.json",
+      "type": "application/json",
+      "title": "Particulate backscatter: bbp_Global_AEOLUS"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/l3-chla-daily-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 3 Chl-a, 300m daily and monthly"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/l4-chla-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 4 Ocean Colour products Chl-a, 300m, daily"
+    },
+    {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",

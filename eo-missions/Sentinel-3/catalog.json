@@ -11,6 +11,396 @@
       "title": "Open Science Catalog"
     },
     {
+      "rel": "child",
+      "href": "../../products/limb-ozone-lpf-solve/collection.json",
+      "type": "application/json",
+      "title": "IUP-OMPS L2 and L3 limb ozone data sets_Global_S2/3"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/total-ozone-anreo/collection.json",
+      "type": "application/json",
+      "title": "Total ozone product from OLCI / S-3_Antarctica _S3"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/ocean-freshwater-flux-arctic-theme3/collection.json",
+      "type": "application/json",
+      "title": "Ocean freshwater fluxes_Arctic_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/eo-based-cdom-baltic-sealabio/collection.json",
+      "type": "application/json",
+      "title": "EO based Color Disolved Organic Matter_Baltics_S3"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/surface-ocean-pco2-oceansoda/collection.json",
+      "type": "application/json",
+      "title": "Surface-ocean_pCO2_Global_v2021"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/surface-ocean-total-alcalinity-oceansoda/collection.json",
+      "type": "application/json",
+      "title": "Surface-ocean_Total Alcalinity_Global_v2021"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/suface-ocean-ph-oceansoda/collection.json",
+      "type": "application/json",
+      "title": "Surface-ocean_pH_Global_v2021"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/hydrodynamic-model-alpine-lakes-s24land/collection.json",
+      "type": "application/json",
+      "title": "Hydrodynamic models of Alpine lakes_Western Europe_S2/3"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/biomass-s3-africa-albiom/collection.json",
+      "type": "application/json",
+      "title": "Prototype biomass product using Sentinel-3 altimetry_Africa_S3"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/baltic-sea-level-baltic-seal/collection.json",
+      "type": "application/json",
+      "title": "Baltic Sea Level_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/hydrodynamic-model-baltic-seal/collection.json",
+      "type": "application/json",
+      "title": "Hydrodynamic model data (deviation from Sea Level Mean)_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/water-level-amazon-itapeua-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Water level from altimetry_Temporal series_L3 Products Database_Amazon Itapeua_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/water-level-amazon-manacapuru-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Water level from altimetry_Temporal series_L3 Products Database_Amazon Manacapuru_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/water-level-mississippi-memphis-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Water level from altimetry_Temporal series_L3 Products Database_Mississippi Memphis_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/water-level-mississippi-chester-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Water level from altimetry_Temporal series_L3 Products Database_Mississippi Chester_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/water-level-congo-brazaville-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Water level from altimetry_Temporal series_L3 Products Database_Congo Brazaville_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/water-level-po-pontelagoscuro-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Water level from altimetry_Temporal series_L3 Products Database_Po Pontelagoscuro_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/water-level-po-sermide-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Water level from altimetry_Temporal series_L3 Products Database_Po Sermide_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/water-level-po-cremona-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Water level from altimetry_Temporal series_L3 Products Database_Po Cremona_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/water-level-po-borgoforte-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Water level from altimetry_Temporal series_L3 Products Database_Po Borgoforte_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/water-level-danube-baja-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Water level from altimetry_Temporal series_L3 Products Database_Danube Baja_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/water-level-danube-mohacs-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Water level from altimetry_Temporal series_L3 Products Database_Danube Mohacs_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/simulated-river-discharge-amazon-itapeua-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Simulated River discharge_Amazon Itapeua_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/simulated-river-discharge-amazon-manacapuru-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Simulated River discharge_Amazon Manacapuru_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/simulated-river-discharge-mississippi-memphis-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Simulated River discharge_Mississippi Memphis_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/simulated-river-discharge-mississippi-chester-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Simulated River discharge_Mississippi Chester_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/simulated-river-discharge-congo-brazaville-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Simulated River discharge_Congo Brazaville_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/simulated-river-discharge-po-pontelagoscuro-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Simulated River discharge products_Po Pontelagoscuro_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/simulated-river-discharge-po-sermide-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Simulated River discharge products_Po Sermide_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/simulated-river-discharge-po-cremona-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Simulated River discharge products_Po Cremona_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/simulated-river-discharge-po-borgoforte-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Simulated River discharge products_Po Borgoforte_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/simulated-river-discharge-danube-baja-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Simulated River discharge products_Danube Baja_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/simulated-river-discharge-danube-mohacs-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Simulated River discharge products_Danube Mohacs_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/broadband-albedo-arctic-sice/collection.json",
+      "type": "application/json",
+      "title": "Broadband albedo_Arctic_S3"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/spectral-albedo-arctic-sice/collection.json",
+      "type": "application/json",
+      "title": "Spectral albedo_Arctic_S3"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/snow-grain-diameter-arctic-sice/collection.json",
+      "type": "application/json",
+      "title": "Snow grain diameter_Arctic_S3"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/nrt-sice-rasters-greenland-arctic-sice/collection.json",
+      "type": "application/json",
+      "title": "NRT SICE rasters for Greenland_Arctic_S3"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/broadband-albedo-greenland-s34science-snow/collection.json",
+      "type": "application/json",
+      "title": "Broadband albedo_Greenland_S3"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/spectral-albedo-greenland-s34science-snow/collection.json",
+      "type": "application/json",
+      "title": "Spectral albedo_Greenland_S3"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/snow-grain-diameter-greenland-s34science-snow/collection.json",
+      "type": "application/json",
+      "title": "Snow grain diameter_Greenland_S3"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/cloud-aerosol-circas/collection.json",
+      "type": "application/json",
+      "title": "Cloud and aerosol products_Regional_S3A/SLSTR"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/albedo-circas/collection.json",
+      "type": "application/json",
+      "title": "Albedo_Regional_S3A/SLSTR"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/radiation-budget-circas/collection.json",
+      "type": "application/json",
+      "title": "Radiation budget_Regional_S3"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/l3-chla-daily-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 3 Chl-a, 300m daily and monthly"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/l3-spm-daily-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 3 Suspended Particulate Matter, 300m, daily and monthly"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/l3-turbidity-daily-monthly-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 3 Turbidity, 300m, daily and monthly"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/l4-chla-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 4 Ocean Colour products Chl-a, 300m, daily"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/l3-cryosat2-sea-level-anomaly-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level-3 Cryosat-2 [2011, 2019] along-track 5Hz product, sea level anomaly, ~1km resolution."
+    },
+    {
+      "rel": "child",
+      "href": "../../products/l3-s3-sea-level-anomaly-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level-3 Sentinel-3A [mid 2016, 2018] along-track 5Hz product, sea level anomaly, ~1km resolution"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/l4-dynamic-topography-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 4, absolute dynamic topography, multi-mission gridded merged products for a period of 1 year, 0.0625\u00b0*0.0625\u00b0, daily"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/l4-sea-level-anomaly-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 4, sea level anomaly, multi-mission gridded merged products for a period of 1 year, 0.0625\u00b0*0.0625\u00b0, daily"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/eddy-census-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Eddy census"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/l4-geostrophic-currents-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 4, geostrophic currents, multi-mission gridded merged products for a period of 1 year, 0.0625\u00b0*0.0625\u00b0, daily"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/l2-smos-sss-daily-ascending-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 2 SMOS , Ascending orbit, 0.25\u00b0*0.25\u00b0, daily averaged produced daily"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/l2-smos-sss-daily-descending-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 2 SMOS , Descending orbit, 0.25\u00b0*0.25\u00b0, daily averaged produced daily"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/l3-sss-9day-average-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 3 SSS, 0.25\u00b0*0.25\u00b0, 9-day averaged produced daily"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/l4-sss-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 4 product SSS, 0.05\u00b0*0.0505\u00b0"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/global-particulate-organic-carbon-v4-bicep/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Particulate Organic Carbon dataset (4 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/global-particulate-organic-carbon-v5-bicep/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Particulate Organic Carbon dataset (4 km, OC-CCI v5)"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/global-marine-phytoplankton-primary-production-bicep/collection.json",
+      "type": "application/json",
+      "title": "Monthly global Marine Phytoplankton Primary Production dataset"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/global-marine-phytoplankton-carbon-bicep/collection.json",
+      "type": "application/json",
+      "title": "Monthly global Phytoplankton Carbon dataset"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/dissolved-organic-carbon-bicep/collection.json",
+      "type": "application/json",
+      "title": "Dissolved Organic Carbon"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/export-production-bicep/collection.json",
+      "type": "application/json",
+      "title": "Export Production"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/particulate-inorganic-carbon-bicep/collection.json",
+      "type": "application/json",
+      "title": "Particulate Inorganic Carbon"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/binary-wet-snow-s14science-snow/collection.json",
+      "type": "application/json",
+      "title": "Binary wet snow extent products"
+    },
+    {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",

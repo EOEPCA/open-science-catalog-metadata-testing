@@ -27,28 +27,28 @@
       "title": "Theme: Cryosphere"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/ice-sheet-temperature-antarctica-cryosmos/collection.json",
       "type": "application/json",
-      "title": "Product: Internal ice-sheet temperature_Antarctica_SMOS"
+      "title": "Internal ice-sheet temperature_Antarctica_SMOS"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/ice-shelf-antarctica-cryosmos/collection.json",
       "type": "application/json",
-      "title": "Product: Ice shelf product_Antarctica_SMOS"
+      "title": "Ice shelf product_Antarctica_SMOS"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/surface-melting-antarctica-cryosmos/collection.json",
       "type": "application/json",
-      "title": "Product: Occurrence of Surface Melting_Antarctica_SMOS"
+      "title": "Occurrence of Surface Melting_Antarctica_SMOS"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/bedrock-topography-antarctica-cryosmos/collection.json",
       "type": "application/json",
-      "title": "Product: Bedrock topography and/or geothermal heat flux_Antarctica_GOCE"
+      "title": "Bedrock topography and/or geothermal heat flux_Antarctica_GOCE"
     },
     {
       "rel": "parent",
@@ -62,23 +62,43 @@
   ],
   "title": "CryoSMOS",
   "osc:name": "CryoSMOS",
-  "osc:themes": [
-    "Cryosphere"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Ola Grabak",
-    "e-mail": "ola.grabak@esa.int"
-  },
-  "osc:consortium": [
-    "FAC-CNR ISTITUTO DI FISICA APPLICATA \u201d NELLO CARRARA\u201d (IT)",
-    "CNRS",
-    "DELEGATION REGIONALE ALPES (FR)",
-    "Technical University of Denmark (DK)",
-    "UNIVERSITE TOULOUSE III \u2013 PAUL SABATIER (FR)",
-    "UNIVERSITY OF HAMBURG (DE)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Ola Grabak",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "ola.grabak@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "FAC-CNR ISTITUTO DI FISICA APPLICATA \u201d NELLO CARRARA\u201d (IT)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "CNRS",
+      "role": "consortium_member"
+    },
+    {
+      "name": "DELEGATION REGIONALE ALPES (FR)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "Technical University of Denmark (DK)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "UNIVERSITE TOULOUSE III \u2013 PAUL SABATIER (FR)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "UNIVERSITY OF HAMBURG (DE)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2014-09-23T00:00:00Z",
   "end_datetime": "2017-10-31T23:59:59Z",
   "extent": {

@@ -74,7 +74,9 @@
   "osc:themes": [
     "Oceans"
   ],
-  "osc:variable": "Total alkalinity (AT)",
+  "osc:variables": [
+    "Total alkalinity (AT)"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "Global",
   "osc:type": "Product",

@@ -64,7 +64,9 @@
   "osc:themes": [
     "Land"
   ],
-  "osc:variable": "Land cover",
+  "osc:variables": [
+    "Land cover"
+  ],
   "osc:status": "COMPLETED",
   "osc:region": "South America",
   "osc:type": "Product",

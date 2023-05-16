@@ -69,7 +69,9 @@
     "Oceans",
     "Land"
   ],
-  "osc:variable": "Colour Dissolved Organic Matter (CDOM)",
+  "osc:variables": [
+    "Colour Dissolved Organic Matter (CDOM)"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "Baltics",
   "osc:type": "Product",

@@ -67,7 +67,9 @@
   "osc:themes": [
     "Land"
   ],
-  "osc:variable": "Solar-induced chlorophyll fluorescence (SIF)",
+  "osc:variables": [
+    "Solar-induced chlorophyll fluorescence (SIF)"
+  ],
   "osc:status": "COMPLETED",
   "osc:region": "Global",
   "osc:type": "Product",

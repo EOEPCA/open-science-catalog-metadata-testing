@@ -67,7 +67,9 @@
   "osc:themes": [
     "Cryosphere"
   ],
-  "osc:variable": "Snow cover",
+  "osc:variables": [
+    "Snow cover"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "Arctic",
   "osc:type": "Product",

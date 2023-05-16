@@ -74,7 +74,9 @@
     "Solid Earth",
     "Cryosphere"
   ],
-  "osc:variable": "Gravity field",
+  "osc:variables": [
+    "Gravity field"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "Antarctica",
   "osc:type": "Product",

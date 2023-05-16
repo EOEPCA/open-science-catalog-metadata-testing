@@ -38,18 +38,23 @@
   ],
   "title": "DACES",
   "osc:name": "Detection of Anthropogenic CO2 Emissions Sources",
-  "osc:themes": [
-    "Atmosphere"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Christian Retscher",
-    "e-mail": "christian.retscher@esa.int"
-  },
-  "osc:consortium": [
-    "FINNISH METEOROLOGICAL INSTITUTE (FI)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Christian Retscher",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "christian.retscher@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "FINNISH METEOROLOGICAL INSTITUTE (FI)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2018-10-30T00:00:00Z",
   "end_datetime": "2020-05-27T23:59:59Z",
   "extent": {

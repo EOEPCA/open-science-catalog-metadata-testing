@@ -67,7 +67,9 @@
   "osc:themes": [
     "Atmosphere"
   ],
-  "osc:variable": "HDO",
+  "osc:variables": [
+    "HDO"
+  ],
   "osc:status": "COMPLETED",
   "osc:region": "Global",
   "osc:type": "Product",

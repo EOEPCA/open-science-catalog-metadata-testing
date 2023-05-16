@@ -38,21 +38,35 @@
   ],
   "title": "PHOTOPROXY",
   "osc:name": "PHOTOPROXY: TECHNICAL ASSISTANCE FOR THE PHOTOSYNTHETIC-PROXY EXPERIMENT",
-  "osc:themes": [
-    "Land"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Dirk Schuettemeyer",
-    "e-mail": "dirk.schuettemeyer@esa.int"
-  },
-  "osc:consortium": [
-    "FORSCHUNGSZENTRUM JUELICH GMBH (DE)",
-    "FONDAZIONE CLIMA E SOSTENIBILIT\u221a\u00c4 (IT)",
-    "University Bonn - IGG (DE)",
-    "UNIVERSITY OF ALBERTA (CA)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Dirk Schuettemeyer",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "dirk.schuettemeyer@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "FORSCHUNGSZENTRUM JUELICH GMBH (DE)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "FONDAZIONE CLIMA E SOSTENIBILIT\u221a\u00c4 (IT)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "University Bonn - IGG (DE)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "UNIVERSITY OF ALBERTA (CA)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2018-10-30T00:00:00Z",
   "end_datetime": "2020-07-31T23:59:59Z",
   "extent": {

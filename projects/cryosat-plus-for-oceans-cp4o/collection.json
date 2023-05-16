@@ -33,64 +33,64 @@
       "title": "Theme: Cryosphere"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/lr-satellite-altimeter-open-ocean-cp4o/collection.json",
       "type": "application/json",
-      "title": "Product: Low Resolution Mode satellite altimeter product _Open Ocean_Cryosat"
+      "title": "Low Resolution Mode satellite altimeter product _Open Ocean_Cryosat"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/rdsar-satellite-sar-altimeter-open-ocean-cp4o/collection.json",
       "type": "application/json",
-      "title": "Product: RDSAR Satellite SAR altimeter product_Open Ocean_Cryosat"
+      "title": "RDSAR Satellite SAR altimeter product_Open Ocean_Cryosat"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/satellite-sar-altimeter-open-ocean-cp4o/collection.json",
       "type": "application/json",
-      "title": "Product: Satellite SAR altimeter product_Open Ocean_Cryosat"
+      "title": "Satellite SAR altimeter product_Open Ocean_Cryosat"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/satellite-sar-altimeter-coastal-cp4o/collection.json",
       "type": "application/json",
-      "title": "Product: Satellite SAR altimeter product_Coastal Ocean_Cryosat"
+      "title": "Satellite SAR altimeter product_Coastal Ocean_Cryosat"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/satellite-sarin-altimeter-coastal-cp4o/collection.json",
       "type": "application/json",
-      "title": "Product: Satellite SARIN altimeter product_Coastal Ocean_Cryosat"
+      "title": "Satellite SARIN altimeter product_Coastal Ocean_Cryosat"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/satellite-altimeter-polar-ocean-cp4o/collection.json",
       "type": "application/json",
-      "title": "Product: Satellite LRM, SAR, SARIN polar altimeter product_Polar Ocean_Cryosat"
+      "title": "Satellite LRM, SAR, SARIN polar altimeter product_Polar Ocean_Cryosat"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/satellite-sar-altimeter-sea-floor-cp4o/collection.json",
       "type": "application/json",
-      "title": "Product: Satellite SAR altimeter product_Sea Floor Mapping_Oceania_Cryosat"
+      "title": "Satellite SAR altimeter product_Sea Floor Mapping_Oceania_Cryosat"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/wet-troposphere-correction-cryosat-cp4o/collection.json",
       "type": "application/json",
-      "title": "Product: Wet Troposphere Correction_for Cryosat"
+      "title": "Wet Troposphere Correction_for Cryosat"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/hr-tidal-atlas-arctic-ocean-cp4o/collection.json",
       "type": "application/json",
-      "title": "Product: Arctide2017_High-resolution tidal atlas_Arctic Ocean_Cryosat"
+      "title": "Arctide2017_High-resolution tidal atlas_Arctic Ocean_Cryosat"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/bathymetry-arctic-cp4o/collection.json",
       "type": "application/json",
-      "title": "Product: Bathymetry_Arctic_Cryosat"
+      "title": "Bathymetry_Arctic_Cryosat"
     },
     {
       "rel": "parent",
@@ -104,26 +104,51 @@
   ],
   "title": "CryoSat+ Oceans",
   "osc:name": "CryoSat Plus For Oceans (CP4O)",
-  "osc:themes": [
-    "Oceans",
-    "Cryosphere"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Jerome Benveniste",
-    "e-mail": "jerome.benveniste@esa.int"
-  },
-  "osc:consortium": [
-    "SATELLITE OCEANOGRAPHIC CONSULTANTS LTD. (GB)",
-    "NATURAL ENVIRONMENT RESEARCH COUNCIL (GB)",
-    "NOVELTIS SAS (FR)",
-    "STARLAB BARCELONA SL (ES)",
-    "TU DELFT (NL)",
-    "Technical University of Denmark (DK)",
-    "UNIVERSITY OF PORTO \u201a FACULTY OF SCIENCE (PT)",
-    "isardSAT (ES)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Jerome Benveniste",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "jerome.benveniste@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "SATELLITE OCEANOGRAPHIC CONSULTANTS LTD. (GB)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "NATURAL ENVIRONMENT RESEARCH COUNCIL (GB)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "NOVELTIS SAS (FR)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "STARLAB BARCELONA SL (ES)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "TU DELFT (NL)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "Technical University of Denmark (DK)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "UNIVERSITY OF PORTO \u201a FACULTY OF SCIENCE (PT)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "isardSAT (ES)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2012-06-05T00:00:00Z",
   "end_datetime": "2018-05-15T23:59:59Z",
   "extent": {

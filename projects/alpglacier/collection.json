@@ -27,28 +27,28 @@
       "title": "Theme: Cryosphere"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/snow-cover-alpglacier/collection.json",
       "type": "application/json",
-      "title": "Product: Snow cover on glaciers_SwissAlps_S1/2"
+      "title": "Snow cover on glaciers_SwissAlps_S1/2"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/glacier-surface-flow-velocity-alpglacier/collection.json",
       "type": "application/json",
-      "title": "Product: Glacier surface flow velocity_SwissAlps_S1/2"
+      "title": "Glacier surface flow velocity_SwissAlps_S1/2"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/dynamics-of-glacier-lakes-alpglacier/collection.json",
       "type": "application/json",
-      "title": "Product: Dynamics of glacier lakes_SwissAlps_S1/2"
+      "title": "Dynamics of glacier lakes_SwissAlps_S1/2"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/slope-instabilities-glacier-forefields-alpglacier/collection.json",
       "type": "application/json",
-      "title": "Product: Slope instabilities in glacier forefields_SwissAlps_S1/2"
+      "title": "Slope instabilities in glacier forefields_SwissAlps_S1/2"
     },
     {
       "rel": "parent",
@@ -62,24 +62,47 @@
   ],
   "title": "AlpGlacier",
   "osc:name": "AlpGlacier",
-  "osc:themes": [
-    "Cryosphere"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Stephen Plummer",
-    "e-mail": "stephen.plummer@esa.int"
-  },
-  "osc:consortium": [
-    "UNIVERSITY OF ZURICH (CH)",
-    "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE (CNRS) (FR)",
-    "EAWAG (CH)",
-    "EIDGENOSSISCHE TECHNISCHE HOCHSCHULE ZURICH (ETH ZURICH) (CH)",
-    "ENVEO \u2013 ENVIRONMENTAL EARTH OBSERVATION GMBH (AT)",
-    "GAMMA REMOTE SENSING AG (CH)",
-    "UNIV PADOVA (IT)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Stephen Plummer",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "stephen.plummer@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "UNIVERSITY OF ZURICH (CH)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE (CNRS) (FR)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "EAWAG (CH)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "EIDGENOSSISCHE TECHNISCHE HOCHSCHULE ZURICH (ETH ZURICH) (CH)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "ENVEO \u2013 ENVIRONMENTAL EARTH OBSERVATION GMBH (AT)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "GAMMA REMOTE SENSING AG (CH)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "UNIV PADOVA (IT)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2020-12-07T00:00:00Z",
   "end_datetime": "2021-06-25T23:59:59Z",
   "extent": {

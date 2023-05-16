@@ -64,7 +64,9 @@
     "Atmosphere",
     "Oceans"
   ],
-  "osc:variable": "Aerosol Optical Depth",
+  "osc:variables": [
+    "Aerosol Optical Depth"
+  ],
   "osc:status": "COMPLETED",
   "osc:region": "Global Oceans",
   "osc:type": "Product",

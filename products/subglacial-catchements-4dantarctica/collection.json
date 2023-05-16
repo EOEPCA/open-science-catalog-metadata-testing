@@ -49,7 +49,9 @@
   "osc:themes": [
     "Cryosphere"
   ],
-  "osc:variable": "Lake area",
+  "osc:variables": [
+    "Lake area"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "Antarctica",
   "osc:type": "Product",

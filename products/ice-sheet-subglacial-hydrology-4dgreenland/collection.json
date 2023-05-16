@@ -69,7 +69,9 @@
   "osc:themes": [
     "Cryosphere"
   ],
-  "osc:variable": "Glacier motion",
+  "osc:variables": [
+    "Glacier motion"
+  ],
   "osc:status": "COMPLETED",
   "osc:region": "Greenland",
   "osc:type": "Product",

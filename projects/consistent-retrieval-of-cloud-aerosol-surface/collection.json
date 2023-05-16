@@ -27,22 +27,22 @@
       "title": "Theme: Atmosphere"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/cloud-aerosol-circas/collection.json",
       "type": "application/json",
-      "title": "Product: Cloud and aerosol products_Regional_S3A/SLSTR"
+      "title": "Cloud and aerosol products_Regional_S3A/SLSTR"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/albedo-circas/collection.json",
       "type": "application/json",
-      "title": "Product: Albedo_Regional_S3A/SLSTR"
+      "title": "Albedo_Regional_S3A/SLSTR"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/radiation-budget-circas/collection.json",
       "type": "application/json",
-      "title": "Product: Radiation budget_Regional_S3"
+      "title": "Radiation budget_Regional_S3"
     },
     {
       "rel": "parent",
@@ -56,19 +56,27 @@
   ],
   "title": "CIRCAS",
   "osc:name": "ConsIstent Retrieval of Cloud Aerosol Surface",
-  "osc:themes": [
-    "Atmosphere"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Simon Pinnock",
-    "e-mail": "simon.pinnock@esa.int"
-  },
-  "osc:consortium": [
-    "RAYFERENCE SPRL (BE)",
-    "BROCKMANN CONSULT GMBH (DE)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Simon Pinnock",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "simon.pinnock@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "RAYFERENCE SPRL (BE)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "BROCKMANN CONSULT GMBH (DE)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2017-07-17T00:00:00Z",
   "end_datetime": "2019-10-02T23:59:59Z",
   "extent": {

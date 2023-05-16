@@ -23,6 +23,18 @@
       "title": "Theme: Atmosphere"
     },
     {
+      "rel": "child",
+      "href": "../../products/tropospheric-ozone-column-tropomi-sunlit/collection.json",
+      "type": "application/json",
+      "title": "Tropospheric ozone column(TrOC)_2018-2020_Global_S5p-TROPOMI_Limb"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/tropospheric-ozone-column-omi-sunlit/collection.json",
+      "type": "application/json",
+      "title": "Tropospheric ozone column (TrOC)_Global_OMI and limb satellites"
+    },
+    {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",

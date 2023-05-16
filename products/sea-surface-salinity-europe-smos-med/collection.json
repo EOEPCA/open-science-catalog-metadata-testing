@@ -62,7 +62,9 @@
   "osc:themes": [
     "Oceans"
   ],
-  "osc:variable": "Sea surface salinity",
+  "osc:variables": [
+    "Sea surface salinity"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "Europe",
   "osc:type": "Product",

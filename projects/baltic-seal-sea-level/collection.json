@@ -27,28 +27,28 @@
       "title": "Theme: Oceans"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/baltic-sea-level-baltic-seal/collection.json",
       "type": "application/json",
-      "title": "Product: Baltic Sea Level_Multimission"
+      "title": "Baltic Sea Level_Multimission"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/hydrodynamic-model-baltic-seal/collection.json",
       "type": "application/json",
-      "title": "Product: Hydrodynamic model data (deviation from Sea Level Mean)_Multimission"
+      "title": "Hydrodynamic model data (deviation from Sea Level Mean)_Multimission"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/ocean-heat-content-baltic-seal/collection.json",
       "type": "application/json",
-      "title": "Product: Global Ocean Heat Content (GOHC)_GRACE/GRACE-FO"
+      "title": "Global Ocean Heat Content (GOHC)_GRACE/GRACE-FO"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/earth-energy-imballance-baltic-seal/collection.json",
       "type": "application/json",
-      "title": "Product: Earth Energy Imballance (EEI)_GRACE/GRACE-FO"
+      "title": "Earth Energy Imballance (EEI)_GRACE/GRACE-FO"
     },
     {
       "rel": "parent",
@@ -62,22 +62,39 @@
   ],
   "title": "BALTIC+ SEAL - Sea Level",
   "osc:name": "BALTIC+ SEAL - Sea Level",
-  "osc:themes": [
-    "Oceans"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Jerome Benveniste",
-    "e-mail": "jerome.benveniste@esa.int"
-  },
-  "osc:consortium": [
-    "TECHNICAL UNIVERSITY OF MUNICH (DE)",
-    "DANISH METEOROLOGICAL INSTITUTE (DK)",
-    "FINNISH METEOROLOGICAL INSTITUTE (FI)",
-    "TECHNICAL UNIVERSITY OF DENMARK (DK)",
-    "UNIVERSITY COLLEGE CORK (IE)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Jerome Benveniste",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "jerome.benveniste@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "TECHNICAL UNIVERSITY OF MUNICH (DE)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "DANISH METEOROLOGICAL INSTITUTE (DK)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "FINNISH METEOROLOGICAL INSTITUTE (FI)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "TECHNICAL UNIVERSITY OF DENMARK (DK)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "UNIVERSITY COLLEGE CORK (IE)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2019-02-06T00:00:00Z",
   "end_datetime": "2020-09-30T23:59:59Z",
   "extent": {

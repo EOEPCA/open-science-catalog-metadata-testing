@@ -72,7 +72,9 @@
   "osc:themes": [
     "Land"
   ],
-  "osc:variable": "Precipitation type at the surface",
+  "osc:variables": [
+    "Precipitation type at the surface"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "Africa",
   "osc:type": "Product",

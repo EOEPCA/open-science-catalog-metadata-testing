@@ -44,22 +44,35 @@
   ],
   "title": "ARKATLAS",
   "osc:name": "ARKTALAS HOAVVA PROJECT",
-  "osc:themes": [
-    "Oceans",
-    "Cryosphere"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Craig James Donlon",
-    "e-mail": "craig.donlon@esa.int"
-  },
-  "osc:consortium": [
-    "Nansen Environmental and Remote Sensing Center Norway",
-    "IFREMER France",
-    "OceanDataLab  France",
-    "NOVELTIS France"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Craig James Donlon",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "craig.donlon@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "Nansen Environmental and Remote Sensing Center Norway",
+      "role": "consortium_member"
+    },
+    {
+      "name": "IFREMER France",
+      "role": "consortium_member"
+    },
+    {
+      "name": "OceanDataLab  France",
+      "role": "consortium_member"
+    },
+    {
+      "name": "NOVELTIS France",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2019-05-16T00:00:00Z",
   "end_datetime": "2021-07-30T23:59:59Z",
   "extent": {

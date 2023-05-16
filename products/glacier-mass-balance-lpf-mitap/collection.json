@@ -57,7 +57,9 @@
   "osc:themes": [
     "Cryosphere"
   ],
-  "osc:variable": "Glacier topography",
+  "osc:variables": [
+    "Glacier topography"
+  ],
   "osc:status": "COMPLETED",
   "osc:region": "Antarctica",
   "osc:type": "Product",

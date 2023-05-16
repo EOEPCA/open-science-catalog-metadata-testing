@@ -88,7 +88,9 @@
   "osc:themes": [
     "Oceans"
   ],
-  "osc:variable": "Sea surface height anomaly",
+  "osc:variables": [
+    "Sea surface height anomaly"
+  ],
   "osc:status": "COMPLETED",
   "osc:region": "Black Sea",
   "osc:type": "Product",

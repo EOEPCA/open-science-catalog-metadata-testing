@@ -72,7 +72,9 @@
   "osc:themes": [
     "Oceans"
   ],
-  "osc:variable": "Colour Dissolved Organic Matter (CDOM)",
+  "osc:variables": [
+    "Colour Dissolved Organic Matter (CDOM)"
+  ],
   "osc:status": "COMPLETED",
   "osc:region": "Global",
   "osc:type": "Product",

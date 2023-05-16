@@ -27,16 +27,16 @@
       "title": "Theme: Land"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/smos-l3-africa-smos-vegetation/collection.json",
       "type": "application/json",
-      "title": "Product: Gridded_Africa_SMOS level 3 products CATDS"
+      "title": "Gridded_Africa_SMOS level 3 products CATDS"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/vod-africa-smos-vegetation/collection.json",
       "type": "application/json",
-      "title": "Product: VOD_Africa_SMOS IC products CATDS"
+      "title": "VOD_Africa_SMOS IC products CATDS"
     },
     {
       "rel": "parent",
@@ -50,20 +50,31 @@
   ],
   "title": "SMOS+ VEGETATION",
   "osc:name": "SMOS+ VEGETATION",
-  "osc:themes": [
-    "Land"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Matthias Drusch",
-    "e-mail": "matthias.drusch@esa.int"
-  },
-  "osc:consortium": [
-    "THE INVERSION LAB THOMAS KAMINSKI CONSULTING (DE)",
-    "LUND UNIVERSITY (SE)",
-    "UNIVERSITE TOULOUSE III \u2013 PAUL SABATIER (FR)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Matthias Drusch",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "matthias.drusch@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "THE INVERSION LAB THOMAS KAMINSKI CONSULTING (DE)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "LUND UNIVERSITY (SE)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "UNIVERSITE TOULOUSE III \u2013 PAUL SABATIER (FR)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2016-05-10T00:00:00Z",
   "end_datetime": "2018-12-15T23:59:59Z",
   "extent": {

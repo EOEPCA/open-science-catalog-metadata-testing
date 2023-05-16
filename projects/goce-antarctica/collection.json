@@ -33,10 +33,10 @@
       "title": "Theme: Cryosphere"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/lithosphere-density-temperature-viscosity-goce-antarctica/collection.json",
       "type": "application/json",
-      "title": "Product: Density, Temperature, and Viscosity Structure of the Antarctic Lithosphere_Antarctica_GOCE"
+      "title": "Density, Temperature, and Viscosity Structure of the Antarctic Lithosphere_Antarctica_GOCE"
     },
     {
       "rel": "parent",
@@ -50,22 +50,35 @@
   ],
   "title": "GOCE+ ANTARCTICA",
   "osc:name": "GOCE+ ANTARCTICA",
-  "osc:themes": [
-    "Solid Earth",
-    "Cryosphere"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Michael Kern",
-    "e-mail": "michael.kern@esa.int"
-  },
-  "osc:consortium": [
-    "UNIVERSITY OF KIEL (DE)",
-    "BRITISH ANTARCTIC SURVEY (GB)",
-    "TU DELFT (NL)",
-    "Technical University of Denmark (DK)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Michael Kern",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "michael.kern@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "UNIVERSITY OF KIEL (DE)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "BRITISH ANTARCTIC SURVEY (GB)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "TU DELFT (NL)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "Technical University of Denmark (DK)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2015-08-20T00:00:00Z",
   "end_datetime": "2019-06-25T23:59:59Z",
   "extent": {

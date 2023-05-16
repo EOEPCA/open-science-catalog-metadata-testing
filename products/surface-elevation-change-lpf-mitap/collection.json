@@ -57,7 +57,9 @@
   "osc:themes": [
     "Cryosphere"
   ],
-  "osc:variable": "Ice sheet topography",
+  "osc:variables": [
+    "Ice sheet topography"
+  ],
   "osc:status": "COMPLETED",
   "osc:region": "Antarctica",
   "osc:type": "Product",

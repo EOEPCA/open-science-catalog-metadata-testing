@@ -62,7 +62,9 @@
   "osc:themes": [
     "Oceans"
   ],
-  "osc:variable": "Ocean chlorophyll concentration",
+  "osc:variables": [
+    "Ocean chlorophyll concentration"
+  ],
   "osc:status": "COMPLETED",
   "osc:region": "Global",
   "osc:type": "Product",

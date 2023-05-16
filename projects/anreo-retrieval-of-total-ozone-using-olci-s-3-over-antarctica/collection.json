@@ -27,10 +27,10 @@
       "title": "Theme: Atmosphere"
     },
     {
-      "rel": "related",
+      "rel": "child",
       "href": "../../products/total-ozone-anreo/collection.json",
       "type": "application/json",
-      "title": "Product: Total ozone product from OLCI / S-3_Antarctica _S3"
+      "title": "Total ozone product from OLCI / S-3_Antarctica _S3"
     },
     {
       "rel": "parent",
@@ -44,18 +44,23 @@
   ],
   "title": "AnREO",
   "osc:name": "AnREO: Retrieval of Total Ozone using OLCI-S-3 over Antarctica",
-  "osc:themes": [
-    "Atmosphere"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Christian Retscher",
-    "e-mail": "christian.retscher@esa.int"
-  },
-  "osc:consortium": [
-    "VITROCISET BELGIUM SPRL (BE)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Christian Retscher",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "christian.retscher@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "VITROCISET BELGIUM SPRL (BE)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2020-03-25T00:00:00Z",
   "end_datetime": "2021-07-05T23:59:59Z",
   "extent": {

@@ -67,7 +67,9 @@
   "osc:themes": [
     "Atmosphere"
   ],
-  "osc:variable": "Aerosol Optical Depth",
+  "osc:variables": [
+    "Aerosol Optical Depth"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "Regional",
   "osc:type": "Product",

@@ -38,20 +38,31 @@
   ],
   "title": "LIAM",
   "osc:name": "Towards the retrieval of lake ice thickness from satellite altimetry missions (LIAM)",
-  "osc:themes": [
-    "Cryosphere"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Jerome Benveniste",
-    "e-mail": "jerome.benveniste@esa.int"
-  },
-  "osc:consortium": [
-    "H2O GEOMATICS INC. (CA)",
-    "Ocean Next (FR)",
-    "UNIVERSITE GRENOBLE ALPES (FR)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Jerome Benveniste",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "jerome.benveniste@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "H2O GEOMATICS INC. (CA)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "Ocean Next (FR)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "UNIVERSITE GRENOBLE ALPES (FR)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2020-06-09T00:00:00Z",
   "end_datetime": "2021-06-08T23:59:59Z",
   "extent": {

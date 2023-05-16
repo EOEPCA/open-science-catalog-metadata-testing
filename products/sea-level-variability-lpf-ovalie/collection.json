@@ -64,7 +64,9 @@
   "osc:themes": [
     "Oceans"
   ],
-  "osc:variable": "Ocean dynamic topography",
+  "osc:variables": [
+    "Ocean dynamic topography"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "Global",
   "osc:type": "Product",

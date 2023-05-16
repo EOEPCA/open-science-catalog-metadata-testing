@@ -23,6 +23,18 @@
       "title": "Theme: Land"
     },
     {
+      "rel": "child",
+      "href": "../../products/surface-soil-moisture-s1-for-surface-soil-moisture/collection.json",
+      "type": "application/json",
+      "title": "Surface soil moisture time series_1 km resolution_Southern Italy_S1"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/smos-l3-africa-smos-vegetation/collection.json",
+      "type": "application/json",
+      "title": "Gridded_Africa_SMOS level 3 products CATDS"
+    },
+    {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",

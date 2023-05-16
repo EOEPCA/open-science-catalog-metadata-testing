@@ -18,12 +18,6 @@
     },
     {
       "rel": "child",
-      "href": "./products/catalog.json",
-      "type": "application/json",
-      "title": "Products"
-    },
-    {
-      "rel": "child",
       "href": "./themes/catalog.json",
       "type": "application/json",
       "title": "Themes"
@@ -45,6 +39,12 @@
       "href": "./eo-missions/catalog.json",
       "type": "application/json",
       "title": "EO Missions"
+    },
+    {
+      "rel": "child",
+      "href": "./products/catalog.json",
+      "type": "application/json",
+      "title": "Products"
     }
   ],
   "stac_extensions": [],

@@ -81,7 +81,9 @@
   "osc:themes": [
     "Cryosphere"
   ],
-  "osc:variable": "Snow water equivalent",
+  "osc:variables": [
+    "Snow water equivalent"
+  ],
   "osc:status": "COMPLETED",
   "osc:region": "Europe",
   "osc:type": "Product",

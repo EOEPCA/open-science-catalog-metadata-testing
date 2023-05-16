@@ -38,20 +38,31 @@
   ],
   "title": "WIFOS",
   "osc:name": "Water vapour Isotopologue Flask sampling for the Validation Of Satellite data (WIFVOS)",
-  "osc:themes": [
-    "Atmosphere"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Christian Retscher",
-    "e-mail": "christian.retscher@esa.int"
-  },
-  "osc:consortium": [
-    "FINNISH METEOROLOGICAL INSTITUTE (FI)",
-    "Universiteit Utrecht (NL)",
-    "UNIVERSITY OF BERGEN (NO)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Christian Retscher",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "christian.retscher@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "FINNISH METEOROLOGICAL INSTITUTE (FI)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "Universiteit Utrecht (NL)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "UNIVERSITY OF BERGEN (NO)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2021-03-03T00:00:00Z",
   "end_datetime": "2022-03-03T23:59:59Z",
   "extent": {

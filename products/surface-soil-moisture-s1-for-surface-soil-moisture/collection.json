@@ -67,7 +67,9 @@
   "osc:themes": [
     "Land"
   ],
-  "osc:variable": "Soil moisture at surface",
+  "osc:variables": [
+    "Soil moisture at surface"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "South Italy",
   "osc:type": "Product",

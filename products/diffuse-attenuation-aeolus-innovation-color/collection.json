@@ -62,7 +62,9 @@
   "osc:themes": [
     "Oceans"
   ],
-  "osc:variable": "Ocean Diffuse Attenuation Coefficient (DAC)",
+  "osc:variables": [
+    "Ocean Diffuse Attenuation Coefficient (DAC)"
+  ],
   "osc:status": "COMPLETED",
   "osc:region": "Global",
   "osc:type": "Product",

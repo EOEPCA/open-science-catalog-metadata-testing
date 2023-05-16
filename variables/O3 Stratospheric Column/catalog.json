@@ -23,6 +23,18 @@
       "title": "Theme: Atmosphere"
     },
     {
+      "rel": "child",
+      "href": "../../products/limb-ozone-lpf-solve/collection.json",
+      "type": "application/json",
+      "title": "IUP-OMPS L2 and L3 limb ozone data sets_Global_S2/3"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/stratospheric-ozone-column-limb-sunlit/collection.json",
+      "type": "application/json",
+      "title": "Stratospheric ozone column from limb satellites_Global"
+    },
+    {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",

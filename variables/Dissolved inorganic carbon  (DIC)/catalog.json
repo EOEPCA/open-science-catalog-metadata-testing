@@ -23,6 +23,24 @@
       "title": "Theme: Oceans"
     },
     {
+      "rel": "child",
+      "href": "../../products/surface-ocean-dic-oceansoda/collection.json",
+      "type": "application/json",
+      "title": "Surface-ocean_Dissolved Inorganic Carbon_Global_v2021"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/surface-ocean-omega-aragonite-saturation-oceansoda/collection.json",
+      "type": "application/json",
+      "title": "Surface-ocean_Omega_Aragonite Saturation State_Global_v2021"
+    },
+    {
+      "rel": "child",
+      "href": "../../products/particulate-inorganic-carbon-bicep/collection.json",
+      "type": "application/json",
+      "title": "Particulate Inorganic Carbon"
+    },
+    {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",

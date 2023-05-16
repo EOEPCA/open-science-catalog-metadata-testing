@@ -44,19 +44,23 @@
   ],
   "title": "MethEO",
   "osc:name": "Methane emissions in the Northern Hemisphere by applying both data from Earth Observing (EO) satellites and global atmospheric methane inversion model estimates",
-  "osc:themes": [
-    "Atmosphere",
-    "Cryosphere"
-  ],
   "osc:status": "COMPLETED",
-  "osc:technical_officer": {
-    "name": "Christian Retscher",
-    "e-mail": "christian.retscher@esa.int"
-  },
-  "osc:consortium": [
-    "FINNISH METEOROLOGICAL INSTITUTE (FI)"
-  ],
   "osc:type": "Project",
+  "contacts": [
+    {
+      "name": "Christian Retscher",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "christian.retscher@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "FINNISH METEOROLOGICAL INSTITUTE (FI)",
+      "role": "consortium_member"
+    }
+  ],
   "start_datetime": "2018-09-05T00:00:00Z",
   "end_datetime": "2022-04-01T23:59:59Z",
   "extent": {

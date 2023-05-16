@@ -118,7 +118,9 @@
   "osc:themes": [
     "Oceans"
   ],
-  "osc:variable": "Coastal sea level (tide)",
+  "osc:variables": [
+    "Coastal sea level (tide)"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "Baltics",
   "osc:type": "Product",

@@ -67,7 +67,9 @@
   "osc:themes": [
     "Oceans"
   ],
-  "osc:variable": "pCO2",
+  "osc:variables": [
+    "pCO2"
+  ],
   "osc:status": "ONGOING",
   "osc:region": "Global",
   "osc:type": "Product",
