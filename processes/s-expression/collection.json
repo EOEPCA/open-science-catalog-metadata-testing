@@ -12,7 +12,7 @@
     },
     {
       "rel": "via",
-      "href": "https://space.oscar.wmo.int/variables/view/13_ch4_delta",
+      "href": "https://github.com/EOEPCA/app-s-expression",
       "type": "text/html",
       "title": "Description"
     },
