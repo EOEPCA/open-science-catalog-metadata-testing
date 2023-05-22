@@ -118,6 +118,9 @@
   "osc:name": "4DANTARCTICA",
   "osc:status": "ONGOING",
   "osc:type": "Project",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "contacts": [
     {
       "name": "Diego Fernandez",
@@ -179,6 +182,16 @@
     {
       "name": "UNIVERSIT\u00c9 GRENOBLE ALPES (FR)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Cryosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2019-09-24T00:00:00Z",

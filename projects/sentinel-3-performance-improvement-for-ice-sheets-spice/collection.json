@@ -52,6 +52,9 @@
   "osc:name": "Sentinel-3 Performance Improvement for ICE Sheets (SPICE)",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "contacts": [
     {
       "name": "Jerome Benveniste",
@@ -77,6 +80,16 @@
     {
       "name": "isardSAT UK (GB)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Cryosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2015-09-21T00:00:00Z",

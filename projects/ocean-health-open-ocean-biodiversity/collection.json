@@ -35,6 +35,9 @@
   "osc:name": "Ocean Health - Open Ocean Biodiversity",
   "osc:status": "ONGOING",
   "osc:type": "Project",
+  "osc:themes": [
+    "Oceans"
+  ],
   "contacts": [
     {
       "name": "Marie-Helene Rio",
@@ -52,6 +55,16 @@
     {
       "name": "NKUA (GR)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Oceans"
+        }
+      ]
     }
   ],
   "start_datetime": "2022-02-01T00:00:00Z",

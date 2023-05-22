@@ -40,6 +40,9 @@
   "osc:name": "STSE SMOS+ SEA ICE",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "contacts": [
     {
       "name": "Matthias Drusch",
@@ -73,6 +76,16 @@
     {
       "name": "UNIVERSITAET BREMEN (DE)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Cryosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2014-08-20T00:00:00Z",

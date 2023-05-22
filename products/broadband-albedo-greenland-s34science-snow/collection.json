@@ -74,7 +74,20 @@
   ],
   "osc:status": "ONGOING",
   "osc:region": "Greenland",
-  "osc:type": "Product",
+  "osc:type": "product",
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Cryosphere"
+        },
+        {
+          "id": "Land"
+        }
+      ]
+    }
+  ],
   "created": "2019-01-01T00:00:00Z",
   "start_datetime": "2017-01-01T00:00:00Z",
   "end_datetime": "2018-12-31T23:59:59Z",

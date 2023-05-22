@@ -52,6 +52,11 @@
   "osc:name": "Volcanic monItoring using SenTinel sensors by an integrated Approach (VISTA)",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Atmosphere",
+    "Land",
+    "Solid Earth"
+  ],
   "contacts": [
     {
       "name": "Christian Retscher",
@@ -73,6 +78,22 @@
     {
       "name": "ISTITUTO NAZIONALE DI GEOFISICA E VULCANOLOGIA (IT)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Atmosphere"
+        },
+        {
+          "id": "Land"
+        },
+        {
+          "id": "Solid Earth"
+        }
+      ]
     }
   ],
   "start_datetime": "2019-09-03T00:00:00Z",

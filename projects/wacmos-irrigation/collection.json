@@ -40,6 +40,9 @@
   "osc:name": "WACMOS Irrigation",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Land"
+  ],
   "contacts": [
     {
       "name": "Diego Fernandez",
@@ -53,6 +56,16 @@
     {
       "name": "CNR-RESEARCH INSTITUTE FOR GEO-HYDROLOGICAL PROTECTION \u2013 IRPI (IT)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Land"
+        }
+      ]
     }
   ],
   "start_datetime": "2017-01-24T00:00:00Z",

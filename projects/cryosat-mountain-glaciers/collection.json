@@ -46,6 +46,9 @@
   "osc:name": "CryoSat+ Mountain Glaciers",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "contacts": [
     {
       "name": "Stephen Plummer",
@@ -75,6 +78,16 @@
     {
       "name": "University College of London \u201a Mullard Space Science Labor (UCL)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Cryosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2015-05-13T00:00:00Z",

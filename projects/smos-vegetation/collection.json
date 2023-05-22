@@ -52,6 +52,9 @@
   "osc:name": "SMOS+ VEGETATION",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Land"
+  ],
   "contacts": [
     {
       "name": "Matthias Drusch",
@@ -73,6 +76,16 @@
     {
       "name": "UNIVERSITE TOULOUSE III \u2013 PAUL SABATIER (FR)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Land"
+        }
+      ]
     }
   ],
   "start_datetime": "2016-05-10T00:00:00Z",

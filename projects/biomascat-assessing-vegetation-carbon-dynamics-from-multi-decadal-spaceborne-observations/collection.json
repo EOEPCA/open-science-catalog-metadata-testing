@@ -40,6 +40,9 @@
   "osc:name": "BIOMASCAT: Assessing vegetation carbon dynamics from multi-decadal spaceborne observations",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Land"
+  ],
   "contacts": [
     {
       "name": "Marcus Engdahl",
@@ -57,6 +60,16 @@
     {
       "name": "MAX PLANCK INSTITUTE FOR BIOGEOCHEMISTRY (DE)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Land"
+        }
+      ]
     }
   ],
   "start_datetime": "2018-09-05T00:00:00Z",

@@ -35,6 +35,9 @@
   "osc:name": "Ocean Health - Marine Heatwaves",
   "osc:status": "ONGOING",
   "osc:type": "Project",
+  "osc:themes": [
+    "Oceans"
+  ],
   "contacts": [
     {
       "name": "Marie-Helene Rio",
@@ -68,6 +71,16 @@
     {
       "name": "ENEA (IT)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Oceans"
+        }
+      ]
     }
   ],
   "start_datetime": "2022-02-01T00:00:00Z",

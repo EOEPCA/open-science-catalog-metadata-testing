@@ -40,6 +40,9 @@
   "osc:name": "Ocean CIRculation from ocean COLour observations (CIRCOL)",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Oceans"
+  ],
   "contacts": [
     {
       "name": "Marie-Helene Rio",
@@ -57,6 +60,16 @@
     {
       "name": "CLS COLLECTE LOCALISATION SATELLITES (FR)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Oceans"
+        }
+      ]
     }
   ],
   "start_datetime": "2019-07-26T00:00:00Z",

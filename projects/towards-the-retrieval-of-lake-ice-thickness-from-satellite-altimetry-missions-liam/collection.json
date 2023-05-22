@@ -40,6 +40,9 @@
   "osc:name": "Towards the retrieval of lake ice thickness from satellite altimetry missions (LIAM)",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "contacts": [
     {
       "name": "Jerome Benveniste",
@@ -61,6 +64,16 @@
     {
       "name": "UNIVERSITE GRENOBLE ALPES (FR)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Cryosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2020-06-09T00:00:00Z",

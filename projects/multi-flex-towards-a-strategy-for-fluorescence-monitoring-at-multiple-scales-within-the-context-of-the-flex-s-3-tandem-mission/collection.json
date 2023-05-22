@@ -40,6 +40,9 @@
   "osc:name": "MULTI-FLEX: towards a strategy for fluorescence monitoring at multiple scales within the context of the FLEX/S-3 tandem mission",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Land"
+  ],
   "contacts": [
     {
       "name": "Stephen Plummer",
@@ -53,6 +56,16 @@
     {
       "name": "UNIVERSITY OF MILANO BICOCCA (IT)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Land"
+        }
+      ]
     }
   ],
   "start_datetime": "2018-10-02T00:00:00Z",

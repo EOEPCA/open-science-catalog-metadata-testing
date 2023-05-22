@@ -40,6 +40,9 @@
   "osc:name": "SaTellite-based Run-off Evaluation And Mapping (STREAM)",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Land"
+  ],
   "contacts": [
     {
       "name": "Jerome Benveniste",
@@ -61,6 +64,16 @@
     {
       "name": "UNIVERSITY OF STUTTGART \u201a INSTITUTE OF GEODESY (DE)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Land"
+        }
+      ]
     }
   ],
   "start_datetime": "2019-02-25T00:00:00Z",

@@ -52,6 +52,9 @@
   "osc:name": "S2 for Land and Water, Change Detection/Multi-temporal",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Land"
+  ],
   "contacts": [
     {
       "name": "Espen Volden",
@@ -69,6 +72,16 @@
     {
       "name": "FONDAZIONE BRUNO KESSLER FBK (IT)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Land"
+        }
+      ]
     }
   ],
   "start_datetime": "2015-12-01T00:00:00Z",

@@ -40,6 +40,9 @@
   "osc:name": "MOHeaCAN: Monitoring Ocean Heat Content and Earth Energy ImbalANce from Space",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Oceans"
+  ],
   "contacts": [
     {
       "name": "Jerome Benveniste",
@@ -57,6 +60,16 @@
     {
       "name": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE (CNRS) (FR)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Oceans"
+        }
+      ]
     }
   ],
   "start_datetime": "2019-12-18T00:00:00Z",

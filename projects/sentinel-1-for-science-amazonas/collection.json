@@ -40,6 +40,9 @@
   "osc:name": "Sentinel-1 for Science: Amazonas",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Land"
+  ],
   "contacts": [
     {
       "name": "Anca Anghelea",
@@ -65,6 +68,16 @@
     {
       "name": "Norwegian University of Life Scienc (NO)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Land"
+        }
+      ]
     }
   ],
   "start_datetime": "2020-04-28T00:00:00Z",

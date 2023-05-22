@@ -40,6 +40,9 @@
   "osc:name": "Baltic- reconstruction of the sea level",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Oceans"
+  ],
   "contacts": [
     {
       "name": "Jerome Benveniste",
@@ -69,6 +72,16 @@
     {
       "name": "UNIVERSITY COLLEGE CORK (IE)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Oceans"
+        }
+      ]
     }
   ],
   "start_datetime": "2019-01-01T00:00:00Z",

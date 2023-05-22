@@ -58,6 +58,9 @@
   "osc:name": "SUNLIT - Synergy of Using Nadir and Limb Instruments for Tropospheric ozone monitoring",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Atmosphere"
+  ],
   "contacts": [
     {
       "name": "Christian Retscher",
@@ -71,6 +74,16 @@
     {
       "name": "FINNISH METEOROLOGICAL INSTITUTE (FI)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Atmosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2018-09-05T00:00:00Z",

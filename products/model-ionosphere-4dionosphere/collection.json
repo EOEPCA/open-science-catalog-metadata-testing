@@ -62,7 +62,17 @@
   ],
   "osc:status": "COMPLETED",
   "osc:region": null,
-  "osc:type": "Product",
+  "osc:type": "product",
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Magnetosphere_Ionosphere"
+        }
+      ]
+    }
+  ],
   "extent": {
     "spatial": {
       "bbox": [

@@ -64,6 +64,9 @@
   "osc:name": "AlpGlacier",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "contacts": [
     {
       "name": "Stephen Plummer",
@@ -101,6 +104,16 @@
     {
       "name": "UNIV PADOVA (IT)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Cryosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2020-12-07T00:00:00Z",

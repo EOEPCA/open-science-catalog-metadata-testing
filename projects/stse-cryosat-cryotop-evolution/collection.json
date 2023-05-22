@@ -64,6 +64,9 @@
   "osc:name": "STSE CryoSat+ CryoTop Evolution",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "contacts": [
     {
       "name": "Mark Drinkwater",
@@ -93,6 +96,16 @@
     {
       "name": "isardSAT (ES)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Cryosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2016-03-03T00:00:00Z",

@@ -64,6 +64,9 @@
   "osc:name": "Pre-Operational Sentinel-3 snow and ice products (SICE)",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "contacts": [
     {
       "name": "Michael Kern",
@@ -81,6 +84,16 @@
     {
       "name": "VITROCISET BELGIUM SPRL (BE)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Cryosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2018-08-07T00:00:00Z",

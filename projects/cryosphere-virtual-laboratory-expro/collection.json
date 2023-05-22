@@ -40,6 +40,9 @@
   "osc:name": "CRYOSPHERE VIRTUAL LABORATORY EXPRO +",
   "osc:status": "ONGOING",
   "osc:type": "Project",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "contacts": [
     {
       "name": "Ola Grabak",
@@ -73,6 +76,16 @@
     {
       "name": "The Norwegian Polar Institute (NPI)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Cryosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2019-10-15T00:00:00Z",

@@ -40,6 +40,9 @@
   "osc:name": "ForestScan",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Land"
+  ],
   "contacts": [
     {
       "name": "Klaus Scipal",
@@ -77,6 +80,16 @@
     {
       "name": "WAGENINGEN UNIVERSITEIT (NL)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Land"
+        }
+      ]
     }
   ],
   "start_datetime": "2019-03-08T00:00:00Z",

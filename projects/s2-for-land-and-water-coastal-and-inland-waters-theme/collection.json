@@ -46,6 +46,9 @@
   "osc:name": "S2 for Land and Water, Coastal and Inland Waters Theme",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Land"
+  ],
   "contacts": [
     {
       "name": "Ferran Gascon",
@@ -67,6 +70,16 @@
     {
       "name": "ODERMATT & BROCKMANN GMBH (CH)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Land"
+        }
+      ]
     }
   ],
   "start_datetime": "2015-12-02T00:00:00Z",

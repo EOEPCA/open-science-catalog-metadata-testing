@@ -76,6 +76,9 @@
   "osc:name": "AlpSnow",
   "osc:status": "ONGOING",
   "osc:type": "Project",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "contacts": [
     {
       "name": "Espen Volden",
@@ -121,6 +124,16 @@
     {
       "name": "CENTRAL INSTITUTE FOR METEOROLOGY AND GEODYNAMICS (AT)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Cryosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2020-10-20T00:00:00Z",

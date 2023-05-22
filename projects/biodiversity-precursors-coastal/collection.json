@@ -35,6 +35,9 @@
   "osc:name": "Biodiversity+Precursors - Coastal",
   "osc:status": "ONGOING",
   "osc:type": "Project",
+  "osc:themes": [
+    "Oceans"
+  ],
   "contacts": [
     {
       "name": "Marie-Helene Rio",
@@ -60,6 +63,16 @@
     {
       "name": "HYGEOS (FR)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Oceans"
+        }
+      ]
     }
   ],
   "start_datetime": "2021-10-14T00:00:00Z",

@@ -46,6 +46,9 @@
   "osc:name": "4DIONOSPHERE (SWARM VIP)",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Magnetosphere_Ionosphere"
+  ],
   "contacts": [
     {
       "name": "Jerome Bouffard",
@@ -71,6 +74,16 @@
     {
       "name": "NOTTINGHAM TRENT UNIVERSITY (GB)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Magnetosphere_Ionosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2020-04-07T00:00:00Z",

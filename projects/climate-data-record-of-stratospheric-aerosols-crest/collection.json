@@ -40,6 +40,9 @@
   "osc:name": "CLIMATE DATA RECORD OF STRATOSPHERIC AEROSOLS (CREST)",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Atmosphere"
+  ],
   "contacts": [
     {
       "name": "Christian Retscher",
@@ -57,6 +60,16 @@
     {
       "name": "ENIPOWER SPA (IT)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Atmosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2020-06-23T00:00:00Z",

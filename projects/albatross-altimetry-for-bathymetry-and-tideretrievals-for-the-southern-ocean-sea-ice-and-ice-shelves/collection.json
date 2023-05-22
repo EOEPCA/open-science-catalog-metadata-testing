@@ -40,6 +40,9 @@
   "osc:name": "ALBATROSS - ALtimetry for BAthymetry and TideRetrievals for the Southern Ocean, Sea ice and ice Shelves",
   "osc:status": "ONGOING",
   "osc:type": "Project",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "contacts": [
     {
       "name": "Jerome Benveniste",
@@ -65,6 +68,16 @@
     {
       "name": "Technical University of Denmark (DK)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Cryosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2021-05-01T00:00:00Z",

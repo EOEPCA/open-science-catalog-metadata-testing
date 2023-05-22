@@ -40,6 +40,9 @@
   "osc:name": "Detection of Anthropogenic CO2 Emissions Sources",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Atmosphere"
+  ],
   "contacts": [
     {
       "name": "Christian Retscher",
@@ -53,6 +56,16 @@
     {
       "name": "FINNISH METEOROLOGICAL INSTITUTE (FI)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Atmosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2018-10-30T00:00:00Z",

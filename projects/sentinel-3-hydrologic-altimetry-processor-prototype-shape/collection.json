@@ -40,6 +40,9 @@
   "osc:name": "Sentinel-3 Hydrologic Altimetry Processor prototypE (SHAPE)",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "contacts": [
     {
       "name": "Jerome Benveniste",
@@ -69,6 +72,16 @@
     {
       "name": "UNIVERSITY OF PORTO \u201a FACULTY OF SCIENCE (PT)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Cryosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2015-09-22T00:00:00Z",

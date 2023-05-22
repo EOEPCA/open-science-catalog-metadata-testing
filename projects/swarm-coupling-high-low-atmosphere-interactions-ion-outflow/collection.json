@@ -64,6 +64,9 @@
   "osc:name": "Swarm+ Coupling High-Low Atmosphere Interactions: Ion Outflow",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Magnetosphere_Ionosphere"
+  ],
   "contacts": [
     {
       "name": "Roger Haagmans",
@@ -77,6 +80,16 @@
     {
       "name": "UNIVERSITY OF BERGEN (NO)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Magnetosphere_Ionosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2019-02-22T00:00:00Z",

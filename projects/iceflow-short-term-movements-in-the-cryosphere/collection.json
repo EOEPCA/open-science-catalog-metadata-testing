@@ -40,6 +40,9 @@
   "osc:name": "ICEFLOW: Short-term movements in the Cryosphere",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "contacts": [
     {
       "name": "Stephen Plummer",
@@ -53,6 +56,16 @@
     {
       "name": "UNIVERSITY OF OSLO (NO)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Cryosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2018-10-11T00:00:00Z",

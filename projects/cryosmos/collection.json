@@ -64,6 +64,9 @@
   "osc:name": "CryoSMOS",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "contacts": [
     {
       "name": "Ola Grabak",
@@ -97,6 +100,16 @@
     {
       "name": "UNIVERSITY OF HAMBURG (DE)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Cryosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2014-09-23T00:00:00Z",

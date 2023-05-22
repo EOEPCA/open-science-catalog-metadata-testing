@@ -40,6 +40,9 @@
   "osc:name": "SEN4CARBON Theme 1: Terrestrial Gross Primary Production (SEN4GPP)",
   "osc:status": "ONGOING",
   "osc:type": "Project",
+  "osc:themes": [
+    "Land"
+  ],
   "contacts": [
     {
       "name": "Stephen Plummer",
@@ -73,6 +76,16 @@
     {
       "name": "UNIVERSITY OF SOUTHAMPTON (GB)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Land"
+        }
+      ]
     }
   ],
   "start_datetime": "2021-04-22T00:00:00Z",

@@ -40,6 +40,9 @@
   "osc:name": "SENTINEL-5P+ INNOVATION - AEROSOL OPTICAL DEPTH (AOD) AND BIDIRECTIONAL REFLECTANCE DISTRIBUTION FUNCTION (BRDF)",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Atmosphere"
+  ],
   "contacts": [
     {
       "name": "Christian Retscher",
@@ -57,6 +60,16 @@
     {
       "name": "KNMI (NL)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Atmosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2019-07-01T00:00:00Z",

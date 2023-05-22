@@ -58,6 +58,11 @@
   "osc:name": "Earth System Data Lab (ESDL)",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Land",
+    "Oceans",
+    "Atmosphere"
+  ],
   "contacts": [
     {
       "name": "Anca Anghelea",
@@ -95,6 +100,22 @@
     {
       "name": "PLYMOUTH MARINE LABORATORY (GB)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Land"
+        },
+        {
+          "id": "Oceans"
+        },
+        {
+          "id": "Atmosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2018-05-01T00:00:00Z",

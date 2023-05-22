@@ -40,6 +40,9 @@
   "osc:name": "SENTINEL-5P+ INNOVATION OCEAN COLOUR (S5P+-I-OC)",
   "osc:status": "ONGOING",
   "osc:type": "Project",
+  "osc:themes": [
+    "Oceans"
+  ],
   "contacts": [
     {
       "name": "Marie-Helene Rio",
@@ -65,6 +68,16 @@
     {
       "name": "UNIVERSITY OF VICTORIA (CA)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Oceans"
+        }
+      ]
     }
   ],
   "start_datetime": "2019-05-29T00:00:00Z",

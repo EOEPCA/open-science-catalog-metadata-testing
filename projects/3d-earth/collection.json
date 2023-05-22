@@ -52,6 +52,9 @@
   "osc:name": "3D-Earth",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Solid Earth"
+  ],
   "contacts": [
     {
       "name": "Roger Haagmans",
@@ -89,6 +92,16 @@
     {
       "name": "UNIVERSITY OF OSLO (NO)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Solid Earth"
+        }
+      ]
     }
   ],
   "start_datetime": "2019-10-22T00:00:00Z",

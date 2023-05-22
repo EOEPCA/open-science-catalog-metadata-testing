@@ -149,6 +149,9 @@
   "osc:name": "Lidar Climatology of Vertical Aerosol Structure for Space-Based Lidar Simulation Studies-LIVAS",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Atmosphere"
+  ],
   "contacts": [
     {
       "name": "",
@@ -162,6 +165,16 @@
     {
       "name": "NATIONAL OBSERVATORY OF ATHENS (GR)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Atmosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2011-01-01T00:00:00Z",

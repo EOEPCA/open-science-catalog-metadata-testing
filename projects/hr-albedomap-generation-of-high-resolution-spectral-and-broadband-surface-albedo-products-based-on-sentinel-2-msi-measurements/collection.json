@@ -40,6 +40,9 @@
   "osc:name": "HR-AlbedoMap: Generation of high-resolution spectral and broadband surface albedo products based on Sentinel-2 MSI measurements",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Land"
+  ],
   "contacts": [
     {
       "name": "Espen Volden",
@@ -53,6 +56,16 @@
     {
       "name": "UCL CONSULTANTS LTD (GB)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Land"
+        }
+      ]
     }
   ],
   "start_datetime": "2020-03-25T00:00:00Z",

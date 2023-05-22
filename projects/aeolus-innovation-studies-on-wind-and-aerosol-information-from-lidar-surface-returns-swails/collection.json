@@ -52,6 +52,10 @@
   "osc:name": "AEOLUS+ INNOVATION - STUDIES ON WIND AND AEROSOL INFORMATION FROM LIDAR SURFACE RETURNS (SWAILS+)",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Atmosphere",
+    "Oceans"
+  ],
   "contacts": [
     {
       "name": "Christian Retscher",
@@ -65,6 +69,19 @@
     {
       "name": "KNMI (NL)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Atmosphere"
+        },
+        {
+          "id": "Oceans"
+        }
+      ]
     }
   ],
   "start_datetime": "2020-11-10T00:00:00Z",

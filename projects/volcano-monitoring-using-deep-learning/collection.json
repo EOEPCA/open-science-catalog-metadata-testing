@@ -46,6 +46,10 @@
   "osc:name": "Volcano Monitoring using Deep Learning",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Land",
+    "Solid Earth"
+  ],
   "contacts": [
     {
       "name": "Stephen Plummer",
@@ -63,6 +67,19 @@
     {
       "name": "SCHOOL OF EARTH AND ENVIRONMENT (GB)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Land"
+        },
+        {
+          "id": "Solid Earth"
+        }
+      ]
     }
   ],
   "start_datetime": "2020-06-23T00:00:00Z",

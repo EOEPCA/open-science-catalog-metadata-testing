@@ -40,6 +40,9 @@
   "osc:name": "PROMCOM: Production of lower tropospheric methane and carbon monoxide distributions through combined use of ESA Sentinel-5 Precursor shortwave infrared and IASI/CrIS thermal infrared satellite data",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Atmosphere"
+  ],
   "contacts": [
     {
       "name": "Diego Fernandez",
@@ -53,6 +56,16 @@
     {
       "name": "UKRI Rutherford Appleton Laboratory (GB)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Atmosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2018-10-23T00:00:00Z",

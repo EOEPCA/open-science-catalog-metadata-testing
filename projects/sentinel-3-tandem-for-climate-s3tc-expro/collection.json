@@ -40,6 +40,9 @@
   "osc:name": "SENTINEL-3 TANDEM FOR CLIMATE (S3TC) EXPRO+",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Oceans"
+  ],
   "contacts": [
     {
       "name": "Craig James Donlon",
@@ -77,6 +80,16 @@
     {
       "name": "SCHOOL OF EARTH AND ENVIRONMENT (GB)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Oceans"
+        }
+      ]
     }
   ],
   "start_datetime": "2018-05-28T00:00:00Z",

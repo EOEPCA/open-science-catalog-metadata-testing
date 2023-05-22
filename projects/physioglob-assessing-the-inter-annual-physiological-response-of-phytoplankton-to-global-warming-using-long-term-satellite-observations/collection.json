@@ -46,6 +46,9 @@
   "osc:name": "PHYSIOGLOB: Assessing the inter-annual physiological response of phytoplankton to global warming using long-term satellite observations",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Oceans"
+  ],
   "contacts": [
     {
       "name": "Stephen Plummer",
@@ -63,6 +66,16 @@
     {
       "name": "ENERGY AND SUSTAINABLE ECONOMIC DEVELOPMENT (ENEA) (IT)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Oceans"
+        }
+      ]
     }
   ],
   "start_datetime": "2018-10-01T00:00:00Z",

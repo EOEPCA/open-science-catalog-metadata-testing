@@ -52,6 +52,10 @@
   "osc:name": "Arctic + Salinity",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Oceans",
+    "Cryosphere"
+  ],
   "contacts": [
     {
       "name": "Diego Fernandez",
@@ -73,6 +77,19 @@
     {
       "name": "NANSEN ENVIRONMENTAL AND REMOTE SENSING CENTER (NO)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Oceans"
+        },
+        {
+          "id": "Cryosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2018-10-16T00:00:00Z",

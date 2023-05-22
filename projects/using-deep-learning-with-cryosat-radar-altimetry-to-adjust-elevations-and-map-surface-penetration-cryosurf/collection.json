@@ -40,6 +40,9 @@
   "osc:name": "Using deep learning with CryoSat radar altimetry to adjust elevations and map SURFace penetration (CryoSURF)",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "contacts": [
     {
       "name": "Jerome Bouffard",
@@ -57,6 +60,16 @@
     {
       "name": "EARTHWAVE Ltd (GB)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Cryosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2019-10-22T00:00:00Z",

@@ -40,6 +40,9 @@
   "osc:name": "PHAB-IV: PHAse-Based sentinel-1 Ice Velocity",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "contacts": [
     {
       "name": "Marcus Engdahl",
@@ -61,6 +64,16 @@
     {
       "name": "GEOLOGICAL SURVEY OF DENMARK AND GREENLAND (DK)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Cryosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2019-12-20T00:00:00Z",

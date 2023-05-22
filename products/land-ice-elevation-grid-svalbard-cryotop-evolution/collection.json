@@ -72,7 +72,17 @@
   ],
   "osc:status": "ONGOING",
   "osc:region": "Svalbard",
-  "osc:type": "Product",
+  "osc:type": "product",
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Cryosphere"
+        }
+      ]
+    }
+  ],
   "created": "2021-12-01T00:00:00Z",
   "start_datetime": "2010-01-01T00:00:00Z",
   "end_datetime": "2021-12-31T23:59:59Z",

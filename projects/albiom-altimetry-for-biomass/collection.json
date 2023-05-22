@@ -46,6 +46,9 @@
   "osc:name": "ALBIOM (ALtimetry for BIOMass)",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Land"
+  ],
   "contacts": [
     {
       "name": "Jerome Benveniste",
@@ -67,6 +70,16 @@
     {
       "name": "UNIV II ROMA TOR VERGATA (IT)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Land"
+        }
+      ]
     }
   ],
   "start_datetime": "2019-10-16T00:00:00Z",

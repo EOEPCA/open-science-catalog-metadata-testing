@@ -40,6 +40,9 @@
   "osc:name": "SHRED: Sentinel-1 for High REsolution monitoring of vegetation Dynamics",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Land"
+  ],
   "contacts": [
     {
       "name": "Stephen Plummer",
@@ -53,6 +56,16 @@
     {
       "name": "TECHNISCHE UNIVERSITAT WIEN (TU WIEN) (AT)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Land"
+        }
+      ]
     }
   ],
   "start_datetime": "2018-10-02T00:00:00Z",

@@ -35,6 +35,9 @@
   "osc:name": "LAND SURFACE CARBON CONSTELLATION STUDY",
   "osc:status": "ONGOING",
   "osc:type": "Project",
+  "osc:themes": [
+    "Land"
+  ],
   "contacts": [
     {
       "name": "Matthias Drusch",
@@ -96,6 +99,16 @@
     {
       "name": "Max Planck Institute for Biogeochemistry (DE)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Land"
+        }
+      ]
     }
   ],
   "start_datetime": "2020-07-08T00:00:00Z",

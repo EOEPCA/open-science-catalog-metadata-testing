@@ -74,7 +74,17 @@
   ],
   "osc:status": "ONGOING",
   "osc:region": "Global",
-  "osc:type": "Product",
+  "osc:type": "product",
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Atmosphere"
+        }
+      ]
+    }
+  ],
   "created": "2013-12-30T00:00:00Z",
   "extent": {
     "spatial": {

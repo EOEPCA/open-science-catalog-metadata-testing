@@ -84,7 +84,17 @@
   ],
   "osc:status": "COMPLETED",
   "osc:region": "West Antarctic Ice Sheet",
-  "osc:type": "Product",
+  "osc:type": "product",
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Cryosphere"
+        }
+      ]
+    }
+  ],
   "created": "2021-11-03T00:00:00Z",
   "start_datetime": "2017-01-01T00:00:00Z",
   "end_datetime": "2017-12-31T23:59:59Z",

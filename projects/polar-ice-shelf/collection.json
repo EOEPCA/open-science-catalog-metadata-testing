@@ -40,6 +40,9 @@
   "osc:name": "Polar+ Ice Shelf",
   "osc:status": "ONGOING",
   "osc:type": "Project",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "contacts": [
     {
       "name": "Marcus Engdahl",
@@ -73,6 +76,16 @@
     {
       "name": "University of Edinburgh (GB)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Cryosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2020-09-03T00:00:00Z",

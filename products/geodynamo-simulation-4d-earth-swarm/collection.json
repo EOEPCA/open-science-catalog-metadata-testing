@@ -107,7 +107,20 @@
   ],
   "osc:status": "ONGOING",
   "osc:region": "Global",
-  "osc:type": "Product",
+  "osc:type": "product",
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Solid Earth"
+        },
+        {
+          "id": "Magnetosphere_Ionosphere"
+        }
+      ]
+    }
+  ],
   "created": "2020-10-22T00:00:00Z",
   "extent": {
     "spatial": {

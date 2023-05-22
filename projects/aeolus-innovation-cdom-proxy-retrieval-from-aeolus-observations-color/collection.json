@@ -64,6 +64,10 @@
   "osc:name": "AEOLUS+ INNOVATION - CDOM-PROXY RETRIEVAL FROM AEOLUS OBSERVATIONS (COLOR)",
   "osc:status": "ONGOING",
   "osc:type": "Project",
+  "osc:themes": [
+    "Atmosphere",
+    "Oceans"
+  ],
   "contacts": [
     {
       "name": "Marie-Helene Rio",
@@ -89,6 +93,19 @@
     {
       "name": "UNIV BASILICATA (IT)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Atmosphere"
+        },
+        {
+          "id": "Oceans"
+        }
+      ]
     }
   ],
   "start_datetime": "2021-02-01T00:00:00Z",

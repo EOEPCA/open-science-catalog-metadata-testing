@@ -70,6 +70,9 @@
   "osc:name": "Satellite Oceanographic Datasets for Acidification (OceanSODA)",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Oceans"
+  ],
   "contacts": [
     {
       "name": "Diego Fernandez",
@@ -99,6 +102,16 @@
     {
       "name": "PLYMOUTH MARINE LABORATORY (GB)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Oceans"
+        }
+      ]
     }
   ],
   "start_datetime": "2018-11-22T00:00:00Z",

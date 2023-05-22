@@ -64,6 +64,10 @@
   "osc:name": "Sentinel-3 for Science, Land Study 1: Snow",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Cryosphere",
+    "Land"
+  ],
   "contacts": [
     {
       "name": "Michael Kern",
@@ -89,6 +93,19 @@
     {
       "name": "DELEGATION NORMANDIE (FR)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Cryosphere"
+        },
+        {
+          "id": "Land"
+        }
+      ]
     }
   ],
   "start_datetime": "2016-11-10T00:00:00Z",

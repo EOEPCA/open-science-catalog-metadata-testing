@@ -52,6 +52,9 @@
   "osc:name": "ArcticSummIT: Arctic Summer Ice Thickness",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "contacts": [
     {
       "name": "Anca Anghelea",
@@ -65,6 +68,16 @@
     {
       "name": "UNIVERSITY OF BRISTOL (GB)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Cryosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2018-10-16T00:00:00Z",

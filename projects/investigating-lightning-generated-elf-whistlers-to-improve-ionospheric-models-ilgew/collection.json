@@ -52,6 +52,10 @@
   "osc:name": "INVESTIGATING LIGHTNING GENERATED ELF WHISTLERS TO IMPROVE IONOSPHERIC MODELS (ILGEW)",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Atmosphere",
+    "Magnetosphere_Ionosphere"
+  ],
   "contacts": [
     {
       "name": "Roger Haagmans",
@@ -73,6 +77,19 @@
     {
       "name": "INSTITUTE OF ATMOSPHERIC PHYSICS (CZ)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Atmosphere"
+        },
+        {
+          "id": "Magnetosphere_Ionosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2019-02-22T00:00:00Z",

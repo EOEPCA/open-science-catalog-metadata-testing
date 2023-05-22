@@ -86,7 +86,17 @@
   ],
   "osc:status": "COMPLETED",
   "osc:region": "Europe",
-  "osc:type": "Product",
+  "osc:type": "product",
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Cryosphere"
+        }
+      ]
+    }
+  ],
   "extent": {
     "spatial": {
       "bbox": [

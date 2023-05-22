@@ -40,6 +40,9 @@
   "osc:name": "BathySent - An Innovative Method to Retrieve Global Coastal Bathymetry from Sentinel-2",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Oceans"
+  ],
   "contacts": [
     {
       "name": "Espen Volden",
@@ -61,6 +64,16 @@
     {
       "name": "HELLENIC CENTRE FOR MARINE RESEARCH (HCMR) (GR)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Oceans"
+        }
+      ]
     }
   ],
   "start_datetime": "2018-05-07T00:00:00Z",

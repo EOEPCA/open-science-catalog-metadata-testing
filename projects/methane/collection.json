@@ -40,6 +40,9 @@
   "osc:name": "Methane+",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Atmosphere"
+  ],
   "contacts": [
     {
       "name": "Christian Retscher",
@@ -77,6 +80,16 @@
     {
       "name": "DEPARTMENT OF EARTH SCIENCES (NL)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Atmosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2020-01-20T00:00:00Z",

@@ -82,6 +82,9 @@
   "osc:name": "Biological Pump and Carbon Exchange Processes",
   "osc:status": "ONGOING",
   "osc:type": "Project",
+  "osc:themes": [
+    "Oceans"
+  ],
   "contacts": [
     {
       "name": "Marie-Helene Rio",
@@ -119,6 +122,16 @@
     {
       "name": "UNIVERSITY OF OXFORD (GB)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Oceans"
+        }
+      ]
     }
   ],
   "start_datetime": "2019-12-09T00:00:00Z",

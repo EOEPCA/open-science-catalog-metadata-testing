@@ -40,6 +40,9 @@
   "osc:name": "Impact study of COVID-19 lockdown measures on air quality and climate ICOVAC",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Atmosphere"
+  ],
   "contacts": [
     {
       "name": "Christian Retscher",
@@ -65,6 +68,16 @@
     {
       "name": "UNIVERSITAET BREMEN (DE)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Atmosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2020-04-29T00:00:00Z",

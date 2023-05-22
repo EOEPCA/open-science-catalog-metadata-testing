@@ -124,6 +124,9 @@
   "osc:name": "Earth Observation data For Science and Innovation in the Black Sea",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Oceans"
+  ],
   "contacts": [
     {
       "name": "Marie-Helene Rio",
@@ -165,6 +168,16 @@
     {
       "name": "TERRASIGNA SRL (RO)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Oceans"
+        }
+      ]
     }
   ],
   "start_datetime": "2019-04-26T00:00:00Z",

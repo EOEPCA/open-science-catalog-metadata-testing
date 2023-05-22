@@ -76,7 +76,20 @@
   ],
   "osc:status": "COMPLETED",
   "osc:region": "Antarctica",
-  "osc:type": "Product",
+  "osc:type": "product",
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Cryosphere"
+        },
+        {
+          "id": "Solid Earth"
+        }
+      ]
+    }
+  ],
   "created": "2020-06-01T00:00:00Z",
   "version": "0.1",
   "extent": {

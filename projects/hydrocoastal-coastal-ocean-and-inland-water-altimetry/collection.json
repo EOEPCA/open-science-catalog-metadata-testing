@@ -40,6 +40,9 @@
   "osc:name": "HydroCoastal: coastal ocean and inland water altimetry",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Oceans"
+  ],
   "contacts": [
     {
       "name": "Jerome Benveniste",
@@ -93,6 +96,16 @@
     {
       "name": "TECHNI",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Oceans"
+        }
+      ]
     }
   ],
   "start_datetime": "2020-01-28T00:00:00Z",

@@ -52,6 +52,9 @@
   "osc:name": "OVALIE: Oceanic intrinsic Variability versus Atmospheric forced variabiLIty of sea level changE",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Oceans"
+  ],
   "contacts": [
     {
       "name": "Stephen Plummer",
@@ -65,6 +68,16 @@
     {
       "name": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE (CNRS) (FR)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Oceans"
+        }
+      ]
     }
   ],
   "start_datetime": "2018-10-17T00:00:00Z",

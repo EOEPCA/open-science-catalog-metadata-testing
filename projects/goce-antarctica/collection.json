@@ -52,6 +52,10 @@
   "osc:name": "GOCE+ ANTARCTICA",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Solid Earth",
+    "Cryosphere"
+  ],
   "contacts": [
     {
       "name": "Michael Kern",
@@ -77,6 +81,19 @@
     {
       "name": "Technical University of Denmark (DK)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Solid Earth"
+        },
+        {
+          "id": "Cryosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2015-08-20T00:00:00Z",

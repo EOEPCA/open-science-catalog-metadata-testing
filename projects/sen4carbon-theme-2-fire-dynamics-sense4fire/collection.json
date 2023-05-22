@@ -40,6 +40,9 @@
   "osc:name": "SEN4CARBON Theme 2: Fire Dynamics (SENSE4FIRE)",
   "osc:status": "ONGOING",
   "osc:type": "Project",
+  "osc:themes": [
+    "Atmosphere"
+  ],
   "contacts": [
     {
       "name": "Stephen Plummer",
@@ -61,6 +64,16 @@
     {
       "name": "KNMI (NL)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Atmosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2021-05-27T00:00:00Z",

@@ -40,6 +40,9 @@
   "osc:name": "Arctic+Snow on Sea Ice",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "contacts": [
     {
       "name": "Ola Grabak",
@@ -69,6 +72,16 @@
     {
       "name": "CENTRE FOR RESEARCH IN EARTH AND SPACE SCIENCE (CA)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Cryosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2016-07-12T00:00:00Z",

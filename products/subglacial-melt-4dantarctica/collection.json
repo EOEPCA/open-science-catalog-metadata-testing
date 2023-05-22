@@ -54,7 +54,17 @@
   ],
   "osc:status": "ONGOING",
   "osc:region": "Antarctica",
-  "osc:type": "Product",
+  "osc:type": "product",
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Cryosphere"
+        }
+      ]
+    }
+  ],
   "version": "1",
   "extent": {
     "spatial": {

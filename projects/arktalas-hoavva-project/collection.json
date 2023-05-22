@@ -46,6 +46,10 @@
   "osc:name": "ARKTALAS HOAVVA PROJECT",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Oceans",
+    "Cryosphere"
+  ],
   "contacts": [
     {
       "name": "Craig James Donlon",
@@ -71,6 +75,19 @@
     {
       "name": "NOVELTIS France",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Oceans"
+        },
+        {
+          "id": "Cryosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2019-05-16T00:00:00Z",

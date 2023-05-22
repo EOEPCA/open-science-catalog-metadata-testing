@@ -112,6 +112,10 @@
   "osc:name": "The 4D-Earth Swarm project",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Solid Earth",
+    "Magnetosphere_Ionosphere"
+  ],
   "contacts": [
     {
       "name": "Roger Haagmans",
@@ -145,6 +149,19 @@
     {
       "name": "SCHOOL OF EARTH AND ENVIRONMENT (GB)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Solid Earth"
+        },
+        {
+          "id": "Magnetosphere_Ionosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2019-04-16T00:00:00Z",

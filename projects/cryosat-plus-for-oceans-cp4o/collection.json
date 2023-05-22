@@ -106,6 +106,10 @@
   "osc:name": "CryoSat Plus For Oceans (CP4O)",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Oceans",
+    "Cryosphere"
+  ],
   "contacts": [
     {
       "name": "Jerome Benveniste",
@@ -147,6 +151,19 @@
     {
       "name": "isardSAT (ES)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Oceans"
+        },
+        {
+          "id": "Cryosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2012-06-05T00:00:00Z",

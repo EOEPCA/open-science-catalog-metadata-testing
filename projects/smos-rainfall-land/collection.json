@@ -64,6 +64,9 @@
   "osc:name": "SMOS+ Rainfall Land",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Land"
+  ],
   "contacts": [
     {
       "name": "Diego Fernandez",
@@ -89,6 +92,16 @@
     {
       "name": "UNIVERSITE TOULOUSE III \u2013 PAUL SABATIER (FR)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Land"
+        }
+      ]
     }
   ],
   "start_datetime": "2015-07-16T00:00:00Z",

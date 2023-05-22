@@ -46,6 +46,10 @@
   "osc:name": "Methane emissions in the Northern Hemisphere by applying both data from Earth Observing (EO) satellites and global atmospheric methane inversion model estimates",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Atmosphere",
+    "Cryosphere"
+  ],
   "contacts": [
     {
       "name": "Christian Retscher",
@@ -59,6 +63,19 @@
     {
       "name": "FINNISH METEOROLOGICAL INSTITUTE (FI)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Atmosphere"
+        },
+        {
+          "id": "Cryosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2018-09-05T00:00:00Z",

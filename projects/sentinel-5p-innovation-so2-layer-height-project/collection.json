@@ -40,6 +40,9 @@
   "osc:name": "SENTINEL-5P+ INNOVATION - SO2 Layer Height Project",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Atmosphere"
+  ],
   "contacts": [
     {
       "name": "Christian Retscher",
@@ -61,6 +64,16 @@
     {
       "name": "UNIVERSITY OF OXFORD (GB)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Atmosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2019-07-03T00:00:00Z",

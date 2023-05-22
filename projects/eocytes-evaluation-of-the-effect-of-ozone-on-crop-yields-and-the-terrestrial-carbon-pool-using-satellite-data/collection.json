@@ -40,6 +40,9 @@
   "osc:name": "EOCYTES: Evaluation of the effect of Ozone on Crop Yields and the TErrestrial carbon pool using Satellite data",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Land"
+  ],
   "contacts": [
     {
       "name": "Stephen Plummer",
@@ -53,6 +56,16 @@
     {
       "name": "UNIVERSITY OF LEICESTER (GB)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Land"
+        }
+      ]
     }
   ],
   "start_datetime": "2018-10-17T00:00:00Z",

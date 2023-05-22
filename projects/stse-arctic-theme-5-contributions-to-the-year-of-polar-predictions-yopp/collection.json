@@ -46,6 +46,9 @@
   "osc:name": "STSE-ARCTIC+ THEME 5 \u2013 CONTRIBUTIONS TO THE YEAR OF POLAR PREDICTIONS (YOPP)",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "contacts": [
     {
       "name": "Ola Grabak",
@@ -67,6 +70,16 @@
     {
       "name": "O.A.SYS \u201a OCEAN ATMOSPHERE SYSTEMS (DE)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Cryosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2016-06-06T00:00:00Z",

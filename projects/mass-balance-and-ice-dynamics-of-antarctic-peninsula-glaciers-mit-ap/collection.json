@@ -64,6 +64,9 @@
   "osc:name": "Mass balance and ice dynamics of Antarctic Peninsula glaciers (MIT-AP)",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "contacts": [
     {
       "name": "Stephen Plummer",
@@ -77,6 +80,16 @@
     {
       "name": "Friedrich-Alexander-University Erl (DE)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Cryosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2020-05-20T00:00:00Z",

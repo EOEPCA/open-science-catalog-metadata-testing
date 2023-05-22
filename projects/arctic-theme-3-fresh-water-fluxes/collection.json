@@ -46,6 +46,9 @@
   "osc:name": "ARCTIC+ THEME 3 \u2013 FRESH WATER FLUXES",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "contacts": [
     {
       "name": "Diego Fernandez",
@@ -67,6 +70,16 @@
     {
       "name": "ENVEO \u2013 ENVIRONMENTAL EARTH OBSERVATION GMBH (AT)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Cryosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2016-06-25T00:00:00Z",

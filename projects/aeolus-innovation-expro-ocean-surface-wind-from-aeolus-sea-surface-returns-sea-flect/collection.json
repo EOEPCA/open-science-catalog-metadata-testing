@@ -46,6 +46,10 @@
   "osc:name": "AEOLUS+ INNOVATION \u201a EXPRO+ OCEAN SURFACE WIND FROM AEOLUS SEA SURFACE RETURNS (SEA-FLECT)",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Atmosphere",
+    "Oceans"
+  ],
   "contacts": [
     {
       "name": "Christian Retscher",
@@ -63,6 +67,19 @@
     {
       "name": "INFORMUS GMBH (DE)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Atmosphere"
+        },
+        {
+          "id": "Oceans"
+        }
+      ]
     }
   ],
   "start_datetime": "2020-11-11T00:00:00Z",

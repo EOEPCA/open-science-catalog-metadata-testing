@@ -46,6 +46,10 @@
   "osc:name": "AEOLUS+ INNOVATION - EXPRO+ OCEAN SUB-SURFACE PRODUCTS AND APPLICATIONS",
   "osc:status": "ONGOING",
   "osc:type": "Project",
+  "osc:themes": [
+    "Atmosphere",
+    "Oceans"
+  ],
   "contacts": [
     {
       "name": "Marie-Helene Rio",
@@ -63,6 +67,19 @@
     {
       "name": "UNIVERSITE DU LITTORAL COTE D'OPALE (FR)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Atmosphere"
+        },
+        {
+          "id": "Oceans"
+        }
+      ]
     }
   ],
   "start_datetime": "2020-12-09T00:00:00Z",

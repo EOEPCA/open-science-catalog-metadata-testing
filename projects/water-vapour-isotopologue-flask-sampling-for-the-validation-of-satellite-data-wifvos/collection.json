@@ -40,6 +40,9 @@
   "osc:name": "Water vapour Isotopologue Flask sampling for the Validation Of Satellite data (WIFVOS)",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Atmosphere"
+  ],
   "contacts": [
     {
       "name": "Christian Retscher",
@@ -61,6 +64,16 @@
     {
       "name": "UNIVERSITY OF BERGEN (NO)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Atmosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2021-03-03T00:00:00Z",

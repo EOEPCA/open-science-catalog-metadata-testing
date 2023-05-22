@@ -58,6 +58,9 @@
   "osc:name": "ConsIstent Retrieval of Cloud Aerosol Surface",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Atmosphere"
+  ],
   "contacts": [
     {
       "name": "Simon Pinnock",
@@ -75,6 +78,16 @@
     {
       "name": "BROCKMANN CONSULT GMBH (DE)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Atmosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2017-07-17T00:00:00Z",

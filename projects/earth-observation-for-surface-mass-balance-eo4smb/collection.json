@@ -40,6 +40,9 @@
   "osc:name": "Earth Observation for Surface Mass Balance (EO4SMB)",
   "osc:status": "ONGOING",
   "osc:type": "Project",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "contacts": [
     {
       "name": "Marcus Engdahl",
@@ -69,6 +72,16 @@
     {
       "name": "Technical University of Denmark (DK)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Cryosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2020-08-27T00:00:00Z",

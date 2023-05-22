@@ -46,6 +46,9 @@
   "osc:name": "Sentinel-1 for Surface Soil Moisture",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Land"
+  ],
   "contacts": [
     {
       "name": "Malcolm Davidson",
@@ -71,6 +74,16 @@
     {
       "name": "LUDWIG-MAXIMILIAN UNIVERSITAT MUNCHEN (DE)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Land"
+        }
+      ]
     }
   ],
   "start_datetime": "2016-10-20T00:00:00Z",

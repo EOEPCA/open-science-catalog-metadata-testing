@@ -64,6 +64,9 @@
   "osc:name": "WIFT: Water vapour Isotopologues From TROPOMI",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Atmosphere"
+  ],
   "contacts": [
     {
       "name": "Stephen Plummer",
@@ -77,6 +80,16 @@
     {
       "name": "Netherlands Institute for Space Research (NWO-I) (NL)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Atmosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2018-10-17T00:00:00Z",

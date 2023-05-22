@@ -124,6 +124,9 @@
   "osc:name": "BALTIC+ Geodetic SAR for Baltic Height System Unification (SAR-HSU)",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Oceans"
+  ],
   "contacts": [
     {
       "name": "Nuno Miranda",
@@ -161,6 +164,16 @@
     {
       "name": "Technical University of Denmark (DK)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Oceans"
+        }
+      ]
     }
   ],
   "start_datetime": "2019-03-05T00:00:00Z",

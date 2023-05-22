@@ -58,6 +58,9 @@
   "osc:name": "4DGreenland",
   "osc:status": "ONGOING",
   "osc:type": "Project",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "contacts": [
     {
       "name": "Diego Fernandez",
@@ -103,6 +106,16 @@
     {
       "name": "Shepherd SPACE lth",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Cryosphere"
+        }
+      ]
     }
   ],
   "start_datetime": "2020-08-26T00:00:00Z",

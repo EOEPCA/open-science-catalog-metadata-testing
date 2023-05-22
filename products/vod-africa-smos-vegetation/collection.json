@@ -67,7 +67,17 @@
   ],
   "osc:status": "ONGOING",
   "osc:region": "Africa",
-  "osc:type": "Product",
+  "osc:type": "product",
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Land"
+        }
+      ]
+    }
+  ],
   "created": "2018-07-30T00:00:00Z",
   "extent": {
     "spatial": {

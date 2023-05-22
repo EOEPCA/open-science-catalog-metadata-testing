@@ -46,6 +46,9 @@
   "osc:name": "SMOS+ Med: Sea Surface Salinity in the Mediterranean",
   "osc:status": "COMPLETED",
   "osc:type": "Project",
+  "osc:themes": [
+    "Oceans"
+  ],
   "contacts": [
     {
       "name": "Diego Fernandez",
@@ -63,6 +66,16 @@
     {
       "name": "INSTITUTO DE CIENCIAS DEL MAR - CSIC (ES)",
       "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Oceans"
+        }
+      ]
     }
   ],
   "start_datetime": "2014-03-19T00:00:00Z",
