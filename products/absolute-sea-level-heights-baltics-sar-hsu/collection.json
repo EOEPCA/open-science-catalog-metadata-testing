@@ -63,6 +63,12 @@
       "title": "EO Mission: GLONAS"
     },
     {
+      "rel": "related",
+      "href": "../../processes/s-expression/collection.json",
+      "type": "application/json",
+      "title": "S-Expression"
+    },
+    {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",
