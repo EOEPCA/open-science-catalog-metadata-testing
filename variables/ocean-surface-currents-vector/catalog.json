@@ -1,30 +1,101 @@
 {
   "type": "Catalog",
   "id": "ocean-surface-currents-vector",
-  "title": "Ocean surface currents (vector)",
   "stac_version": "1.0.0",
   "description": "Water flow on ocean surface - Physical unit: [ cm/s ] - Accuracy unit: [ cm/s ] intended as vector error, i.e. the module of the vector difference between the observed vector and the true vector.",
   "links": [
     {
       "rel": "root",
       "href": "../../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "via",
       "href": "https://space.oscar.wmo.int/variables/view/ocean_surface_currents_vector",
-      "title": "Website",
-      "type": "text/html"
-    },
-    {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25variables%3A%25Ocean%20surface%20currents%20(vector)%25%27&type=catalog&f=json",
-      "type": "application/geo+json"
+      "type": "text/html",
+      "title": "Description"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "Variables"
+    },
+    {
+      "rel": "child",
+      "href": "./gridded-surface-current-world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Gridded Surface Current_Oceans_Agulhas"
+    },
+    {
+      "rel": "child",
+      "href": "./doppler-derived-surface-current-world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Doppler derived surface current_Agulhas_S1"
+    },
+    {
+      "rel": "child",
+      "href": "./daily-3d-ocean-currents-world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Daily 3D ocean currents_North Atlantic"
+    },
+    {
+      "rel": "child",
+      "href": "./daily-2d-ocean-currents-world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Daily 2D ocean surface currents_North Atlantic"
+    },
+    {
+      "rel": "child",
+      "href": "./oceanic-current-fronts-world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Oceanic/current fronts_Gibraltar"
+    },
+    {
+      "rel": "child",
+      "href": "./total-surface-current-north-atlantic-world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Total surface current_North-Atlantic"
+    },
+    {
+      "rel": "child",
+      "href": "./total-surface-current-tropical-atlantic-world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Total surface current_Tropical Atlantic"
+    },
+    {
+      "rel": "child",
+      "href": "./stokes-drift-atlantic-world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Stokes drift estimation_Atlantic Ocean"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/cryosat-2/eddy-census-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Eddy census"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/cryosat-2/l4-geostrophic-currents-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 4, geostrophic currents, multi-mission gridded merged products for a period of 1 year, 0.0625\u00c2\u00b0*0.0625\u00c2\u00b0, daily"
     }
-  ]
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Oceans"
+        }
+      ]
+    }
+  ],
+  "updated": "2023-06-05T16:11:52.263627Z",
+  "title": "Ocean surface currents (vector)"
 }

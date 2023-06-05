@@ -1,0 +1,41 @@
+{
+  "type": "Catalog",
+  "id": "euv-flux-spectrum",
+  "stac_version": "1.0.0",
+  "description": "Energy spectrum of the radiative flux measured in the EUV band.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "Open Science Catalog"
+    },
+    {
+      "rel": "via",
+      "href": "https://space.oscar.wmo.int/variables/view/euv_flux_spectrum",
+      "type": "text/html",
+      "title": "Description"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Variables"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Magnetosphere_Ionosphere"
+        }
+      ]
+    }
+  ],
+  "updated": "2023-06-05T16:11:52.243627Z",
+  "title": "EUV flux spectrum"
+}

@@ -1,0 +1,47 @@
+{
+  "type": "Catalog",
+  "id": "snow-depth",
+  "stac_version": "1.0.0",
+  "description": "Vertical distance from the snow surface to the underlying surface (ground, glacier ice or sea ice).",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "Open Science Catalog"
+    },
+    {
+      "rel": "via",
+      "href": "https://space.oscar.wmo.int/variables/view/snow_depth",
+      "type": "text/html",
+      "title": "Description"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Variables"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/landsat-8/snow-depth-europe-alps-alpsnow/collection.json",
+      "type": "application/json",
+      "title": "Snow depth for European Alps_Multimission"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Cryosphere"
+        }
+      ]
+    }
+  ],
+  "updated": "2023-06-05T16:11:52.271627Z",
+  "title": "Snow depth"
+}

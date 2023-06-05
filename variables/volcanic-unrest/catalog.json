@@ -1,0 +1,47 @@
+{
+  "type": "Catalog",
+  "id": "volcanic-unrest",
+  "stac_version": "1.0.0",
+  "description": "Volcanic unrest is defined as the deviation from the background or baseline behaviour of a volcano towards a behaviour which is a cause for concern in the short-term because it might prelude an eruption.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "Open Science Catalog"
+    },
+    {
+      "rel": "via",
+      "href": "https://doi.org/10.1016/j.jvolgeores.2013.08.004 ",
+      "type": "text/html",
+      "title": "Description"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Variables"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/sentinel-1/database-of-labelled-sentinel-1-interferograms-v20/collection.json",
+      "type": "application/json",
+      "title": "Database of labelled Sentinel-1 interferograms - v.2.0"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Solid Earth"
+        }
+      ]
+    }
+  ],
+  "updated": "2023-06-05T16:11:52.287627Z",
+  "title": "Volcanic unrest"
+}

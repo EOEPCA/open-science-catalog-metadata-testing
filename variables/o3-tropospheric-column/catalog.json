@@ -1,0 +1,53 @@
+{
+  "type": "Catalog",
+  "id": "o3-tropospheric-column",
+  "stac_version": "1.0.0",
+  "description": "2D field of total amount of O3 (ozone) molecules per unit area in an atmospheric column extending from the Earth\u00e2\u20ac\u2122s surface to the to the tropopause",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "Open Science Catalog"
+    },
+    {
+      "rel": "via",
+      "href": "https://space.oscar.wmo.int/variables/view/o3_tropospheric_column",
+      "type": "text/html",
+      "title": "Description"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Variables"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/sentinel-5p/tropospheric-ozone-column-tropomi-sunlit/collection.json",
+      "type": "application/json",
+      "title": "Tropospheric ozone column(TrOC)_2018-2020_Global_S5p-TROPOMI_Limb"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/omi/tropospheric-ozone-column-omi-sunlit/collection.json",
+      "type": "application/json",
+      "title": "Tropospheric ozone column (TrOC)_Global_OMI and limb satellites"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Atmosphere"
+        }
+      ]
+    }
+  ],
+  "updated": "2023-06-05T16:11:52.263627Z",
+  "title": "O3 Tropospheric Column"
+}

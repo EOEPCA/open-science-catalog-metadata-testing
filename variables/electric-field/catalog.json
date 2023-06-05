@@ -1,0 +1,41 @@
+{
+  "type": "Catalog",
+  "id": "electric-field",
+  "stac_version": "1.0.0",
+  "description": "Magnitude and direction of the Earth\u00e2\u20ac\u2122s electric field",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "Open Science Catalog"
+    },
+    {
+      "rel": "via",
+      "href": "https://space.oscar.wmo.int/variables/view/electric_field",
+      "type": "text/html",
+      "title": "Description"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Variables"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Magnetosphere_Ionosphere"
+        }
+      ]
+    }
+  ],
+  "updated": "2023-06-05T16:11:52.243627Z",
+  "title": "Electric Field"
+}

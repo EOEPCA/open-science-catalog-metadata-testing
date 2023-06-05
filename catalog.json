@@ -1,32 +1,14 @@
 {
   "type": "Catalog",
-  "id": "open-science-catalog",
-  "title": "Open Science Catalog",
+  "id": "osc",
   "stac_version": "1.0.0",
-  "description": "Open Science Catalog",
+  "description": "A catalog of publicly available geoscience products, datasets and resources developed in the frame of scientific research Projects funded by ESA EO (Earth Observation)",
   "links": [
     {
       "rel": "root",
       "href": "./catalog.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "./eo-missions/catalog.json",
       "type": "application/json",
-      "title": "EO Missions"
-    },
-    {
-      "rel": "child",
-      "href": "./processes/catalog.json",
-      "type": "application/json",
-      "title": "Processes"
-    },
-    {
-      "rel": "child",
-      "href": "./products/collection.json",
-      "type": "application/json",
-      "title": "Products"
+      "title": "Open Science Catalog"
     },
     {
       "rel": "child",
@@ -45,6 +27,27 @@
       "href": "./variables/catalog.json",
       "type": "application/json",
       "title": "Variables"
+    },
+    {
+      "rel": "child",
+      "href": "./processes/catalog.json",
+      "type": "application/json",
+      "title": "Processes"
+    },
+    {
+      "rel": "child",
+      "href": "./eo-missions/catalog.json",
+      "type": "application/json",
+      "title": "EO Missions"
+    },
+    {
+      "rel": "child",
+      "href": "./products/catalog.json",
+      "type": "application/json",
+      "title": "Products"
     }
-  ]
+  ],
+  "stac_extensions": [],
+  "updated": "2023-06-05T16:11:52.383629Z",
+  "title": "Open Science Catalog"
 }

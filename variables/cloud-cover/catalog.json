@@ -1,0 +1,53 @@
+{
+  "type": "Catalog",
+  "id": "cloud-cover",
+  "stac_version": "1.0.0",
+  "description": "3D field of fraction of sky filled by clouds.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "Open Science Catalog"
+    },
+    {
+      "rel": "via",
+      "href": "https://space.oscar.wmo.int/variables/view/cloud_cover",
+      "type": "text/html",
+      "title": "Description"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Variables"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/earthcare/clima-cloud-profile-livas/collection.json",
+      "type": "application/json",
+      "title": "Climatology of cloud optical property profiles_Global_CALIPSO_EARTHCARE"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/earthcare/cliima-cloud-od-livas/collection.json",
+      "type": "application/json",
+      "title": "Climatology of cloud optical depth_Global_CALIPSO_EARTHCARE"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Atmosphere"
+        }
+      ]
+    }
+  ],
+  "updated": "2023-06-05T16:11:52.235626Z",
+  "title": "Cloud cover"
+}

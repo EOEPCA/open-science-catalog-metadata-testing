@@ -1,0 +1,29 @@
+{
+  "type": "Catalog",
+  "id": "limb-viewing-instruments",
+  "stac_version": "1.0.0",
+  "description": "limb-viewing instruments",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "Open Science Catalog"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "EO Missions"
+    },
+    {
+      "rel": "child",
+      "href": "./stratospheric-ozone-column-limb-sunlit/collection.json",
+      "type": "application/json",
+      "title": "Stratospheric ozone column from limb satellites_Global"
+    }
+  ],
+  "stac_extensions": [],
+  "updated": "2023-06-05T16:11:52.311628Z",
+  "title": "limb-viewing instruments"
+}

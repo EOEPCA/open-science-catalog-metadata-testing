@@ -1,0 +1,41 @@
+{
+  "type": "Catalog",
+  "id": "ionospheric-plasma-velocity",
+  "stac_version": "1.0.0",
+  "description": "Velocity of bulk plasma or electrons (depending on measurement technique) as a function of altitude in the ionosphere.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "Open Science Catalog"
+    },
+    {
+      "rel": "via",
+      "href": "https://space.oscar.wmo.int/variables/view/ionospheric_plasma_velocity",
+      "type": "text/html",
+      "title": "Description"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Variables"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Magnetosphere_Ionosphere"
+        }
+      ]
+    }
+  ],
+  "updated": "2023-06-05T16:11:52.255627Z",
+  "title": "Ionospheric plasma velocity"
+}
