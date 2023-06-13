@@ -38,7 +38,7 @@ jobs:
       - name: Build static Catalog
         run: |
           pip install -U pip
-          pip install git+https://github.com/EOEPCA/open-science-catalog-builder@de9f30f5f1c35309f22c8316bd9f5fe77e0f0c60
+          pip install git+https://github.com/EOEPCA/open-science-catalog-builder@70e147347b63a8d3d3af251f1ce54f7d460c43a2
           osc build . -o dist/ \
             --root-href "https://eoepca.github.io/open-science-catalog-metadata-testing/"
 
