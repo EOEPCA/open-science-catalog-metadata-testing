@@ -37,10 +37,7 @@ jobs:
       
       - name: Build static Catalog
         run: |
-          sudo apt install -y proj-bin libproj-dev
-          pip install git+https://github.com/EOEPCA/open-science-catalog-builder@89c3b0de0f9969ebf7614669efc85953963b7bec
-          pip install -U git+https://github.com/stac-utils/pystac@65d1a8027cfcb2ca33510871c8492fd7cd66aeba
-          
+          pip install git+https://github.com/EOEPCA/open-science-catalog-builder@de9f30f5f1c35309f22c8316bd9f5fe77e0f0c60
           osc build . -o dist/ \
             --root-href "https://eoepca.github.io/open-science-catalog-metadata-testing/" \}"
 
