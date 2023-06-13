@@ -25,24 +25,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Projects"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-1/sm-based-inversion-approach-po-irrigation/collection.json",
-      "type": "application/json",
-      "title": "Regional irrigation water use at high-resolution - PO valley"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-1/sm-based-inversion-approach-ebro-irrigation/collection.json",
-      "type": "application/json",
-      "title": "Regional irrigation water use at high-resolution - EBRO basin"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-1/sm-based-inversion-approach-murray-darling-irrigation/collection.json",
-      "type": "application/json",
-      "title": "Regional irrigation water use at high-resolution - MURRAY-DARLING basin"
     }
   ],
   "stac_extensions": [
@@ -105,10 +87,6 @@
   ],
   "start_datetime": "2020-01-03T00:00:00Z",
   "end_datetime": "2022-10-31T23:59:59Z",
-  "keywords": [
-    "theme:Land"
-  ],
-  "updated": "2023-06-05T16:11:52.203626Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -129,5 +107,8 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Land"
+  ]
 }

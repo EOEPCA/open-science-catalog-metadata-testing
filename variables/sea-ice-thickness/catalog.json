@@ -21,54 +21,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Variables"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/cryosat-2/sea-ice-phys-ocean-lpf-arcticsummit/collection.json",
-      "type": "application/json",
-      "title": "Sea ice and physical oceanography_Arctic_CryoSat-2 Baseline-C Level 1b waveform observations"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/saral-altika/sea-ice-snow-depth-lpf-cassis/collection.json",
-      "type": "application/json",
-      "title": "Sea ice freeboard and thickness_TFMRA50 and ASD snow depth_Antarctic_CryoSat-2/SARAL"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/saral-altika/sea-ice-clima-snow-depth-lpf-cassis/collection.json",
-      "type": "application/json",
-      "title": "Sea ice freeboard and thickness_TFMRA50 and AMSR climatology snow depth_Antarctic_CryoSat-2/SARAL"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/saral-altika/sea-ice-retracker-snow-depth-cryosat-lpf-cassis/collection.json",
-      "type": "application/json",
-      "title": "Sea ice freeboard and thickness_TFMRA50 and AMSR-2 snow depth_Antarctic_CryoSat-2/SARAL"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/gcom-w1/sea-ice-retracker-clima-snow-depth-lpf-cassis/collection.json",
-      "type": "application/json",
-      "title": "Sea ice freeboard and thickness_heuristic retracker TFMRA50 and AMSR climatology snow depth_Antarctic_Envisat"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/gcom-w2/sea-ice-retracker-snow-depth-envisat-lpf-cassis/collection.json",
-      "type": "application/json",
-      "title": "Sea ice freeboard and thickness_heuristic retracker TFMRA50 and AMSR-2 snow depth_Antarctic_Envisat"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/cryosat-2/sea-ice-thickness-lpf-arcticsummit/collection.json",
-      "type": "application/json",
-      "title": "Sea ice thickness_monthly_Oct 2010-July 2020Arctic_CryoSat-2 Baseline-D observations"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/cryosat-2/sea-ice-and-snow-volume-north-sea-stse-arctic-yopp/collection.json",
-      "type": "application/json",
-      "title": "Sea ice volume and snow volume_Prior and posterior uncertainties_North Sea_Cryosat-2"
     }
   ],
   "stac_extensions": [
@@ -84,6 +36,5 @@
       ]
     }
   ],
-  "updated": "2023-06-05T16:11:52.271627Z",
   "title": "Sea-ice thickness"
 }

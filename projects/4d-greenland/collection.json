@@ -25,24 +25,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Projects"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-1/subglacial-melt-maps/collection.json",
-      "type": "application/json",
-      "title": "Subglacial Melt Maps"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-1/supraglacial-storage-and-drainage-lake-features-mapped-by-sentinel1/collection.json",
-      "type": "application/json",
-      "title": "Supraglacial Storage and Drainage - Lake Features Mapped by Sentinel-1"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/ascat/surface-melt-detection-from-active-microwave-ascat-melt/collection.json",
-      "type": "application/json",
-      "title": "Surface Melt Detection from Active Microwave - ASCAT Melt Product"
     }
   ],
   "stac_extensions": [
@@ -113,10 +95,6 @@
   ],
   "start_datetime": "2020-08-26T00:00:00Z",
   "end_datetime": "2022-01-09T23:59:59Z",
-  "keywords": [
-    "theme:Cryosphere"
-  ],
-  "updated": "2023-06-05T16:11:52.171625Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -137,5 +115,8 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Cryosphere"
+  ]
 }

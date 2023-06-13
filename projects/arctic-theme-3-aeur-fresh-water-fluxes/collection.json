@@ -25,12 +25,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Projects"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/jason-2/ocean-freshwater-flux-arctic-theme3/collection.json",
-      "type": "application/json",
-      "title": "Ocean freshwater fluxes_Arctic_Multimission"
     }
   ],
   "stac_extensions": [
@@ -77,10 +71,6 @@
   ],
   "start_datetime": "2016-06-25T00:00:00Z",
   "end_datetime": "2018-01-03T23:59:59Z",
-  "keywords": [
-    "theme:Cryosphere"
-  ],
-  "updated": "2023-06-05T16:11:52.175625Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -101,5 +91,8 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Cryosphere"
+  ]
 }

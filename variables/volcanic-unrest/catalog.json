@@ -21,12 +21,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Variables"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-1/database-of-labelled-sentinel-1-interferograms-v20/collection.json",
-      "type": "application/json",
-      "title": "Database of labelled Sentinel-1 interferograms - v.2.0"
     }
   ],
   "stac_extensions": [
@@ -42,6 +36,5 @@
       ]
     }
   ],
-  "updated": "2023-06-05T16:11:52.287627Z",
   "title": "Volcanic unrest"
 }

@@ -11,6 +11,12 @@
       "title": "Open Science Catalog"
     },
     {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Open Science Catalog"
+    },
+    {
       "rel": "child",
       "href": "./3d-earth/collection.json",
       "type": "application/json",
@@ -1017,15 +1023,7 @@
       "href": "./understand-and-mitigate-impacts-of-3d-clouds-on-uv-vis-no2-trace-gas-retrievals-by-ai-exploration-of-synthetic-and-real-data-mit3d/collection.json",
       "type": "application/json",
       "title": "MIT3D"
-    },
-    {
-      "rel": "parent",
-      "href": "../catalog.json",
-      "type": "application/json",
-      "title": "Open Science Catalog"
     }
   ],
-  "stac_extensions": [],
-  "updated": "2023-06-05T16:11:52.219626Z",
   "title": "Projects"
 }

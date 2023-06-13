@@ -21,36 +21,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Variables"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/aeolus/diffuse-attenuation-aeolus-innovation-color/collection.json",
-      "type": "application/json",
-      "title": "Diffuse attenuation: Kd_Global_AEOLUS"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/cryosat-2/l3-turbidity-daily-monthly-eo4sibs/collection.json",
-      "type": "application/json",
-      "title": "Level 3 Turbidity, 300m, daily and monthly"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-5p/mean-spectral-dac-for-320-nm-423nm-in-the-atlantic-ocean/collection.json",
-      "type": "application/json",
-      "title": "Mean spectral DAC avg for 320-338.5nm (UVAB) 356.5 - 390 nm (UVA) & 390 - 423 nm in the Atlantic Ocean from S5P (TROPOMI)"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-5p/mean-spectral-dac-from-318-to952nm-of-underwater-light-profiles-rv-polarstern-cruise-ps113/collection.json",
-      "type": "application/json",
-      "title": "Mean spectral DAC from 318-952nm of light profiles measured at discrete stations (RV Polarstern cruise PS113) "
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-5p/mean-spectral-dac-from-320-to917nm-from-radiometric-underwater-light-transmission-profiles/collection.json",
-      "type": "application/json",
-      "title": "Mean spectral DAC from 320-917nm from light transmission profiles by an undulating platform towed behind the ship"
     }
   ],
   "stac_extensions": [
@@ -66,6 +36,5 @@
       ]
     }
   ],
-  "updated": "2023-06-05T16:11:52.263627Z",
   "title": "Ocean Diffuse Attenuation Coefficient (DAC)"
 }

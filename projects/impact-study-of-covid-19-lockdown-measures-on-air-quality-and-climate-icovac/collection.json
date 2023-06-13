@@ -75,10 +75,6 @@
   ],
   "start_datetime": "2020-04-29T00:00:00Z",
   "end_datetime": "2021-06-30T23:59:59Z",
-  "keywords": [
-    "theme:Atmosphere"
-  ],
-  "updated": "2023-06-05T16:11:52.183625Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -99,5 +95,8 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Atmosphere"
+  ]
 }

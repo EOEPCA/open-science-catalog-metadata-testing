@@ -21,96 +21,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Variables"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/swarm/swarm-eiscat-conjunction-list-ion-outflow/collection.json",
-      "type": "application/json",
-      "title": "Swarm-EISCAT conjunction list (2013-2019)"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/swarm/cluster-swarm-ac-conjunctions-ion-outflow/collection.json",
-      "type": "application/json",
-      "title": "Cluster/Swarm A and C conjunctions"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/swarm/cluster-swarm-b-conjunctions-ion-outflow/collection.json",
-      "type": "application/json",
-      "title": "Cluster/Swarm B conjunctions"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/swarm/sudden-stratospheric-warming-vera/collection.json",
-      "type": "application/json",
-      "title": "Sudden Stratospheric Warming (SSW)"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/swarm/webgeodyn-py-4d-earth-swarm/collection.json",
-      "type": "application/json",
-      "title": "Webgeodyn Python package"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/swarm/ground-virtual-observatory-swarm-4d-earth-swarm/collection.json",
-      "type": "application/json",
-      "title": "Ground Virtual Observatory Data SWARM"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/champ/ground-virtual-observatory-champ-4d-earth-swarm/collection.json",
-      "type": "application/json",
-      "title": "Ground Virtual Observatory Data CHAMP"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/cryosat-2/ground-virtual-observatory-cryosat2-4d-earth-swarm/collection.json",
-      "type": "application/json",
-      "title": "Ground Virtual Observatory Data CRYOSAT-2"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/oersted/ground-virtual-observatory-oersted-4d-earth-swarm/collection.json",
-      "type": "application/json",
-      "title": "Ground Virtual Observatory Data OERSTED"
-    },
-    {
-      "rel": "child",
-      "href": "./ground-observatory-data-4d-earth-swarm/collection.json",
-      "type": "application/json",
-      "title": "Ground Observatory data"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/oersted/chaos-field-model-core-4d-earth-swarm/collection.json",
-      "type": "application/json",
-      "title": "CHAOS field model_Core"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/oersted/chaos-field-model-spline-4d-earth-swarm/collection.json",
-      "type": "application/json",
-      "title": "CHAOS field model_SplineCoefficients"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/oersted/chaos-field-model-4d-earth-swarm/collection.json",
-      "type": "application/json",
-      "title": "CHAOS field model"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/oersted/satellite-data-chaos-field-model-4d-earth-swarm/collection.json",
-      "type": "application/json",
-      "title": "Vector and scalar satellite data files as used in the CHAOS field model"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/oersted/geodynamo-simulation-4d-earth-swarm/collection.json",
-      "type": "application/json",
-      "title": "Geodynamo simulation data_Earth core"
     }
   ],
   "stac_extensions": [
@@ -126,6 +36,5 @@
       ]
     }
   ],
-  "updated": "2023-06-05T16:11:52.247627Z",
   "title": "Geomagnetic field"
 }

@@ -21,66 +21,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Variables"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-2/snow-cover-alpglacier/collection.json",
-      "type": "application/json",
-      "title": "Snow cover on glaciers_SwissAlps_S1/2"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/landsat-8/snow-area-europe-alps-alpsnow/collection.json",
-      "type": "application/json",
-      "title": "Snow area extent for European Alps_Multimission"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/landsat-8/snow-grain-europe-alps-alpsnow/collection.json",
-      "type": "application/json",
-      "title": "Snow grain size for European Alps_Multimission"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-3/broadband-albedo-arctic-sice/collection.json",
-      "type": "application/json",
-      "title": "Broadband albedo_Arctic_S3"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-3/spectral-albedo-arctic-sice/collection.json",
-      "type": "application/json",
-      "title": "Spectral albedo_Arctic_S3"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-3/snow-grain-diameter-arctic-sice/collection.json",
-      "type": "application/json",
-      "title": "Snow grain diameter_Arctic_S3"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-3/nrt-sice-rasters-greenland-arctic-sice/collection.json",
-      "type": "application/json",
-      "title": "NRT SICE rasters for Greenland_Arctic_S3"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-3/broadband-albedo-greenland-s34science-snow/collection.json",
-      "type": "application/json",
-      "title": "Broadband albedo_Greenland_S3"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-3/spectral-albedo-greenland-s34science-snow/collection.json",
-      "type": "application/json",
-      "title": "Spectral albedo_Greenland_S3"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-3/snow-grain-diameter-greenland-s34science-snow/collection.json",
-      "type": "application/json",
-      "title": "Snow grain diameter_Greenland_S3"
     }
   ],
   "stac_extensions": [
@@ -96,6 +36,5 @@
       ]
     }
   ],
-  "updated": "2023-06-05T16:11:52.271627Z",
   "title": "Snow cover"
 }

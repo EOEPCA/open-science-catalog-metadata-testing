@@ -15,45 +15,7 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "EO Missions"
-    },
-    {
-      "rel": "child",
-      "href": "./ground-virtual-observatory-oersted-4d-earth-swarm/collection.json",
-      "type": "application/json",
-      "title": "Ground Virtual Observatory Data OERSTED"
-    },
-    {
-      "rel": "child",
-      "href": "./chaos-field-model-core-4d-earth-swarm/collection.json",
-      "type": "application/json",
-      "title": "CHAOS field model_Core"
-    },
-    {
-      "rel": "child",
-      "href": "./chaos-field-model-spline-4d-earth-swarm/collection.json",
-      "type": "application/json",
-      "title": "CHAOS field model_SplineCoefficients"
-    },
-    {
-      "rel": "child",
-      "href": "./chaos-field-model-4d-earth-swarm/collection.json",
-      "type": "application/json",
-      "title": "CHAOS field model"
-    },
-    {
-      "rel": "child",
-      "href": "./satellite-data-chaos-field-model-4d-earth-swarm/collection.json",
-      "type": "application/json",
-      "title": "Vector and scalar satellite data files as used in the CHAOS field model"
-    },
-    {
-      "rel": "child",
-      "href": "./geodynamo-simulation-4d-earth-swarm/collection.json",
-      "type": "application/json",
-      "title": "Geodynamo simulation data_Earth core"
     }
   ],
-  "stac_extensions": [],
-  "updated": "2023-06-05T16:11:52.307628Z",
   "title": "OERSTED"
 }

@@ -25,30 +25,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Projects"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-2/snow-cover-alpglacier/collection.json",
-      "type": "application/json",
-      "title": "Snow cover on glaciers_SwissAlps_S1/2"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-2/glacier-surface-flow-velocity-alpglacier/collection.json",
-      "type": "application/json",
-      "title": "Glacier surface flow velocity_SwissAlps_S1/2"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-2/dynamics-of-glacier-lakes-alpglacier/collection.json",
-      "type": "application/json",
-      "title": "Dynamics of glacier lakes_SwissAlps_S1/2"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-2/slope-instabilities-glacier-forefields-alpglacier/collection.json",
-      "type": "application/json",
-      "title": "Slope instabilities in glacier forefields_SwissAlps_S1/2"
     }
   ],
   "stac_extensions": [
@@ -111,10 +87,6 @@
   ],
   "start_datetime": "2020-07-12T00:00:00Z",
   "end_datetime": "2021-06-25T23:59:59Z",
-  "keywords": [
-    "theme:Cryosphere"
-  ],
-  "updated": "2023-06-05T16:11:52.175625Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -135,5 +107,8 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Cryosphere"
+  ]
 }

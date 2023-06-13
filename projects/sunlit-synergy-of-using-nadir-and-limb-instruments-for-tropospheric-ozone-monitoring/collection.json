@@ -25,24 +25,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Projects"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-5p/tropospheric-ozone-column-tropomi-sunlit/collection.json",
-      "type": "application/json",
-      "title": "Tropospheric ozone column(TrOC)_2018-2020_Global_S5p-TROPOMI_Limb"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/omi/tropospheric-ozone-column-omi-sunlit/collection.json",
-      "type": "application/json",
-      "title": "Tropospheric ozone column (TrOC)_Global_OMI and limb satellites"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/limb-viewing-instruments/stratospheric-ozone-column-limb-sunlit/collection.json",
-      "type": "application/json",
-      "title": "Stratospheric ozone column from limb satellites_Global"
     }
   ],
   "stac_extensions": [
@@ -81,10 +63,6 @@
   ],
   "start_datetime": "2018-05-09T00:00:00Z",
   "end_datetime": "2020-11-24T23:59:59Z",
-  "keywords": [
-    "theme:Atmosphere"
-  ],
-  "updated": "2023-06-05T16:11:52.195626Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -105,5 +83,8 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Atmosphere"
+  ]
 }

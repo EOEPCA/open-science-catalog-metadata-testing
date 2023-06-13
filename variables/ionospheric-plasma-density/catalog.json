@@ -21,30 +21,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Variables"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/swarm/model-ionosphere-4dionosphere/collection.json",
-      "type": "application/json",
-      "title": "Semi-empiric model of ionosphere processes_SWARM"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/swarm/addit-earthquake-tsunami-tool-costo/collection.json",
-      "type": "application/json",
-      "title": "ADDTID: An Alternative Tool for Studying Earthquake/Tsunami Signatures in the Ionosphere_Japan_SWARM"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/swarm/lightning-whistler-ilgew/collection.json",
-      "type": "application/json",
-      "title": "Lightning-generated whistler events_Global_SWARM"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/swarm/solar-activity-polar-cap-plasma-density-ion-outflow/collection.json",
-      "type": "application/json",
-      "title": "CHAMP and Swarm solar activity- and height-scaled polar cap plasma density measurements"
     }
   ],
   "stac_extensions": [
@@ -60,6 +36,5 @@
       ]
     }
   ],
-  "updated": "2023-06-05T16:11:52.251627Z",
   "title": "Ionospheric plasma density"
 }

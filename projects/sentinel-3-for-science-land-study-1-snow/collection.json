@@ -25,24 +25,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Projects"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-3/broadband-albedo-greenland-s34science-snow/collection.json",
-      "type": "application/json",
-      "title": "Broadband albedo_Greenland_S3"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-3/spectral-albedo-greenland-s34science-snow/collection.json",
-      "type": "application/json",
-      "title": "Spectral albedo_Greenland_S3"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-3/snow-grain-diameter-greenland-s34science-snow/collection.json",
-      "type": "application/json",
-      "title": "Snow grain diameter_Greenland_S3"
     }
   ],
   "stac_extensions": [
@@ -96,11 +78,6 @@
   ],
   "start_datetime": "2016-10-11T00:00:00Z",
   "end_datetime": "2019-03-31T23:59:59Z",
-  "keywords": [
-    "theme:Cryosphere",
-    "theme:Land"
-  ],
-  "updated": "2023-06-05T16:11:52.191626Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -121,5 +98,9 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Cryosphere",
+    "theme:Land"
+  ]
 }

@@ -70,11 +70,6 @@
   ],
   "start_datetime": "2020-09-12T00:00:00Z",
   "end_datetime": "2021-06-27T23:59:59Z",
-  "keywords": [
-    "theme:Atmosphere",
-    "theme:Oceans"
-  ],
-  "updated": "2023-06-05T16:11:52.171625Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -95,5 +90,9 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Atmosphere",
+    "theme:Oceans"
+  ]
 }

@@ -75,10 +75,6 @@
   ],
   "start_datetime": "2018-10-30T00:00:00Z",
   "end_datetime": "2020-07-31T23:59:59Z",
-  "keywords": [
-    "theme:Land"
-  ],
-  "updated": "2023-06-05T16:11:52.187626Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -99,5 +95,8 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Land"
+  ]
 }

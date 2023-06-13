@@ -25,24 +25,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Projects"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-3/cloud-aerosol-circas/collection.json",
-      "type": "application/json",
-      "title": "Cloud and aerosol products_Regional_S3A/SLSTR"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-3/albedo-circas/collection.json",
-      "type": "application/json",
-      "title": "Albedo_Regional_S3A/SLSTR"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-3/radiation-budget-circas/collection.json",
-      "type": "application/json",
-      "title": "Radiation budget_Regional_S3"
     }
   ],
   "stac_extensions": [
@@ -85,10 +67,6 @@
   ],
   "start_datetime": "2017-07-17T00:00:00Z",
   "end_datetime": "2019-02-10T23:59:59Z",
-  "keywords": [
-    "theme:Atmosphere"
-  ],
-  "updated": "2023-06-05T16:11:52.199626Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -109,5 +87,8 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Atmosphere"
+  ]
 }

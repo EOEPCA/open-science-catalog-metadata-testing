@@ -15,21 +15,7 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "EO Missions"
-    },
-    {
-      "rel": "child",
-      "href": "../landsat-8/subglacial-lake-drainage-4dantarctica/collection.json",
-      "type": "application/json",
-      "title": "Subglacial Lake Drainage and Filling Antarctica Multimission"
-    },
-    {
-      "rel": "child",
-      "href": "../jason-2/ocean-freshwater-flux-arctic-theme3/collection.json",
-      "type": "application/json",
-      "title": "Ocean freshwater fluxes_Arctic_Multimission"
     }
   ],
-  "stac_extensions": [],
-  "updated": "2023-06-05T16:11:52.303628Z",
   "title": "ERS-1"
 }

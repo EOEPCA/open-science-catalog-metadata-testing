@@ -21,24 +21,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Variables"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/viirs/export-production-bicep/collection.json",
-      "type": "application/json",
-      "title": "Monthly Global Export Production based on Dunne et al 2005 dataset (9 km, OC-CCI v4.2)"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/viirs/monthly-global-export-production-based-on-henson-et-al-2011-dataset-9-km-oc-cci-v42/collection.json",
-      "type": "application/json",
-      "title": "Monthly Global Export Production based on Henson et al 2011 dataset (9 km, OC-CCI v4.2)"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/viirs/monthly-global-export-production-based-on-li-et-al-2016-dataset-9-km-oc-cci-v42/collection.json",
-      "type": "application/json",
-      "title": "Monthly Global Export Production based on Li et al 2016 dataset (9 km, OC-CCI v4.2)"
     }
   ],
   "stac_extensions": [
@@ -54,6 +36,5 @@
       ]
     }
   ],
-  "updated": "2023-06-05T16:11:52.287627Z",
   "title": "Export Production"
 }

@@ -25,12 +25,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Projects"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/goce/lithosphere-density-temperature-viscosity-goce-antarctica/collection.json",
-      "type": "application/json",
-      "title": "Density, Temperature, and Viscosity Structure of the Antarctic Lithosphere_Antarctica_GOCE"
     }
   ],
   "stac_extensions": [
@@ -84,11 +78,6 @@
   ],
   "start_datetime": "2015-08-20T00:00:00Z",
   "end_datetime": "2019-06-25T23:59:59Z",
-  "keywords": [
-    "theme:Solid Earth",
-    "theme:Cryosphere"
-  ],
-  "updated": "2023-06-05T16:11:52.183625Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -109,5 +98,9 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Solid Earth",
+    "theme:Cryosphere"
+  ]
 }

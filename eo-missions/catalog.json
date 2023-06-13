@@ -11,6 +11,12 @@
       "title": "Open Science Catalog"
     },
     {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Open Science Catalog"
+    },
+    {
       "rel": "child",
       "href": "./aeolus/catalog.json",
       "type": "application/json",
@@ -309,15 +315,7 @@
       "href": "./limb-viewing-instruments/catalog.json",
       "type": "application/json",
       "title": "limb-viewing instruments"
-    },
-    {
-      "rel": "parent",
-      "href": "../catalog.json",
-      "type": "application/json",
-      "title": "Open Science Catalog"
     }
   ],
-  "stac_extensions": [],
-  "updated": "2023-06-05T16:11:52.311628Z",
   "title": "EO Missions"
 }

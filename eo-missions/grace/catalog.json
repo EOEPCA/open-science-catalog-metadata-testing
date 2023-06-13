@@ -15,33 +15,7 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "EO Missions"
-    },
-    {
-      "rel": "child",
-      "href": "../jason-2/ocean-freshwater-flux-arctic-theme3/collection.json",
-      "type": "application/json",
-      "title": "Ocean freshwater fluxes_Arctic_Multimission"
-    },
-    {
-      "rel": "child",
-      "href": "../grace-fo/ocean-heat-content-baltic-seal/collection.json",
-      "type": "application/json",
-      "title": "Global Ocean Heat Content (GOHC)_GRACE/GRACE-FO"
-    },
-    {
-      "rel": "child",
-      "href": "../grace-fo/earth-energy-imballance-baltic-seal/collection.json",
-      "type": "application/json",
-      "title": "Earth Energy Imballance (EEI)_GRACE/GRACE-FO"
-    },
-    {
-      "rel": "child",
-      "href": "./gravity-anomalies-goce-airborne-4dantarctica/collection.json",
-      "type": "application/json",
-      "title": "Gravity anomalies from GOCE and airborne data"
     }
   ],
-  "stac_extensions": [],
-  "updated": "2023-06-05T16:11:52.307628Z",
   "title": "GRACE"
 }

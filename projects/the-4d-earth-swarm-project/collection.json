@@ -25,72 +25,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Projects"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/swarm/webgeodyn-py-4d-earth-swarm/collection.json",
-      "type": "application/json",
-      "title": "Webgeodyn Python package"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/swarm/ground-virtual-observatory-swarm-4d-earth-swarm/collection.json",
-      "type": "application/json",
-      "title": "Ground Virtual Observatory Data SWARM"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/champ/ground-virtual-observatory-champ-4d-earth-swarm/collection.json",
-      "type": "application/json",
-      "title": "Ground Virtual Observatory Data CHAMP"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/cryosat-2/ground-virtual-observatory-cryosat2-4d-earth-swarm/collection.json",
-      "type": "application/json",
-      "title": "Ground Virtual Observatory Data CRYOSAT-2"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/oersted/ground-virtual-observatory-oersted-4d-earth-swarm/collection.json",
-      "type": "application/json",
-      "title": "Ground Virtual Observatory Data OERSTED"
-    },
-    {
-      "rel": "child",
-      "href": "../../variables/geomagnetic-field/ground-observatory-data-4d-earth-swarm/collection.json",
-      "type": "application/json",
-      "title": "Ground Observatory data"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/oersted/chaos-field-model-core-4d-earth-swarm/collection.json",
-      "type": "application/json",
-      "title": "CHAOS field model_Core"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/oersted/chaos-field-model-spline-4d-earth-swarm/collection.json",
-      "type": "application/json",
-      "title": "CHAOS field model_SplineCoefficients"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/oersted/chaos-field-model-4d-earth-swarm/collection.json",
-      "type": "application/json",
-      "title": "CHAOS field model"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/oersted/satellite-data-chaos-field-model-4d-earth-swarm/collection.json",
-      "type": "application/json",
-      "title": "Vector and scalar satellite data files as used in the CHAOS field model"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/oersted/geodynamo-simulation-4d-earth-swarm/collection.json",
-      "type": "application/json",
-      "title": "Geodynamo simulation data_Earth core"
     }
   ],
   "stac_extensions": [
@@ -152,11 +86,6 @@
   ],
   "start_datetime": "2019-04-16T00:00:00Z",
   "end_datetime": "2022-04-30T23:59:59Z",
-  "keywords": [
-    "theme:Solid Earth",
-    "theme:Magnetosphere_Ionosphere"
-  ],
-  "updated": "2023-06-05T16:11:52.195626Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -177,5 +106,9 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Solid Earth",
+    "theme:Magnetosphere_Ionosphere"
+  ]
 }

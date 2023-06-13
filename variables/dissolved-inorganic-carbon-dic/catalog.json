@@ -21,12 +21,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Variables"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-3/oceansoda-ethz/collection.json",
-      "type": "application/json",
-      "title": "OceanSODA-ETHZ: A global gridded dataset of the surface ocean carbonate system for seasonal to decadal studies of ocean acidification (v2021)"
     }
   ],
   "stac_extensions": [
@@ -42,6 +36,5 @@
       ]
     }
   ],
-  "updated": "2023-06-05T16:11:52.239627Z",
   "title": "Dissolved inorganic carbon (DIC)"
 }

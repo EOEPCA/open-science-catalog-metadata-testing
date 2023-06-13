@@ -25,12 +25,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Projects"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/smos/sea-surface-salinity-godae-oceanview/collection.json",
-      "type": "application/json",
-      "title": "Sea Surface Salinity Bias_Global_SMOS"
     }
   ],
   "stac_extensions": [
@@ -77,10 +71,6 @@
   ],
   "start_datetime": "2016-07-27T00:00:00Z",
   "end_datetime": "2019-05-15T23:59:59Z",
-  "keywords": [
-    "theme:Oceans"
-  ],
-  "updated": "2023-06-05T16:11:52.183625Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -101,5 +91,8 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Oceans"
+  ]
 }

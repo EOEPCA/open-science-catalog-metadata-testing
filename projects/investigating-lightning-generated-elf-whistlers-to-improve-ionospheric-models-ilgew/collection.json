@@ -25,12 +25,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Projects"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/swarm/lightning-whistler-ilgew/collection.json",
-      "type": "application/json",
-      "title": "Lightning-generated whistler events_Global_SWARM"
     }
   ],
   "stac_extensions": [
@@ -80,11 +74,6 @@
   ],
   "start_datetime": "2019-02-22T00:00:00Z",
   "end_datetime": "2020-10-30T23:59:59Z",
-  "keywords": [
-    "theme:Atmosphere",
-    "theme:Magnetosphere_Ionosphere"
-  ],
-  "updated": "2023-06-05T16:11:52.183625Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -105,5 +94,9 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Atmosphere",
+    "theme:Magnetosphere_Ionosphere"
+  ]
 }

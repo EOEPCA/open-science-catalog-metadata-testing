@@ -21,12 +21,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Variables"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/cryosat-2/l3-spm-daily-eo4sibs/collection.json",
-      "type": "application/json",
-      "title": "Level 3 Suspended Particulate Matter, 300m, daily and monthly"
     }
   ],
   "stac_extensions": [
@@ -42,6 +36,5 @@
       ]
     }
   ],
-  "updated": "2023-06-05T16:11:52.263627Z",
   "title": "Ocean suspended sediments concentration"
 }

@@ -11,6 +11,12 @@
       "title": "Open Science Catalog"
     },
     {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Open Science Catalog"
+    },
+    {
       "rel": "child",
       "href": "./atmosphere/catalog.json",
       "type": "application/json",
@@ -45,15 +51,7 @@
       "href": "./solid-earth/catalog.json",
       "type": "application/json",
       "title": "Solid Earth"
-    },
-    {
-      "rel": "parent",
-      "href": "../catalog.json",
-      "type": "application/json",
-      "title": "Open Science Catalog"
     }
   ],
-  "stac_extensions": [],
-  "updated": "2023-06-05T16:11:52.219626Z",
   "title": "Themes"
 }

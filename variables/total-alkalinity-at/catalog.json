@@ -21,12 +21,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Variables"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-3/oceanic-total-alkalinity-and-dissolved-inorganic-carbon-oceansoda/collection.json",
-      "type": "application/json",
-      "title": "Results and analysis of oceanic total alkalinity and dissolved inorganic carbon estimated from space borne, interpolated in situ, climatological and Earth system model data."
     }
   ],
   "stac_extensions": [
@@ -42,6 +36,5 @@
       ]
     }
   ],
-  "updated": "2023-06-05T16:11:52.279627Z",
   "title": "Total alkalinity (AT)"
 }

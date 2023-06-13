@@ -25,24 +25,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Projects"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/aeolus/diffuse-attenuation-aeolus-innovation-color/collection.json",
-      "type": "application/json",
-      "title": "Diffuse attenuation: Kd_Global_AEOLUS"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/aeolus/particulate-backscatter-aeolus-innovation-color/collection.json",
-      "type": "application/json",
-      "title": "Particulate backscatter: bbp_Global_AEOLUS"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/aeolus/cdom-aeolus-innovation-color/collection.json",
-      "type": "application/json",
-      "title": "Chromophoric Dissolved Organic Matter (CDOM) absorption_Global_AEOLUS"
     }
   ],
   "stac_extensions": [
@@ -96,11 +78,6 @@
   ],
   "start_datetime": "2021-01-02T00:00:00Z",
   "end_datetime": "2022-08-15T23:59:59Z",
-  "keywords": [
-    "theme:Atmosphere",
-    "theme:Oceans"
-  ],
-  "updated": "2023-06-05T16:11:52.171625Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -121,5 +98,9 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Atmosphere",
+    "theme:Oceans"
+  ]
 }

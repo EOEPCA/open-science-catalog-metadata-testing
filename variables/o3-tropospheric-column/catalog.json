@@ -21,18 +21,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Variables"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-5p/tropospheric-ozone-column-tropomi-sunlit/collection.json",
-      "type": "application/json",
-      "title": "Tropospheric ozone column(TrOC)_2018-2020_Global_S5p-TROPOMI_Limb"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/omi/tropospheric-ozone-column-omi-sunlit/collection.json",
-      "type": "application/json",
-      "title": "Tropospheric ozone column (TrOC)_Global_OMI and limb satellites"
     }
   ],
   "stac_extensions": [
@@ -48,6 +36,5 @@
       ]
     }
   ],
-  "updated": "2023-06-05T16:11:52.263627Z",
   "title": "O3 Tropospheric Column"
 }

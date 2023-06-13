@@ -25,12 +25,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Projects"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/gosat/water-vapour-isotopologues-lpf-weather/collection.json",
-      "type": "application/json",
-      "title": "GOSAT PBL XH2O and Stable Water Vapour Isotopologues_Global"
     }
   ],
   "stac_extensions": [
@@ -69,10 +63,6 @@
   ],
   "start_datetime": "2020-04-29T00:00:00Z",
   "end_datetime": "2022-01-06T23:59:59Z",
-  "keywords": [
-    "theme:Atmosphere"
-  ],
-  "updated": "2023-06-05T16:11:52.199626Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -93,5 +83,8 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Atmosphere"
+  ]
 }

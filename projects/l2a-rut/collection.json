@@ -25,12 +25,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Projects"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-2/s2l2a-uncertainty-sr-lpf-l2arut/collection.json",
-      "type": "application/json",
-      "title": "S2 L2A uncertainty_Surface reflectance estimates_S2"
     }
   ],
   "stac_extensions": [
@@ -69,10 +63,6 @@
   ],
   "start_datetime": "2020-05-20T00:00:00Z",
   "end_datetime": "2022-01-07T23:59:59Z",
-  "keywords": [
-    "theme:Land"
-  ],
-  "updated": "2023-06-05T16:11:52.183625Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -93,5 +83,8 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Land"
+  ]
 }

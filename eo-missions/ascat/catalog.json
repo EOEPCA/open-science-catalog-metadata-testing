@@ -15,21 +15,7 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "EO Missions"
-    },
-    {
-      "rel": "child",
-      "href": "../smap/rainfall-gpm-sm2rain-0-25-v1-global-smos-rainfall/collection.json",
-      "type": "application/json",
-      "title": "GPM+SM2RAIN Rainfall product_v1.0_daily_0.25_quasi-global"
-    },
-    {
-      "rel": "child",
-      "href": "./surface-melt-detection-from-active-microwave-ascat-melt/collection.json",
-      "type": "application/json",
-      "title": "Surface Melt Detection from Active Microwave - ASCAT Melt Product"
     }
   ],
-  "stac_extensions": [],
-  "updated": "2023-06-05T16:11:52.303628Z",
   "title": "ASCAT"
 }

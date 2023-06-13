@@ -25,18 +25,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Projects"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/cryosat-2/sea-ice-phys-ocean-lpf-arcticsummit/collection.json",
-      "type": "application/json",
-      "title": "Sea ice and physical oceanography_Arctic_CryoSat-2 Baseline-C Level 1b waveform observations"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/cryosat-2/sea-ice-thickness-lpf-arcticsummit/collection.json",
-      "type": "application/json",
-      "title": "Sea ice thickness_monthly_Oct 2010-July 2020Arctic_CryoSat-2 Baseline-D observations"
     }
   ],
   "stac_extensions": [
@@ -75,10 +63,6 @@
   ],
   "start_datetime": "2018-10-16T00:00:00Z",
   "end_datetime": "2020-10-31T23:59:59Z",
-  "keywords": [
-    "theme:Cryosphere"
-  ],
-  "updated": "2023-06-05T16:11:52.175625Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -99,5 +83,8 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Cryosphere"
+  ]
 }

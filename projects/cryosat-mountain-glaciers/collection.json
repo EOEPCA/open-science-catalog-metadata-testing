@@ -25,12 +25,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Projects"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/cryosat-2/glacier-elevation-cryosat-mountain-glaciers/collection.json",
-      "type": "application/json",
-      "title": "Mountain glacier elevation and elevation change_Global_Cryosat-2"
     }
   ],
   "stac_extensions": [
@@ -85,10 +79,6 @@
   ],
   "start_datetime": "2015-05-13T00:00:00Z",
   "end_datetime": "2020-12-31T23:59:59Z",
-  "keywords": [
-    "theme:Cryosphere"
-  ],
-  "updated": "2023-06-05T16:11:52.179626Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -109,5 +99,8 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Cryosphere"
+  ]
 }

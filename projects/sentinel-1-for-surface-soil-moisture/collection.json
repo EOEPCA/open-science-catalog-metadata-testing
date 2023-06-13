@@ -25,12 +25,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Projects"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-1/surface-soil-moisture-s1-for-surface-soil-moisture/collection.json",
-      "type": "application/json",
-      "title": "Surface soil moisture time series_1 km resolution_Southern Italy_S1"
     }
   ],
   "stac_extensions": [
@@ -81,10 +75,6 @@
   ],
   "start_datetime": "2016-10-20T00:00:00Z",
   "end_datetime": "2018-01-11T23:59:59Z",
-  "keywords": [
-    "theme:Land"
-  ],
-  "updated": "2023-06-05T16:11:52.191626Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -105,5 +95,8 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Land"
+  ]
 }

@@ -25,18 +25,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Projects"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/swarm/geothermal-heat-flow-greenland-3d-earth/collection.json",
-      "type": "application/json",
-      "title": "Geothermal Heat Flow Database and Map_Greenland_GOCE_SWARM"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/goce/crust-and-upper-mantle-model-3d-earth/collection.json",
-      "type": "application/json",
-      "title": "Global Model of Crust and Upper Mantle_WINTERC-G_GOCE"
     }
   ],
   "stac_extensions": [
@@ -99,10 +87,6 @@
   ],
   "start_datetime": "2019-10-22T00:00:00Z",
   "end_datetime": "2020-12-11T23:59:59Z",
-  "keywords": [
-    "theme:Solid Earth"
-  ],
-  "updated": "2023-06-05T16:11:52.171625Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -123,5 +107,8 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Solid Earth"
+  ]
 }

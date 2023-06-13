@@ -21,18 +21,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Variables"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/landsat-8/snow-water-equivalent-europe-alps-alpsnow/collection.json",
-      "type": "application/json",
-      "title": "Snow water equivalent for European Alps_Multimission"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/landsat-8/snow-liquid-water-europe-alps-alpsnow/collection.json",
-      "type": "application/json",
-      "title": "Snow liquid water content (wet snow) for European Alps_Multimission"
     }
   ],
   "stac_extensions": [
@@ -48,6 +36,5 @@
       ]
     }
   ],
-  "updated": "2023-06-05T16:11:52.271627Z",
   "title": "Snow water equivalent"
 }

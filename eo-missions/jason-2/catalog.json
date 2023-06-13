@@ -15,27 +15,7 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "EO Missions"
-    },
-    {
-      "rel": "child",
-      "href": "./ocean-freshwater-flux-arctic-theme3/collection.json",
-      "type": "application/json",
-      "title": "Ocean freshwater fluxes_Arctic_Multimission"
-    },
-    {
-      "rel": "child",
-      "href": "../sentinel-3/baltic-sea-level-baltic-seal/collection.json",
-      "type": "application/json",
-      "title": "Baltic Sea Level_Multimission"
-    },
-    {
-      "rel": "child",
-      "href": "../sentinel-3/hydrodynamic-model-baltic-seal/collection.json",
-      "type": "application/json",
-      "title": "Hydrodynamic model data (deviation from Sea Level Mean)_Multimission"
     }
   ],
-  "stac_extensions": [],
-  "updated": "2023-06-05T16:11:52.307628Z",
   "title": "Jason-2"
 }

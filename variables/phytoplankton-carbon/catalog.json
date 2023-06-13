@@ -21,18 +21,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Variables"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/viirs/monthly-global-total-phytoplankton-carbon-dataset-9-km-oc-cci-v42/collection.json",
-      "type": "application/json",
-      "title": "Monthly Global Total Phytoplankton Carbon dataset (9 km, OC-CCI v4.2)"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/viirs/global-marine-phytoplankton-carbon-bicep/collection.json",
-      "type": "application/json",
-      "title": "Monthly Global Total Phytoplankton Carbon dataset (9 km, OC-CCI v5)"
     }
   ],
   "stac_extensions": [
@@ -48,6 +36,5 @@
       ]
     }
   ],
-  "updated": "2023-06-05T16:11:52.287627Z",
   "title": "Phytoplankton Carbon"
 }

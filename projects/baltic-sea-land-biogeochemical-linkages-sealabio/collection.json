@@ -25,24 +25,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Projects"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/model/model-based-cdom-baltic-sealabio/collection.json",
-      "type": "application/json",
-      "title": "Model based Colored Dissolved Organic Matter (CDOM) _Baltics_Model"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/in-situ/in-situ-sealabio/collection.json",
-      "type": "application/json",
-      "title": "In-situ measurements_Baltics"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-3/eo-based-cdom-baltic-sealabio/collection.json",
-      "type": "application/json",
-      "title": "EO based Color Disolved Organic Matter_Baltics_S3"
     }
   ],
   "stac_extensions": [
@@ -100,11 +82,6 @@
   ],
   "start_datetime": "2018-12-14T00:00:00Z",
   "end_datetime": "2020-05-31T23:59:59Z",
-  "keywords": [
-    "theme:Oceans",
-    "theme:Land"
-  ],
-  "updated": "2023-06-05T16:11:52.175625Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -125,5 +102,9 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Oceans",
+    "theme:Land"
+  ]
 }

@@ -25,42 +25,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Projects"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/landsat-8/snow-area-europe-alps-alpsnow/collection.json",
-      "type": "application/json",
-      "title": "Snow area extent for European Alps_Multimission"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/landsat-8/snow-albedo-europe-alps-alpsnow/collection.json",
-      "type": "application/json",
-      "title": "Snow albedo for European Alps_Multimission"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/landsat-8/snow-water-equivalent-europe-alps-alpsnow/collection.json",
-      "type": "application/json",
-      "title": "Snow water equivalent for European Alps_Multimission"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/landsat-8/snow-depth-europe-alps-alpsnow/collection.json",
-      "type": "application/json",
-      "title": "Snow depth for European Alps_Multimission"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/landsat-8/snow-grain-europe-alps-alpsnow/collection.json",
-      "type": "application/json",
-      "title": "Snow grain size for European Alps_Multimission"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/landsat-8/snow-liquid-water-europe-alps-alpsnow/collection.json",
-      "type": "application/json",
-      "title": "Snow liquid water content (wet snow) for European Alps_Multimission"
     }
   ],
   "stac_extensions": [
@@ -131,10 +95,6 @@
   ],
   "start_datetime": "2020-10-20T00:00:00Z",
   "end_datetime": "2022-01-12T23:59:59Z",
-  "keywords": [
-    "theme:Cryosphere"
-  ],
-  "updated": "2023-06-05T16:11:52.175625Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -155,5 +115,8 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Cryosphere"
+  ]
 }

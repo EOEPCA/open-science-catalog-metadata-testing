@@ -21,24 +21,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Variables"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/goce/crust-and-upper-mantle-model-3d-earth/collection.json",
-      "type": "application/json",
-      "title": "Global Model of Crust and Upper Mantle_WINTERC-G_GOCE"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/goce/lithosphere-density-temperature-viscosity-goce-antarctica/collection.json",
-      "type": "application/json",
-      "title": "Density, Temperature, and Viscosity Structure of the Antarctic Lithosphere_Antarctica_GOCE"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/grace/gravity-anomalies-goce-airborne-4dantarctica/collection.json",
-      "type": "application/json",
-      "title": "Gravity anomalies from GOCE and airborne data"
     }
   ],
   "stac_extensions": [
@@ -54,6 +36,5 @@
       ]
     }
   ],
-  "updated": "2023-06-05T16:11:52.247627Z",
   "title": "Gravity field"
 }

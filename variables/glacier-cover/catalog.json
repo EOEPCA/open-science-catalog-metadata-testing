@@ -21,18 +21,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Variables"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/landsat-8/subglacial-lake-drainage-4dantarctica/collection.json",
-      "type": "application/json",
-      "title": "Subglacial Lake Drainage and Filling Antarctica Multimission"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/landsat-8/supraglacial-lakes-west-4dantarctica/collection.json",
-      "type": "application/json",
-      "title": "Supraglacial lakes and channels in West Antarctica and Antarctic Peninsula during January 2017 (v.1.1)"
     }
   ],
   "stac_extensions": [
@@ -48,6 +36,5 @@
       ]
     }
   ],
-  "updated": "2023-06-05T16:11:52.247627Z",
   "title": "Glacier cover"
 }

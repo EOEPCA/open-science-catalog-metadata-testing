@@ -15,15 +15,7 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "EO Missions"
-    },
-    {
-      "rel": "child",
-      "href": "./model-based-cdom-baltic-sealabio/collection.json",
-      "type": "application/json",
-      "title": "Model based Colored Dissolved Organic Matter (CDOM) _Baltics_Model"
     }
   ],
-  "stac_extensions": [],
-  "updated": "2023-06-05T16:11:52.307628Z",
   "title": "Model"
 }

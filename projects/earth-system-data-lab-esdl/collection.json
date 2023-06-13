@@ -25,12 +25,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Projects"
-    },
-    {
-      "rel": "child",
-      "href": "../../variables/land-cover/regional-esdl-south-america-esdl/collection.json",
-      "type": "application/json",
-      "title": "Code for Regional Earth System Data Lab: Tropical South America"
     }
   ],
   "stac_extensions": [
@@ -99,12 +93,6 @@
   ],
   "start_datetime": "2018-01-05T00:00:00Z",
   "end_datetime": "2020-12-31T23:59:59Z",
-  "keywords": [
-    "theme:Land",
-    "theme:Oceans",
-    "theme:Atmosphere"
-  ],
-  "updated": "2023-06-05T16:11:52.203626Z",
   "extent": {
     "spatial": {
       "bbox": [
@@ -125,5 +113,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "theme:Land",
+    "theme:Oceans",
+    "theme:Atmosphere"
+  ]
 }

@@ -21,12 +21,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Variables"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-3/total-ozone-anreo/collection.json",
-      "type": "application/json",
-      "title": "Total ozone product from OLCI / S-3_Antarctica _S3"
     }
   ],
   "stac_extensions": [
@@ -42,6 +36,5 @@
       ]
     }
   ],
-  "updated": "2023-06-05T16:11:52.259627Z",
   "title": "O3 Total Column"
 }

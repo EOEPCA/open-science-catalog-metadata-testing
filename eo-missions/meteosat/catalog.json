@@ -15,15 +15,7 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "EO Missions"
-    },
-    {
-      "rel": "child",
-      "href": "../modis/gross-net-carbon-flux-lpf-vad3emecum/collection.json",
-      "type": "application/json",
-      "title": "Gross and net Carbon Flux Estimates_Fluxcom2.0 Carbon"
     }
   ],
-  "stac_extensions": [],
-  "updated": "2023-06-05T16:11:52.307628Z",
   "title": "MeteoSat"
 }

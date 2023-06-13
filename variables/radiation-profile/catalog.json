@@ -21,12 +21,6 @@
       "href": "../catalog.json",
       "type": "application/json",
       "title": "Variables"
-    },
-    {
-      "rel": "child",
-      "href": "../../eo-missions/sentinel-3/radiation-budget-circas/collection.json",
-      "type": "application/json",
-      "title": "Radiation budget_Regional_S3"
     }
   ],
   "stac_extensions": [
@@ -42,6 +36,5 @@
       ]
     }
   ],
-  "updated": "2023-06-05T16:11:52.267627Z",
   "title": "Radiation profile"
 }
