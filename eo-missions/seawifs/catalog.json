@@ -1,0 +1,143 @@
+{
+  "type": "Catalog",
+  "id": "seawifs",
+  "stac_version": "1.0.0",
+  "description": "SeaWiFS",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "Open Science Catalog"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "EO Missions"
+    },
+    {
+      "rel": "child",
+      "href": "../viirs/secchi-disk-depth-lpf-physioglob/collection.json",
+      "type": "application/json",
+      "title": "Secchi Disk depth_Global Oceans_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../viirs/monthly-global-chlorophyll-a-dataset-9-km-oc-cci-v42/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Chlorophyll-a dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "child",
+      "href": "../viirs/global-particulate-organic-carbon-v5-bicep/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Chlorophyll-a dataset (9 km, OC-CCI v5)"
+    },
+    {
+      "rel": "child",
+      "href": "../viirs/dissolved-organic-carbon-bicep/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Dissolved Organic Carbon dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "child",
+      "href": "../viirs/export-production-bicep/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Export Production based on Dunne et al 2005 dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "child",
+      "href": "../viirs/monthly-global-export-production-based-on-henson-et-al-2011-dataset-9-km-oc-cci-v42/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Export Production based on Henson et al 2011 dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "child",
+      "href": "../viirs/monthly-global-export-production-based-on-li-et-al-2016-dataset-9-km-oc-cci-v42/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Export Production based on Li et al 2016 dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "child",
+      "href": "../viirs/monthly-global-microphytoplankton-carbon-dataset-9-km-oc-cci-v42/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Microphytoplankton Carbon dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "child",
+      "href": "../viirs/monthly-global-microphytoplankton-carbon-dataset-9-km-oc-cci-v5/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Microphytoplankton Carbon dataset (9 km, OC-CCI v5)"
+    },
+    {
+      "rel": "child",
+      "href": "../viirs/monthly-global-mixed-layer-depth-dataset-9-km-oc-cci-v42/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Mixed Layer Depth dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "child",
+      "href": "../viirs/monthly-global-mixed-layer-depth-dataset-9-km-oc-cci-v5/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Mixed Layer Depth dataset (9 km, OC-CCI v5)"
+    },
+    {
+      "rel": "child",
+      "href": "../viirs/monthly-global-nanophytoplankton-carbon-dataset-9-km-oc-cci-v42/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Nanophytoplankton Carbon dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "child",
+      "href": "../viirs/monthly-global-nanophytoplankton-carbon-dataset-9-km-oc-cci-v5/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Nanophytoplankton Carbon dataset (9 km, OC-CCI v5)"
+    },
+    {
+      "rel": "child",
+      "href": "../viirs/particulate-inorganic-carbon-bicep/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Particulate Inorganic Carbon dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "child",
+      "href": "../viirs/global-particulate-organic-carbon-v4-bicep/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Particulate Organic Carbon dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "child",
+      "href": "../viirs/global-marine-phytoplankton-primary-production-bicep/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Phytoplankton Primary Production dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "child",
+      "href": "../viirs/monthly-global-picophytoplankton-carbon-dataset-9-km-oc-cci-v42/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Picophytoplankton Carbon dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "child",
+      "href": "../viirs/monthly-global-picophytoplankton-carbon-dataset-9-km-oc-cci-v5/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Picophytoplankton Carbon dataset (9 km, OC-CCI v5)"
+    },
+    {
+      "rel": "child",
+      "href": "../viirs/monthly-global-total-phytoplankton-carbon-dataset-9-km-oc-cci-v42/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Total Phytoplankton Carbon dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "child",
+      "href": "../viirs/global-marine-phytoplankton-carbon-bicep/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Total Phytoplankton Carbon dataset (9 km, OC-CCI v5)"
+    }
+  ],
+  "stac_extensions": [],
+  "updated": "2023-06-05T16:11:52.307628Z",
+  "title": "SeaWiFS"
+}

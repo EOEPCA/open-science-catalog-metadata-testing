@@ -1,30 +1,191 @@
 {
   "type": "Catalog",
   "id": "sentinel-1",
-  "title": "Sentinel-1",
   "stac_version": "1.0.0",
-  "description": "The Sentinel-1 mission comprises a constellation of two polar-orbiting satellites, operating day and night performing C-band synthetic aperture radar imaging, enabling them to acquire imagery regardless of the weather.",
+  "description": "Sentinel-1",
   "links": [
     {
       "rel": "root",
       "href": "../../catalog.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "via",
-      "href": "https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-1",
-      "title": "Website",
-      "type": "text/html"
-    },
-    {
-      "rel": "items",
-      "href": "https://resource-catalogue.testing.opensciencedata.esa.int/search?filter=keywords+LIKE+%27%25eo-missions%3A%25Sentinel-1%25%27&type=catalog&f=json",
-      "type": "application/geo+json"
+      "type": "application/json",
+      "title": "Open Science Catalog"
     },
     {
       "rel": "parent",
       "href": "../catalog.json",
-      "type": "application/json"
+      "type": "application/json",
+      "title": "EO Missions"
+    },
+    {
+      "rel": "child",
+      "href": "../landsat-8/subglacial-lake-drainage-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "Subglacial Lake Drainage and Filling Antarctica Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../sentinel-2/snow-cover-alpglacier/collection.json",
+      "type": "application/json",
+      "title": "Snow cover on glaciers_SwissAlps_S1/2"
+    },
+    {
+      "rel": "child",
+      "href": "../sentinel-2/glacier-surface-flow-velocity-alpglacier/collection.json",
+      "type": "application/json",
+      "title": "Glacier surface flow velocity_SwissAlps_S1/2"
+    },
+    {
+      "rel": "child",
+      "href": "../sentinel-2/dynamics-of-glacier-lakes-alpglacier/collection.json",
+      "type": "application/json",
+      "title": "Dynamics of glacier lakes_SwissAlps_S1/2"
+    },
+    {
+      "rel": "child",
+      "href": "../sentinel-2/slope-instabilities-glacier-forefields-alpglacier/collection.json",
+      "type": "application/json",
+      "title": "Slope instabilities in glacier forefields_SwissAlps_S1/2"
+    },
+    {
+      "rel": "child",
+      "href": "../jason-2/ocean-freshwater-flux-arctic-theme3/collection.json",
+      "type": "application/json",
+      "title": "Ocean freshwater fluxes_Arctic_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../glonas/target-locations-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "PTA-RES:\u00c2\u00a0Extracted Target Locations_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../glonas/sar-observation-solution-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "SAR-OBS:\u00c2\u00a0SAR Observation Solution_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../glonas/sar-positioning-solution-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "SAR-POS:\u00c2\u00a0SAR Positioning Solution_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../glonas/absolute-sea-level-heights-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "SL-ABS:\u00c2\u00a0Absolute Sea Level Heights_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../glonas/tide-gauge-heights-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "TG-HGT: Tide Gauge Heights_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../glonas/sea-surface-heights-corrected-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "TG-SSH:\u00c2\u00a0Corrected Sea Surface Height at Tide Gauge Stations_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../glonas/sar-raw-measurements-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "PTA-OBS:\u00c2\u00a0SAR Raw Measurements_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../glonas/gnss-positioning-solution-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "GNSS-POS:\u00c2\u00a0GNSS positioning solution_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../glonas/geoid-heights-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "GEO-HGT:\u00c2\u00a0Geoid Heights_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../glonas/tropospheric-delays-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "COR-TD:\u00c2\u00a0Tropospheric Delays_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../glonas/s1-corrections-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "COR-SC:\u00c2\u00a0Sentinel-1 Systematic\u00c2\u00a0Effects Corrections_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../glonas/ionospheric-delays-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "COR-ID:\u00c2\u00a0Ionospheric Delays_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../glonas/geodynamic-corrections-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "COR-GC:\u00c2\u00a0Geodynamic Corrections_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../glonas/electronic-delay-correction-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "COR-EC2:\u00c2\u00a0ECR Electronic Delay Correction_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "./surface-soil-moisture-s1-for-surface-soil-moisture/collection.json",
+      "type": "application/json",
+      "title": "Surface soil moisture time series_1 km resolution_Southern Italy_S1"
+    },
+    {
+      "rel": "child",
+      "href": "../sentinel-3/binary-wet-snow-s14science-snow/collection.json",
+      "type": "application/json",
+      "title": "Binary wet snow extent products"
+    },
+    {
+      "rel": "child",
+      "href": "./database-of-labelled-sentinel-1-interferograms-v20/collection.json",
+      "type": "application/json",
+      "title": "Database of labelled Sentinel-1 interferograms - v.2.0"
+    },
+    {
+      "rel": "child",
+      "href": "./sm-based-inversion-approach-po-irrigation/collection.json",
+      "type": "application/json",
+      "title": "Regional irrigation water use at high-resolution - PO valley"
+    },
+    {
+      "rel": "child",
+      "href": "./sm-based-inversion-approach-ebro-irrigation/collection.json",
+      "type": "application/json",
+      "title": "Regional irrigation water use at high-resolution - EBRO basin"
+    },
+    {
+      "rel": "child",
+      "href": "./sm-based-inversion-approach-murray-darling-irrigation/collection.json",
+      "type": "application/json",
+      "title": "Regional irrigation water use at high-resolution - MURRAY-DARLING basin"
+    },
+    {
+      "rel": "child",
+      "href": "./subglacial-melt-maps/collection.json",
+      "type": "application/json",
+      "title": "Subglacial Melt Maps"
+    },
+    {
+      "rel": "child",
+      "href": "./supraglacial-storage-and-drainage-lake-features-mapped-by-sentinel1/collection.json",
+      "type": "application/json",
+      "title": "Supraglacial Storage and Drainage - Lake Features Mapped by Sentinel-1"
     }
-  ]
+  ],
+  "stac_extensions": [],
+  "updated": "2023-06-05T16:11:52.307628Z",
+  "title": "Sentinel-1"
 }

@@ -1,0 +1,102 @@
+{
+  "type": "Collection",
+  "id": "crust-and-upper-mantle-model-3d-earth",
+  "stac_version": "1.0.0",
+  "description": "Global model of crust and upper mantle",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../../catalog.json",
+      "type": "application/json",
+      "title": "Open Science Catalog"
+    },
+    {
+      "rel": "via",
+      "href": "https://drive.google.com/drive/folders/1bmwEpPm4Jj83legXuhmPB-EJ7oz5hKag?usp=sharing",
+      "title": "Access"
+    },
+    {
+      "rel": "related",
+      "href": "../../../projects/3d-earth/collection.json",
+      "type": "application/json",
+      "title": "Project: 3D-EARTH"
+    },
+    {
+      "rel": "related",
+      "href": "../../../themes/solid-earth/catalog.json",
+      "type": "application/json",
+      "title": "Theme: Solid Earth"
+    },
+    {
+      "rel": "related",
+      "href": "../../../variables/gravity-field/catalog.json",
+      "type": "application/json",
+      "title": "Variable: Gravity field"
+    },
+    {
+      "rel": "related",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "EO Mission: GOCE"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "GOCE"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
+    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+  ],
+  "title": "Global Model of Crust and Upper Mantle_WINTERC-G_GOCE",
+  "osc:missions": [
+    "GOCE"
+  ],
+  "osc:project": "3D-Earth",
+  "osc:variables": [
+    "Gravity field"
+  ],
+  "osc:status": "ongoing",
+  "osc:region": "Global",
+  "osc:type": "product",
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Solid Earth"
+        }
+      ]
+    }
+  ],
+  "created": "2021-03-10T00:00:00Z",
+  "keywords": [
+    "theme:Solid Earth",
+    "variable:Gravity field",
+    "region:Global"
+  ],
+  "updated": "2023-06-05T16:11:52.311628Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          null,
+          null
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}

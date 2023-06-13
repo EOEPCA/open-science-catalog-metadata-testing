@@ -1,0 +1,59 @@
+{
+  "type": "Catalog",
+  "id": "ocean-dynamic-topography",
+  "stac_version": "1.0.0",
+  "description": "Deviation of sea level from the geoid caused by ocean currents (after corrections for tides and atmospheric pressure effects) - Physical unit: [ cm ] - Accuracy unit: [ cm ].",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "Open Science Catalog"
+    },
+    {
+      "rel": "via",
+      "href": "https://space.oscar.wmo.int/variables/view/ocean_dynamic_topography",
+      "type": "text/html",
+      "title": "Description"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Variables"
+    },
+    {
+      "rel": "child",
+      "href": "./sea-level-lpf-ovalie/collection.json",
+      "type": "application/json",
+      "title": "Sea level trends over 1993-2015 and 2005-2015 from the OCCIPUT ensemble simulation"
+    },
+    {
+      "rel": "child",
+      "href": "./sea-level-variability-lpf-ovalie/collection.json",
+      "type": "application/json",
+      "title": "Atmospherically-forced and chaotic interannual variability of the sea level and its components over 1993-2015 from the OCCIPUT ensemble simulations"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/cryosat-2/l4-dynamic-topography-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 4, absolute dynamic topography, multi-mission gridded merged products for a period of 1 year, 0.0625\u00c2\u00b0*0.0625\u00c2\u00b0, daily"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Oceans"
+        }
+      ]
+    }
+  ],
+  "updated": "2023-06-05T16:11:52.263627Z",
+  "title": "Ocean dynamic topography"
+}

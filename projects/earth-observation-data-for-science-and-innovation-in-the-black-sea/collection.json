@@ -1,0 +1,203 @@
+{
+  "type": "Collection",
+  "id": "earth-observation-data-for-science-and-innovation-in-the-black-sea",
+  "stac_version": "1.0.0",
+  "description": "Novel EO-based products and enhanced data sets dedicated to the Black Sea as concerns: Ocean colour data, Coastal altimetry, High resolution salinity, River plume extent, Eddy tracking, Water mass classification, Stratification Index",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "Open Science Catalog"
+    },
+    {
+      "rel": "via",
+      "href": "http://www.eo4sibs.uliege.be/",
+      "title": "Website"
+    },
+    {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/projects/eo4sibs/",
+      "title": "EO4Society Link"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Projects"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/cryosat-2/l3-chla-daily-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 3 Chl-a, 300m daily and monthly"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/cryosat-2/l3-spm-daily-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 3 Suspended Particulate Matter, 300m, daily and monthly"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/cryosat-2/l3-turbidity-daily-monthly-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 3 Turbidity, 300m, daily and monthly"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/cryosat-2/l4-chla-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 4 Ocean Colour products Chl-a, 300m, daily"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/cryosat-2/l3-cryosat2-sea-level-anomaly-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level-3 Cryosat-2 [2011, 2019] along-track 5Hz product, sea level anomaly, ~1km resolution."
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/cryosat-2/l3-s3-sea-level-anomaly-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level-3 Sentinel-3A [mid 2016, 2018] along-track 5Hz product, sea level anomaly, ~1km resolution"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/cryosat-2/l4-dynamic-topography-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 4, absolute dynamic topography, multi-mission gridded merged products for a period of 1 year, 0.0625\u00c2\u00b0*0.0625\u00c2\u00b0, daily"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/cryosat-2/l4-sea-level-anomaly-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 4, sea level anomaly, multi-mission gridded merged products for a period of 1 year, 0.0625\u00c2\u00b0*0.0625\u00c2\u00b0, daily"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/cryosat-2/eddy-census-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Eddy census"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/cryosat-2/l4-geostrophic-currents-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 4, geostrophic currents, multi-mission gridded merged products for a period of 1 year, 0.0625\u00c2\u00b0*0.0625\u00c2\u00b0, daily"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/cryosat-2/l2-smos-sss-daily-ascending-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 2 SMOS , Ascending orbit, 0.25\u00c2\u00b0*0.25\u00c2\u00b0, daily averaged produced daily"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/cryosat-2/l2-smos-sss-daily-descending-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 2 SMOS , Descending orbit, 0.25\u00c2\u00b0*0.25\u00c2\u00b0, daily averaged produced daily"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/cryosat-2/l3-sss-9day-average-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 3 SSS, 0.25\u00c2\u00b0*0.25\u00c2\u00b0, 9-day averaged produced daily"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/cryosat-2/l4-sss-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 4 product SSS, 0.05\u00c2\u00b0*0.0505\u00c2\u00b0"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
+    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
+  ],
+  "title": "EO4SIBS",
+  "osc:name": "Earth Observation data For Science and Innovation in the Black Sea",
+  "osc:status": "completed",
+  "osc:type": "project",
+  "contacts": [
+    {
+      "name": "Marie-Helene Rio",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "marie-helene.rio@esa.int"
+        }
+      ]
+    },
+    {
+      "name": "UNIVERSITY OF LIEGE (BE)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "AGENCIA ESTATAL CONSEJO SUPERIOR DE (ES)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "CLS COLLECTE LOCALISATION SATELLITES (FR)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "Jailoo srl (RO)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "NATIONAL INSTITUTE FOR MARINE RES.R (RO)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "Sorbonne Universit\u00e2\u02c6\u0161\u00c2\u00a9",
+      "role": "consortium_member"
+    },
+    {
+      "name": "SU (FR)",
+      "role": "consortium_member"
+    },
+    {
+      "name": "TERRASIGNA SRL (RO)",
+      "role": "consortium_member"
+    }
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Oceans"
+        }
+      ]
+    }
+  ],
+  "start_datetime": "2019-04-26T00:00:00Z",
+  "end_datetime": "2021-03-05T23:59:59Z",
+  "keywords": [
+    "theme:Oceans"
+  ],
+  "updated": "2023-06-05T16:11:52.183625Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2019-04-26T00:00:00Z",
+          "2021-03-05T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}

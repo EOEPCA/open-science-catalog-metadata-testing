@@ -1,0 +1,98 @@
+{
+  "type": "Collection",
+  "id": "glacier-elevation-cryosat-mountain-glaciers",
+  "stac_version": "1.0.0",
+  "description": "Available by request to: noel.gourmelen@ed.ac.uk",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../../catalog.json",
+      "type": "application/json",
+      "title": "Open Science Catalog"
+    },
+    {
+      "rel": "related",
+      "href": "../../../projects/cryosat-mountain-glaciers/collection.json",
+      "type": "application/json",
+      "title": "Project: CryoSat+ Mountain Glaciers"
+    },
+    {
+      "rel": "related",
+      "href": "../../../themes/cryosphere/catalog.json",
+      "type": "application/json",
+      "title": "Theme: Cryosphere"
+    },
+    {
+      "rel": "related",
+      "href": "../../../variables/glacier-topography/catalog.json",
+      "type": "application/json",
+      "title": "Variable: Glacier topography"
+    },
+    {
+      "rel": "related",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "EO Mission: CryoSat-2"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "CryoSat-2"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
+    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+  ],
+  "title": "Mountain glacier elevation and elevation change_Global_Cryosat-2",
+  "osc:missions": [
+    "CryoSat-2"
+  ],
+  "osc:project": "CryoSat+ Mountain Glaciers",
+  "osc:variables": [
+    "Glacier topography"
+  ],
+  "osc:status": "completed",
+  "osc:region": "Global",
+  "osc:type": "product",
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Cryosphere"
+        }
+      ]
+    }
+  ],
+  "start_datetime": "2010-01-01T00:00:00Z",
+  "end_datetime": "2015-12-31T23:59:59Z",
+  "keywords": [
+    "theme:Cryosphere",
+    "variable:Glacier topography",
+    "region:Global"
+  ],
+  "updated": "2023-06-05T16:11:52.327628Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2010-01-01T00:00:00Z",
+          "2015-12-31T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}

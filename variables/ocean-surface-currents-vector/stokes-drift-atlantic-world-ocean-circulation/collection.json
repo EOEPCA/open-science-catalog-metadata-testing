@@ -1,0 +1,100 @@
+{
+  "type": "Collection",
+  "id": "stokes-drift-atlantic-world-ocean-circulation",
+  "stac_version": "1.0.0",
+  "description": "Stokes drift estimation for the Atlantic",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../../catalog.json",
+      "type": "application/json",
+      "title": "Open Science Catalog"
+    },
+    {
+      "rel": "via",
+      "href": "https://www.worldoceancirculation.org/Products",
+      "title": "Access"
+    },
+    {
+      "rel": "via",
+      "href": "https://drive.google.com/file/d/1BKXPowKI8Tpnv2zUmbd3Iy4BEG8GDG0Q/view?usp=sharing",
+      "title": "Documentation"
+    },
+    {
+      "rel": "related",
+      "href": "../../../projects/world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Project: WOC"
+    },
+    {
+      "rel": "related",
+      "href": "../../../themes/oceans/catalog.json",
+      "type": "application/json",
+      "title": "Theme: Oceans"
+    },
+    {
+      "rel": "related",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Variable: Ocean surface currents (vector)"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Ocean surface currents (vector)"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
+    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+  ],
+  "title": "Stokes drift estimation_Atlantic Ocean",
+  "osc:missions": [],
+  "osc:project": "World Ocean circulation",
+  "osc:variables": [
+    "Ocean surface currents (vector)"
+  ],
+  "osc:status": "planned",
+  "osc:region": "Atlantic Ocean",
+  "osc:type": "product",
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Oceans"
+        }
+      ]
+    }
+  ],
+  "start_datetime": "2011-01-01T00:00:00Z",
+  "end_datetime": "2018-12-31T23:59:59Z",
+  "keywords": [
+    "theme:Oceans",
+    "variable:Ocean surface currents (vector)",
+    "region:Atlantic Ocean"
+  ],
+  "updated": "2023-06-05T16:11:52.355629Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          -89.4913889096,
+          -57.9204174532,
+          12.2761059784,
+          49.8937187295
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2011-01-01T00:00:00Z",
+          "2018-12-31T23:59:59Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}

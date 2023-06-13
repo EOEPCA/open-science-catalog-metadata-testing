@@ -1,0 +1,29 @@
+{
+  "type": "Catalog",
+  "id": "in-situ",
+  "stac_version": "1.0.0",
+  "description": "In-situ",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "Open Science Catalog"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "EO Missions"
+    },
+    {
+      "rel": "child",
+      "href": "./in-situ-sealabio/collection.json",
+      "type": "application/json",
+      "title": "In-situ measurements_Baltics"
+    }
+  ],
+  "stac_extensions": [],
+  "updated": "2023-06-05T16:11:52.307628Z",
+  "title": "In-situ"
+}

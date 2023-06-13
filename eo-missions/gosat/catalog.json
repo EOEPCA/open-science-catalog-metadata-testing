@@ -1,0 +1,29 @@
+{
+  "type": "Catalog",
+  "id": "gosat",
+  "stac_version": "1.0.0",
+  "description": "GOSAT",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "Open Science Catalog"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "EO Missions"
+    },
+    {
+      "rel": "child",
+      "href": "./water-vapour-isotopologues-lpf-weather/collection.json",
+      "type": "application/json",
+      "title": "GOSAT PBL XH2O and Stable Water Vapour Isotopologues_Global"
+    }
+  ],
+  "stac_extensions": [],
+  "updated": "2023-06-05T16:11:52.307628Z",
+  "title": "GOSAT"
+}

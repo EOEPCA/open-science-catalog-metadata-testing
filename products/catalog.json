@@ -1,0 +1,1553 @@
+{
+  "type": "Catalog",
+  "id": "products",
+  "stac_version": "1.0.0",
+  "description": "Geoscience products representing the measured or inferred values of one or more variables over a given time range and spatial area",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Open Science Catalog"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/swarm/geothermal-heat-flow-greenland-3d-earth/collection.json",
+      "type": "application/json",
+      "title": "Geothermal Heat Flow Database and Map_Greenland_GOCE_SWARM"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/goce/crust-and-upper-mantle-model-3d-earth/collection.json",
+      "type": "application/json",
+      "title": "Global Model of Crust and Upper Mantle_WINTERC-G_GOCE"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/landsat-8/subglacial-lake-drainage-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "Subglacial Lake Drainage and Filling Antarctica Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/swarm/model-ionosphere-4dionosphere/collection.json",
+      "type": "application/json",
+      "title": "Semi-empiric model of ionosphere processes_SWARM"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/aeolus/diffuse-attenuation-aeolus-innovation-color/collection.json",
+      "type": "application/json",
+      "title": "Diffuse attenuation: Kd_Global_AEOLUS"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/aeolus/particulate-backscatter-aeolus-innovation-color/collection.json",
+      "type": "application/json",
+      "title": "Particulate backscatter: bbp_Global_AEOLUS"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/aeolus/cdom-aeolus-innovation-color/collection.json",
+      "type": "application/json",
+      "title": "Chromophoric Dissolved Organic Matter (CDOM) absorption_Global_AEOLUS"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/aeolus/lidar-aerosol-aeolus-swails/collection.json",
+      "type": "application/json",
+      "title": "Lidar Aerosol Retrieval based on Information from Surface Signal of Aeolus_Global Oceans_AEOLUS"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-3/biomass-s3-africa-albiom/collection.json",
+      "type": "application/json",
+      "title": "Prototype biomass product using Sentinel-3 altimetry_Africa_S3"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-2/snow-cover-alpglacier/collection.json",
+      "type": "application/json",
+      "title": "Snow cover on glaciers_SwissAlps_S1/2"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-2/glacier-surface-flow-velocity-alpglacier/collection.json",
+      "type": "application/json",
+      "title": "Glacier surface flow velocity_SwissAlps_S1/2"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-2/dynamics-of-glacier-lakes-alpglacier/collection.json",
+      "type": "application/json",
+      "title": "Dynamics of glacier lakes_SwissAlps_S1/2"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-2/slope-instabilities-glacier-forefields-alpglacier/collection.json",
+      "type": "application/json",
+      "title": "Slope instabilities in glacier forefields_SwissAlps_S1/2"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/landsat-8/snow-area-europe-alps-alpsnow/collection.json",
+      "type": "application/json",
+      "title": "Snow area extent for European Alps_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/landsat-8/snow-albedo-europe-alps-alpsnow/collection.json",
+      "type": "application/json",
+      "title": "Snow albedo for European Alps_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/landsat-8/snow-water-equivalent-europe-alps-alpsnow/collection.json",
+      "type": "application/json",
+      "title": "Snow water equivalent for European Alps_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/landsat-8/snow-depth-europe-alps-alpsnow/collection.json",
+      "type": "application/json",
+      "title": "Snow depth for European Alps_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/landsat-8/snow-grain-europe-alps-alpsnow/collection.json",
+      "type": "application/json",
+      "title": "Snow grain size for European Alps_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/landsat-8/snow-liquid-water-europe-alps-alpsnow/collection.json",
+      "type": "application/json",
+      "title": "Snow liquid water content (wet snow) for European Alps_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-3/total-ozone-anreo/collection.json",
+      "type": "application/json",
+      "title": "Total ozone product from OLCI / S-3_Antarctica _S3"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/smos/sea-surface-salinity-arctic-salinity/collection.json",
+      "type": "application/json",
+      "title": "Sea Surface Salinity L2 orbits and L3 maps (V.3.1) _Arctic_SMOS"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/jason-2/ocean-freshwater-flux-arctic-theme3/collection.json",
+      "type": "application/json",
+      "title": "Ocean freshwater fluxes_Arctic_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat-2/sea-ice-phys-ocean-lpf-arcticsummit/collection.json",
+      "type": "application/json",
+      "title": "Sea ice and physical oceanography_Arctic_CryoSat-2 Baseline-C Level 1b waveform observations"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/glonas/target-locations-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "PTA-RES:\u00c2\u00a0Extracted Target Locations_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/glonas/sar-observation-solution-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "SAR-OBS:\u00c2\u00a0SAR Observation Solution_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/glonas/sar-positioning-solution-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "SAR-POS:\u00c2\u00a0SAR Positioning Solution_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/glonas/absolute-sea-level-heights-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "SL-ABS:\u00c2\u00a0Absolute Sea Level Heights_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/glonas/tide-gauge-heights-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "TG-HGT: Tide Gauge Heights_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/glonas/sea-surface-heights-corrected-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "TG-SSH:\u00c2\u00a0Corrected Sea Surface Height at Tide Gauge Stations_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/glonas/sar-raw-measurements-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "PTA-OBS:\u00c2\u00a0SAR Raw Measurements_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/glonas/gnss-positioning-solution-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "GNSS-POS:\u00c2\u00a0GNSS positioning solution_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/glonas/geoid-heights-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "GEO-HGT:\u00c2\u00a0Geoid Heights_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/glonas/tropospheric-delays-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "COR-TD:\u00c2\u00a0Tropospheric Delays_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/glonas/s1-corrections-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "COR-SC:\u00c2\u00a0Sentinel-1 Systematic\u00c2\u00a0Effects Corrections_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/glonas/ionospheric-delays-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "COR-ID:\u00c2\u00a0Ionospheric Delays_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/glonas/geodynamic-corrections-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "COR-GC:\u00c2\u00a0Geodynamic Corrections_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/glonas/electronic-delay-correction-baltics-sar-hsu/collection.json",
+      "type": "application/json",
+      "title": "COR-EC2:\u00c2\u00a0ECR Electronic Delay Correction_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/smap/baltic-sea-surface-salinity-l4-baltic-salinity-dynamics/collection.json",
+      "type": "application/json",
+      "title": "Baltic Sea Surface Salinity L4 maps (V.2.0)_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/smap/baltic-sea-surface-salinity-l3-baltic-salinity-dynamics/collection.json",
+      "type": "application/json",
+      "title": "Baltic Sea Surface Salinity L3 maps (V.2.0)_Baltics_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/model/model-based-cdom-baltic-sealabio/collection.json",
+      "type": "application/json",
+      "title": "Model based Colored Dissolved Organic Matter (CDOM) _Baltics_Model"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/in-situ/in-situ-sealabio/collection.json",
+      "type": "application/json",
+      "title": "In-situ measurements_Baltics"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-3/eo-based-cdom-baltic-sealabio/collection.json",
+      "type": "application/json",
+      "title": "EO based Color Disolved Organic Matter_Baltics_S3"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-3/baltic-sea-level-baltic-seal/collection.json",
+      "type": "application/json",
+      "title": "Baltic Sea Level_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-3/hydrodynamic-model-baltic-seal/collection.json",
+      "type": "application/json",
+      "title": "Hydrodynamic model data (deviation from Sea Level Mean)_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/grace-fo/ocean-heat-content-baltic-seal/collection.json",
+      "type": "application/json",
+      "title": "Global Ocean Heat Content (GOHC)_GRACE/GRACE-FO"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/grace-fo/earth-energy-imballance-baltic-seal/collection.json",
+      "type": "application/json",
+      "title": "Earth Energy Imballance (EEI)_GRACE/GRACE-FO"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/saral-altika/sea-ice-snow-depth-lpf-cassis/collection.json",
+      "type": "application/json",
+      "title": "Sea ice freeboard and thickness_TFMRA50 and ASD snow depth_Antarctic_CryoSat-2/SARAL"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/saral-altika/sea-ice-clima-snow-depth-lpf-cassis/collection.json",
+      "type": "application/json",
+      "title": "Sea ice freeboard and thickness_TFMRA50 and AMSR climatology snow depth_Antarctic_CryoSat-2/SARAL"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/saral-altika/sea-ice-retracker-snow-depth-cryosat-lpf-cassis/collection.json",
+      "type": "application/json",
+      "title": "Sea ice freeboard and thickness_TFMRA50 and AMSR-2 snow depth_Antarctic_CryoSat-2/SARAL"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/gcom-w1/sea-ice-retracker-clima-snow-depth-lpf-cassis/collection.json",
+      "type": "application/json",
+      "title": "Sea ice freeboard and thickness_heuristic retracker TFMRA50 and AMSR climatology snow depth_Antarctic_Envisat"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/gcom-w2/sea-ice-retracker-snow-depth-envisat-lpf-cassis/collection.json",
+      "type": "application/json",
+      "title": "Sea ice freeboard and thickness_heuristic retracker TFMRA50 and AMSR-2 snow depth_Antarctic_Envisat"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-3/cloud-aerosol-circas/collection.json",
+      "type": "application/json",
+      "title": "Cloud and aerosol products_Regional_S3A/SLSTR"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-3/albedo-circas/collection.json",
+      "type": "application/json",
+      "title": "Albedo_Regional_S3A/SLSTR"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-3/radiation-budget-circas/collection.json",
+      "type": "application/json",
+      "title": "Radiation budget_Regional_S3"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/swarm/addit-earthquake-tsunami-tool-costo/collection.json",
+      "type": "application/json",
+      "title": "ADDTID: An Alternative Tool for Studying Earthquake/Tsunami Signatures in the Ionosphere_Japan_SWARM"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat/lr-satellite-altimeter-open-ocean-cp4o/collection.json",
+      "type": "application/json",
+      "title": "Low Resolution Mode satellite altimeter product _Open Ocean_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat/rdsar-satellite-sar-altimeter-open-ocean-cp4o/collection.json",
+      "type": "application/json",
+      "title": "RDSAR Satellite SAR altimeter product_Open Ocean_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat/satellite-sar-altimeter-open-ocean-cp4o/collection.json",
+      "type": "application/json",
+      "title": "Satellite SAR altimeter product_Open Ocean_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat/satellite-sar-altimeter-coastal-cp4o/collection.json",
+      "type": "application/json",
+      "title": "Satellite SAR altimeter product_Coastal Ocean_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat/satellite-sarin-altimeter-coastal-cp4o/collection.json",
+      "type": "application/json",
+      "title": "Satellite SARIN altimeter product_Coastal Ocean_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat/satellite-altimeter-polar-ocean-cp4o/collection.json",
+      "type": "application/json",
+      "title": "Satellite LRM, SAR, SARIN polar altimeter product_Polar Ocean_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat/satellite-sar-altimeter-sea-floor-cp4o/collection.json",
+      "type": "application/json",
+      "title": "Satellite SAR altimeter product_Sea Floor Mapping_Oceania_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat/wet-troposphere-correction-cryosat-cp4o/collection.json",
+      "type": "application/json",
+      "title": "Wet Troposphere Correction_for Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat/hr-tidal-atlas-arctic-ocean-cp4o/collection.json",
+      "type": "application/json",
+      "title": "Arctide2017_High-resolution tidal atlas_Arctic Ocean_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat/bathymetry-arctic-cp4o/collection.json",
+      "type": "application/json",
+      "title": "Bathymetry_Arctic_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat-2/glacier-elevation-cryosat-mountain-glaciers/collection.json",
+      "type": "application/json",
+      "title": "Mountain glacier elevation and elevation change_Global_Cryosat-2"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/smos/ice-sheet-temperature-antarctica-cryosmos/collection.json",
+      "type": "application/json",
+      "title": "Internal ice-sheet temperature_Antarctica_SMOS"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/smos/ice-shelf-antarctica-cryosmos/collection.json",
+      "type": "application/json",
+      "title": "Ice shelf product_Antarctica_SMOS"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/smos/surface-melting-antarctica-cryosmos/collection.json",
+      "type": "application/json",
+      "title": "Occurrence of Surface Melting_Antarctica_SMOS"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/smos/bedrock-topography-antarctica-cryosmos/collection.json",
+      "type": "application/json",
+      "title": "Bedrock topography and/or geothermal heat flux_Antarctica_GOCE"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/goce/lithosphere-density-temperature-viscosity-goce-antarctica/collection.json",
+      "type": "application/json",
+      "title": "Density, Temperature, and Viscosity Structure of the Antarctic Lithosphere_Antarctica_GOCE"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/smos/sea-surface-salinity-godae-oceanview/collection.json",
+      "type": "application/json",
+      "title": "Sea Surface Salinity Bias_Global_SMOS"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/swarm/lightning-whistler-ilgew/collection.json",
+      "type": "application/json",
+      "title": "Lightning-generated whistler events_Global_SWARM"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-2/s2l2a-uncertainty-sr-lpf-l2arut/collection.json",
+      "type": "application/json",
+      "title": "S2 L2A uncertainty_Surface reflectance estimates_S2"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/earthcare/clima-aerosol-op-livas/collection.json",
+      "type": "application/json",
+      "title": "Climatology of aerosol optical property profiles_Global_CALIPSO_EARTHCARE"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/earthcare/clima-aerosol-od-livas/collection.json",
+      "type": "application/json",
+      "title": "Climatology of aerosol optical depth (AOD)_Global_CALIPSO_EARTHCARE"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/earthcare/clima-cloud-profile-livas/collection.json",
+      "type": "application/json",
+      "title": "Climatology of cloud optical property profiles_Global_CALIPSO_EARTHCARE"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/earthcare/cliima-cloud-od-livas/collection.json",
+      "type": "application/json",
+      "title": "Climatology of cloud optical depth_Global_CALIPSO_EARTHCARE"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/earthcare/clima-strat-aerosol-cloud-op-livas/collection.json",
+      "type": "application/json",
+      "title": "Climatology of stratospheric aerosol and cloud optical property profiles_Global_CALIPSO_EARTHCARE"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/earthcare/clima-strat-aerosol-cloud-od-livas/collection.json",
+      "type": "application/json",
+      "title": "Climatology of stratospheric aerosol and cloud optical depth_Global_CALIPSO_EARTHCARE"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/calipso/dust-od-livas/collection.json",
+      "type": "application/json",
+      "title": "Dust optical depth (DOD) of dust layers_Global_CALIPSO"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/calipso/aerosol-dust-mass-op-livas/collection.json",
+      "type": "application/json",
+      "title": "Aerosol and Dust aerosol optical property profiles_Dust mass concentration profiles_cloud-relevant dust number concentrations profiles_Global_CALIPSO"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/calipso/aerosol-dust-od-livas/collection.json",
+      "type": "application/json",
+      "title": "Aerosol (and dust aerosol) optical depth_Global_CALIPSO"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/calipso/cloud-op-livas/collection.json",
+      "type": "application/json",
+      "title": "Cloud optical property profiles_Global_CALIPSO"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/calipso/cloud-od-livas/collection.json",
+      "type": "application/json",
+      "title": "Cloud optical depth_Global_CALIPSO"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/calipso/aerosol-pure-dust-op-livas/collection.json",
+      "type": "application/json",
+      "title": "Aerosol (and dust aerosol) optical property profiles_Pure Dust concentration profiles_cloud-relevant dust number concentrations profiles_Global_CALIPSO"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/calipso/aerosol-dust-od-livas/collection.json",
+      "type": "application/json",
+      "title": "Aerosol (and dust aerosol) optical depth, averaged per overpass along 1x1 degree grid_Global_CALIPSO"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/calipso/cloud-op-averaged-livas/collection.json",
+      "type": "application/json",
+      "title": "Cloud optical property profiles, averaged per overpass along 1x1 degree grid_Global_CALIPSO"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/calipso/cloud-od-averaged-livas/collection.json",
+      "type": "application/json",
+      "title": "Cloud optical depth, averaged per overpass along 1x1 degree grid_Global_CALIPSO"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/calipso/clima-aerosol-op-all-livas/collection.json",
+      "type": "application/json",
+      "title": "Climatology of aerosol optical property profiles for all aerosols and separately for the CALIPSO aerosol types: pure dust, marine, smoke and continental_Global_CALIPSO"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/calipso/clima-aerosol-od-all-livas/collection.json",
+      "type": "application/json",
+      "title": "Climatology of aerosol optical depth, for all aerosols and separately for the CALIPSO aerosol types: pure dust, marine, smoke and continental. Boundaries of dust layers_Global_CALIPSO"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/calipso/time-clima-aerosol-op-all-livas/collection.json",
+      "type": "application/json",
+      "title": "Time-Based Climatology of aerosol optical property profiles, for all aerosols and separately for the CALIPSO aerosol types: pure dust, marine, smoke and continental_Global_CALIPSO"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/calipso/time-clima-aerosol-od-all-livas/collection.json",
+      "type": "application/json",
+      "title": "Time-Based Climatology of aerosol optical depth, for all aerosols and separately for the CALIPSO aerosol types: pure dust, marine, smoke and continental. Boundaries of dust layers_Global_CALIPSO"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/tandem-x/dem-antarctica-2013-lpf-mitap/collection.json",
+      "type": "application/json",
+      "title": "Digital Elevation Model Antarctic Peninsula <70\u00c2\u00b0S 2013_Antarctica_TanDEM-X"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/tandem-x/dem-antarctica-2017-lpf-mitap/collection.json",
+      "type": "application/json",
+      "title": "Digital Elevation Model Antarctic Peninsula <70\u00c2\u00b0S 2017_Antarctica_TanDEM-X"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/tandem-x/surface-elevation-change-lpf-mitap/collection.json",
+      "type": "application/json",
+      "title": "Surface elevation changes Antarctic Peninsula <70\u00c2\u00b0S between 2013 and 2017_Antarctica_TanDEM-X"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/tandem-x/glacier-mass-balance-lpf-mitap/collection.json",
+      "type": "application/json",
+      "title": "Geodetic glacier mass balances Antarctic Peninsula <70\u00c2\u00b0S between 2013 and 2017_Antarctica_TanDEM-X"
+    },
+    {
+      "rel": "child",
+      "href": "../variables/ocean-dynamic-topography/sea-level-lpf-ovalie/collection.json",
+      "type": "application/json",
+      "title": "Sea level trends over 1993-2015 and 2005-2015 from the OCCIPUT ensemble simulation"
+    },
+    {
+      "rel": "child",
+      "href": "../variables/ocean-dynamic-topography/sea-level-variability-lpf-ovalie/collection.json",
+      "type": "application/json",
+      "title": "Atmospherically-forced and chaotic interannual variability of the sea level and its components over 1993-2015 from the OCCIPUT ensemble simulations"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/viirs/secchi-disk-depth-lpf-physioglob/collection.json",
+      "type": "application/json",
+      "title": "Secchi Disk depth_Global Oceans_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat-2/sea-ice-thickness-lpf-arcticsummit/collection.json",
+      "type": "application/json",
+      "title": "Sea ice thickness_monthly_Oct 2010-July 2020Arctic_CryoSat-2 Baseline-D observations"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-3/broadband-albedo-arctic-sice/collection.json",
+      "type": "application/json",
+      "title": "Broadband albedo_Arctic_S3"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-3/spectral-albedo-arctic-sice/collection.json",
+      "type": "application/json",
+      "title": "Spectral albedo_Arctic_S3"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-3/snow-grain-diameter-arctic-sice/collection.json",
+      "type": "application/json",
+      "title": "Snow grain diameter_Arctic_S3"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-3/nrt-sice-rasters-greenland-arctic-sice/collection.json",
+      "type": "application/json",
+      "title": "NRT SICE rasters for Greenland_Arctic_S3"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/modis/water-level-amazon-itapeua-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Water level from altimetry_Temporal series_L3 Products Database_Amazon Itapeua_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/modis/water-level-amazon-manacapuru-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Water level from altimetry_Temporal series_L3 Products Database_Amazon Manacapuru_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/modis/water-level-mississippi-memphis-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Water level from altimetry_Temporal series_L3 Products Database_Mississippi Memphis_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/modis/water-level-mississippi-chester-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Water level from altimetry_Temporal series_L3 Products Database_Mississippi Chester_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/modis/water-level-congo-brazaville-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Water level from altimetry_Temporal series_L3 Products Database_Congo Brazaville_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/modis/water-level-po-pontelagoscuro-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Water level from altimetry_Temporal series_L3 Products Database_Po Pontelagoscuro_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/modis/water-level-po-sermide-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Water level from altimetry_Temporal series_L3 Products Database_Po Sermide_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/modis/water-level-po-cremona-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Water level from altimetry_Temporal series_L3 Products Database_Po Cremona_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/modis/water-level-po-borgoforte-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Water level from altimetry_Temporal series_L3 Products Database_Po Borgoforte_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/modis/water-level-danube-baja-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Water level from altimetry_Temporal series_L3 Products Database_Danube Baja_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/modis/water-level-danube-mohacs-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Water level from altimetry_Temporal series_L3 Products Database_Danube Mohacs_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/modis/simulated-river-discharge-amazon-itapeua-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Simulated River discharge_Amazon Itapeua_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/modis/simulated-river-discharge-amazon-manacapuru-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Simulated River discharge_Amazon Manacapuru_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/modis/simulated-river-discharge-mississippi-memphis-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Simulated River discharge_Mississippi Memphis_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/modis/simulated-river-discharge-mississippi-chester-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Simulated River discharge_Mississippi Chester_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/modis/simulated-river-discharge-congo-brazaville-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Simulated River discharge_Congo Brazaville_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/modis/simulated-river-discharge-po-pontelagoscuro-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Simulated River discharge products_Po Pontelagoscuro_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/modis/simulated-river-discharge-po-sermide-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Simulated River discharge products_Po Sermide_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/modis/simulated-river-discharge-po-cremona-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Simulated River discharge products_Po Cremona_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/modis/simulated-river-discharge-po-borgoforte-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Simulated River discharge products_Po Borgoforte_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/modis/simulated-river-discharge-danube-baja-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Simulated River discharge products_Danube Baja_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/modis/simulated-river-discharge-danube-mohacs-ridesat/collection.json",
+      "type": "application/json",
+      "title": "Simulated River discharge products_Danube Mohacs_Multimission"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-2/land-cover-map-italy-s24land/collection.json",
+      "type": "application/json",
+      "title": "Land cover map_Italy_2018_S2"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-2/crop-map-multitemporal-s24land/collection.json",
+      "type": "application/json",
+      "title": "Multitemporal crop map - phenological parameters and phenological parameters_Italy_2017/2018_S2"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-3/hydrodynamic-model-alpine-lakes-s24land/collection.json",
+      "type": "application/json",
+      "title": "Hydrodynamic models of Alpine lakes_Western Europe_S2/3"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-1/surface-soil-moisture-s1-for-surface-soil-moisture/collection.json",
+      "type": "application/json",
+      "title": "Surface soil moisture time series_1 km resolution_Southern Italy_S1"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-3/broadband-albedo-greenland-s34science-snow/collection.json",
+      "type": "application/json",
+      "title": "Broadband albedo_Greenland_S3"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-3/spectral-albedo-greenland-s34science-snow/collection.json",
+      "type": "application/json",
+      "title": "Spectral albedo_Greenland_S3"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-3/snow-grain-diameter-greenland-s34science-snow/collection.json",
+      "type": "application/json",
+      "title": "Snow grain diameter_Greenland_S3"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat-2/ice-sheet-antarctica-l1b-spice/collection.json",
+      "type": "application/json",
+      "title": "Ice Sheets_Antarctica_Sentinel-2 Performance Improvement_Level 1B"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat-2/ice-sheet-antarctica-l3-spice/collection.json",
+      "type": "application/json",
+      "title": "Ice Sheets_Antarctica_Sentinel-2 Performance Improvement_Level 3"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/smos/sea-surface-salinity-europe-smos-med/collection.json",
+      "type": "application/json",
+      "title": "L4 Interpolated Sea Surface Salinity_Europe_SMOS"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/smap/rainfall-gpm-sm2rain-0-25-v1-global-smos-rainfall/collection.json",
+      "type": "application/json",
+      "title": "GPM+SM2RAIN Rainfall product_v1.0_daily_0.25_quasi-global"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/smos/rainfall-prism-0-25-v4-africa-smos-rainfall/collection.json",
+      "type": "application/json",
+      "title": "PrISM SMOS Rainfall product_v4.0_3h_0.25_Africa"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/smos/smos-l3-africa-smos-vegetation/collection.json",
+      "type": "application/json",
+      "title": "Gridded_Africa_SMOS level 3 products CATDS"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/smos/vod-africa-smos-vegetation/collection.json",
+      "type": "application/json",
+      "title": "VOD_Africa_SMOS IC products CATDS"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-3/limb-ozone-lpf-solve/collection.json",
+      "type": "application/json",
+      "title": "IUP-OMPS L2 and L3 limb ozone data sets_Global_S2/3"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat-2/swath-elelvation-greenland-ice-sheet-cryotop-evolution/collection.json",
+      "type": "application/json",
+      "title": "Swath elevation_Greenland Ice Sheet_2011-2016_CryoSat-2"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat-2/ice-sheet-topography-elevation-change-cryotop-evolution/collection.json",
+      "type": "application/json",
+      "title": "Ice Sheet_gridded topography_rates of surface elevation change_Greenland_Cryosat-2"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat-2/swath-elelvation-antarctic-ice-sheet-cryotop-evolution/collection.json",
+      "type": "application/json",
+      "title": "Swath elevation_Antarctic ice Sheet_2011-2016_CryoSat-2"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat-2/elevation-and-elevation-change-antarctic-cryotop-evolution/collection.json",
+      "type": "application/json",
+      "title": "Swath-derived elevation and elevation change_Antarctic ice Sheet_2011-2016_CryoSat-2"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat-2/sea-ice-and-snow-volume-north-sea-stse-arctic-yopp/collection.json",
+      "type": "application/json",
+      "title": "Sea ice volume and snow volume_Prior and posterior uncertainties_North Sea_Cryosat-2"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-5p/tropospheric-ozone-column-tropomi-sunlit/collection.json",
+      "type": "application/json",
+      "title": "Tropospheric ozone column(TrOC)_2018-2020_Global_S5p-TROPOMI_Limb"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/omi/tropospheric-ozone-column-omi-sunlit/collection.json",
+      "type": "application/json",
+      "title": "Tropospheric ozone column (TrOC)_Global_OMI and limb satellites"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/limb-viewing-instruments/stratospheric-ozone-column-limb-sunlit/collection.json",
+      "type": "application/json",
+      "title": "Stratospheric ozone column from limb satellites_Global"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/swarm/solar-activity-polar-cap-plasma-density-ion-outflow/collection.json",
+      "type": "application/json",
+      "title": "CHAMP and Swarm solar activity- and height-scaled polar cap plasma density measurements"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/swarm/swarm-eiscat-conjunction-list-ion-outflow/collection.json",
+      "type": "application/json",
+      "title": "Swarm-EISCAT conjunction list (2013-2019)"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/swarm/cluster-swarm-ac-conjunctions-ion-outflow/collection.json",
+      "type": "application/json",
+      "title": "Cluster/Swarm A and C conjunctions"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/swarm/cluster-swarm-b-conjunctions-ion-outflow/collection.json",
+      "type": "application/json",
+      "title": "Cluster/Swarm B conjunctions"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/swarm/sudden-stratospheric-warming-vera/collection.json",
+      "type": "application/json",
+      "title": "Sudden Stratospheric Warming (SSW)"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/swarm/webgeodyn-py-4d-earth-swarm/collection.json",
+      "type": "application/json",
+      "title": "Webgeodyn Python package"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/swarm/ground-virtual-observatory-swarm-4d-earth-swarm/collection.json",
+      "type": "application/json",
+      "title": "Ground Virtual Observatory Data SWARM"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/champ/ground-virtual-observatory-champ-4d-earth-swarm/collection.json",
+      "type": "application/json",
+      "title": "Ground Virtual Observatory Data CHAMP"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat-2/ground-virtual-observatory-cryosat2-4d-earth-swarm/collection.json",
+      "type": "application/json",
+      "title": "Ground Virtual Observatory Data CRYOSAT-2"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/oersted/ground-virtual-observatory-oersted-4d-earth-swarm/collection.json",
+      "type": "application/json",
+      "title": "Ground Virtual Observatory Data OERSTED"
+    },
+    {
+      "rel": "child",
+      "href": "../variables/geomagnetic-field/ground-observatory-data-4d-earth-swarm/collection.json",
+      "type": "application/json",
+      "title": "Ground Observatory data"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/oersted/chaos-field-model-core-4d-earth-swarm/collection.json",
+      "type": "application/json",
+      "title": "CHAOS field model_Core"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/oersted/chaos-field-model-spline-4d-earth-swarm/collection.json",
+      "type": "application/json",
+      "title": "CHAOS field model_SplineCoefficients"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/oersted/chaos-field-model-4d-earth-swarm/collection.json",
+      "type": "application/json",
+      "title": "CHAOS field model"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/oersted/satellite-data-chaos-field-model-4d-earth-swarm/collection.json",
+      "type": "application/json",
+      "title": "Vector and scalar satellite data files as used in the CHAOS field model"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/oersted/geodynamo-simulation-4d-earth-swarm/collection.json",
+      "type": "application/json",
+      "title": "Geodynamo simulation data_Earth core"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/modis/gross-net-carbon-flux-lpf-vad3emecum/collection.json",
+      "type": "application/json",
+      "title": "Gross and net Carbon Flux Estimates_Fluxcom2.0 Carbon"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/gosat/water-vapour-isotopologues-lpf-weather/collection.json",
+      "type": "application/json",
+      "title": "GOSAT PBL XH2O and Stable Water Vapour Isotopologues_Global"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-5p/total-column-h2o-hdo-clear-sky-lpf-wift/collection.json",
+      "type": "application/json",
+      "title": "HDO/H2O non-scattering product_S5p-TROPOMI"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-5p/total-column-h2o-hdo-cloudy-lpf-wift/collection.json",
+      "type": "application/json",
+      "title": "HDO/H2O scattering product_S5p-TROPOMI"
+    },
+    {
+      "rel": "child",
+      "href": "../variables/wind-stress/wind-stress-vector-world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Wind stress vector (& anomalies)_Hourly_ERA5"
+    },
+    {
+      "rel": "child",
+      "href": "../variables/ocean-surface-currents-vector/gridded-surface-current-world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Gridded Surface Current_Oceans_Agulhas"
+    },
+    {
+      "rel": "child",
+      "href": "../variables/ocean-surface-currents-vector/doppler-derived-surface-current-world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Doppler derived surface current_Agulhas_S1"
+    },
+    {
+      "rel": "child",
+      "href": "../variables/ocean-surface-currents-vector/daily-3d-ocean-currents-world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Daily 3D ocean currents_North Atlantic"
+    },
+    {
+      "rel": "child",
+      "href": "../variables/ocean-surface-currents-vector/daily-2d-ocean-currents-world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Daily 2D ocean surface currents_North Atlantic"
+    },
+    {
+      "rel": "child",
+      "href": "../variables/ocean-surface-currents-vector/oceanic-current-fronts-world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Oceanic/current fronts_Gibraltar"
+    },
+    {
+      "rel": "child",
+      "href": "../variables/ocean-surface-currents-vector/total-surface-current-north-atlantic-world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Total surface current_North-Atlantic"
+    },
+    {
+      "rel": "child",
+      "href": "../variables/ocean-surface-currents-vector/total-surface-current-tropical-atlantic-world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Total surface current_Tropical Atlantic"
+    },
+    {
+      "rel": "child",
+      "href": "../variables/ocean-surface-currents-vector/stokes-drift-atlantic-world-ocean-circulation/collection.json",
+      "type": "application/json",
+      "title": "Stokes drift estimation_Atlantic Ocean"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat/land-ice-elevation-point-greenland-cryotop-evolution/collection.json",
+      "type": "application/json",
+      "title": "Land Ice Elevation Thematic Point Product(EOLIS POINTS)_Greenland_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat/land-ice-elevation-point-antarctica-cryotop-evolution/collection.json",
+      "type": "application/json",
+      "title": "Land Ice Elevation Thematic Point Product(EOLIS POINTS)_Antarctica_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat/land-ice-elevation-point-iceland-cryotop-evolution/collection.json",
+      "type": "application/json",
+      "title": "Land Ice Elevation Thematic Point Product(EOLIS POINTS)_Iceland_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat/land-ice-elevation-point-svalbard-cryotop-evolution/collection.json",
+      "type": "application/json",
+      "title": "Land Ice Elevation Thematic Point Product(EOLIS POINTS)_Svalbard_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat/land-ice-elevation-point-russian-arctic-cryotop-evolution/collection.json",
+      "type": "application/json",
+      "title": "Land Ice Elevation Thematic Point Product(EOLIS POINTS)_Russian Arctic_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat/land-ice-elevation-point-arctic-canada-north-cryotop-evolution/collection.json",
+      "type": "application/json",
+      "title": "Land Ice Elevation Thematic Point Product(EOLIS POINTS)_Arctic Canada North_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat/land-ice-elevation-point-arctic-canada-south-cryotop-evolution/collection.json",
+      "type": "application/json",
+      "title": "Land Ice Elevation Thematic Point Product(EOLIS POINTS)_Arctic Canada South_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat/land-ice-elevation-point-southern-andes-cryotop-evolution/collection.json",
+      "type": "application/json",
+      "title": "Land Ice Elevation Thematic Point Product(EOLIS POINTS)_Southern Andes_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat/land-ice-elevation-grid-greenland-cryotop-evolution/collection.json",
+      "type": "application/json",
+      "title": "Land Ice Elevation Thematic Gridded Product_Greenland_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat/land-ice-elevation-grid-antarctica-cryotop-evolution/collection.json",
+      "type": "application/json",
+      "title": "Land Ice Elevation Thematic Gridded Product_Antarctica_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat/land-ice-elevation-grid-iceland-cryotop-evolution/collection.json",
+      "type": "application/json",
+      "title": "Land Ice Elevation Thematic Gridded Product_Iceland_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat/land-ice-elevation-grid-svalbard-cryotop-evolution/collection.json",
+      "type": "application/json",
+      "title": "Land Ice Elevation Thematic Gridded Product_Svalbard_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat/land-ice-elevation-grid-russian-arctic-cryotop-evolution/collection.json",
+      "type": "application/json",
+      "title": "Land Ice Elevation Thematic Gridded Product_Russian Arctic_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat/land-ice-elevation-grid-arctic-canada-north-cryotop-evolution/collection.json",
+      "type": "application/json",
+      "title": "Land Ice Elevation Thematic Gridded Product_Arctic Canada North_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat/land-ice-elevation-grid-arctic-canada-south-cryotop-evolution/collection.json",
+      "type": "application/json",
+      "title": "Land Ice Elevation Thematic Gridded Product_Arctic Canada South_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat/land-ice-elevation-grid-southern-andes-cryotop-evolution/collection.json",
+      "type": "application/json",
+      "title": "Land Ice Elevation Thematic Gridded Product_Southern Andes_Cryosat"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat-2/l3-chla-daily-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 3 Chl-a, 300m daily and monthly"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat-2/l3-spm-daily-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 3 Suspended Particulate Matter, 300m, daily and monthly"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat-2/l3-turbidity-daily-monthly-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 3 Turbidity, 300m, daily and monthly"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat-2/l4-chla-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 4 Ocean Colour products Chl-a, 300m, daily"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat-2/l3-cryosat2-sea-level-anomaly-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level-3 Cryosat-2 [2011, 2019] along-track 5Hz product, sea level anomaly, ~1km resolution."
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat-2/l3-s3-sea-level-anomaly-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level-3 Sentinel-3A [mid 2016, 2018] along-track 5Hz product, sea level anomaly, ~1km resolution"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat-2/l4-dynamic-topography-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 4, absolute dynamic topography, multi-mission gridded merged products for a period of 1 year, 0.0625\u00c2\u00b0*0.0625\u00c2\u00b0, daily"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat-2/l4-sea-level-anomaly-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 4, sea level anomaly, multi-mission gridded merged products for a period of 1 year, 0.0625\u00c2\u00b0*0.0625\u00c2\u00b0, daily"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat-2/eddy-census-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Eddy census"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat-2/l4-geostrophic-currents-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 4, geostrophic currents, multi-mission gridded merged products for a period of 1 year, 0.0625\u00c2\u00b0*0.0625\u00c2\u00b0, daily"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat-2/l2-smos-sss-daily-ascending-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 2 SMOS , Ascending orbit, 0.25\u00c2\u00b0*0.25\u00c2\u00b0, daily averaged produced daily"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat-2/l2-smos-sss-daily-descending-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 2 SMOS , Descending orbit, 0.25\u00c2\u00b0*0.25\u00c2\u00b0, daily averaged produced daily"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat-2/l3-sss-9day-average-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 3 SSS, 0.25\u00c2\u00b0*0.25\u00c2\u00b0, 9-day averaged produced daily"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/cryosat-2/l4-sss-eo4sibs/collection.json",
+      "type": "application/json",
+      "title": "Level 4 product SSS, 0.05\u00c2\u00b0*0.0505\u00c2\u00b0"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/viirs/monthly-global-chlorophyll-a-dataset-9-km-oc-cci-v42/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Chlorophyll-a dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/viirs/global-particulate-organic-carbon-v5-bicep/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Chlorophyll-a dataset (9 km, OC-CCI v5)"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/viirs/dissolved-organic-carbon-bicep/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Dissolved Organic Carbon dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/viirs/export-production-bicep/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Export Production based on Dunne et al 2005 dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/viirs/monthly-global-export-production-based-on-henson-et-al-2011-dataset-9-km-oc-cci-v42/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Export Production based on Henson et al 2011 dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/viirs/monthly-global-export-production-based-on-li-et-al-2016-dataset-9-km-oc-cci-v42/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Export Production based on Li et al 2016 dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-3/binary-wet-snow-s14science-snow/collection.json",
+      "type": "application/json",
+      "title": "Binary wet snow extent products"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/viirs/monthly-global-microphytoplankton-carbon-dataset-9-km-oc-cci-v42/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Microphytoplankton Carbon dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-5p/hdo-total-column-tropomi-extended-wift/collection.json",
+      "type": "application/json",
+      "title": "Extended scientific HDO/H2O total column_TROPOMI"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-5p/hdo-total-column-tropomi-clear-sky-wift/collection.json",
+      "type": "application/json",
+      "title": "Clear-sky HDO/H2O total column_TROPOMI"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/smos/rainfall-prism-0-1-v2-africa-smos-rainfall/collection.json",
+      "type": "application/json",
+      "title": "PrISM SMOS Rainfall product v2.0_3h_0.1_Africa"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/smos/rainfall-prism-0-25-v2-africa-smos-rainfall/collection.json",
+      "type": "application/json",
+      "title": "PrISM SMOS Rainfall product_v2.0_3h_0.25_Africa"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/landsat-8/supraglacial-lakes-west-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "Supraglacial lakes and channels in West Antarctica and Antarctic Peninsula during January 2017 (v.1.1)"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/grace/gravity-anomalies-goce-airborne-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "Gravity anomalies from GOCE and airborne data"
+    },
+    {
+      "rel": "child",
+      "href": "../variables/geothermal-energy/geothermal-heat-flux-4dantarctica/collection.json",
+      "type": "application/json",
+      "title": "Geothermal heat flux estimate from aeromagnetic data"
+    },
+    {
+      "rel": "child",
+      "href": "../variables/land-cover/regional-esdl-south-america-esdl/collection.json",
+      "type": "application/json",
+      "title": "Code for Regional Earth System Data Lab: Tropical South America"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-5p/l2b-sif-surface-reflectance-tropomi-troposif/collection.json",
+      "type": "application/json",
+      "title": "Daily ungridded (L2B) SIF and surface reflectance estimates derived from TROPOMI"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/viirs/monthly-global-microphytoplankton-carbon-dataset-9-km-oc-cci-v5/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Microphytoplankton Carbon dataset (9 km, OC-CCI v5)"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/viirs/monthly-global-mixed-layer-depth-dataset-9-km-oc-cci-v42/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Mixed Layer Depth dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/viirs/monthly-global-mixed-layer-depth-dataset-9-km-oc-cci-v5/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Mixed Layer Depth dataset (9 km, OC-CCI v5)"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/viirs/monthly-global-nanophytoplankton-carbon-dataset-9-km-oc-cci-v42/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Nanophytoplankton Carbon dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/viirs/monthly-global-nanophytoplankton-carbon-dataset-9-km-oc-cci-v5/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Nanophytoplankton Carbon dataset (9 km, OC-CCI v5)"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/viirs/particulate-inorganic-carbon-bicep/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Particulate Inorganic Carbon dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/viirs/global-particulate-organic-carbon-v4-bicep/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Particulate Organic Carbon dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/viirs/global-marine-phytoplankton-primary-production-bicep/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Phytoplankton Primary Production dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/viirs/monthly-global-picophytoplankton-carbon-dataset-9-km-oc-cci-v42/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Picophytoplankton Carbon dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/viirs/monthly-global-picophytoplankton-carbon-dataset-9-km-oc-cci-v5/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Picophytoplankton Carbon dataset (9 km, OC-CCI v5)"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/viirs/monthly-global-total-phytoplankton-carbon-dataset-9-km-oc-cci-v42/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Total Phytoplankton Carbon dataset (9 km, OC-CCI v4.2)"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/viirs/global-marine-phytoplankton-carbon-bicep/collection.json",
+      "type": "application/json",
+      "title": "Monthly Global Total Phytoplankton Carbon dataset (9 km, OC-CCI v5)"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-1/database-of-labelled-sentinel-1-interferograms-v20/collection.json",
+      "type": "application/json",
+      "title": "Database of labelled Sentinel-1 interferograms - v.2.0"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-5p/high-res-phytoplankton-chl-a-data-by-undulating-platform-behind-the-ship-polarstern-cruise-ps113/collection.json",
+      "type": "application/json",
+      "title": "High resolution phytoplankton Chl-a data obtained by undulating platform towed behind the ship (POLARSTERN cruise PS113)"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-5p/high-res-phytoplankton-chl-a-data-at-discrete-light-stations-polarstern-cruise-ps113/collection.json",
+      "type": "application/json",
+      "title": "High resolution phytoplankton Chl-a data obtained at discrete light stations (POLARSTERN cruise PS113)"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-5p/mean-spectral-dac-for-320-nm-423nm-in-the-atlantic-ocean/collection.json",
+      "type": "application/json",
+      "title": "Mean spectral DAC avg for 320-338.5nm (UVAB) 356.5 - 390 nm (UVA) & 390 - 423 nm in the Atlantic Ocean from S5P (TROPOMI)"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-5p/mean-spectral-dac-from-318-to952nm-of-underwater-light-profiles-rv-polarstern-cruise-ps113/collection.json",
+      "type": "application/json",
+      "title": "Mean spectral DAC from 318-952nm of light profiles measured at discrete stations (RV Polarstern cruise PS113) "
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-5p/mean-spectral-dac-from-320-to917nm-from-radiometric-underwater-light-transmission-profiles/collection.json",
+      "type": "application/json",
+      "title": "Mean spectral DAC from 320-917nm from light transmission profiles by an undulating platform towed behind the ship"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-3/oceanic-total-alkalinity-and-dissolved-inorganic-carbon-oceansoda/collection.json",
+      "type": "application/json",
+      "title": "Results and analysis of oceanic total alkalinity and dissolved inorganic carbon estimated from space borne, interpolated in situ, climatological and Earth system model data."
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-3/oceansoda-ethz/collection.json",
+      "type": "application/json",
+      "title": "OceanSODA-ETHZ: A global gridded dataset of the surface ocean carbonate system for seasonal to decadal studies of ocean acidification (v2021)"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-5p/phytoplankton-group-chl-ll-using-the-mean-dac-over-the-first-optical-depth-kdmean-of-the-measured-radiometric-profile/collection.json",
+      "type": "application/json",
+      "title": "Phytoplankton group Chl-a using mean DAC over kdmean of the radiometric profile (Polarstern cruise PS113)"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-5p/phytoplankton-pigment-concentration-and-phytoplankton-groups-polarstern-cruise-ps113/collection.json",
+      "type": "application/json",
+      "title": "Phytoplankton pigment concentration and phytoplankton groups measured on water samples (POLARSTERN cruise PS113)"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-5p/phytoplankton-pigment-concentrations-polarstern-cruise-ps121/collection.json",
+      "type": "application/json",
+      "title": "Phytoplankton pigment concentrations during POLARSTERN cruise PS121 from North Sea to Fram in August to September 2019"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-1/sm-based-inversion-approach-po-irrigation/collection.json",
+      "type": "application/json",
+      "title": "Regional irrigation water use at high-resolution - PO valley"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-1/sm-based-inversion-approach-ebro-irrigation/collection.json",
+      "type": "application/json",
+      "title": "Regional irrigation water use at high-resolution - EBRO basin"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-1/sm-based-inversion-approach-murray-darling-irrigation/collection.json",
+      "type": "application/json",
+      "title": "Regional irrigation water use at high-resolution - MURRAY-DARLING basin"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-1/subglacial-melt-maps/collection.json",
+      "type": "application/json",
+      "title": "Subglacial Melt Maps"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/sentinel-1/supraglacial-storage-and-drainage-lake-features-mapped-by-sentinel1/collection.json",
+      "type": "application/json",
+      "title": "Supraglacial Storage and Drainage - Lake Features Mapped by Sentinel-1"
+    },
+    {
+      "rel": "child",
+      "href": "../eo-missions/ascat/surface-melt-detection-from-active-microwave-ascat-melt/collection.json",
+      "type": "application/json",
+      "title": "Surface Melt Detection from Active Microwave - ASCAT Melt Product"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Open Science Catalog"
+    }
+  ],
+  "stac_extensions": [],
+  "updated": "2023-06-05T16:11:52.383629Z",
+  "title": "Products"
+}

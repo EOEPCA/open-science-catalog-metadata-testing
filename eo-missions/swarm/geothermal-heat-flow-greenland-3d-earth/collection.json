@@ -1,0 +1,115 @@
+{
+  "type": "Collection",
+  "id": "geothermal-heat-flow-greenland-3d-earth",
+  "stac_version": "1.0.0",
+  "description": "Greenland Geothermal Heat Flow Database and Map",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../../catalog.json",
+      "type": "application/json",
+      "title": "Open Science Catalog"
+    },
+    {
+      "rel": "via",
+      "href": "https://dataverse01.geus.dk/dataset.xhtml?persistentId=doi:10.22008/FK2/F9P03L",
+      "title": "Access"
+    },
+    {
+      "rel": "cite-as",
+      "href": "https://doi.org/10.22008/FK2/F9P03L"
+    },
+    {
+      "rel": "related",
+      "href": "../../../projects/3d-earth/collection.json",
+      "type": "application/json",
+      "title": "Project: 3D-EARTH"
+    },
+    {
+      "rel": "related",
+      "href": "../../../themes/solid-earth/catalog.json",
+      "type": "application/json",
+      "title": "Theme: Solid Earth"
+    },
+    {
+      "rel": "related",
+      "href": "../../../variables/geothermal-energy/catalog.json",
+      "type": "application/json",
+      "title": "Variable: Geothermal energy"
+    },
+    {
+      "rel": "related",
+      "href": "../../goce/catalog.json",
+      "type": "application/json",
+      "title": "EO Mission: GOCE"
+    },
+    {
+      "rel": "related",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "EO Mission: SWARM"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "SWARM"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
+    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/scientific/v1.0.0/schema.json"
+  ],
+  "title": "Geothermal Heat Flow Database and Map_Greenland_GOCE_SWARM",
+  "osc:missions": [
+    "GOCE",
+    "SWARM"
+  ],
+  "osc:project": "3D-Earth",
+  "osc:variables": [
+    "Geothermal energy"
+  ],
+  "osc:status": "ongoing",
+  "osc:region": "Arctic",
+  "osc:type": "product",
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Solid Earth"
+        }
+      ]
+    }
+  ],
+  "created": "2021-08-26T00:00:00Z",
+  "sci:doi": "10.22008/FK2/F9P03L",
+  "keywords": [
+    "theme:Solid Earth",
+    "variable:Geothermal energy",
+    "region:Arctic"
+  ],
+  "updated": "2023-06-05T16:11:52.311628Z",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          -178.4105321808,
+          60.6134006095,
+          178.3660428163,
+          84.2454100786
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          null,
+          null
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}

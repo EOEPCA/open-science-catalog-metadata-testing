@@ -1,0 +1,53 @@
+{
+  "type": "Catalog",
+  "id": "glacier-topography",
+  "stac_version": "1.0.0",
+  "description": "Map of the height of the glacier surface.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "Open Science Catalog"
+    },
+    {
+      "rel": "via",
+      "href": "https://space.oscar.wmo.int/variables/view/glacier_topography",
+      "type": "text/html",
+      "title": "Description"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Variables"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/cryosat-2/glacier-elevation-cryosat-mountain-glaciers/collection.json",
+      "type": "application/json",
+      "title": "Mountain glacier elevation and elevation change_Global_Cryosat-2"
+    },
+    {
+      "rel": "child",
+      "href": "../../eo-missions/tandem-x/glacier-mass-balance-lpf-mitap/collection.json",
+      "type": "application/json",
+      "title": "Geodetic glacier mass balances Antarctic Peninsula <70\u00c2\u00b0S between 2013 and 2017_Antarctica_TanDEM-X"
+    }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+  ],
+  "themes": [
+    {
+      "scheme": "OSC:SCHEME:THEMES",
+      "concepts": [
+        {
+          "id": "Cryosphere"
+        }
+      ]
+    }
+  ],
+  "updated": "2023-06-05T16:11:52.247627Z",
+  "title": "Glacier topography"
+}
