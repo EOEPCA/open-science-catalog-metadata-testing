@@ -53,7 +53,7 @@
   ],
   "themes": [
     {
-      "scheme": "OSC:SCHEME:THEMES",
+      "scheme": "https://github.com/stac-extensions/osc#theme",
       "concepts": [
         {
           "id": "Solid Earth"
@@ -83,8 +83,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "keywords": [
-    "theme:Solid Earth"
-  ]
+  "license": "proprietary"
 }

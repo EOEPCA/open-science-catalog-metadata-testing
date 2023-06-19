@@ -47,10 +47,50 @@
   "osc:type": "product",
   "themes": [
     {
-      "scheme": "OSC:SCHEME:THEMES",
+      "scheme": "https://github.com/stac-extensions/osc#theme",
       "concepts": [
         {
           "id": "Oceans"
+        }
+      ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#variable",
+      "concepts": [
+        {
+          "id": "Coastal sea level (tide)"
+        }
+      ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
+      "concepts": [
+        {
+          "id": "TOPEX/Poseidon"
+        },
+        {
+          "id": "ERS-2"
+        },
+        {
+          "id": "Jason-1"
+        },
+        {
+          "id": "Jason-2"
+        },
+        {
+          "id": "Jason-3"
+        },
+        {
+          "id": "ENVISAT"
+        },
+        {
+          "id": "CryoSat-2"
+        },
+        {
+          "id": "SARAL/ALtiKa"
+        },
+        {
+          "id": "Sentinel-3"
         }
       ]
     }
@@ -76,10 +116,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "keywords": [
-    "theme:Oceans",
-    "variable:Coastal sea level (tide)",
-    "region:Baltics"
-  ]
+  "license": "proprietary"
 }

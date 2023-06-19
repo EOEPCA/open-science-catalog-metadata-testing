@@ -49,10 +49,26 @@
   "osc:type": "product",
   "themes": [
     {
-      "scheme": "OSC:SCHEME:THEMES",
+      "scheme": "https://github.com/stac-extensions/osc#theme",
       "concepts": [
         {
           "id": "Atmosphere"
+        }
+      ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#variable",
+      "concepts": [
+        {
+          "id": "O3 Total Column"
+        }
+      ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
+      "concepts": [
+        {
+          "id": "Sentinel-3"
         }
       ]
     }
@@ -79,10 +95,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "keywords": [
-    "theme:Atmosphere",
-    "variable:O3 Total Column",
-    "region:Antarctica"
-  ]
+  "license": "proprietary"
 }

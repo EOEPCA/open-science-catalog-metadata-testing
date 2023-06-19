@@ -85,7 +85,7 @@
   ],
   "themes": [
     {
-      "scheme": "OSC:SCHEME:THEMES",
+      "scheme": "https://github.com/stac-extensions/osc#theme",
       "concepts": [
         {
           "id": "Cryosphere"
@@ -115,8 +115,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "keywords": [
-    "theme:Cryosphere"
-  ]
+  "license": "proprietary"
 }

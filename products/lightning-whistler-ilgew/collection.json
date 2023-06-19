@@ -39,13 +39,29 @@
   "osc:type": "product",
   "themes": [
     {
-      "scheme": "OSC:SCHEME:THEMES",
+      "scheme": "https://github.com/stac-extensions/osc#theme",
       "concepts": [
         {
           "id": "Atmosphere"
         },
         {
           "id": "Magnetosphere_Ionosphere"
+        }
+      ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#variable",
+      "concepts": [
+        {
+          "id": "Ionospheric plasma density"
+        }
+      ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
+      "concepts": [
+        {
+          "id": "SWARM"
         }
       ]
     }
@@ -73,11 +89,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "keywords": [
-    "theme:Atmosphere",
-    "theme:Magnetosphere_Ionosphere",
-    "variable:Ionospheric plasma density",
-    "region:None"
-  ]
+  "license": "proprietary"
 }

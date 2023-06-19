@@ -39,10 +39,26 @@
   "osc:type": "product",
   "themes": [
     {
-      "scheme": "OSC:SCHEME:THEMES",
+      "scheme": "https://github.com/stac-extensions/osc#theme",
       "concepts": [
         {
           "id": "Land"
+        }
+      ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#variable",
+      "concepts": [
+        {
+          "id": "Biomass"
+        }
+      ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
+      "concepts": [
+        {
+          "id": "SMOS"
         }
       ]
     }
@@ -66,10 +82,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "keywords": [
-    "theme:Land",
-    "variable:Biomass",
-    "region:Africa"
-  ]
+  "license": "proprietary"
 }

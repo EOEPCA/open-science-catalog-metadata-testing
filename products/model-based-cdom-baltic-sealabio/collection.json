@@ -39,13 +39,29 @@
   "osc:type": "product",
   "themes": [
     {
-      "scheme": "OSC:SCHEME:THEMES",
+      "scheme": "https://github.com/stac-extensions/osc#theme",
       "concepts": [
         {
           "id": "Oceans"
         },
         {
           "id": "Land"
+        }
+      ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#variable",
+      "concepts": [
+        {
+          "id": "Colour Dissolved Organic Matter (CDOM)"
+        }
+      ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
+      "concepts": [
+        {
+          "id": "Model"
         }
       ]
     }
@@ -71,11 +87,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "keywords": [
-    "theme:Oceans",
-    "theme:Land",
-    "variable:Colour Dissolved Organic Matter (CDOM)",
-    "region:Baltics"
-  ]
+  "license": "proprietary"
 }

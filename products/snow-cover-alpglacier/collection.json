@@ -40,10 +40,29 @@
   "osc:type": "product",
   "themes": [
     {
-      "scheme": "OSC:SCHEME:THEMES",
+      "scheme": "https://github.com/stac-extensions/osc#theme",
       "concepts": [
         {
           "id": "Cryosphere"
+        }
+      ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#variable",
+      "concepts": [
+        {
+          "id": "Snow cover"
+        }
+      ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
+      "concepts": [
+        {
+          "id": "Sentinel-1"
+        },
+        {
+          "id": "Sentinel-2"
         }
       ]
     }
@@ -68,10 +87,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "keywords": [
-    "theme:Cryosphere",
-    "variable:Snow cover",
-    "region:Switzerland"
-  ]
+  "license": "proprietary"
 }

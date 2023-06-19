@@ -44,10 +44,26 @@
   "osc:type": "product",
   "themes": [
     {
-      "scheme": "OSC:SCHEME:THEMES",
+      "scheme": "https://github.com/stac-extensions/osc#theme",
       "concepts": [
         {
           "id": "Atmosphere"
+        }
+      ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#variable",
+      "concepts": [
+        {
+          "id": "Cloud optical depth"
+        }
+      ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
+      "concepts": [
+        {
+          "id": "CALIPSO"
         }
       ]
     }
@@ -73,10 +89,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "keywords": [
-    "theme:Atmosphere",
-    "variable:Cloud optical depth",
-    "region:Global"
-  ]
+  "license": "proprietary"
 }

@@ -44,13 +44,29 @@
   "osc:type": "product",
   "themes": [
     {
-      "scheme": "OSC:SCHEME:THEMES",
+      "scheme": "https://github.com/stac-extensions/osc#theme",
       "concepts": [
         {
           "id": "Oceans"
         },
         {
           "id": "Atmosphere"
+        }
+      ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#variable",
+      "concepts": [
+        {
+          "id": "Ocean Diffuse Attenuation Coefficient (DAC)"
+        }
+      ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
+      "concepts": [
+        {
+          "id": "Sentinel-5p"
         }
       ]
     }
@@ -76,11 +92,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "keywords": [
-    "theme:Oceans",
-    "theme:Atmosphere",
-    "variable:Ocean Diffuse Attenuation Coefficient (DAC)",
-    "region:Atlantic Ocean"
-  ]
+  "license": "proprietary"
 }

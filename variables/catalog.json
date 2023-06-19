@@ -402,6 +402,12 @@
     },
     {
       "rel": "child",
+      "href": "./chlorophyll-a/catalog.json",
+      "type": "application/json",
+      "title": "Chlorophyll-a"
+    },
+    {
+      "rel": "child",
       "href": "./clo/catalog.json",
       "type": "application/json",
       "title": "ClO"
@@ -618,6 +624,12 @@
     },
     {
       "rel": "child",
+      "href": "./dissolved-organic-carbon/catalog.json",
+      "type": "application/json",
+      "title": "Dissolved Organic Carbon"
+    },
+    {
+      "rel": "child",
       "href": "./dms-mole-fraction/catalog.json",
       "type": "application/json",
       "title": "DMS Mole Fraction"
@@ -744,6 +756,12 @@
     },
     {
       "rel": "child",
+      "href": "./export-production/catalog.json",
+      "type": "application/json",
+      "title": "Export Production"
+    },
+    {
+      "rel": "child",
       "href": "./fire-fractional-cover/catalog.json",
       "type": "application/json",
       "title": "Fire fractional cover"
@@ -813,6 +831,12 @@
       "href": "./geomagnetic-field/catalog.json",
       "type": "application/json",
       "title": "Geomagnetic field"
+    },
+    {
+      "rel": "child",
+      "href": "./geothermal-energy/catalog.json",
+      "type": "application/json",
+      "title": "Geothermal energy"
     },
     {
       "rel": "child",
@@ -1038,6 +1062,12 @@
     },
     {
       "rel": "child",
+      "href": "./irrigation-water-use/catalog.json",
+      "type": "application/json",
+      "title": "Irrigation water use"
+    },
+    {
+      "rel": "child",
       "href": "./lake-area/catalog.json",
       "type": "application/json",
       "title": "Lake area"
@@ -1098,9 +1128,15 @@
     },
     {
       "rel": "child",
-      "href": "./n-15-no-delta/catalog.json",
+      "href": "./microphytoplankton-carbon/catalog.json",
       "type": "application/json",
-      "title": "N(15)NO Delta"
+      "title": "Microphytoplankton Carbon"
+    },
+    {
+      "rel": "child",
+      "href": "./mixed-layer-depth/catalog.json",
+      "type": "application/json",
+      "title": "Mixed Layer Depth"
     },
     {
       "rel": "child",
@@ -1113,6 +1149,12 @@
       "href": "./n-15-no-beta-delta/catalog.json",
       "type": "application/json",
       "title": "N(15)NO-Beta Delta"
+    },
+    {
+      "rel": "child",
+      "href": "./n-15-no-delta/catalog.json",
+      "type": "application/json",
+      "title": "N(15)NO Delta"
     },
     {
       "rel": "child",
@@ -1143,6 +1185,12 @@
       "href": "./n2o5/catalog.json",
       "type": "application/json",
       "title": "N2O5"
+    },
+    {
+      "rel": "child",
+      "href": "./nanophytoplankton-carbon/catalog.json",
+      "type": "application/json",
+      "title": "Nanophytoplankton Carbon"
     },
     {
       "rel": "child",
@@ -1182,18 +1230,6 @@
     },
     {
       "rel": "child",
-      "href": "./no2-total-column/catalog.json",
-      "type": "application/json",
-      "title": "NO2  Total Column"
-    },
-    {
-      "rel": "child",
-      "href": "./no2-mole-fraction-sr/catalog.json",
-      "type": "application/json",
-      "title": "NO2 Mole  fraction (SR)"
-    },
-    {
-      "rel": "child",
       "href": "./no2-mole-fraction/catalog.json",
       "type": "application/json",
       "title": "NO2 mole fraction"
@@ -1212,9 +1248,21 @@
     },
     {
       "rel": "child",
+      "href": "./no2-mole-fraction-sr/catalog.json",
+      "type": "application/json",
+      "title": "NO2 Mole  fraction (SR)"
+    },
+    {
+      "rel": "child",
       "href": "./no2-stratospheric-column/catalog.json",
       "type": "application/json",
       "title": "NO2 Stratospheric Column"
+    },
+    {
+      "rel": "child",
+      "href": "./no2-total-column/catalog.json",
+      "type": "application/json",
+      "title": "NO2  Total Column"
     },
     {
       "rel": "child",
@@ -1344,9 +1392,33 @@
     },
     {
       "rel": "child",
+      "href": "./omega-ar-aragonite-saturation-state/catalog.json",
+      "type": "application/json",
+      "title": "Omega_ar: Aragonite saturation state"
+    },
+    {
+      "rel": "child",
+      "href": "./omega-ca-calcite-saturation-state/catalog.json",
+      "type": "application/json",
+      "title": "Omega_ca: Calcite saturation state"
+    },
+    {
+      "rel": "child",
       "href": "./pan/catalog.json",
       "type": "application/json",
       "title": "PAN"
+    },
+    {
+      "rel": "child",
+      "href": "./particulate-inorganic-carbon/catalog.json",
+      "type": "application/json",
+      "title": "Particulate Inorganic Carbon"
+    },
+    {
+      "rel": "child",
+      "href": "./particulate-organic-carbon/catalog.json",
+      "type": "application/json",
+      "title": "Particulate Organic Carbon"
     },
     {
       "rel": "child",
@@ -1374,9 +1446,27 @@
     },
     {
       "rel": "child",
-      "href": "./precipitation-liquid-or-solid/catalog.json",
+      "href": "./phytoplankton-carbon/catalog.json",
       "type": "application/json",
-      "title": "Precipitation  (liquid or solid)"
+      "title": "Phytoplankton Carbon"
+    },
+    {
+      "rel": "child",
+      "href": "./phytoplankton-primary-production/catalog.json",
+      "type": "application/json",
+      "title": "Phytoplankton Primary Production"
+    },
+    {
+      "rel": "child",
+      "href": "./picophytoplankton-carbon/catalog.json",
+      "type": "application/json",
+      "title": "Picophytoplankton Carbon"
+    },
+    {
+      "rel": "child",
+      "href": "./polar-lows/catalog.json",
+      "type": "application/json",
+      "title": "Polar Lows"
     },
     {
       "rel": "child",
@@ -1389,6 +1479,12 @@
       "href": "./precipitation-intensity-at-surface-solid/catalog.json",
       "type": "application/json",
       "title": "Precipitation intensity at surface (solid)"
+    },
+    {
+      "rel": "child",
+      "href": "./precipitation-liquid-or-solid/catalog.json",
+      "type": "application/json",
+      "title": "Precipitation  (liquid or solid)"
     },
     {
       "rel": "child",
@@ -1452,36 +1548,6 @@
     },
     {
       "rel": "child",
-      "href": "./sea-surface-heat-flux/catalog.json",
-      "type": "application/json",
-      "title": "Sea surface heat flux"
-    },
-    {
-      "rel": "child",
-      "href": "./sea-surface-height-anomaly/catalog.json",
-      "type": "application/json",
-      "title": "Sea surface height anomaly"
-    },
-    {
-      "rel": "child",
-      "href": "./sea-surface-mass-flux/catalog.json",
-      "type": "application/json",
-      "title": "Sea Surface Mass Flux"
-    },
-    {
-      "rel": "child",
-      "href": "./sea-surface-salinity/catalog.json",
-      "type": "application/json",
-      "title": "Sea surface salinity"
-    },
-    {
-      "rel": "child",
-      "href": "./sea-surface-temperature/catalog.json",
-      "type": "application/json",
-      "title": "Sea surface temperature"
-    },
-    {
-      "rel": "child",
       "href": "./sea-ice-cover/catalog.json",
       "type": "application/json",
       "title": "Sea-ice cover"
@@ -1521,6 +1587,36 @@
       "href": "./sea-ice-type/catalog.json",
       "type": "application/json",
       "title": "Sea-ice type"
+    },
+    {
+      "rel": "child",
+      "href": "./sea-surface-heat-flux/catalog.json",
+      "type": "application/json",
+      "title": "Sea surface heat flux"
+    },
+    {
+      "rel": "child",
+      "href": "./sea-surface-height-anomaly/catalog.json",
+      "type": "application/json",
+      "title": "Sea surface height anomaly"
+    },
+    {
+      "rel": "child",
+      "href": "./sea-surface-mass-flux/catalog.json",
+      "type": "application/json",
+      "title": "Sea Surface Mass Flux"
+    },
+    {
+      "rel": "child",
+      "href": "./sea-surface-salinity/catalog.json",
+      "type": "application/json",
+      "title": "Sea surface salinity"
+    },
+    {
+      "rel": "child",
+      "href": "./sea-surface-temperature/catalog.json",
+      "type": "application/json",
+      "title": "Sea surface temperature"
     },
     {
       "rel": "child",
@@ -1590,15 +1686,15 @@
     },
     {
       "rel": "child",
-      "href": "./soil-moisture-in-the-roots-region/catalog.json",
-      "type": "application/json",
-      "title": "Soil moisture  (in the roots region)"
-    },
-    {
-      "rel": "child",
       "href": "./soil-moisture-at-surface/catalog.json",
       "type": "application/json",
       "title": "Soil moisture at surface"
+    },
+    {
+      "rel": "child",
+      "href": "./soil-moisture-in-the-roots-region/catalog.json",
+      "type": "application/json",
+      "title": "Soil moisture  (in the roots region)"
     },
     {
       "rel": "child",
@@ -1665,6 +1761,12 @@
       "href": "./solar-h-alpha-image/catalog.json",
       "type": "application/json",
       "title": "Solar H-alpha image"
+    },
+    {
+      "rel": "child",
+      "href": "./solar-induced-chlorophyll-fluorescence-sif/catalog.json",
+      "type": "application/json",
+      "title": "Solar-induced chlorophyll fluorescence (SIF)"
     },
     {
       "rel": "child",
@@ -1896,6 +1998,12 @@
     },
     {
       "rel": "child",
+      "href": "./volcanic-unrest/catalog.json",
+      "type": "application/json",
+      "title": "Volcanic unrest"
+    },
+    {
+      "rel": "child",
       "href": "./water-leaving-spectral-radiance/catalog.json",
       "type": "application/json",
       "title": "Water-leaving spectral radiance"
@@ -1920,18 +2028,6 @@
     },
     {
       "rel": "child",
-      "href": "./wind-horizontal/catalog.json",
-      "type": "application/json",
-      "title": "Wind (horizontal)"
-    },
-    {
-      "rel": "child",
-      "href": "./wind-vertical/catalog.json",
-      "type": "application/json",
-      "title": "Wind (vertical)"
-    },
-    {
-      "rel": "child",
       "href": "./wind-direction-near-surface/catalog.json",
       "type": "application/json",
       "title": "Wind direction (near surface)"
@@ -1941,6 +2037,12 @@
       "href": "./wind-gust/catalog.json",
       "type": "application/json",
       "title": "Wind gust"
+    },
+    {
+      "rel": "child",
+      "href": "./wind-horizontal/catalog.json",
+      "type": "application/json",
+      "title": "Wind (horizontal)"
     },
     {
       "rel": "child",
@@ -1962,6 +2064,12 @@
     },
     {
       "rel": "child",
+      "href": "./wind-vertical/catalog.json",
+      "type": "application/json",
+      "title": "Wind (vertical)"
+    },
+    {
+      "rel": "child",
       "href": "./x-ray-flux/catalog.json",
       "type": "application/json",
       "title": "X-ray flux"
@@ -1977,114 +2085,6 @@
       "href": "./x-ray-sky-image/catalog.json",
       "type": "application/json",
       "title": "X-ray sky image"
-    },
-    {
-      "rel": "child",
-      "href": "./geothermal-energy/catalog.json",
-      "type": "application/json",
-      "title": "Geothermal energy"
-    },
-    {
-      "rel": "child",
-      "href": "./solar-induced-chlorophyll-fluorescence-sif/catalog.json",
-      "type": "application/json",
-      "title": "Solar-induced chlorophyll fluorescence (SIF)"
-    },
-    {
-      "rel": "child",
-      "href": "./microphytoplankton-carbon/catalog.json",
-      "type": "application/json",
-      "title": "Microphytoplankton Carbon"
-    },
-    {
-      "rel": "child",
-      "href": "./nanophytoplankton-carbon/catalog.json",
-      "type": "application/json",
-      "title": "Nanophytoplankton Carbon"
-    },
-    {
-      "rel": "child",
-      "href": "./phytoplankton-carbon/catalog.json",
-      "type": "application/json",
-      "title": "Phytoplankton Carbon"
-    },
-    {
-      "rel": "child",
-      "href": "./picophytoplankton-carbon/catalog.json",
-      "type": "application/json",
-      "title": "Picophytoplankton Carbon"
-    },
-    {
-      "rel": "child",
-      "href": "./dissolved-organic-carbon/catalog.json",
-      "type": "application/json",
-      "title": "Dissolved Organic Carbon"
-    },
-    {
-      "rel": "child",
-      "href": "./export-production/catalog.json",
-      "type": "application/json",
-      "title": "Export Production"
-    },
-    {
-      "rel": "child",
-      "href": "./particulate-inorganic-carbon/catalog.json",
-      "type": "application/json",
-      "title": "Particulate Inorganic Carbon"
-    },
-    {
-      "rel": "child",
-      "href": "./particulate-organic-carbon/catalog.json",
-      "type": "application/json",
-      "title": "Particulate Organic Carbon"
-    },
-    {
-      "rel": "child",
-      "href": "./phytoplankton-primary-production/catalog.json",
-      "type": "application/json",
-      "title": "Phytoplankton Primary Production"
-    },
-    {
-      "rel": "child",
-      "href": "./chlorophyll-a/catalog.json",
-      "type": "application/json",
-      "title": "Chlorophyll-a"
-    },
-    {
-      "rel": "child",
-      "href": "./mixed-layer-depth/catalog.json",
-      "type": "application/json",
-      "title": "Mixed Layer Depth"
-    },
-    {
-      "rel": "child",
-      "href": "./irrigation-water-use/catalog.json",
-      "type": "application/json",
-      "title": "Irrigation water use"
-    },
-    {
-      "rel": "child",
-      "href": "./volcanic-unrest/catalog.json",
-      "type": "application/json",
-      "title": "Volcanic unrest"
-    },
-    {
-      "rel": "child",
-      "href": "./omega-ar-aragonite-saturation-state/catalog.json",
-      "type": "application/json",
-      "title": "Omega_ar: Aragonite saturation state"
-    },
-    {
-      "rel": "child",
-      "href": "./omega-ca-calcite-saturation-state/catalog.json",
-      "type": "application/json",
-      "title": "Omega_ca: Calcite saturation state"
-    },
-    {
-      "rel": "child",
-      "href": "./polar-lows/catalog.json",
-      "type": "application/json",
-      "title": "Polar Lows"
     }
   ],
   "title": "Variables"

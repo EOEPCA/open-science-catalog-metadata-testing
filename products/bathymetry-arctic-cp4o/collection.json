@@ -44,13 +44,29 @@
   "osc:type": "product",
   "themes": [
     {
-      "scheme": "OSC:SCHEME:THEMES",
+      "scheme": "https://github.com/stac-extensions/osc#theme",
       "concepts": [
         {
           "id": "Oceans"
         },
         {
           "id": "Cryosphere"
+        }
+      ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#variable",
+      "concepts": [
+        {
+          "id": "Bathymetry"
+        }
+      ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
+      "concepts": [
+        {
+          "id": "CryoSat"
         }
       ]
     }
@@ -76,11 +92,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "keywords": [
-    "theme:Oceans",
-    "theme:Cryosphere",
-    "variable:Bathymetry",
-    "region:Arctic"
-  ]
+  "license": "proprietary"
 }

@@ -44,10 +44,26 @@
   "osc:type": "product",
   "themes": [
     {
-      "scheme": "OSC:SCHEME:THEMES",
+      "scheme": "https://github.com/stac-extensions/osc#theme",
       "concepts": [
         {
           "id": "Land"
+        }
+      ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#variable",
+      "concepts": [
+        {
+          "id": "Soil moisture at surface"
+        }
+      ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
+      "concepts": [
+        {
+          "id": "Sentinel-1"
         }
       ]
     }
@@ -74,10 +90,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "keywords": [
-    "theme:Land",
-    "variable:Soil moisture at surface",
-    "region:South Italy"
-  ]
+  "license": "proprietary"
 }

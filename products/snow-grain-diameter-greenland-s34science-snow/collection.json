@@ -39,13 +39,29 @@
   "osc:type": "product",
   "themes": [
     {
-      "scheme": "OSC:SCHEME:THEMES",
+      "scheme": "https://github.com/stac-extensions/osc#theme",
       "concepts": [
         {
           "id": "Cryosphere"
         },
         {
           "id": "Land"
+        }
+      ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#variable",
+      "concepts": [
+        {
+          "id": "Snow cover"
+        }
+      ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
+      "concepts": [
+        {
+          "id": "Sentinel-3"
         }
       ]
     }
@@ -71,11 +87,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "keywords": [
-    "theme:Cryosphere",
-    "theme:Land",
-    "variable:Snow cover",
-    "region:Greenland"
-  ]
+  "license": "proprietary"
 }

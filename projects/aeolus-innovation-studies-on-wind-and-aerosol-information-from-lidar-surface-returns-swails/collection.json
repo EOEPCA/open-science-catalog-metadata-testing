@@ -53,7 +53,7 @@
   ],
   "themes": [
     {
-      "scheme": "OSC:SCHEME:THEMES",
+      "scheme": "https://github.com/stac-extensions/osc#theme",
       "concepts": [
         {
           "id": "Atmosphere"
@@ -86,9 +86,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "keywords": [
-    "theme:Atmosphere",
-    "theme:Oceans"
-  ]
+  "license": "proprietary"
 }

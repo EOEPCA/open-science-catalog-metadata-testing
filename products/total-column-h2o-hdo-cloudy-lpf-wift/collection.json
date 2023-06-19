@@ -39,10 +39,26 @@
   "osc:type": "product",
   "themes": [
     {
-      "scheme": "OSC:SCHEME:THEMES",
+      "scheme": "https://github.com/stac-extensions/osc#theme",
       "concepts": [
         {
           "id": "Atmosphere"
+        }
+      ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#variable",
+      "concepts": [
+        {
+          "id": "HDO"
+        }
+      ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
+      "concepts": [
+        {
+          "id": "Sentinel-5p"
         }
       ]
     }
@@ -68,10 +84,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "keywords": [
-    "theme:Atmosphere",
-    "variable:HDO",
-    "region:Global"
-  ]
+  "license": "proprietary"
 }

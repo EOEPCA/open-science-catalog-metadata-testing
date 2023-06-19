@@ -42,12 +42,24 @@
   "osc:type": "product",
   "themes": [
     {
-      "scheme": "OSC:SCHEME:THEMES",
+      "scheme": "https://github.com/stac-extensions/osc#theme",
       "concepts": [
         {
           "id": "Cryosphere"
         }
       ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#variable",
+      "concepts": [
+        {
+          "id": "Geothermal energy"
+        }
+      ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
+      "concepts": []
     }
   ],
   "created": "2021-08-18T00:00:00Z",
@@ -71,10 +83,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "keywords": [
-    "theme:Cryosphere",
-    "variable:Geothermal energy",
-    "region:Antarctica"
-  ]
+  "license": "proprietary"
 }

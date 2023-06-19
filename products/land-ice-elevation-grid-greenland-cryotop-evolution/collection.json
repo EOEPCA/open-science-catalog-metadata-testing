@@ -44,10 +44,26 @@
   "osc:type": "product",
   "themes": [
     {
-      "scheme": "OSC:SCHEME:THEMES",
+      "scheme": "https://github.com/stac-extensions/osc#theme",
       "concepts": [
         {
           "id": "Cryosphere"
+        }
+      ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#variable",
+      "concepts": [
+        {
+          "id": "Ice sheet topography"
+        }
+      ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
+      "concepts": [
+        {
+          "id": "CryoSat"
         }
       ]
     }
@@ -73,10 +89,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "keywords": [
-    "theme:Cryosphere",
-    "variable:Ice sheet topography",
-    "region:Greenland"
-  ]
+  "license": "proprietary"
 }

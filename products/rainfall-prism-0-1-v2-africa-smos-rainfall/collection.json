@@ -49,10 +49,26 @@
   "osc:type": "product",
   "themes": [
     {
-      "scheme": "OSC:SCHEME:THEMES",
+      "scheme": "https://github.com/stac-extensions/osc#theme",
       "concepts": [
         {
           "id": "Land"
+        }
+      ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#variable",
+      "concepts": [
+        {
+          "id": "Precipitation type at the surface"
+        }
+      ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
+      "concepts": [
+        {
+          "id": "SMOS"
         }
       ]
     }
@@ -80,10 +96,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "keywords": [
-    "theme:Land",
-    "variable:Precipitation type at the surface",
-    "region:Africa"
-  ]
+  "license": "proprietary"
 }

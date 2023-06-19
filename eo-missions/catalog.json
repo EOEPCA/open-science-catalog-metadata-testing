@@ -180,6 +180,12 @@
     },
     {
       "rel": "child",
+      "href": "./limb-viewing-instruments/catalog.json",
+      "type": "application/json",
+      "title": "limb-viewing instruments"
+    },
+    {
+      "rel": "child",
       "href": "./meris/catalog.json",
       "type": "application/json",
       "title": "MERIS"
@@ -309,12 +315,6 @@
       "href": "./viirs/catalog.json",
       "type": "application/json",
       "title": "VIIRS"
-    },
-    {
-      "rel": "child",
-      "href": "./limb-viewing-instruments/catalog.json",
-      "type": "application/json",
-      "title": "limb-viewing instruments"
     }
   ],
   "title": "EO Missions"

@@ -77,7 +77,7 @@
   ],
   "themes": [
     {
-      "scheme": "OSC:SCHEME:THEMES",
+      "scheme": "https://github.com/stac-extensions/osc#theme",
       "concepts": [
         {
           "id": "Oceans"
@@ -107,8 +107,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "keywords": [
-    "theme:Oceans"
-  ]
+  "license": "proprietary"
 }

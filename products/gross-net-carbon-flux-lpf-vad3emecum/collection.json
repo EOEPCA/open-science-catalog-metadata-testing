@@ -47,10 +47,35 @@
   "osc:type": "product",
   "themes": [
     {
-      "scheme": "OSC:SCHEME:THEMES",
+      "scheme": "https://github.com/stac-extensions/osc#theme",
       "concepts": [
         {
           "id": "Land"
+        }
+      ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#variable",
+      "concepts": [
+        {
+          "id": "CO2 flux"
+        }
+      ]
+    },
+    {
+      "scheme": "https://github.com/stac-extensions/osc#eo-mission",
+      "concepts": [
+        {
+          "id": "Sentinel-5p"
+        },
+        {
+          "id": "SMOS"
+        },
+        {
+          "id": "MeteoSat"
+        },
+        {
+          "id": "MODIS"
         }
       ]
     }
@@ -75,10 +100,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "keywords": [
-    "theme:Land",
-    "variable:CO2 flux",
-    "region:Global"
-  ]
+  "license": "proprietary"
 }

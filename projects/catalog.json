@@ -42,6 +42,36 @@
     },
     {
       "rel": "child",
+      "href": "./4dmed-hydrology/collection.json",
+      "type": "application/json",
+      "title": "4DMED-Hydrology"
+    },
+    {
+      "rel": "child",
+      "href": "./advancing-the-study-of-extreme-weather-events-with-data-deep-learning-methods-and-climate-analysis/collection.json",
+      "type": "application/json",
+      "title": "Advancing the Study of Extreme Weather Events with Data, Deep Learning Methods and Climate Analysis"
+    },
+    {
+      "rel": "child",
+      "href": "./aeolus-innovation-aeurs-expro-lidar-measurements-to-identify-streamers-and-analyze-atmospheric-waves-lisa/collection.json",
+      "type": "application/json",
+      "title": "AEOLUS+inno - LISA"
+    },
+    {
+      "rel": "child",
+      "href": "./aeolus-innovation-aeurs-expro-ocean-surface-wind-from-aeolus-sea-surface-returns-sea-flect/collection.json",
+      "type": "application/json",
+      "title": "AEOLUS+inno - SEA-FLECT"
+    },
+    {
+      "rel": "child",
+      "href": "./aeolus-innovation-cdom-proxy-retrieval-from-aeolus-observations-color/collection.json",
+      "type": "application/json",
+      "title": "AEOLUS+inno - COLOR"
+    },
+    {
+      "rel": "child",
       "href": "./aeolus-innovation-expro-improving-dust-monitoring-and-forecasting-through-aeolus-wind-data-assimilation-newton/collection.json",
       "type": "application/json",
       "title": "AEOLUS+inno - NEWTON"
@@ -60,21 +90,27 @@
     },
     {
       "rel": "child",
-      "href": "./aeolus-innovation-cdom-proxy-retrieval-from-aeolus-observations-color/collection.json",
+      "href": "./ai-enhanced-uncertainty-quantification-of-satellite-derived-hydroclimatic-extremes-extraim/collection.json",
       "type": "application/json",
-      "title": "AEOLUS+inno - COLOR"
+      "title": "extrAIM"
     },
     {
       "rel": "child",
-      "href": "./aeolus-innovation-aeurs-expro-lidar-measurements-to-identify-streamers-and-analyze-atmospheric-waves-lisa/collection.json",
+      "href": "./ai4drought/collection.json",
       "type": "application/json",
-      "title": "AEOLUS+inno - LISA"
+      "title": "AI4DROUGHT"
     },
     {
       "rel": "child",
-      "href": "./aeolus-innovation-aeurs-expro-ocean-surface-wind-from-aeolus-sea-surface-returns-sea-flect/collection.json",
+      "href": "./ai4dte/collection.json",
       "type": "application/json",
-      "title": "AEOLUS+inno - SEA-FLECT"
+      "title": "AI4DTE"
+    },
+    {
+      "rel": "child",
+      "href": "./ai4dte-software-stack/collection.json",
+      "type": "application/json",
+      "title": "AI4DTE SW stack"
     },
     {
       "rel": "child",
@@ -102,9 +138,21 @@
     },
     {
       "rel": "child",
+      "href": "./alplakes/collection.json",
+      "type": "application/json",
+      "title": "AlpLakes"
+    },
+    {
+      "rel": "child",
       "href": "./alpsnow/collection.json",
       "type": "application/json",
       "title": "AlpSnow"
+    },
+    {
+      "rel": "child",
+      "href": "./ampac-esa-networking-action/collection.json",
+      "type": "application/json",
+      "title": "AMPAC-Net"
     },
     {
       "rel": "child",
@@ -120,15 +168,15 @@
     },
     {
       "rel": "child",
-      "href": "./arctic-theme-3-aeur-fresh-water-fluxes/collection.json",
-      "type": "application/json",
-      "title": "ArcFlux"
-    },
-    {
-      "rel": "child",
       "href": "./arctic-snow-on-sea-ice/collection.json",
       "type": "application/json",
       "title": "Arctic+Snow on Sea Ice"
+    },
+    {
+      "rel": "child",
+      "href": "./arctic-theme-3-aeur-fresh-water-fluxes/collection.json",
+      "type": "application/json",
+      "title": "ArcFlux"
     },
     {
       "rel": "child",
@@ -144,15 +192,21 @@
     },
     {
       "rel": "child",
-      "href": "./baltic-reconstruction-of-the-sea-level/collection.json",
+      "href": "./assessing-cryosphere-biosphere-linkages-with-earth-observations-in-northern-high-latitudes-cryobiolinks/collection.json",
       "type": "application/json",
-      "title": "Baltic+ Sea Level"
+      "title": "CRYOBIOLINKS"
     },
     {
       "rel": "child",
       "href": "./baltic-geodetic-sar-for-baltic-height-system-unification-sar-hsu/collection.json",
       "type": "application/json",
       "title": "SAR-HSU"
+    },
+    {
+      "rel": "child",
+      "href": "./baltic-reconstruction-of-the-sea-level/collection.json",
+      "type": "application/json",
+      "title": "Baltic+ Sea Level"
     },
     {
       "rel": "child",
@@ -180,9 +234,33 @@
     },
     {
       "rel": "child",
+      "href": "./biodiversity-precursors-coastal/collection.json",
+      "type": "application/json",
+      "title": "BiCOME"
+    },
+    {
+      "rel": "child",
+      "href": "./biodiversity-precursors-expro-theme-1-terrestrial-earth-observation-for-biodiversity-modelling-eo4diversity/collection.json",
+      "type": "application/json",
+      "title": "EO4Diversity"
+    },
+    {
+      "rel": "child",
+      "href": "./biodiversity-precursors-expro-theme-2-freshwater-biomondo/collection.json",
+      "type": "application/json",
+      "title": "BIOMONDO"
+    },
+    {
+      "rel": "child",
       "href": "./biological-pump-and-carbon-exchange-processes/collection.json",
       "type": "application/json",
       "title": "BICEP"
+    },
+    {
+      "rel": "child",
+      "href": "./biomap/collection.json",
+      "type": "application/json",
+      "title": "BiomAP"
     },
     {
       "rel": "child",
@@ -210,15 +288,15 @@
     },
     {
       "rel": "child",
-      "href": "./contribution-of-swarm-data-to-the-prompt-detection-of-tsunamis-and-other-natural-hazards-costo/collection.json",
+      "href": "./consistent-retrieval-of-cloud-aerosol-surface/collection.json",
       "type": "application/json",
-      "title": "COSTO"
+      "title": "CIRCAS"
     },
     {
       "rel": "child",
-      "href": "./cryosat-plus-for-oceans-cp4o/collection.json",
+      "href": "./contribution-of-swarm-data-to-the-prompt-detection-of-tsunamis-and-other-natural-hazards-costo/collection.json",
       "type": "application/json",
-      "title": "CryoSat+ Oceans"
+      "title": "COSTO"
     },
     {
       "rel": "child",
@@ -231,6 +309,12 @@
       "href": "./cryosat-mountain-glaciers/collection.json",
       "type": "application/json",
       "title": "CryoSat+ Mountain Glaciers"
+    },
+    {
+      "rel": "child",
+      "href": "./cryosat-plus-for-oceans-cp4o/collection.json",
+      "type": "application/json",
+      "title": "CryoSat+ Oceans"
     },
     {
       "rel": "child",
@@ -252,15 +336,51 @@
     },
     {
       "rel": "child",
+      "href": "./deep-extremes/collection.json",
+      "type": "application/json",
+      "title": "DEEP EXTREMES"
+    },
+    {
+      "rel": "child",
+      "href": "./demonstrator-precursor-digital-assistant-interface-for-digital-twin-earth-da4dte/collection.json",
+      "type": "application/json",
+      "title": "DA4DTE"
+    },
+    {
+      "rel": "child",
+      "href": "./detection-and-threats-of-marine-heat-waves-careheat/collection.json",
+      "type": "application/json",
+      "title": "CareHEAT"
+    },
+    {
+      "rel": "child",
       "href": "./detection-of-anthropogenic-co2-emissions-sources/collection.json",
       "type": "application/json",
       "title": "DACES"
     },
     {
       "rel": "child",
+      "href": "./development-and-interpretation-of-improved-nitrous-acid-retrievals-project-dinar/collection.json",
+      "type": "application/json",
+      "title": "DINAR"
+    },
+    {
+      "rel": "child",
       "href": "./development-of-pan-european-multi-sensor-snow-mapping-methods-exploiting-sentinel-1/collection.json",
       "type": "application/json",
       "title": "S14Science: Snow"
+    },
+    {
+      "rel": "child",
+      "href": "./dynamic-topography-and-satellite-gravity-data-joint-inversion-using-reduced-order-models-dygiro/collection.json",
+      "type": "application/json",
+      "title": "DYGIRO"
+    },
+    {
+      "rel": "child",
+      "href": "./earth-observation-advanced-science-tools-for-sea-level-extreme-events-eoatsee/collection.json",
+      "type": "application/json",
+      "title": "EOatSEE"
     },
     {
       "rel": "child",
@@ -276,15 +396,63 @@
     },
     {
       "rel": "child",
+      "href": "./earth-system-data-lab-esdl/collection.json",
+      "type": "application/json",
+      "title": "ESDL"
+    },
+    {
+      "rel": "child",
       "href": "./eocytes-evaluation-of-the-effect-of-ozone-on-crop-yields-and-the-terrestrial-carbon-pool-using-satellite-data/collection.json",
       "type": "application/json",
       "title": "(LPF) EOCYTES"
     },
     {
       "rel": "child",
+      "href": "./eoplumes/collection.json",
+      "type": "application/json",
+      "title": "EOplumes"
+    },
+    {
+      "rel": "child",
+      "href": "./examining-greenland-s-ice-marginal-lakes-under-a-changing-climate-griml/collection.json",
+      "type": "application/json",
+      "title": "(LPF) GRIML"
+    },
+    {
+      "rel": "child",
+      "href": "./experimental-joint-inversion/collection.json",
+      "type": "application/json",
+      "title": "XORN"
+    },
+    {
+      "rel": "child",
+      "href": "./explainable-ai-application-to-trustworthy-super-resolution-opensr/collection.json",
+      "type": "application/json",
+      "title": "OpenSR"
+    },
+    {
+      "rel": "child",
+      "href": "./ffsar-coastal-fully-focused-sar-altimetry-and-innovative-river-level-gauges-for-coastal-monitoring/collection.json",
+      "type": "application/json",
+      "title": "FFSAR - Coastal"
+    },
+    {
+      "rel": "child",
+      "href": "./fluvial-video-from-satellite-fluvisat/collection.json",
+      "type": "application/json",
+      "title": "FluViSat"
+    },
+    {
+      "rel": "child",
       "href": "./forestscan/collection.json",
       "type": "application/json",
       "title": "ForestScan"
+    },
+    {
+      "rel": "child",
+      "href": "./glaciers-mass-balance-intercomparison-exercise-glambie/collection.json",
+      "type": "application/json",
+      "title": "GLAMBIE"
     },
     {
       "rel": "child",
@@ -297,6 +465,36 @@
       "href": "./godae-ocean-observing-system-evaluation-of-satellite-sea-surface-salinity-and-el-nino-2015-smos-nino15/collection.json",
       "type": "application/json",
       "title": "SMOS-NINO 2015"
+    },
+    {
+      "rel": "child",
+      "href": "./ground-deformation-from-meteorological-seismic-and-anthropogenic-changes-analysed-by-remote-sensing-geomatic-experiments-and-extended-reality-germane/collection.json",
+      "type": "application/json",
+      "title": "(LPF) GERMANE"
+    },
+    {
+      "rel": "child",
+      "href": "./hafelekar-line-of-side-aq-monitoring-karlos/collection.json",
+      "type": "application/json",
+      "title": "KARLOS"
+    },
+    {
+      "rel": "child",
+      "href": "./handling-of-3d-clouds-in-trace-gas-retrievals-3dctrl/collection.json",
+      "type": "application/json",
+      "title": "3DCTRL"
+    },
+    {
+      "rel": "child",
+      "href": "./high-information-content-ozone-profile-algorithm-for-ground-based-passive-remote-sensing-instruments-opa/collection.json",
+      "type": "application/json",
+      "title": "OPA"
+    },
+    {
+      "rel": "child",
+      "href": "./high-latitude-poynting-flux-into-and-out-of-the-atmosphere-swarm-superdarn-and-ampere-observations-hlpf-ssa/collection.json",
+      "type": "application/json",
+      "title": "HLPF-SSA"
     },
     {
       "rel": "child",
@@ -324,9 +522,27 @@
     },
     {
       "rel": "child",
+      "href": "./introducing-machine-learning-into-targeted-analysis-for-terrestrial-ecosystems-imitate/collection.json",
+      "type": "application/json",
+      "title": "IMITATE"
+    },
+    {
+      "rel": "child",
       "href": "./investigating-lightning-generated-elf-whistlers-to-improve-ionospheric-models-ilgew/collection.json",
       "type": "application/json",
       "title": "ILGEW"
+    },
+    {
+      "rel": "child",
+      "href": "./irrigation/collection.json",
+      "type": "application/json",
+      "title": "Irrigation+"
+    },
+    {
+      "rel": "child",
+      "href": "./l2a/collection.json",
+      "type": "application/json",
+      "title": "L2A+"
     },
     {
       "rel": "child",
@@ -348,9 +564,21 @@
     },
     {
       "rel": "child",
+      "href": "./lidar-cloud-record-for-climate-licrec/collection.json",
+      "type": "application/json",
+      "title": "LICREC"
+    },
+    {
+      "rel": "child",
       "href": "./mass-balance-and-ice-dynamics-of-antarctic-peninsula-glaciers-mit-ap/collection.json",
       "type": "application/json",
       "title": "(LPF) MIT-AP"
+    },
+    {
+      "rel": "child",
+      "href": "./mediterranean-sea-regional-initiative-land-based-pollution/collection.json",
+      "type": "application/json",
+      "title": "MedEOS"
     },
     {
       "rel": "child",
@@ -366,6 +594,12 @@
     },
     {
       "rel": "child",
+      "href": "./methanecamp/collection.json",
+      "type": "application/json",
+      "title": "MethaneCAMP"
+    },
+    {
+      "rel": "child",
       "href": "./moheacan-monitoring-ocean-heat-content-and-earth-energy-imbalance-from-space/collection.json",
       "type": "application/json",
       "title": "MOHeaCAN"
@@ -375,6 +609,12 @@
       "href": "./multi-flex-towards-a-strategy-for-fluorescence-monitoring-at-multiple-scales-within-the-context-of-the-flex-s-3-tandem-mission/collection.json",
       "type": "application/json",
       "title": "(LPF) MULTI-FLEX"
+    },
+    {
+      "rel": "child",
+      "href": "./novel-computational-methods-for-reliable-satellite-based-air-quality-data-noodlesalad/collection.json",
+      "type": "application/json",
+      "title": "NOODLESALAD"
     },
     {
       "rel": "child",
@@ -390,9 +630,39 @@
     },
     {
       "rel": "child",
+      "href": "./ocean-health-ocean-acidification/collection.json",
+      "type": "application/json",
+      "title": "Ocean-Health-OA"
+    },
+    {
+      "rel": "child",
+      "href": "./ocean-health-open-ocean-biodiversity/collection.json",
+      "type": "application/json",
+      "title": "BOOMS"
+    },
+    {
+      "rel": "child",
       "href": "./ovalie-oceanic-intrinsic-variability-versus-atmospheric-forced-variability-of-sea-level-change/collection.json",
       "type": "application/json",
       "title": "(LPF) OVALIE"
+    },
+    {
+      "rel": "child",
+      "href": "./ovalie-oceanic-intrinsic-variability-versus-atmospheric-forced-variability-of-sea-level-change/collection.json",
+      "type": "application/json",
+      "title": "(LPF) OVALIE"
+    },
+    {
+      "rel": "child",
+      "href": "./ozone-recovery-from-merged-observational-data-and-model-analysis-oregano/collection.json",
+      "type": "application/json",
+      "title": "OREGANO"
+    },
+    {
+      "rel": "child",
+      "href": "./pass-swio/collection.json",
+      "type": "application/json",
+      "title": "PASS-SWIO"
     },
     {
       "rel": "child",
@@ -414,9 +684,21 @@
     },
     {
       "rel": "child",
+      "href": "./phytoplankton-and-fisheries-under-regional-warming-in-the-global-oceans-poseidon/collection.json",
+      "type": "application/json",
+      "title": "POSEIDON"
+    },
+    {
+      "rel": "child",
       "href": "./polar-ice-shelf/collection.json",
       "type": "application/json",
       "title": "Polar+ Ice Shelf"
+    },
+    {
+      "rel": "child",
+      "href": "./polar-low-detection-from-s-1-data/collection.json",
+      "type": "application/json",
+      "title": "Polar Low detection from S-1 data"
     },
     {
       "rel": "child",
@@ -450,9 +732,21 @@
     },
     {
       "rel": "child",
+      "href": "./represent/collection.json",
+      "type": "application/json",
+      "title": "RepreSent"
+    },
+    {
+      "rel": "child",
       "href": "./ridesat-river-flow-monitoring-and-discharge-estimation-by-integrating-multiple-satellite-data/collection.json",
       "type": "application/json",
       "title": "RIDESAT"
+    },
+    {
+      "rel": "child",
+      "href": "./s2-for-land-and-water-change-detection-multi-temporal/collection.json",
+      "type": "application/json",
+      "title": "S2 for Land and Water-Change Detection"
     },
     {
       "rel": "child",
@@ -462,15 +756,21 @@
     },
     {
       "rel": "child",
+      "href": "./satellite-based-run-off-evaluation-and-mapping-stream/collection.json",
+      "type": "application/json",
+      "title": "STREAM"
+    },
+    {
+      "rel": "child",
       "href": "./satellite-oceanographic-datasets-for-acidification-oceansoda/collection.json",
       "type": "application/json",
       "title": "OceanSODA"
     },
     {
       "rel": "child",
-      "href": "./satellite-based-run-off-evaluation-and-mapping-stream/collection.json",
+      "href": "./seasfire-earth-system-deep-learning-for-seasonal-fire-forecasting-in-europe/collection.json",
       "type": "application/json",
-      "title": "STREAM"
+      "title": "SeasFire"
     },
     {
       "rel": "child",
@@ -534,18 +834,6 @@
     },
     {
       "rel": "child",
-      "href": "./sentinel-5p-innovation-glyretro-glyoxal-retrievals-from-tropomi/collection.json",
-      "type": "application/json",
-      "title": "S5p Inno - Glyoxal"
-    },
-    {
-      "rel": "child",
-      "href": "./sentinel-5p-innovation-so2-layer-height-project/collection.json",
-      "type": "application/json",
-      "title": "S5p Inno - SO2-LH"
-    },
-    {
-      "rel": "child",
       "href": "./sentinel-5p-innovation-aeurs-water-vapour-isotopologues-h2o-iso/collection.json",
       "type": "application/json",
       "title": "S5p Inno - H2O-ISO"
@@ -558,9 +846,21 @@
     },
     {
       "rel": "child",
+      "href": "./sentinel-5p-innovation-glyretro-glyoxal-retrievals-from-tropomi/collection.json",
+      "type": "application/json",
+      "title": "S5p Inno - Glyoxal"
+    },
+    {
+      "rel": "child",
       "href": "./sentinel-5p-innovation-ocean-colour-s5p-i-oc/collection.json",
       "type": "application/json",
       "title": "S5p Inno - S5p-I-OC"
+    },
+    {
+      "rel": "child",
+      "href": "./sentinel-5p-innovation-so2-layer-height-project/collection.json",
+      "type": "application/json",
+      "title": "S5p Inno - SO2-LH"
     },
     {
       "rel": "child",
@@ -600,9 +900,21 @@
     },
     {
       "rel": "child",
+      "href": "./space4safesea/collection.json",
+      "type": "application/json",
+      "title": "Space4SafeSea"
+    },
+    {
+      "rel": "child",
       "href": "./stratospheric-ozone-from-limb-observations-validation-of-the-profiles-evaluation-of-trends-and-their-dynamical-and-chemical-drivers-solve/collection.json",
       "type": "application/json",
       "title": "(LPF) SOLVE"
+    },
+    {
+      "rel": "child",
+      "href": "./stse-arctic-theme-5-aeur-contributions-to-the-year-of-polar-predictions-yopp/collection.json",
+      "type": "application/json",
+      "title": "STSE-ARCTIC+"
     },
     {
       "rel": "child",
@@ -615,12 +927,6 @@
       "href": "./stse-smos-sea-ice/collection.json",
       "type": "application/json",
       "title": "SMOS+ SeaIce"
-    },
-    {
-      "rel": "child",
-      "href": "./stse-arctic-theme-5-aeur-contributions-to-the-year-of-polar-predictions-yopp/collection.json",
-      "type": "application/json",
-      "title": "STSE-ARCTIC+"
     },
     {
       "rel": "child",
@@ -642,6 +948,12 @@
     },
     {
       "rel": "child",
+      "href": "./synergetic-retrieval-from-multi-mission-space-borne-measurements-for-enhancement-of-aerosol-characterization-syremis/collection.json",
+      "type": "application/json",
+      "title": "SYREMIS"
+    },
+    {
+      "rel": "child",
       "href": "./the-4d-earth-swarm-project/collection.json",
       "type": "application/json",
       "title": "4D-Earth SWARM"
@@ -651,6 +963,12 @@
       "href": "./towards-the-retrieval-of-lake-ice-thickness-from-satellite-altimetry-missions-liam/collection.json",
       "type": "application/json",
       "title": "LIAM"
+    },
+    {
+      "rel": "child",
+      "href": "./understand-and-mitigate-impacts-of-3d-clouds-on-uv-vis-no2-trace-gas-retrievals-by-ai-exploration-of-synthetic-and-real-data-mit3d/collection.json",
+      "type": "application/json",
+      "title": "MIT3D"
     },
     {
       "rel": "child",
@@ -702,327 +1020,9 @@
     },
     {
       "rel": "child",
-      "href": "./ovalie-oceanic-intrinsic-variability-versus-atmospheric-forced-variability-of-sea-level-change/collection.json",
-      "type": "application/json",
-      "title": "(LPF) OVALIE"
-    },
-    {
-      "rel": "child",
-      "href": "./s2-for-land-and-water-change-detection-multi-temporal/collection.json",
-      "type": "application/json",
-      "title": "S2 for Land and Water-Change Detection"
-    },
-    {
-      "rel": "child",
       "href": "./world-ocean-circulation/collection.json",
       "type": "application/json",
       "title": "WOC"
-    },
-    {
-      "rel": "child",
-      "href": "./consistent-retrieval-of-cloud-aerosol-surface/collection.json",
-      "type": "application/json",
-      "title": "CIRCAS"
-    },
-    {
-      "rel": "child",
-      "href": "./ocean-health-open-ocean-biodiversity/collection.json",
-      "type": "application/json",
-      "title": "BOOMS"
-    },
-    {
-      "rel": "child",
-      "href": "./biodiversity-precursors-coastal/collection.json",
-      "type": "application/json",
-      "title": "BiCOME"
-    },
-    {
-      "rel": "child",
-      "href": "./detection-and-threats-of-marine-heat-waves-careheat/collection.json",
-      "type": "application/json",
-      "title": "CareHEAT"
-    },
-    {
-      "rel": "child",
-      "href": "./ocean-health-ocean-acidification/collection.json",
-      "type": "application/json",
-      "title": "Ocean-Health-OA"
-    },
-    {
-      "rel": "child",
-      "href": "./space4safesea/collection.json",
-      "type": "application/json",
-      "title": "Space4SafeSea"
-    },
-    {
-      "rel": "child",
-      "href": "./mediterranean-sea-regional-initiative-land-based-pollution/collection.json",
-      "type": "application/json",
-      "title": "MedEOS"
-    },
-    {
-      "rel": "child",
-      "href": "./earth-system-data-lab-esdl/collection.json",
-      "type": "application/json",
-      "title": "ESDL"
-    },
-    {
-      "rel": "child",
-      "href": "./irrigation/collection.json",
-      "type": "application/json",
-      "title": "Irrigation+"
-    },
-    {
-      "rel": "child",
-      "href": "./polar-low-detection-from-s-1-data/collection.json",
-      "type": "application/json",
-      "title": "Polar Low detection from S-1 data"
-    },
-    {
-      "rel": "child",
-      "href": "./handling-of-3d-clouds-in-trace-gas-retrievals-3dctrl/collection.json",
-      "type": "application/json",
-      "title": "3DCTRL"
-    },
-    {
-      "rel": "child",
-      "href": "./4dmed-hydrology/collection.json",
-      "type": "application/json",
-      "title": "4DMED-Hydrology"
-    },
-    {
-      "rel": "child",
-      "href": "./advancing-the-study-of-extreme-weather-events-with-data-deep-learning-methods-and-climate-analysis/collection.json",
-      "type": "application/json",
-      "title": "Advancing the Study of Extreme Weather Events with Data, Deep Learning Methods and Climate Analysis"
-    },
-    {
-      "rel": "child",
-      "href": "./ai4drought/collection.json",
-      "type": "application/json",
-      "title": "AI4DROUGHT"
-    },
-    {
-      "rel": "child",
-      "href": "./ai4dte/collection.json",
-      "type": "application/json",
-      "title": "AI4DTE"
-    },
-    {
-      "rel": "child",
-      "href": "./ai4dte-software-stack/collection.json",
-      "type": "application/json",
-      "title": "AI4DTE SW stack"
-    },
-    {
-      "rel": "child",
-      "href": "./alplakes/collection.json",
-      "type": "application/json",
-      "title": "AlpLakes"
-    },
-    {
-      "rel": "child",
-      "href": "./ampac-esa-networking-action/collection.json",
-      "type": "application/json",
-      "title": "AMPAC-Net"
-    },
-    {
-      "rel": "child",
-      "href": "./assessing-cryosphere-biosphere-linkages-with-earth-observations-in-northern-high-latitudes-cryobiolinks/collection.json",
-      "type": "application/json",
-      "title": "CRYOBIOLINKS"
-    },
-    {
-      "rel": "child",
-      "href": "./biodiversity-precursors-expro-theme-1-terrestrial-earth-observation-for-biodiversity-modelling-eo4diversity/collection.json",
-      "type": "application/json",
-      "title": "EO4Diversity"
-    },
-    {
-      "rel": "child",
-      "href": "./biodiversity-precursors-expro-theme-2-freshwater-biomondo/collection.json",
-      "type": "application/json",
-      "title": "BIOMONDO"
-    },
-    {
-      "rel": "child",
-      "href": "./biomap/collection.json",
-      "type": "application/json",
-      "title": "BiomAP"
-    },
-    {
-      "rel": "child",
-      "href": "./deep-extremes/collection.json",
-      "type": "application/json",
-      "title": "DEEP EXTREMES"
-    },
-    {
-      "rel": "child",
-      "href": "./demonstrator-precursor-digital-assistant-interface-for-digital-twin-earth-da4dte/collection.json",
-      "type": "application/json",
-      "title": "DA4DTE"
-    },
-    {
-      "rel": "child",
-      "href": "./development-and-interpretation-of-improved-nitrous-acid-retrievals-project-dinar/collection.json",
-      "type": "application/json",
-      "title": "DINAR"
-    },
-    {
-      "rel": "child",
-      "href": "./dynamic-topography-and-satellite-gravity-data-joint-inversion-using-reduced-order-models-dygiro/collection.json",
-      "type": "application/json",
-      "title": "DYGIRO"
-    },
-    {
-      "rel": "child",
-      "href": "./earth-observation-advanced-science-tools-for-sea-level-extreme-events-eoatsee/collection.json",
-      "type": "application/json",
-      "title": "EOatSEE"
-    },
-    {
-      "rel": "child",
-      "href": "./eoplumes/collection.json",
-      "type": "application/json",
-      "title": "EOplumes"
-    },
-    {
-      "rel": "child",
-      "href": "./examining-greenland-s-ice-marginal-lakes-under-a-changing-climate-griml/collection.json",
-      "type": "application/json",
-      "title": "(LPF) GRIML"
-    },
-    {
-      "rel": "child",
-      "href": "./experimental-joint-inversion/collection.json",
-      "type": "application/json",
-      "title": "XORN"
-    },
-    {
-      "rel": "child",
-      "href": "./explainable-ai-application-to-trustworthy-super-resolution-opensr/collection.json",
-      "type": "application/json",
-      "title": "OpenSR"
-    },
-    {
-      "rel": "child",
-      "href": "./ai-enhanced-uncertainty-quantification-of-satellite-derived-hydroclimatic-extremes-extraim/collection.json",
-      "type": "application/json",
-      "title": "extrAIM"
-    },
-    {
-      "rel": "child",
-      "href": "./ffsar-coastal-fully-focused-sar-altimetry-and-innovative-river-level-gauges-for-coastal-monitoring/collection.json",
-      "type": "application/json",
-      "title": "FFSAR - Coastal"
-    },
-    {
-      "rel": "child",
-      "href": "./fluvial-video-from-satellite-fluvisat/collection.json",
-      "type": "application/json",
-      "title": "FluViSat"
-    },
-    {
-      "rel": "child",
-      "href": "./glaciers-mass-balance-intercomparison-exercise-glambie/collection.json",
-      "type": "application/json",
-      "title": "GLAMBIE"
-    },
-    {
-      "rel": "child",
-      "href": "./ground-deformation-from-meteorological-seismic-and-anthropogenic-changes-analysed-by-remote-sensing-geomatic-experiments-and-extended-reality-germane/collection.json",
-      "type": "application/json",
-      "title": "(LPF) GERMANE"
-    },
-    {
-      "rel": "child",
-      "href": "./high-information-content-ozone-profile-algorithm-for-ground-based-passive-remote-sensing-instruments-opa/collection.json",
-      "type": "application/json",
-      "title": "OPA"
-    },
-    {
-      "rel": "child",
-      "href": "./high-latitude-poynting-flux-into-and-out-of-the-atmosphere-swarm-superdarn-and-ampere-observations-hlpf-ssa/collection.json",
-      "type": "application/json",
-      "title": "HLPF-SSA"
-    },
-    {
-      "rel": "child",
-      "href": "./introducing-machine-learning-into-targeted-analysis-for-terrestrial-ecosystems-imitate/collection.json",
-      "type": "application/json",
-      "title": "IMITATE"
-    },
-    {
-      "rel": "child",
-      "href": "./hafelekar-line-of-side-aq-monitoring-karlos/collection.json",
-      "type": "application/json",
-      "title": "KARLOS"
-    },
-    {
-      "rel": "child",
-      "href": "./l2a/collection.json",
-      "type": "application/json",
-      "title": "L2A+"
-    },
-    {
-      "rel": "child",
-      "href": "./lidar-cloud-record-for-climate-licrec/collection.json",
-      "type": "application/json",
-      "title": "LICREC"
-    },
-    {
-      "rel": "child",
-      "href": "./methanecamp/collection.json",
-      "type": "application/json",
-      "title": "MethaneCAMP"
-    },
-    {
-      "rel": "child",
-      "href": "./novel-computational-methods-for-reliable-satellite-based-air-quality-data-noodlesalad/collection.json",
-      "type": "application/json",
-      "title": "NOODLESALAD"
-    },
-    {
-      "rel": "child",
-      "href": "./ozone-recovery-from-merged-observational-data-and-model-analysis-oregano/collection.json",
-      "type": "application/json",
-      "title": "OREGANO"
-    },
-    {
-      "rel": "child",
-      "href": "./pass-swio/collection.json",
-      "type": "application/json",
-      "title": "PASS-SWIO"
-    },
-    {
-      "rel": "child",
-      "href": "./phytoplankton-and-fisheries-under-regional-warming-in-the-global-oceans-poseidon/collection.json",
-      "type": "application/json",
-      "title": "POSEIDON"
-    },
-    {
-      "rel": "child",
-      "href": "./represent/collection.json",
-      "type": "application/json",
-      "title": "RepreSent"
-    },
-    {
-      "rel": "child",
-      "href": "./seasfire-earth-system-deep-learning-for-seasonal-fire-forecasting-in-europe/collection.json",
-      "type": "application/json",
-      "title": "SeasFire"
-    },
-    {
-      "rel": "child",
-      "href": "./synergetic-retrieval-from-multi-mission-space-borne-measurements-for-enhancement-of-aerosol-characterization-syremis/collection.json",
-      "type": "application/json",
-      "title": "SYREMIS"
-    },
-    {
-      "rel": "child",
-      "href": "./understand-and-mitigate-impacts-of-3d-clouds-on-uv-vis-no2-trace-gas-retrievals-by-ai-exploration-of-synthetic-and-real-data-mit3d/collection.json",
-      "type": "application/json",
-      "title": "MIT3D"
     }
   ],
   "title": "Projects"

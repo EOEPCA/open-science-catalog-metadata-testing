@@ -96,7 +96,7 @@
   ],
   "themes": [
     {
-      "scheme": "OSC:SCHEME:THEMES",
+      "scheme": "https://github.com/stac-extensions/osc#theme",
       "concepts": [
         {
           "id": "Land"
@@ -126,8 +126,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "keywords": [
-    "theme:Land"
-  ]
+  "license": "proprietary"
 }
