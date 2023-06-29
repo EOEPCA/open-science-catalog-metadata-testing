@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "eoplumes",
   "stac_version": "1.0.0",
-  "description": "The detection of trace gas plumes allows us to improve attribution of pollutant emissions and photochemical processing in the global troposphere. Data collected by the ESA TROPOspheric Monitoring Instrument (TROPOMI) has resulted in a growing number of case studies that have used ad hoc methods to detect plumes for science applications. Developing a more comprehensive understanding of TROPOMI data will help to identify new research avenues and support the development of new applications. However, this is difficult because of the associated data volumes, a challenge that will only grow with time. We address this challenge by using artificial intelligence methods, underpinned by domain-level expertise, to develop plume reference datasets for TROPOMI.",
+  "description": "The detection of trace gas plumes allows us to improve attribution of pollutant emissions and photochemical processing in the global troposphere. Data collected by the ESA TROPOspheric Monitoring Instrument (TROPOMI) has resulted in a growing number of case studies that have used ad hoc methods to detect plumes for science applications. Developing a more comprehensive understanding of TROPOMI data will help to identify new research avenues and support the development of new applications. However, this is difficult because of the associated data volumes, a challenge that will only grow with time. We address this challenge by using artificial intelligence methods, underpinned by domain:level expertise, to develop plume reference datasets for TROPOMI.",
   "links": [
     {
       "rel": "root",
@@ -23,13 +23,15 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "EOplumes",
   "osc:name": "EOplumes",
   "osc:status": "ongoing",
+  "osc:themes": [
+    "Atmosphere"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -44,16 +46,6 @@
     {
       "name": "UNIVERSITY OF EDINBURGH (GB)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Atmosphere"
-        }
-      ]
     }
   ],
   "start_datetime": "2021-09-17T00:00:00Z",

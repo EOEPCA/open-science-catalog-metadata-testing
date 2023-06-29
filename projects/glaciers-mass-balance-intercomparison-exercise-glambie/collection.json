@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "glaciers-mass-balance-intercomparison-exercise-glambie",
   "stac_version": "1.0.0",
-  "description": "GlaMBIE project builds on nascent efforts within the IACS working group on Regional Assessments of Glacier Mass Change (RAGMAC, https://cryosphericsciences.org/activities/wg-ragmac/  ) to setup and coordinate an intercomparison exercise of regional glacier mass changes from glaciological in-situ measurements and various remote sensing sources, including geodetic DEM differencing, altimetry, and gravimetry. Under the guidance of Scientific Advisory Committee (staffed with the RAGMAC co-chairs), an assessment framework, algorithm, and environment will be developed to compile and analyse the regional glacier mass-change results from the active research groups to come up with new consensus estimates of regional and global glacier mass changes and related uncertainties.",
+  "description": "GlaMBIE project builds on nascent efforts within the IACS working group on Regional Assessments of Glacier Mass Change (RAGMAC, https://cryosphericsciences.org/activities/wg-ragmac/  ) to setup and coordinate an intercomparison exercise of regional glacier mass changes from glaciological in-situ measurements and various remote sensing sources, including geodetic DEM differencing, altimetry, and gravimetry. Under the guidance of Scientific Advisory Committee (staffed with the RAGMAC co-chairs), an assessment framework, algorithm, and environment will be developed to compile and analyse the regional glacier masS-change results from the active research groups to come up with new consensus estimates of regional and global glacier mass changes and related uncertainties.",
   "links": [
     {
       "rel": "root",
@@ -23,13 +23,15 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "GLAMBIE",
   "osc:name": "GLACIERS MASS BALANCE INTERCOMPARISON EXERCISE (GLAMBIE)",
   "osc:status": "ongoing",
+  "osc:themes": [
+    "Cryosphere"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -44,16 +46,6 @@
     {
       "name": "UNIVERSITY OF ZURICH (CH)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Cryosphere"
-        }
-      ]
     }
   ],
   "start_datetime": "2022-01-14T00:00:00Z",

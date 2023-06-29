@@ -49,3 +49,9 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+
+
+
+      # Fix timestamps
+      - name: restore timestamps
+      uses: chetan/git-restore-mtime-action@v1

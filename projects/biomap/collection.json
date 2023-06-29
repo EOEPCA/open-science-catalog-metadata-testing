@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "biomap",
   "stac_version": "1.0.0",
-  "description": "The BiomAP project aims to Integrate active and passive microwave data towards a novel global record of aboveground biomass maps. This comprises an end-to-end assessment of active and passive microwave observations at coarse spatial resolution at the longest wavelengths available in space to generate global AGB estimates. This work will eventually provide a 5-years baseline, from 2015 to 2020, relevant to carbon-related studies. Global and repeated microwave observations will come from ESA (SMOS), Eumetsat (ASCAT), JAXA (AMSR2) and NASA (SMAP) missions and will be used in combination with NASA LiDAR observations (ICESat GLAS, GEDI and ICESat-2). The overarching objective of this study is to enhance the accuracy of global AGB estimates compared to existing data products and reported statistics by integrating the satellite observations currently most sensitive to the biomass stored in aboveground vegetation",
+  "description": "The BiomAP project aims to Integrate active and passive microwave data towards a novel global record of aboveground biomass maps. This comprises an end-to-end assessment of active and passive microwave observations at coarse spatial resolution at the longest wavelengths available in space to generate global AGB estimates. This work will eventually provide a 5-years baseline, from 2015 to 2020, relevant to carbon-related studies. Global and repeated microwave observations will come from ESA (SMOS), Eumetsat (ASCAT), JAXA (AMSR2) and NASA (SMAP) missions and will be used in combination with NASA LiDAR observations (ICESat GLAS, GEDI and ICESat:2). The overarching objective of this study is to enhance the accuracy of global AGB estimates compared to existing data products and reported statistics by integrating the satellite observations currently most sensitive to the biomass stored in aboveground vegetation",
   "links": [
     {
       "rel": "root",
@@ -23,13 +23,15 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "BiomAP",
   "osc:name": "BiomAP",
   "osc:status": "ongoing",
+  "osc:themes": [
+    "Land"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -44,16 +46,6 @@
     {
       "name": "GAMMA REMOTE SENSING AG (CH)ESTELLUS SAS (FR)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Land"
-        }
-      ]
     }
   ],
   "start_datetime": "2021-09-22T00:00:00Z",

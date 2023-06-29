@@ -23,13 +23,15 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.1/schema.json",
-    "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "Space4SafeSea",
   "osc:name": "Space4SafeSea",
   "osc:status": "ongoing",
+  "osc:themes": [
+    "Oceans"
+  ],
   "osc:type": "project",
   "contacts": [
     {
@@ -42,22 +44,12 @@
       ]
     },
     {
-      "name": "E-Odyn (FR)",
+      "name": "E:Odyn (FR)",
       "role": "consortium_member"
     },
     {
       "name": "CLS (FR)",
       "role": "consortium_member"
-    }
-  ],
-  "themes": [
-    {
-      "scheme": "https://github.com/stac-extensions/osc#theme",
-      "concepts": [
-        {
-          "id": "Oceans"
-        }
-      ]
     }
   ],
   "start_datetime": "2021-02-07T00:00:00Z",
