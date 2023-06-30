@@ -39,7 +39,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install -U pip
-          pip install git+https://github.com/EOEPCA/open-science-catalog-builder@357be1e9a4435601d27936f999ac0d7c8efe61d7
+          pip install git+https://github.com/EOEPCA/open-science-catalog-builder@9d5fadcb95a9693c4f47c732b8d2a70addf2bcd5
       - name: Build static catalog
         run: |
           osc build . -o dist/ \
