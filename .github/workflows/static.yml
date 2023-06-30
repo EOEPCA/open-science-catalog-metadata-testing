@@ -44,6 +44,9 @@ jobs:
         run: |
           osc build . -o dist/ \
             --root-href "https://eoepca.github.io/open-science-catalog-metadata-testing/"
+      - name: Copying Catalog client
+        run: |
+          cp -r client/* dist/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
