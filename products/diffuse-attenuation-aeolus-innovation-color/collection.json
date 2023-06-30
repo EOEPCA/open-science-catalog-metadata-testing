@@ -39,6 +39,7 @@
   "osc:status": "planned",
   "osc:region": "Global",
   "osc:type": "product",
+  "osc:standard_name": "diffuse_attenuation",
   "extent": {
     "spatial": {
       "bbox": [
@@ -57,5 +58,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Ocean Optics",
+    "Attenuation/Transmission",
+    "Diffuse Attenuation Coefficient (DAC)"
+  ]
 }

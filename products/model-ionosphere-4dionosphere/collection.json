@@ -34,6 +34,7 @@
   "osc:status": "planned",
   "osc:region": null,
   "osc:type": "product",
+  "osc:standard_name": "model_ionosphere",
   "extent": {
     "spatial": {
       "bbox": [
@@ -54,5 +55,9 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Sun-Earth Interactions",
+    "Ionosphere/Magnetosphere Dynamics"
+  ]
 }

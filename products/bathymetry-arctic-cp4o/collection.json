@@ -45,6 +45,7 @@
   "osc:status": "ongoing",
   "osc:region": "Arctic",
   "osc:type": "product",
+  "osc:standard_name": "bathymetry",
   "created": "2015-02-23T00:00:00Z",
   "start_datetime": "2014-01-01T00:00:00Z",
   "end_datetime": "2014-12-31T23:59:59Z",
@@ -66,5 +67,9 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Bathymetry/Seafloor Topography",
+    "Bathymetry"
+  ]
 }

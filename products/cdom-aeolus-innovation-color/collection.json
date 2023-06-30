@@ -39,6 +39,7 @@
   "osc:status": "planned",
   "osc:region": "Global",
   "osc:type": "product",
+  "osc:standard_name": "chromophoric_dissolved_organic_matter",
   "extent": {
     "spatial": {
       "bbox": [
@@ -57,5 +58,9 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Ocean Chemistry",
+    "Organic Matter"
+  ]
 }

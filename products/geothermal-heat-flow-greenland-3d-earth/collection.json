@@ -45,6 +45,7 @@
   "osc:status": "ongoing",
   "osc:region": "Arctic",
   "osc:type": "product",
+  "osc:standard_name": "geothermal_heat_flow",
   "created": "2021-08-26T00:00:00Z",
   "sci:doi": "10.22008/FK2/F9P03L",
   "extent": {
@@ -65,5 +66,9 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Geothermal Dynamics",
+    "Geothermal Energy"
+  ]
 }

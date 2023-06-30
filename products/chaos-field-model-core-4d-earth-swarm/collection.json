@@ -50,6 +50,7 @@
   "osc:status": "ongoing",
   "osc:region": "Global",
   "osc:type": "product",
+  "osc:standard_name": "chaos_field_model_core",
   "created": "2020-10-20T00:00:00Z",
   "version": "7,8",
   "sci:doi": "10.1186/s40623-020-01252-7",
@@ -71,5 +72,11 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Ionosphere/Magnetosphere Dynamics",
+    "Magnetic Fields/Magnetic Currents",
+    "Sun-Earth Interactions",
+    "Geomagnetic Indices"
+  ]
 }

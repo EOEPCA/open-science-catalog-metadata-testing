@@ -34,6 +34,7 @@
   "osc:status": "completed",
   "osc:region": "Global",
   "osc:type": "product",
+  "osc:standard_name": "glacier_elevation",
   "start_datetime": "2010-01-01T00:00:00Z",
   "end_datetime": "2015-12-31T23:59:59Z",
   "extent": {
@@ -54,5 +55,12 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Glaciers/Ice Sheets",
+    "Glacier Elevation/Ice Sheet Elevation",
+    "Cryospheric Indicators",
+    "Glacial Measurements",
+    "Sea Ice"
+  ]
 }

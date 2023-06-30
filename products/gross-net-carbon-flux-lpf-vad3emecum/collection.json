@@ -48,6 +48,7 @@
   "osc:status": "planned",
   "osc:region": "Global",
   "osc:type": "product",
+  "osc:standard_name": "gross_net_carbon_flux",
   "start_datetime": "2003-01-01T00:00:00Z",
   "end_datetime": "2021-12-31T23:59:59Z",
   "extent": {
@@ -68,5 +69,9 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Climate Indicators",
+    "Carbon Flux"
+  ]
 }

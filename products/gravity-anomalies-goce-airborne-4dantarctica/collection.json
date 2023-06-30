@@ -46,6 +46,7 @@
   "osc:status": "completed",
   "osc:region": "Antarctica",
   "osc:type": "product",
+  "osc:standard_name": "gravity_anomalies",
   "created": "2016-01-08T00:00:00Z",
   "extent": {
     "spatial": {
@@ -65,5 +66,9 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Gravity/Gravitational Field",
+    "Gravity Anomalies"
+  ]
 }

@@ -34,6 +34,7 @@
   "osc:status": "ongoing",
   "osc:region": "Global",
   "osc:type": "product",
+  "osc:standard_name": "s2l2a_uncertainty_surface_reflectance_estimates",
   "created": "2022-07-01T00:00:00Z",
   "extent": {
     "spatial": {
@@ -53,5 +54,9 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Land Surface",
+    "Surface Radiative Properties"
+  ]
 }

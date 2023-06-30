@@ -39,6 +39,7 @@
   "osc:status": "ongoing",
   "osc:region": "Africa",
   "osc:type": "product",
+  "osc:standard_name": "biomass",
   "created": "2018-07-30T00:00:00Z",
   "extent": {
     "spatial": {
@@ -58,5 +59,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Vegetation",
+    "Biomass",
+    "Biosphere"
+  ]
 }

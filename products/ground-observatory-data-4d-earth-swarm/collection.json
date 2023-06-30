@@ -39,6 +39,7 @@
   "osc:status": "ongoing",
   "osc:region": null,
   "osc:type": "product",
+  "osc:standard_name": "ground_observatory_data",
   "created": "2021-09-10T00:00:00Z",
   "extent": {
     "spatial": {
@@ -60,5 +61,11 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Ionosphere/Magnetosphere Dynamics",
+    "Magnetic Fields/Magnetic Currents",
+    "Sun-Earth Interactions",
+    "Geomagnetic Indices"
+  ]
 }

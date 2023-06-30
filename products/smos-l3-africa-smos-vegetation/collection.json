@@ -39,6 +39,7 @@
   "osc:status": "ongoing",
   "osc:region": "Africa",
   "osc:type": "product",
+  "osc:standard_name": "vegetation_optical_depth",
   "created": "2018-07-30T00:00:00Z",
   "extent": {
     "spatial": {
@@ -58,5 +59,13 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Land Surface/Agriculture Indicators",
+    "Soil Moisture",
+    "Climate Indicators",
+    "Soils",
+    "Soil Moisture/Water Content",
+    "Agriculture"
+  ]
 }

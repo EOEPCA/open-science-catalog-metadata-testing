@@ -47,6 +47,7 @@
   "osc:status": "planned",
   "osc:region": "Europe",
   "osc:type": "product",
+  "osc:standard_name": "snow_depth",
   "extent": {
     "spatial": {
       "bbox": [
@@ -65,5 +66,11 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Snow/Ice",
+    "Snow Depth",
+    "Cryospheric Indicators",
+    "Sea Ice"
+  ]
 }

@@ -35,6 +35,7 @@
   "osc:status": "planned",
   "osc:region": "Antarctica",
   "osc:type": "product",
+  "osc:standard_name": "surface_elevation_change",
   "start_datetime": "2013-01-01T00:00:00Z",
   "end_datetime": "2017-12-31T23:59:59Z",
   "extent": {
@@ -55,5 +56,10 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "keywords": [
+    "Topography",
+    "Terrain Elevation",
+    "Digital Elevation/Terrain Model (DEM)"
+  ]
 }
