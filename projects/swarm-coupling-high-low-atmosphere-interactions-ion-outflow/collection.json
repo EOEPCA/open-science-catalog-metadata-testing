@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "swarm-coupling-high-low-atmosphere-interactions-ion-outflow",
   "stac_version": "1.0.0",
-  "description": "The Swarm+ Coupling High-Low Atmosphere InteractionS- Ion Outflow (Swarm+ Outflow) project, which began in May 2019, centers on using Swarm spacecraft to tackle unanswered questions around non:thermal processes that lead to ion outflow.",
+  "description": "The Swarm+ Coupling High-Low Atmosphere InteractionS- Ion Outflow (Swarm+ Outflow) project, which began in May 2019, centers on using Swarm spacecraft to tackle unanswered questions around non-thermal processes that lead to ion outflow.",
   "links": [
     {
       "rel": "root",

@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "arctic-salinity",
   "stac_version": "1.0.0",
-  "description": "Sea surface salinity measurements by L-band radiometry satellites SMOS and SMAP for the Arctic: algorithm development, long term data set production, quantification of the freshwater fluxes through SSS products",
+  "description": "Sea surface salinity measurements by L-band radiometry satellites SMOS and SMAP for the Arctic-algorithm development, long term data set production, quantification of the freshwater fluxes through SSS products",
   "links": [
     {
       "rel": "root",

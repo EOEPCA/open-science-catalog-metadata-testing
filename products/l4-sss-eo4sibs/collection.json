@@ -30,7 +30,7 @@
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json"
   ],
-  "title": "Level 4 product SSS, 0.05\u00c3\u0082\u00c2\u00b0*0.0505\u00c3\u0082\u00c2\u00b0",
+  "title": "Level 4 product SSS, 0.05\u00b0*0.0505\u00b0",
   "osc:themes": [
     "Oceans"
   ],

@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "pack-ice",
   "stac_version": "1.0.0",
-  "description": "Pack ice refers to high concentrations of sea ice. When concentrations are 60% or less, then the term drift ice is used. [Canadian Ice Service - Environment Canada \"http://www.cis.ec.gc.ca/manice/chp1_eng.htm\"]",
+  "description": "Pack ice refers to high concentrations of sea ice. When concentrations are 60% or less, then the term drift ice is used. [Canadian Ice Service - Environment Canada: http://www.cis.ec.gc.ca/manice/chp1_eng.htm]",
   "links": [
     {
       "rel": "root",

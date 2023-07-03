@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "earth-observation-data-for-science-and-innovation-in-the-black-sea",
   "stac_version": "1.0.0",
-  "description": "Novel EO-based products and enhanced data sets dedicated to the Black Sea as concernS- Ocean colour data, Coastal altimetry, High resolution salinity, River plume extent, Eddy tracking, Water mass classification, Stratification Index",
+  "description": "Novel EO-based products and enhanced data sets dedicated to the Black Sea as concerns: Ocean colour data, Coastal altimetry, High resolution salinity, River plume extent, Eddy tracking, Water mass classification, Stratification Index",
   "links": [
     {
       "rel": "root",

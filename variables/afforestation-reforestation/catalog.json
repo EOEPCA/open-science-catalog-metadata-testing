@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "afforestation-reforestation",
   "stac_version": "1.0.0",
-  "description": "Afforestation: \"the establishment of trees on an area that has lacked forest cover for a very long time or has never been forested. \" Reforestation: \" the natural or artificial restocking (i.e., planting, seeding) of an area with forest trees. Also called forest regeneration. \"[Government of British Columbia, Canada, Ministry of Forests, Glossary of Forest Terms \"http://www.for.gov.bc.ca/pab/publctns/glossary/glossary.htm\"]",
+  "description": "Afforestation: the establishment of trees on an area that has lacked forest cover for a very long time or has never been forested.  Reforestation:  the natural or artificial restocking (i.e., planting, seeding) of an area with forest trees. Also called forest regeneration. [Government of British Columbia, Canada, Ministry of Forests, Glossary of Forest Terms: http://www.for.gov.bc.ca/pab/publctns/glossary/glossary.htm]",
   "links": [
     {
       "rel": "root",

@@ -30,7 +30,7 @@
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json"
   ],
-  "title": "Level 4, sea level anomaly, multi-mission gridded merged products for a period of 1 year, 0.0625\u00c3\u0082\u00c2\u00b0*0.0625\u00c3\u0082\u00c2\u00b0, daily",
+  "title": "Level 4, sea level anomaly, multi-mission gridded merged products for a period of 1 year, 0.0625\u00b0*0.0625\u00b0, daily",
   "osc:themes": [
     "Oceans"
   ],

@@ -648,12 +648,6 @@
     },
     {
       "rel": "child",
-      "href": "./ovalie-oceanic-intrinsic-variability-versus-atmospheric-forced-variability-of-sea-level-change/collection.json",
-      "type": "application/json",
-      "title": "(LPF) OVALIE"
-    },
-    {
-      "rel": "child",
       "href": "./ozone-recovery-from-merged-observational-data-and-model-analysis-oregano/collection.json",
       "type": "application/json",
       "title": "OREGANO"

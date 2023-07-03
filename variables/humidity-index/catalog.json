@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "humidity-index",
   "stac_version": "1.0.0",
-  "description": "The Humidity Index is based on a ratio of annual precipitation and potential evapotranspiration There are various humidity indices including: The Global Humidity Index Evaporative Cooling Humidity Index Heat-Humidity Index",
+  "description": "The Humidity Index is based on a ratio of annual precipitation and potential evapotranspiration There are various humidity indices including: The Global Humidity Index Evaporative Cooling Humidity Index Heat-Humidity Index.",
   "links": [
     {
       "rel": "root",

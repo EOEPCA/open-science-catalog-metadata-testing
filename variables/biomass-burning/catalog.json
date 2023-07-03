@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "biomass-burning",
   "stac_version": "1.0.0",
-  "description": "Biomass burning is the burning of organic matter, such as, wood or crop wastes,that can be burned or converted into gaseous or liquid fuels. Useful biomass includes wood, wood residues left over from the timber industry, crop residues, charcoal, manure, urban waste, industrial wastes, and municipal sewage. Some of these fuels can be burned directly. Others are converted to methane or a gas.[Chiras, Daniel D. 1998. Environmental Science. A Systems Approach to Sustainable Development. Wadsworth Publishing Company. Belmont, California.]",
+  "description": "Biomass burning is the burning of organic matter, such as, wood or crop wastes,that can be burned or converted into gaseous or liquid fuels. Useful biomass includes wood, wood residues left over from the timber industry, crop residues, charcoal, manure, urban waste, industrial wastes, and municipal sewage. Some of these fuels can be burned directly, others are converted to methane or a gas.[Chiras, Daniel D. 1998. Environmental Science. A Systems Approach to Sustainable Development. Wadsworth Publishing Company. Belmont, California.]",
   "links": [
     {
       "rel": "root",

@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "ice-velocity",
   "stac_version": "1.0.0",
-  "description": "Pertaining to the rate at which ice formations (glaciers, ice sheets, etc.) are moving.[NOAA Satellite and Information Service]",
+  "description": "Pertaining to the rate at which ice formations (glaciers, ice sheets, etc.) are moving. [NOAA Satellite and Information Service]",
   "links": [
     {
       "rel": "root",

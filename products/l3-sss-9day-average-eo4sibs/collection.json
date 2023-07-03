@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "l3-sss-9day-average-eo4sibs",
   "stac_version": "1.0.0",
-  "description": "Salinity retrievals from L2A and L2D over 9 days are used to produce daily values in a 0.25\u00c3\u0082\u00c2\u00b0*0.25\u00c3\u0082\u00c2\u00b0 by using the weighted average described in(Olmedo et al., 2021a). The resulting 9-day maps are generated daily.",
+  "description": "Salinity retrievals from L2A and L2D over 9 days are used to produce daily values in a 0.25\u00b0*0.25\u00b0 by using the weighted average described in(Olmedo et al., 2021a). The resulting 9-day maps are generated daily.",
   "links": [
     {
       "rel": "root",
@@ -30,7 +30,7 @@
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json"
   ],
-  "title": "Level 3 SSS, 0.25\u00c3\u0082\u00c2\u00b0*0.25\u00c3\u0082\u00c2\u00b0, 9-day averaged produced daily",
+  "title": "Level 3 SSS, 0.25\u00b0*0.25\u00b0, 9-day averaged produced daily",
   "osc:themes": [
     "Oceans"
   ],

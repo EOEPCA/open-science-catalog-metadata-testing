@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "hr-albedomap-generation-of-high-resolution-spectral-and-broadband-surface-albedo-products-based-on-sentinel-2-msi-measurements",
   "stac_version": "1.0.0",
-  "description": "Improving a current surface albedo generation system by adapting and integrating a deep learning system for cloud detection, an advanced atmospheric correction model which considers the surface BRDF effects, and a new technology allowing to retrieve high-resolution albedo from high:resolution reflectance by combining with downscaled MODIS BRDF climatology",
+  "description": "Improving a current surface albedo generation system by adapting and integrating a deep learning system for cloud detection, an advanced atmospheric correction model which considers the surface BRDF effects, and a new technology allowing to retrieve high-resolution albedo from high-resolution reflectance by combining with downscaled MODIS BRDF climatology",
   "links": [
     {
       "rel": "root",

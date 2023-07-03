@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "binary-wet-snow-s14science-snow",
   "stac_version": "1.0.0",
-  "description": "Binary wet snow extent products were generated from Sentinel-1 data with 100 m grid spacing for snow areas with more than 70% fractional snow cover classified in the cloud gap filled fractional snow cover map of the same acquisition date from MODIS data. Forested areas and water bodies are masked in the wet snow products. These products were generated per track. Further, the binary wet snow maps from single tracks per day were merged to cover larger regions: Alps, Scandinavia, Pan-European domain. Product Access: Multi-sensor snowmelt extent products are stored as a zip file (\u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u0093tracks_all.zip\u00c3\u00a2\u00e2\u0082\u00ac\u00c2\u009d) at ftp.enveo.at. User: ftp30, password will be provided by the PI on request. PI: Thomas Nagler, ENVEO IT GmbH, email: thomas.nagler@enveo.at",
+  "description": "Binary wet snow extent products were generated from Sentinel-1 data with 100 m grid spacing for snow areas with more than 70% fractional snow cover classified in the cloud gap filled fractional snow cover map of the same acquisition date from MODIS data. Forested areas and water bodies are masked in the wet snow products. These products were generated per track. Further, the binary wet snow maps from single tracks per day were merged to cover larger regions: Alps, Scandinavia, Pan-European domain. Product Access: Multi-sensor snowmelt extent products are stored as a zip file (\"tracks_all.zip\") at ftp.enveo.at. User: ftp30, password will be provided by the PI on request. PI: Thomas Nagler, ENVEO IT GmbH, email: thomas.nagler@enveo.at",
   "links": [
     {
       "rel": "root",

@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "marine-obstructions",
   "stac_version": "1.0.0",
-  "description": "The act of watching,keeping track of or checking the ocean(pelagic or bottom conditions) for a special purpose.",
+  "description": "The act of watching, keeping track of or checking the ocean(pelagic or bottom conditions) for a special purpose.",
   "links": [
     {
       "rel": "root",

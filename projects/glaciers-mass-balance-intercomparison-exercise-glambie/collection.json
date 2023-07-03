@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "glaciers-mass-balance-intercomparison-exercise-glambie",
   "stac_version": "1.0.0",
-  "description": "GlaMBIE project builds on nascent efforts within the IACS working group on Regional Assessments of Glacier Mass Change (RAGMAC, https://cryosphericsciences.org/activities/wg-ragmac/  ) to setup and coordinate an intercomparison exercise of regional glacier mass changes from glaciological in-situ measurements and various remote sensing sources, including geodetic DEM differencing, altimetry, and gravimetry. Under the guidance of Scientific Advisory Committee (staffed with the RAGMAC co-chairs), an assessment framework, algorithm, and environment will be developed to compile and analyse the regional glacier masS-change results from the active research groups to come up with new consensus estimates of regional and global glacier mass changes and related uncertainties.",
+  "description": "GlaMBIE project builds on nascent efforts within the IACS working group on Regional Assessments of Glacier Mass Change (RAGMAC, https://cryosphericsciences.org/activities/wg-ragmac/  ) to setup and coordinate an intercomparison exercise of regional glacier mass changes from glaciological in-situ measurements and various remote sensing sources, including geodetic DEM differencing, altimetry, and gravimetry. Under the guidance of Scientific Advisory Committee (staffed with the RAGMAC co-chairs), an assessment framework, algorithm, and environment will be developed to compile and analyse the regional glacier mass-change results from the active research groups to come up with new consensus estimates of regional and global glacier mass changes and related uncertainties.",
   "links": [
     {
       "rel": "root",

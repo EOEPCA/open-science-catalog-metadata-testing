@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "water-vapour-isotopologue-flask-sampling-for-the-validation-of-satellite-data-wifvos",
   "stac_version": "1.0.0",
-  "description": "Development of a novel instrument to measure profiles of water vapour isotopologues from ground to the upper troposphere on a small (<20kg payload) balloon:borne platform",
+  "description": "Development of a novel instrument to measure profiles of water vapour isotopologues from ground to the upper troposphere on a small (<20kg payload) balloon-borne platform",
   "links": [
     {
       "rel": "root",

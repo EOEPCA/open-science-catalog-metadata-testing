@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "common-sense-climate-index",
   "stac_version": "1.0.0",
-  "description": "Our climate index is a simple measure of the degree, if any, to which practical climate change is occurring. It also illustrates natural climate variability, thus revealing how difficult it is to reliably perceive a change of quantities that are naturally \u0091\u0091noisy\u0092\u0092 or chaotic. Our aim is to help people judge whether or not climate fluctuations are a significant indication of change and to provide improved understanding of climate variability. More Information: http://data.giss.nasa.gov/csci/",
+  "description": "Our climate index is a simple measure of the degree, if any, to which practical climate change is occurring. It also illustrates natural climate variability, thus revealing how difficult it is to reliably perceive a change of quantities that are naturally \"noisy\" or chaotic. Our aim is to help people judge whether or not climate fluctuations are a significant indication of change and to provide improved understanding of climate variability. More Information: http://data.giss.nasa.gov/csci/",
   "links": [
     {
       "rel": "root",

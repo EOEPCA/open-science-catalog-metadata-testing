@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "sen4carbon-theme-2-fire-dynamics-sense4fire",
   "stac_version": "1.0.0",
-  "description": "Based on the new possibilities of the Sentinel series of satellites, this project aims to develop a highly novel approach to derive global fire emissions estimates based on the characterisation of individual fires and their behaviour. These data will be combined with bottom:up estimates of fuel and combustion and top:down constraints on total carbon emissions and emissions factors. Furthermore, observations of atmospheric composition will be exploited to provide an uncertainty assessment from top-down emission estimation.",
+  "description": "Based on the new possibilities of the Sentinel series of satellites, this project aims to develop a highly novel approach to derive global fire emissions estimates based on the characterisation of individual fires and their behaviour. These data will be combined with bottom:up estimates of fuel and combustion and top-down constraints on total carbon emissions and emissions factors. Furthermore, observations of atmospheric composition will be exploited to provide an uncertainty assessment from top-down emission estimation.",
   "links": [
     {
       "rel": "root",

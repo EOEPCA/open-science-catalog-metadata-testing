@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "gas-hydrates",
   "stac_version": "1.0.0",
-  "description": "Pertaining to the location, mining, production, or use of Methane Hydrates",
+  "description": "Pertaining to the location, mining, production, or use of Methane Hydrates.",
   "links": [
     {
       "rel": "root",

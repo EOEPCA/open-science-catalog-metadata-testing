@@ -4386,12 +4386,6 @@
     },
     {
       "rel": "child",
-      "href": "./surface-water-processes-measurements/catalog.json",
-      "type": "application/json",
-      "title": "Surface Water Processes/Measurements"
-    },
-    {
-      "rel": "child",
       "href": "./surface-water-vapour/catalog.json",
       "type": "application/json",
       "title": "Surface Water Vapour"
@@ -4572,12 +4566,6 @@
     },
     {
       "rel": "child",
-      "href": "./total-ozone/catalog.json",
-      "type": "application/json",
-      "title": "Total Ozone"
-    },
-    {
-      "rel": "child",
       "href": "./total-precipitable-water/catalog.json",
       "type": "application/json",
       "title": "Total Precipitable Water"
@@ -4677,12 +4665,6 @@
       "href": "./tropopause/catalog.json",
       "type": "application/json",
       "title": "Tropopause"
-    },
-    {
-      "rel": "child",
-      "href": "./tropospheric-ozone/catalog.json",
-      "type": "application/json",
-      "title": "Tropospheric Ozone"
     },
     {
       "rel": "child",
@@ -4917,18 +4899,6 @@
       "href": "./water-vapor/catalog.json",
       "type": "application/json",
       "title": "Water Vapor"
-    },
-    {
-      "rel": "child",
-      "href": "./water-vapor/catalog.json",
-      "type": "application/json",
-      "title": "Water Vapor"
-    },
-    {
-      "rel": "child",
-      "href": "./water-vapor-profiles/catalog.json",
-      "type": "application/json",
-      "title": "Water Vapor Profiles"
     },
     {
       "rel": "child",

@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "pre-melt-preconditioning-the-trigger-for-rapid-arctic-ice-melt",
   "stac_version": "1.0.0",
-  "description": "The project will deliver the first measurements of Arctic sea ice thickness during summer months, from twin satelliteS- ESA s CryoSat-2 & NASA s ICESat:2. Research linked to LPF project ArcticSummIT (httpS-//eo4society.esa.int/projects/arcticsummit-arctic-summer-ice-thickness/)",
+  "description": "The project will deliver the first measurements of Arctic sea ice thickness during summer months, from twin satellites- ESA s CryoSat-2 & NASA s ICESat-2. Research linked to LPF project ArcticSummIT (https://eo4society.esa.int/projects/arcticsummit-arctic-summer-ice-thickness/)",
   "links": [
     {
       "rel": "root",

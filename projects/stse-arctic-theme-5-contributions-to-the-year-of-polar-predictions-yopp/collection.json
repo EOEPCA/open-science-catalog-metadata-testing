@@ -32,7 +32,7 @@
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "STSE-ARCTIC+",
-  "osc:name": "STSE-ARCTIC+ THEME 5 \u0096 CONTRIBUTIONS TO THE YEAR OF POLAR PREDICTIONS (YOPP)",
+  "osc:name": "STSE-ARCTIC+ THEME 5-CONTRIBUTIONS TO THE YEAR OF POLAR PREDICTIONS (YOPP)",
   "osc:status": "completed",
   "osc:themes": [
     "Cryosphere"

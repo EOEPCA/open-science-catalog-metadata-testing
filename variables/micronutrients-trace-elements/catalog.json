@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "micronutrients-trace-elements",
   "stac_version": "1.0.0",
-  "description": "A plant nutrient usually found in relatively small amounts(<100 mg kg-1) in plants. These are usually B, Cl, Cu, Fe, Mn, Mo, Ni, Co, and Zn. In environmental applications it is those elements exclusive of the eight abundant rock-forming elements: oxygen, aluminum, silicon, iron, calcium, sodium, potassium, and magnesium.[Glossary of Soil Science Terms, 1996, Soil Science Society of America, Madison, WI \"http://www.soils.org/sssagloss/\"]",
+  "description": "A plant nutrient usually found in relatively small amounts(<100 mg kg-1) in plants. These are usually B, Cl, Cu, Fe, Mn, Mo, Ni, Co, and Zn. In environmental applications it is those elements exclusive of the eight abundant rock-forming elements: oxygen, aluminum, silicon, iron, calcium, sodium, potassium, and magnesium.[Glossary of Soil Science Terms, 1996, Soil Science Society of America, Madison, WI http://www.soils.org/sssagloss/]",
   "links": [
     {
       "rel": "root",

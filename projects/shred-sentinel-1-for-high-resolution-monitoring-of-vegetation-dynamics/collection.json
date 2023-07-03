@@ -32,7 +32,7 @@
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "(LPF) SHRED",
-  "osc:name": "SHRED: Sentinel-1 for High REsolution monitoring of vegetation Dynamics",
+  "osc:name": "SHREd- Sentinel-1 for High REsolution monitoring of vegetation Dynamics",
   "osc:status": "completed",
   "osc:themes": [
     "Land"

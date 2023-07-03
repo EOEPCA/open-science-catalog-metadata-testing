@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "upper-air-temperature",
   "stac_version": "1.0.0",
-  "description": "Atmospheric Temperature in the Boundary Layer, in the Upper Troposphere and Lower Stratosphere, in the Free Troposphere, in the Middle and Upper Stratosphere, in the Mesophere",
+  "description": "Atmospheric Temperature in the Boundary Layer, in the Upper Troposphere and Lower Stratosphere, in the Free Troposphere, in the Middle and Upper Stratosphere, in the Mesophere.",
   "links": [
     {
       "rel": "root",

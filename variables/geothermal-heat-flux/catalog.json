@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "geothermal-heat-flux",
   "stac_version": "1.0.0",
-  "description": "the amount of heat moving steadily outward from the interior of the earth through a unit area in unit time.",
+  "description": "The amount of heat moving steadily outward from the interior of the earth through a unit area in unit time.",
   "links": [
     {
       "rel": "root",

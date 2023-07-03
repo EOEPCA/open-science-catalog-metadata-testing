@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "gas-explosions-leaks",
   "stac_version": "1.0.0",
-  "description": "A gas explosion is defined as a process where combustion of a premixed gas-air cloud causes a rapid increase of pressure.[definition adapted from the American Gas & Chemical Co. Ltd. http://www.amgas.com]",
+  "description": "A gas explosion is defined as a process where combustion of a premixed gas-air cloud causes a rapid increase of pressure.",
   "links": [
     {
       "rel": "root",

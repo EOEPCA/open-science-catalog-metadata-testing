@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "hydroperiod",
   "stac_version": "1.0.0",
-  "description": "A given amount of time in which a river/stream system is active; i.e., water is passing through the system(s).[USGS Water Resources]",
+  "description": "A given amount of time in which a river/stream system is active; i.e., water is passing through the system(s).",
   "links": [
     {
       "rel": "root",

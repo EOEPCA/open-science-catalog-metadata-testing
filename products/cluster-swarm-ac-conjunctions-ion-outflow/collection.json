@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "cluster-swarm-ac-conjunctions-ion-outflow",
   "stac_version": "1.0.0",
-  "description": "CSV file with a list of all conjunctions between Swarm-Alpha and Cluster-4. Conjunctions were identified by NASA\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s \u00c3\u0082\u00c2\u00abSatellite Situation Center Web\u00c3\u0082\u00c2\u00bb Query tool in Nov 2018.",
+  "description": "CSV file with a list of all conjunctions between Swarm-Alpha and Cluster-4. Conjunctions were identified by NASA's <<Satellite Situation Center Web>> Query tool in Nov 2018.",
   "links": [
     {
       "rel": "root",

@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "magnetic-inclination",
   "stac_version": "1.0.0",
-  "description": "The dip, angle of dip, magnetic dip, magnetic inclination, inclination (physics) the angle that a magnetic needle makes with the plane of the horizon",
+  "description": "The dip, angle of dip, magnetic dip, magnetic inclination, inclination (physics) the angle that a magnetic needle makes with the plane of the horizon.",
   "links": [
     {
       "rel": "root",

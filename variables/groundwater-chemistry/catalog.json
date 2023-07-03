@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "groundwater-chemistry",
   "stac_version": "1.0.0",
-  "description": "Pertaining to the various chemical substances contained within groundwater.[Goudie, Andrew. 1997. The Encyclopedic Dictionary of Physical Geography. Blackwell Publishing, Malden, Massachusetts.]",
+  "description": "Pertaining to the various chemical substances contained within groundwater.",
   "links": [
     {
       "rel": "root",

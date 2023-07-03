@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "karst-landscape",
   "stac_version": "1.0.0",
-  "description": "An ecosystem within a landscape defined as Karst topography characterized by caves, sinkholes, disappraring streams and underground drainage. Karst forms when groundwater dissolves pockets of limestone, dolomite, or gypsum in rock.[From the Houghton Mifflin Student Resource Center GeologyLink. \"http://college.hmco.com/geology/resources/geologylink/glossary.html\"]",
+  "description": "An ecosystem within a landscape defined as Karst topography characterized by caves, sinkholes, disappraring streams and underground drainage. Karst forms when groundwater dissolves pockets of limestone, dolomite, or gypsum in rock.[From the Houghton Mifflin Student Resource Center GeologyLink.:http://college.hmco.com/geology/resources/geologylink/glossary.html]",
   "links": [
     {
       "rel": "root",

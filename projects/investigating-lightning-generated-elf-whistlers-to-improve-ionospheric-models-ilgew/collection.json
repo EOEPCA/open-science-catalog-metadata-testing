@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "investigating-lightning-generated-elf-whistlers-to-improve-ionospheric-models-ilgew",
   "stac_version": "1.0.0",
-  "description": "ILGEW project has three main scientific objectiveS- 1) Characterize the whistler dispersion measured from Earth low orbital altitudes, in order to analyse the ionosphere below Swarm satellites, along the propagation path of the whistlers; 2) Constrain the lightning activity that lead to favourable propagation conditions for the generation of detectable ELF whistlers at Swarm altitudes; 3) Establish the benefits that can be obtained for ionospheric models such as the International Reference Ionosphere (IRI) by using the information obtained from whistlers characteristics.",
+  "description": "ILGEW project has three main scientific objectives: 1) Characterize the whistler dispersion measured from Earth low orbital altitudes, in order to analyse the ionosphere below Swarm satellites, along the propagation path of the whistlers; 2) Constrain the lightning activity that lead to favourable propagation conditions for the generation of detectable ELF whistlers at Swarm altitudes; 3) Establish the benefits that can be obtained for ionospheric models such as the International Reference Ionosphere (IRI) by using the information obtained from whistlers characteristics.",
   "links": [
     {
       "rel": "root",

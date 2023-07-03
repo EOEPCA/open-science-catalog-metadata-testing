@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "smos-l3-africa-smos-vegetation",
   "stac_version": "1.0.0",
-  "description": "Product details: Rodr\u00c3\u0083\u00c2\u00adguez-Fern\u00c3\u0083\u00c2\u00a1ndez, N. J., Mialon, A., Mermoz, S., Bouvet, A., Richaume, P., Al Bitar, A., Al-Yaari, A., Brandt, M., Kaminski, T., Le Toan, T., Kerr, Y. H., and Wigneron, J.-P.: An evaluation of SMOS L-band vegetation optical depth (L-VOD) data sets: high sensitivity of L-VOD to above-ground biomass in Africa, Biogeosciences, 15, 4627\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0080\u009c4645, https://doi.org/10.5194/bg-15-4627-2018, 2018.",
+  "description": "Product details: Rodriguez-Fernandez, N. J., Mialon, A., Mermoz, S., Bouvet, A., Richaume, P., Al Bitar, A., Al-Yaari, A., Brandt, M., Kaminski, T., Le Toan, T., Kerr, Y. H., and Wigneron, J.-P.: An evaluation of SMOS L-band vegetation optical depth (L-VOD) data sets: high sensitivity of L-VOD to above-ground biomass in Africa, Biogeosciences, 15, 4627-4645, https://doi.org/10.5194/bg-15-4627-2018, 2018.",
   "links": [
     {
       "rel": "root",

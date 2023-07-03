@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "virtual-temperature",
   "stac_version": "1.0.0",
-  "description": "(Also called density temperature.) The virtual temperature Tv = T(1 + rv/ ?)/(1 + rv), where rv is the mixing ratio and ? is the ratio of the gas constants of air and water vapor, ? 0.622. The virtual temperature is the temperature a parcel which contains no moisture would have to equal the density of a parcel at a specific temperature and humidity.",
+  "description": "The virtual temperature is the temperature a parcel which contains no moisture would have to equal the density of a parcel at a specific temperature and humidity. [National Weather Service Glossary, NOAA, 2009]",
   "links": [
     {
       "rel": "root",
@@ -12,7 +12,7 @@
     },
     {
       "rel": "via",
-      "href": "https://gcmd.earthdata.nasa.gov/KeywordViewer/scheme/Earth%20Science/449ad1fb-8010-43c7-b994-178a049d4cff?gtm_keyword=TEMPERATURE%20TENDENCY&gtm_scheme=Earth%20Science https://gcmd.earthdata.nasa.gov/KeywordViewer/scheme/Earth%20Science/3afb06fa-96b7-4bf4-a6b7-b5fa626afc04?gtm_keyword=VIRTUAL%20TEMPERATURE&gtm_scheme=Earth%20Science",
+      "href": " https://gcmd.earthdata.nasa.gov/KeywordViewer/scheme/Earth%20Science/3afb06fa-96b7-4bf4-a6b7-b5fa626afc04?gtm_keyword=VIRTUAL%20TEMPERATURE&gtm_scheme=Earth%20Science",
       "type": "text/html",
       "title": "Description"
     },

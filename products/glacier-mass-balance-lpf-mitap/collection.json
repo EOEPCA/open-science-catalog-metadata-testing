@@ -20,7 +20,7 @@
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json"
   ],
-  "title": "Geodetic glacier mass balances Antarctic Peninsula <70\u00c3\u0082\u00c2\u00b0S between 2013 and 2017_Antarctica_TanDEM-X",
+  "title": "Geodetic glacier mass balances Antarctic Peninsula <70\u00b0S between 2013 and 2017_Antarctica_TanDEM-X",
   "osc:themes": [
     "Cryosphere"
   ],

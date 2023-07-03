@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "landscape-patterns",
   "stac_version": "1.0.0",
-  "description": "A natural space classification of living communities and their environmental conditions.[British Columbia Ministry of Forests \"http://www.for.gov.bc.ca/PAB/PUBLCTNS/GLOSSARY/glossary.htm\"]",
+  "description": "A natural space classification of living communities and their environmental conditions.[British Columbia Ministry of Forests: http://www.for.gov.bc.ca/PAB/PUBLCTNS/GLOSSARY/glossary.htm]",
   "links": [
     {
       "rel": "root",

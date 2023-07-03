@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "biogeochemical-processes",
   "stac_version": "1.0.0",
-  "description": "A pathway by which a chemical element or molecule moves through both biotic (biosphere) and abiotic (lithosphere, atmosphere, and hydrosphere) compartments of Earth. The term \u0093biogeochemical\u0094 tells us that biological; geological and chemical factors are all involved. On the other hand the circulation of chemical nutrients like carbon, oxygen, nitrogen, phosphorus, calcium, and water etc. through the biological and physical world are known as biogeochemical cycle.",
+  "description": "A pathway by which a chemical element or molecule moves through both biotic (biosphere) and abiotic (lithosphere, atmosphere, and hydrosphere) compartments of Earth. The term \"biogeochemical\" tells us that biological; geological and chemical factors are all involved. On the other hand the circulation of chemical nutrients like carbon, oxygen, nitrogen, phosphorus, calcium, and water etc. through the biological and physical world are known as biogeochemical cycle.",
   "links": [
     {
       "rel": "root",

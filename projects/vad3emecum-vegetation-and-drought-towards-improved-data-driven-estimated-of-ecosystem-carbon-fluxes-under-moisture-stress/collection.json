@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "vad3emecum-vegetation-and-drought-towards-improved-data-driven-estimated-of-ecosystem-carbon-fluxes-under-moisture-stress",
   "stac_version": "1.0.0",
-  "description": "Integration of data streams of the sun:induced chlorophyll fluorescence, land surface temperature and vegetation optical depth into data:driven flux models for a better diagnosis of vegetative stress reactions as well as completementary information on soil moisture.",
+  "description": "Integration of data streams of the sun-induced chlorophyll fluorescence, land surface temperature and vegetation optical depth into data-driven flux models for a better diagnosis of vegetative stress reactions as well as completementary information on soil moisture.",
   "links": [
     {
       "rel": "root",

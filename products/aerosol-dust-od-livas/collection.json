@@ -30,7 +30,7 @@
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json"
   ],
-  "title": "Aerosol (and dust aerosol) optical depth, averaged per overpass along 1x1 degree grid_Global_CALIPSO",
+  "title": "Aerosol (and dust aerosol) optical depth_Global_CALIPSO",
   "osc:themes": [
     "Atmosphere"
   ],

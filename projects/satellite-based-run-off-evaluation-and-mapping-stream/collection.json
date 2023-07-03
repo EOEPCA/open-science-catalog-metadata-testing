@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "satellite-based-run-off-evaluation-and-mapping-stream",
   "stac_version": "1.0.0",
-  "description": "A quality assessment of STREAM runoff estimates has been pursued at multiple pilot basins across the world (5 large basins + multiple sub:basins) characterised by different physiographic/climatic features. In these areas, the model was able to accurately simulate river discharge and total runoff time series.",
+  "description": "A quality assessment of STREAM runoff estimates has been pursued at multiple pilot basins across the world (5 large basins + multiple sub-basins) characterised by different physiographic/climatic features. In these areas, the model was able to accurately simulate river discharge and total runoff time series.",
   "links": [
     {
       "rel": "root",

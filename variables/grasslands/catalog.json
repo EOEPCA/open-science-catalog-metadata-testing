@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "grasslands",
   "stac_version": "1.0.0",
-  "description": "Areas in which vegetation is dominated by perennial grasses and grass-like plants, such as sedges and rushes.[The Nature Conservancy Glossary of Terms Used in the US National Vegetation Classification Hierarchy, 1998]",
+  "description": "Areas in which vegetation is dominated by perennial grasses and grass-like plants, such as sedges and rushes.",
   "links": [
     {
       "rel": "root",

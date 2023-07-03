@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "particulate-backscattering-coefficient",
   "stac_version": "1.0.0",
-  "description": "The particulate volume scattering function ?p(?, ?) of particles suspended in seawater describes the scattered intensity at light wavelength ? as a function of scattering angle ? per unit incident irradiance per unit volume of a small sample of seawater interacting with a collimated beam of light. Again, the subscript \u0093p\u0094 denotes scattering by only particles following the removal of contributions of molecular water and dissolved salts. For the sake of brevity, we will generally omit the arguments ? and ? unless specifically required. The particulate backscattering coefficient bbp is defined as the integration of ?p in all backwards angles, although experimental estimates of bbp often rely on measurements at one or a few scattering angles and various assumptions regarding the angular shape of ?p. ?p, and by extension bbp, of a natural assemblage of particles is to first order a function of particle concentration and to higher order dependent upon the composition, size distribution, and shapes of the particles within the assemblage. First order principles can be observed in the generally strong correlation between bbp and the concentration of suspended particulate matter [Koestner, et al. 2022]",
+  "description": "Particulate matter (particulate backscatter coefficient at 443nm, bbp in m^-1 at 4km resolution): The backscatter coefficient bbp represents the fraction of incident light that is scattered backward from its original path by particulate material in the water. The backscattering coefficient gives a good indication of the concentration of suspended organic and inorganic particles (e.g. sediments) in the water.",
   "links": [
     {
       "rel": "root",
@@ -12,7 +12,7 @@
     },
     {
       "rel": "via",
-      "href": "https://doi.org/10.3389/fmars.2022.941950",
+      "href": "https://data.jrc.ec.europa.eu/dataset/034ff0b2-9ebe-479c-a838-2def29380287#:~:text=Particulate%20matter%20(particulate%20backscatter%20coefficient,particulate%20material%20in%20the%20water.",
       "type": "text/html",
       "title": "Description"
     },

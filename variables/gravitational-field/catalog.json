@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "gravitational-field",
   "stac_version": "1.0.0",
-  "description": "Pertaining to the measurement, strength, size, etc. of the Earth's gravitational field.[Boston University Department of Physics]",
+  "description": "Pertaining to the measurement, strength, size, etc. of the Earth's gravitational field.",
   "links": [
     {
       "rel": "root",

@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "sea-surface-salinity-arctic-salinity",
   "stac_version": "1.0.0",
-  "description": "Arctic sea surface salinity retrieved from SMOS, spatial resolution 0.25 deg (EASE grid 2.0), temporal resolution 9-day maps generated daily. The product contains the following data: i) sea surface salinity (p.s.u), ii) sea surface salinity uncertainty (p.s.u), and iii) sea surface salinity anomaly (p.s.u) : difference between sea surface salinity provided by SSS field and the annual sea surface salinity provided by WOA 2018 A5B7. Product version 3.1.  The product will be freely distributed at the BEC webpage http://bec.icm.csic.es and at the project webpage https://arcticsalinity.argans.co.uk.",
+  "description": "Arctic sea surface salinity retrieved from SMOS, spatial resolution 0.25 deg (EASE grid 2.0), temporal resolution 9-day maps generated daily. The product contains the following data: i) sea surface salinity (p.s.u), ii) sea surface salinity uncertainty (p.s.u), and iii) sea surface salinity anomaly (p.s.u): difference between sea surface salinity provided by SSS field and the annual sea surface salinity provided by WOA 2018 A5B7. Product version 3.1.  The product will be freely distributed at the BEC webpage http://bec.icm.csic.es and at the project webpage https://arcticsalinity.argans.co.uk.",
   "links": [
     {
       "rel": "root",

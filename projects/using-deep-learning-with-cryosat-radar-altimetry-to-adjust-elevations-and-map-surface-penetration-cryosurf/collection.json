@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "using-deep-learning-with-cryosat-radar-altimetry-to-adjust-elevations-and-map-surface-penetration-cryosurf",
   "stac_version": "1.0.0",
-  "description": "Using CryoSat-2 interferometric synthetic aperture radar (SARIn) altimetry together with NASA operation IceBridge and IceSat:2 Lidar data in a multi-layer neural network (NN) in order to enhance CryoSat-2 SARIn swath measurements.",
+  "description": "Using CryoSat-2 interferometric synthetic aperture radar (SARIn) altimetry together with NASA operation IceBridge and Icesat:2 Lidar data in a multi-layer neural network (NN) in order to enhance CryoSat-2 SARIn swath measurements.",
   "links": [
     {
       "rel": "root",

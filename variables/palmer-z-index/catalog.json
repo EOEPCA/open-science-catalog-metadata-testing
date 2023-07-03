@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "palmer-z-index",
   "stac_version": "1.0.0",
-  "description": "The Palmer Z Index shows how monthly moisture conditions depart from normal (short-term drought and wetness).[NOAA/National Climatic Data Center - http://www.ncdc.noaa.gov/oa/climate/research/prelim/drought/palmer.html]",
+  "description": "The Palmer Z Index shows how monthly moisture conditions depart from normal (short-term drought and wetness).[NOAA/National Climatic Data Center: [http://www.ncdc.noaa.gov/oa/climate/research/prelim/drought/palmer.html]",
   "links": [
     {
       "rel": "root",

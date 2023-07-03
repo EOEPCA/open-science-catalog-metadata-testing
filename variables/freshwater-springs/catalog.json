@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "freshwater-springs",
   "stac_version": "1.0.0",
-  "description": "Pertaining to the zones where the water table intersects the land surface, and water flows out of an aquifer without needing to be pumped out of a well.[http://www.watershedatlas.org]",
+  "description": "Pertaining to the zones where the water table intersects the land surface, and water flows out of an aquifer without needing to be pumped out of a well.",
   "links": [
     {
       "rel": "root",

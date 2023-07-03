@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "ice-temperature",
   "stac_version": "1.0.0",
-  "description": "Measurements of the temperature of the sea ice and surrounding sea surface temperature. These measurements are usually obtained from remote sensing satellites.[Hall, D.K. and J. Martinec. 1985. Remote Sensing of Ice and Snow, Chapman and Hall, London.]",
+  "description": "Measurements of the temperature of the sea ice and surrounding sea surface temperature. These measurements are usually obtained from remote sensing satellites.",
   "links": [
     {
       "rel": "root",

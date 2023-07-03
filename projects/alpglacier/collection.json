@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "alpglacier",
   "stac_version": "1.0.0",
-  "description": "The Glacier Science in the Alps project is part of the Alps Regional Initiative and is aimed at maximising the scientific return of European investments in EO specifically from Sentinel-1 and Sentinel-2 specifically to provide first enhanced observation capacity for glaciers in the Alps beyond area to glacier velocity and end of season snow cover on a weekly:annual basis and second to provide a scientifically sound assessment of hazard state as a direct function of glacier change, specifically, lake size and slope movement around glaciers. This project attempts to provide a wall:to:wall coverage of glaciers in the Alps for the full Sentinel era and will analyse changes taking place in this time period and in contrast with earlier data from the EO archives.",
+  "description": "The Glacier Science in the Alps project is part of the Alps Regional Initiative and is aimed at maximising the scientific return of European investments in EO specifically from Sentinel-1 and Sentinel-2 specifically to provide first enhanced observation capacity for glaciers in the Alps beyond area to glacier velocity and end of season snow cover on a weekly:annual basis and second to provide a scientifically sound assessment of hazard state as a direct function of glacier change, specifically, lake size and slope movement around glaciers. This project attempts to provide a wall-to-wall coverage of glaciers in the Alps for the full Sentinel era and will analyse changes taking place in this time period and in contrast with earlier data from the EO archives.",
   "links": [
     {
       "rel": "root",

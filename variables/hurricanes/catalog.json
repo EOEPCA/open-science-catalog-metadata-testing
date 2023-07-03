@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "hurricanes",
   "stac_version": "1.0.0",
-  "description": "A tropical cyclone with 1-min average surface (10 m) winds in excess of 32 m s?1 (64 knots) in the Western Hemisphere (North Atlantic Ocean, Caribbean Sea, Gulf of Mexico, and in the eastern and central North Pacific east of the date line).[Glossary of Meteorology Online, American Meteorological Society, 2010.]",
+  "description": "A tropical cyclone with 1-min average surface (10 m) winds in excess of 32 m s-1 (64 knots) in the Western Hemisphere (North Atlantic Ocean, Caribbean Sea, Gulf of Mexico, and in the eastern and central North Pacific east of the date line).",
   "links": [
     {
       "rel": "root",

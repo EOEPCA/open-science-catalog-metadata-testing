@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "ice-motion",
   "stac_version": "1.0.0",
-  "description": "Defined as the horizontal displacement of ice over an area. [NOAA Satellite and Information Service]",
+  "description": "Defined as the horizontal displacement of ice over an area. ",
   "links": [
     {
       "rel": "root",

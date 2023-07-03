@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "hydraulic-conductivity",
   "stac_version": "1.0.0",
-  "description": "A measure of the readiness with which a liquid, such as water, flows through a solid, such as soil, in response to a given potential gradient.[The Nature and Properties of Soils, Prentice Hall, 1996.]",
+  "description": "A measure of the readiness with which a liquid, such as water, flows through a solid, such as soil, in response to a given potential gradient.",
   "links": [
     {
       "rel": "root",

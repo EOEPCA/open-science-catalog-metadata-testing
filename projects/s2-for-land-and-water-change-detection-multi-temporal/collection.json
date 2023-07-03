@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "s2-for-land-and-water-change-detection-multi-temporal",
   "stac_version": "1.0.0",
-  "description": "The project aims at defining the scientific methods and the related prototype algorithms for addressing three main challenges with the multispectral and multiresolution Sentinel 2 imageS- 1) change detection; 2) analysis of image time series; and 3) updating of land-cover maps.",
+  "description": "The project aims at defining the scientific methods and the related prototype algorithms for addressing three main challenges with the multispectral and multiresolution Sentinel 2 images- 1) change detection; 2) analysis of image time series; and 3) updating of land-cover maps.",
   "links": [
     {
       "rel": "root",

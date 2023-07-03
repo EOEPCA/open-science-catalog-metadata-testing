@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "heavy-metals",
   "stac_version": "1.0.0",
-  "description": "Those metals which have densities >5.0 Mg m-3. In soils these include the elements Cd, Co, Cr, Cu, Fe, Hg, Mn, Mo, Ni, Pb, and Zn.[From the Glossary of Soil Terms/Soil Science Society of America (SSSA): \"http://www.soils.org/sssagloss/\"]",
+  "description": "Those metals which have densities >5.0 Mg m-3. In soils these include the elements Cd, Co, Cr, Cu, Fe, Hg, Mn, Mo, Ni, Pb, and Zn.",
   "links": [
     {
       "rel": "root",

@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "hydroxyl",
   "stac_version": "1.0.0",
-  "description": "Hydroxyl (OH) - an atom consisting of one hydrogen atom and one oxygen atom which does not normally exist in a stable form; this radical readily reacts with methane and carbon monoxide. The source of the hydroxyl radical in the atmosphere occurs primarily through the 1) photolysis of hydrogen peroxide, heat, and light and 2) the attack on water of an excited oxygen radical (created by the photolysis of ozone). [JAPCA; v39; 704; 1989] [Journal of Chemical Society; v85; 577; 1989.]",
+  "description": "Hydroxyl (OH) - an atom consisting of one hydrogen atom and one oxygen atom which does not normally exist in a stable form; this radical readily reacts with methane and carbon monoxide. The source of the hydroxyl radical in the atmosphere occurs primarily through the 1) photolysis of hydrogen peroxide, heat, and light and 2) the attack on water of an excited oxygen radical (created by the photolysis of ozone). ",
   "links": [
     {
       "rel": "root",

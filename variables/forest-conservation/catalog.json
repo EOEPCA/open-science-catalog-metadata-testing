@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "forest-conservation",
   "stac_version": "1.0.0",
-  "description": "Management of the human use of the biosphere so that it may yield the greatest sustainable benefit to present generations while maintaining its potential to meet the needs and aspirations of future generations. It includes the preservation, maintenance, sustainable utilisation, restoration and enhancement of the environment.[From the Glossary of Forestry Terms, Ministry of Forests, Government of British Columbia, Canada. \"http://www.for.gov.bc.ca/hfd/library/documents/glossary/\"]",
+  "description": "Management of the human use of the biosphere so that it may yield the greatest sustainable benefit to present generations while maintaining its potential to meet the needs and aspirations of future generations. It includes the preservation, maintenance, sustainable utilisation, restoration and enhancement of the environment.[From the Glossary of Forestry Terms, Ministry of Forests, Government of British Columbia, Canada. http://www.for.gov.bc.ca/hfd/library/documents/glossary/",
   "links": [
     {
       "rel": "root",

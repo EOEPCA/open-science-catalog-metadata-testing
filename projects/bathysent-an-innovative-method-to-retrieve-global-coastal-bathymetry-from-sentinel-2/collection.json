@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "bathysent-an-innovative-method-to-retrieve-global-coastal-bathymetry-from-sentinel-2",
   "stac_version": "1.0.0",
-  "description": "Development of an automated method for mapping coastal bathymetry (water depths) on the basis of Copernicus Sentinel2 mission",
+  "description": "Development of an automated method for mapping coastal bathymetry (water depths) on the basis of Copernicus Sentinel-2 mission",
   "links": [
     {
       "rel": "root",

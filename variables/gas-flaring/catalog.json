@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "gas-flaring",
   "stac_version": "1.0.0",
-  "description": "Refers to the burning of a jet of waste gas in the open air.[Merriam-Webster online 1999]",
+  "description": "Refers to the burning of a jet of waste gas in the open air.",
   "links": [
     {
       "rel": "root",

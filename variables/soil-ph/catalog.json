@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "soil-ph",
   "stac_version": "1.0.0",
-  "description": "The negative log of Hydrogen ion concentration",
+  "description": "The negative log of Hydrogen ion concentration.",
   "links": [
     {
       "rel": "root",

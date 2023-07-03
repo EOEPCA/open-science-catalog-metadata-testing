@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "cryosmos",
   "stac_version": "1.0.0",
-  "description": "Testing the capabilities of SMOS for monitoring Antarctica s ice sheet and ice shelves, focusing on 4 case studieS- the estimate of the temperature profile of the ice sheet;the capability of investigating bedrock topography; the study of the ice shelves stability ; the monitoring of wet snow.",
+  "description": "Testing the capabilities of SMOS for monitoring Antarctica s ice sheet and ice shelves, focusing on 4 case studies- the estimate of the temperature profile of the ice sheet;the capability of investigating bedrock topography; the study of the ice shelves stability ; the monitoring of wet snow.",
   "links": [
     {
       "rel": "root",

@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "transmittance",
   "stac_version": "1.0.0",
-  "description": "A measure of the amount of radiation propagated through a given medium. defined as the ratio of transmitted radiation to the total radiation incident upon the medium. Also known as transmissivity.",
+  "description": "A measure of the amount of radiation propagated through a given medium. Defined as the ratio of transmitted radiation to the total radiation incident upon the medium. Also known as transmissivity.",
   "links": [
     {
       "rel": "root",

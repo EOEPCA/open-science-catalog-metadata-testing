@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "ice-types",
   "stac_version": "1.0.0",
-  "description": "Ice Types is a general term applied to sea, river, and lake ice to describe attributes such as age, stage of development or growth, or surface feature.[Canadian Ice Service - Environment Canada \"http://www.cis.ec.gc.ca/manice/chp1_eng.htm\"]",
+  "description": "Ice Types is a general term applied to sea, river, and lake ice to describe attributes such as age, stage of development or growth, or surface feature.",
   "links": [
     {
       "rel": "root",

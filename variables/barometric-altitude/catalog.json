@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "barometric-altitude",
   "stac_version": "1.0.0",
-  "description": "Also called Pressure Altitude. Barometric Altitude is the altitude which corresponds to a given value of atmospheric pressure according to the ICAO standard atmosphere. It is the indicated altitude of a pressure altimeter at an altimeter setting of 29.92 inches of mercury (1013.2 mb); therefore it is the indicated altitude above the 1013.2 mb constant-pressure surface. RT",
+  "description": "Also called Pressure Altitude. Barometric Altitude is the altitude which corresponds to a given value of atmospheric pressure according to the ICAO standard atmosphere. It is the indicated altitude of a pressure altimeter at an altimeter setting of 29.92 inches of mercury (1013.2 mb); therefore it is the indicated altitude above the 1013.2 mb constant-pressure surface. ",
   "links": [
     {
       "rel": "root",

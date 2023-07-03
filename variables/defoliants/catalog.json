@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "defoliants",
   "stac_version": "1.0.0",
-  "description": "An agent that damages trees by destroying leaves or needles.[Government of British Columbia, Ministry of Forests, Glossary of Forest Terms\"http://www.for.gov.bc.ca/pab/publctns/glossary/glossary.htm]",
+  "description": "An agent that damages trees by destroying leaves or needles.[Government of British Columbia, Ministry of Forests, Glossary of Forest Terms: http://www.for.gov.bc.ca/pab/publctns/glossary/glossary.htm]",
   "links": [
     {
       "rel": "root",

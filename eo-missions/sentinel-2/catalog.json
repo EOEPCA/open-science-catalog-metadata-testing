@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "sentinel-2",
   "stac_version": "1.0.0",
-  "description": "Sentinel-2 is a constellation of two optical imaging satellites, which are a part of Copernicus - the European Union\u0092s Earth observation program.",
+  "description": "Sentinel-2 is a constellation of two optical imaging satellites, which are a part of Copernicus - the European Union's Earth observation program.",
   "links": [
     {
       "rel": "root",

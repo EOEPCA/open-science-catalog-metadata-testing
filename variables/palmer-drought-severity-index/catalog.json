@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "palmer-drought-severity-index",
   "stac_version": "1.0.0",
-  "description": "The Palmer Index or the Palmer Drought Severity Index (PDSI) is an index formulated by Palmer (1965) and compares the actual amount of precipitation received in an area during a specified period with the normal or average amount expected during that same period. The PDSI is based on a procedure of hydrologic or water balance accounting by which excesses or deficiences in moisture are determined in relation to average climatic values.[Palmer, W.C., 1965: <i>Meteorological Drought Research Paper 45</i>, U.S. Weather Bureau, Washington, D.C. From: American Meterological Society, 2000: The Glossary of Meteorology, 2nd edition, Boston, MA See also \"http://www.drought.noaa.gov/palmer.html\"]",
+  "description": "The Palmer Index or the Palmer Drought Severity Index (PDSI) is an index formulated by Palmer (1965) and compares the actual amount of precipitation received in an area during a specified period with the normal or average amount expected during that same period. The PDSI is based on a procedure of hydrologic or water balance accounting by which excesses or deficiences in moisture are determined in relation to average climatic values.[Palmer, W.C., 1965: Meteorological Drought Research Paper 45, U.S. Weather Bureau, Washington, D.C. From: American Meterological Society, 2000: The Glossary of Meteorology, 2nd edition, Boston, MA See also http://www.drought.noaa.gov/palmer.html]",
   "links": [
     {
       "rel": "root",

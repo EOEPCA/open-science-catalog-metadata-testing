@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "carbon-flux",
   "stac_version": "1.0.0",
-  "description": "Carbon flux refers to the direction and rate of transfer, or flows, of carbon between Earth\u0092s carbon pools such as the oceans, atmosphere,land, other living things. Carbon fluxes can be natural exchanges, such as land-atmosphere and ocean-atmosphere fluxes, or anthropogenic exchanges, such as urban carbon fluxes",
+  "description": "Carbon flux refers to the direction and rate of transfer, or flows, of carbon between Earth's carbon pools such as the oceans, atmosphere,land, other living things. Carbon fluxes can be natural exchanges, such as land-atmosphere and ocean-atmosphere fluxes, or anthropogenic exchanges, such as urban carbon fluxes.",
   "links": [
     {
       "rel": "root",

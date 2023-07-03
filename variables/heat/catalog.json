@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "heat",
   "stac_version": "1.0.0",
-  "description": "Hot weather, which may be accompanied by high humidity.[World Meteorological Organization]",
+  "description": "Hot weather, which may be accompanied by high humidity.",
   "links": [
     {
       "rel": "root",

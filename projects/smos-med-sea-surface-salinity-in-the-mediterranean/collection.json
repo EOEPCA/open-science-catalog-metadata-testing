@@ -32,7 +32,7 @@
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "SMOS+ Mediterranean",
-  "osc:name": "SMOS+ Med: Sea Surface Salinity in the Mediterranean",
+  "osc:name": "SMOS+ Med-Sea Surface Salinity in the Mediterranean",
   "osc:status": "completed",
   "osc:themes": [
     "Oceans"

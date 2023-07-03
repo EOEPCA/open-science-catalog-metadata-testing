@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "mass-balance-and-ice-dynamics-of-antarctic-peninsula-glaciers-mit-ap",
   "stac_version": "1.0.0",
-  "description": "The aim of this project is to carry out an enhanced analysis of glacier mass balances and ice dynamics throughout the Antarctic Peninsula (<70\u00ac?S) using various remote sensing data,in-situ measurements and model output.",
+  "description": "The aim of this project is to carry out an enhanced analysis of glacier mass balances and ice dynamics throughout the Antarctic Peninsula (<70\u00b0S) using various remote sensing data,in-situ measurements and model output.",
   "links": [
     {
       "rel": "root",

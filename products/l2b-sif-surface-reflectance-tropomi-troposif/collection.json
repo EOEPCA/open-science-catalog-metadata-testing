@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "l2b-sif-surface-reflectance-tropomi-troposif",
   "stac_version": "1.0.0",
-  "description": "This dataset provides daily ungridded (L2B) SIF and surface reflectance estimates derived from TROPOMI observations covering the period May 2018-March 2021. The TROPOSIF products consists in: SIF estimates at 740 nm derived from a data driven approach based on a linear forward model fitting TOA radiances in the far-red spectral region; SIF data set derived from the 743\u00e2\u0080\u0093758 nm window (baseline SIF product); SIF data set from the extended 735\u00e2\u0080\u0093758 nm window (secondary SIF product); The SIF data from the 735\u00e2\u0080\u0093758 nm window have an enhanced signal-to-noise ratio but a higher sensitivity to atmospheric conditions than the SIF estimates from the 743\u00e2\u0080\u0093758 nm window; Spectral surface reflectance in 7 bands covering the 665\u00e2\u0080\u0093785 nm range.",
+  "description": "This dataset provides daily ungridded (L2B) SIF and surface reflectance estimates derived from TROPOMI observations covering the period May 2018-March 2021. The TROPOSIF products consists in: SIF estimates at 740 nm derived from a data driven approach based on a linear forward model fitting TOA radiances in the far-red spectral region; SIF data set derived from the 743-758 nm window (baseline SIF product); SIF data set from the extended 735-758 nm window (secondary SIF product); The SIF data from the 735-758 nm window have an enhanced signal-to-noise ratio but a higher sensitivity to atmospheric conditions than the SIF estimates from the 743-758 nm window; Spectral surface reflectance in 7 bands covering the 665-785 nm range.",
   "links": [
     {
       "rel": "root",

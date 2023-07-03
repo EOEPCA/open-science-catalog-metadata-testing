@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "heavy-metals-concentration",
   "stac_version": "1.0.0",
-  "description": "Heavy Metals are any of the high atomic weight metals such as lead, mercury, cadmium, and zinc.[Nebel, Bernard J. and Richard T. Wright. 1998. Environmental Science: the Way the World Works.-6th ed. Prentice Hall, Inc. Upper Saddle River, New Jersey.]",
+  "description": "Heavy Metals are any of the high atomic weight metals such as lead, mercury, cadmium, and zinc.",
   "links": [
     {
       "rel": "root",

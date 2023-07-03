@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "forestscan",
   "stac_version": "1.0.0",
-  "description": "Investigate novel technologies such as Terrestrial Laser Scanning (TLS) and Unmanned Aerial Vehicle-based Laser Scanning (UAV:LS) to complement manual plot based measurements of AGB by collecting and analysing such data for three tropical sites in French Guiana (Paracou), Gabon (Lop) and Malayisa (Sepilok). In addition at each of these sites airborne laser scanning data is available.",
+  "description": "Investigate novel technologies such as Terrestrial Laser Scanning (TLS) and Unmanned Aerial Vehicle-based Laser Scanning (UAV-LS) to complement manual plot based measurements of AGB by collecting and analysing such data for three tropical sites in French Guiana (Paracou), Gabon (Lop) and Malayisa (Sepilok). In addition at each of these sites airborne laser scanning data is available.",
   "links": [
     {
       "rel": "root",
