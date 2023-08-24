@@ -28,7 +28,8 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json"
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
+    "https://stac-extensions.github.io/cf/v0.1.0/schema.json"
   ],
   "title": "Oceanic/current fronts_Gibraltar",
   "osc:themes": [
@@ -40,19 +41,20 @@
     "Fronts"
   ],
   "osc:status": "ongoing",
-  "osc:region": "Gibraltar",
   "osc:type": "product",
-  "osc:standard_name": "oceanic_current_fronts",
+  "osc:region": "Gibraltar",
   "created": "2021-11-30T00:00:00Z",
   "start_datetime": "2010-01-01T00:00:00Z",
   "end_datetime": "2020-12-31T23:59:59Z",
   "extent": {
     "spatial": {
       "bbox": [
-        -5.4006553,
-        36.05875496,
-        -5.27666114,
-        36.15503755
+        [
+          -5.4006553,
+          36.05875496,
+          -5.27666114,
+          36.15503755
+        ]
       ]
     },
     "temporal": {
@@ -69,5 +71,12 @@
     "Ocean Circulation",
     "Ocean Currents",
     "Fronts"
-  ]
+  ],
+  "summaries": {
+    "cf:parameter": [
+      {
+        "name": "oceanic_current_fronts"
+      }
+    ]
+  }
 }

@@ -23,7 +23,8 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json"
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
+    "https://stac-extensions.github.io/cf/v0.1.0/schema.json"
   ],
   "title": "Hydrodynamic model data (deviation from Sea Level Mean)_Multimission",
   "osc:themes": [
@@ -45,19 +46,20 @@
     "Sea Level"
   ],
   "osc:status": "ongoing",
-  "osc:region": "Baltics",
   "osc:type": "product",
-  "osc:standard_name": "hydrodynamic_model_sea_level_mean",
+  "osc:region": "Baltics",
   "created": "2021-05-28T00:00:00Z",
   "start_datetime": "2017-01-01T00:00:00Z",
   "end_datetime": "2017-12-31T23:59:59Z",
   "extent": {
     "spatial": {
       "bbox": [
-        9.0405918788,
-        53.8666553578,
-        31.3371258934,
-        66.1535071282
+        [
+          9.0405918788,
+          53.8666553578,
+          31.3371258934,
+          66.1535071282
+        ]
       ]
     },
     "temporal": {
@@ -73,5 +75,12 @@
   "keywords": [
     "Sea Surface Topography",
     "Sea Level"
-  ]
+  ],
+  "summaries": {
+    "cf:parameter": [
+      {
+        "name": "hydrodynamic_model_sea_level_mean"
+      }
+    ]
+  }
 }

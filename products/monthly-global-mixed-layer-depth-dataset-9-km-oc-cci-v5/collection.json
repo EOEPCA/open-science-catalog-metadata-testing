@@ -28,7 +28,8 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json"
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
+    "https://stac-extensions.github.io/cf/v0.1.0/schema.json"
   ],
   "title": "Monthly Global Mixed Layer Depth dataset (9 km, OC-CCI v5)",
   "osc:themes": [
@@ -47,19 +48,20 @@
     "Ocean Mixed Layer"
   ],
   "osc:status": "completed",
-  "osc:region": "Global",
   "osc:type": "product",
-  "osc:standard_name": "mixed_layer_depth",
+  "osc:region": "Global",
   "created": "2021-12-21T00:00:00Z",
   "start_datetime": "1998-01-01T00:00:00Z",
   "end_datetime": "2020-12-31T23:59:59Z",
   "extent": {
     "spatial": {
       "bbox": [
-        -180.0,
-        -90.0,
-        180.0,
-        90.0
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
       ]
     },
     "temporal": {
@@ -76,5 +78,12 @@
     "Ocean Circulation",
     "Ocean Mixed Layer",
     "Ocean Temperature"
-  ]
+  ],
+  "summaries": {
+    "cf:parameter": [
+      {
+        "name": "mixed_layer_depth"
+      }
+    ]
+  }
 }

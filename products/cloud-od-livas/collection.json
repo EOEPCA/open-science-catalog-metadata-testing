@@ -28,7 +28,8 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json"
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
+    "https://stac-extensions.github.io/cf/v0.1.0/schema.json"
   ],
   "title": "Cloud optical depth_Global_CALIPSO",
   "osc:themes": [
@@ -42,19 +43,20 @@
     "Cloud Optical Depth/Thickness"
   ],
   "osc:status": "ongoing",
-  "osc:region": "Global",
   "osc:type": "product",
-  "osc:standard_name": "cloud_optical_depth",
+  "osc:region": "Global",
   "created": "2021-01-01T00:00:00Z",
   "start_datetime": "2006-01-01T00:00:00Z",
   "end_datetime": "2021-12-31T23:59:59Z",
   "extent": {
     "spatial": {
       "bbox": [
-        -180.0,
-        -90.0,
-        180.0,
-        90.0
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
       ]
     },
     "temporal": {
@@ -72,5 +74,12 @@
     "Cloud Microphysics",
     "Cloud Optical Depth/Thickness",
     "Cloud Properties"
-  ]
+  ],
+  "summaries": {
+    "cf:parameter": [
+      {
+        "name": "cloud_optical_depth"
+      }
+    ]
+  }
 }

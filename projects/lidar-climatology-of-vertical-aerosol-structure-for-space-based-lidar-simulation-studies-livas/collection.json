@@ -35,15 +35,6 @@
   "osc:type": "project",
   "contacts": [
     {
-      "name": "",
-      "role": "technical_officer",
-      "emails": [
-        {
-          "value": ""
-        }
-      ]
-    },
-    {
       "name": "NATIONAL OBSERVATORY OF ATHENS (GR)",
       "role": "consortium_member"
     }

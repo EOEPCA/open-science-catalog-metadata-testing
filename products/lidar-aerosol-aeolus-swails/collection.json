@@ -23,7 +23,8 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json"
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
+    "https://stac-extensions.github.io/cf/v0.1.0/schema.json"
   ],
   "title": "AOD (Aerosol Optical Depth) estimates from LARISSA",
   "osc:themes": [
@@ -37,19 +38,20 @@
     "Aerosol Optical Depth/Thickness"
   ],
   "osc:status": "ongoing",
-  "osc:region": "Global Oceans",
   "osc:type": "product",
-  "osc:standard_name": "aeolus_larissa_2a",
+  "osc:region": "Global Oceans",
   "created": "2022-09-06T00:00:00Z",
   "start_datetime": "2018-08-22T00:00:00Z",
   "end_datetime": "2022-09-06T23:59:59Z",
   "extent": {
     "spatial": {
       "bbox": [
-        -180.0,
-        -90.0,
-        180.0,
-        90.0
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
       ]
     },
     "temporal": {
@@ -65,5 +67,12 @@
   "keywords": [
     "Aerosols",
     "Aerosol Optical Depth/Thickness"
-  ]
+  ],
+  "summaries": {
+    "cf:parameter": [
+      {
+        "name": "aeolus_larissa_2a"
+      }
+    ]
+  }
 }

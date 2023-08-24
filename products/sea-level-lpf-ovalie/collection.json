@@ -33,6 +33,7 @@
   ],
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
+    "https://stac-extensions.github.io/cf/v0.1.0/schema.json",
     "https://stac-extensions.github.io/scientific/v1.0.0/schema.json"
   ],
   "title": "Sea level trends over 1993-2015 and 2005-2015 from the OCCIPUT ensemble simulation",
@@ -45,9 +46,8 @@
     "Sea Level"
   ],
   "osc:status": "ongoing",
-  "osc:region": "Global",
   "osc:type": "product",
-  "osc:standard_name": "sea_level_trends",
+  "osc:region": "Global",
   "created": "2018-11-14T00:00:00Z",
   "start_datetime": "1993-01-01T00:00:00Z",
   "end_datetime": "2015-12-31T23:59:59Z",
@@ -55,10 +55,12 @@
   "extent": {
     "spatial": {
       "bbox": [
-        -180.0,
-        -90.0,
-        180.0,
-        90.0
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
       ]
     },
     "temporal": {
@@ -74,5 +76,12 @@
   "keywords": [
     "Sea Surface Topography",
     "Sea Level"
-  ]
+  ],
+  "summaries": {
+    "cf:parameter": [
+      {
+        "name": "sea_level_trends"
+      }
+    ]
+  }
 }

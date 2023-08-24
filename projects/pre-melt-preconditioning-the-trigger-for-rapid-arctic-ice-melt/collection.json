@@ -35,15 +35,6 @@
   "osc:type": "project",
   "contacts": [
     {
-      "name": "",
-      "role": "technical_officer",
-      "emails": [
-        {
-          "value": ""
-        }
-      ]
-    },
-    {
       "name": "University of Bristo (UK)",
       "role": "consortium_member"
     }
