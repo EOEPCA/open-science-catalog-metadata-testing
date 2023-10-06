@@ -35,6 +35,15 @@
   "osc:type": "project",
   "contacts": [
     {
+      "name": "Nobody",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "nobody@esa.example"
+        }
+      ]
+    },
+    {
       "name": "NORCE (NO)",
       "role": "consortium_member"
     }

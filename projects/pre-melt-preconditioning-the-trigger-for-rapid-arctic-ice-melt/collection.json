@@ -35,6 +35,15 @@
   "osc:type": "project",
   "contacts": [
     {
+      "name": "Nobody",
+      "role": "technical_officer",
+      "emails": [
+        {
+          "value": "nobody@esa.example"
+        }
+      ]
+    },
+    {
       "name": "University of Bristo (UK)",
       "role": "consortium_member"
     }

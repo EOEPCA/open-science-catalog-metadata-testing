@@ -2,13 +2,19 @@
   "type": "Catalog",
   "id": "limb-viewing-instruments",
   "stac_version": "1.0.0",
-  "description": "",
+  "description": " ",
   "links": [
     {
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
       "title": "Open Science Catalog"
+    },
+    {
+      "rel": "via",
+      "href": "https://esa.example",
+      "type": "text/html",
+      "title": "Example"
     },
     {
       "rel": "parent",
