@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "geodynamo-simulation-4d-earth-swarm",
   "stac_version": "1.0.0",
-  "description": "Long time series of outputs from a geodynamo model approaching Earth's core conditions and a catalogue of simulated jerks from a geodynamo model approaching Earth's core conditions.",
+  "description": "Long time series of outputs from a geodynamo model approaching EarthÃÂ¢Ã¢âÂ¬Ã¢âÂ¢s core conditions and a catalogue of simulated jerks from a geodynamo model approaching EarthÃÂ¢Ã¢âÂ¬Ã¢âÂ¢s core conditions",
   "links": [
     {
       "rel": "root",
@@ -28,7 +28,8 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json"
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.3/schema.json",
+    "https://stac-extensions.github.io/cf/v0.2.0/schema.json"
   ],
   "title": "Geodynamo simulation data_Earth core",
   "osc:themes": [
@@ -48,17 +49,23 @@
     "Geomagnetic Indices"
   ],
   "osc:status": "ongoing",
-  "osc:region": "Global",
   "osc:type": "product",
-  "osc:standard_name": "geodynamo_simulation",
+  "cf:parameter": [
+    {
+      "name": "geodynamo_simulation"
+    }
+  ],
+  "osc:region": "Global",
   "created": "2020-10-22T00:00:00Z",
   "extent": {
     "spatial": {
       "bbox": [
-        -180.0,
-        -90.0,
-        180.0,
-        90.0
+        [
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
+        ]
       ]
     },
     "temporal": {

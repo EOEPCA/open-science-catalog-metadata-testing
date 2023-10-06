@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "jason-2",
   "stac_version": "1.0.0",
-  "description": "Launched in June 2008, Jason-2, also referred to as the Ocean Surface Topography Mission (OSTM), was the follow-on mission from Jason-1 and Posiedon/TOPEX. In this mission, the National Aeronautics and Space Administration (NASA) and Centre National d'Etudes Spatiales (CNES) worked collaboratively with the National Oceanic and Atmospheric Administration (NOAA) and European Organization for the Exploitation of Meteorological Satellites (EUMETSAT) to extend the existing time series of ocean surface topography measurements. Jason-2 successfully obtained a continuous record of observations in line with previous missions which included measurements of time-averaged ocean circulation, global sea-level change and improved open ocean tide models, until it was decommissioned in October 2019.",
+  "description": "Launched in June 2008, Jason-2, also referred to as the Ocean Surface Topography Mission (OSTM), was the follow-on mission from Jason-1 and Posiedon/TOPEX. In this mission, the National Aeronautics and Space Administration (NASA) and Centre National dï¿½Etudes Spatiales (CNES) worked collaboratively with the National Oceanic and Atmospheric Administration (NOAA) and European Organization for the Exploitation of Meteorological Satellites (EUMETSAT) to extend the existing time series of ocean surface topography measurements. Jason-2 successfully obtained a continuous record of observations in line with previous missions which included measurements of time-averaged ocean circulation, global sea-level change and improved open ocean tide models, until it was decommissioned in October 2019.",
   "links": [
     {
       "rel": "root",

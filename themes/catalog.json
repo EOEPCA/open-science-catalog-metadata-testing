@@ -11,12 +11,6 @@
       "title": "Open Science Catalog"
     },
     {
-      "rel": "parent",
-      "href": "../catalog.json",
-      "type": "application/json",
-      "title": "Open Science Catalog"
-    },
-    {
       "rel": "child",
       "href": "./atmosphere/catalog.json",
       "type": "application/json",
@@ -51,6 +45,12 @@
       "href": "./solid-earth/catalog.json",
       "type": "application/json",
       "title": "Solid Earth"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Open Science Catalog"
     }
   ],
   "title": "Themes"
