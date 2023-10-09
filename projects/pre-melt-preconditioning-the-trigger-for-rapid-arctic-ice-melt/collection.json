@@ -16,6 +16,11 @@
       "title": "Website"
     },
     {
+      "rel": "via",
+      "href": "https://eo4society.esa.int/projects/arcticsummit-arctic-summer-ice-thickness/",
+      "title": "EO4Society Link"
+    },
+    {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",
@@ -23,7 +28,7 @@
     }
   ],
   "stac_extensions": [
-    "https://stac-extensions.github.io/osc/v1.0.0-rc.2/schema.json",
+    "https://stac-extensions.github.io/osc/v1.0.0-rc.3/schema.json",
     "https://stac-extensions.github.io/contacts/v0.1.1/schema.json"
   ],
   "title": "PRE-MELT",
@@ -34,15 +39,6 @@
   ],
   "osc:type": "project",
   "contacts": [
-    {
-      "name": "",
-      "role": "technical_officer",
-      "emails": [
-        {
-          "value": ""
-        }
-      ]
-    },
     {
       "name": "University of Bristo (UK)",
       "role": "consortium_member"

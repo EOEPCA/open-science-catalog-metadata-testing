@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "cryosat-2",
   "stac_version": "1.0.0",
-  "description": "CryoSat-2 is the first successfully launched satellite in the CryoSat series. The mission is operated by ESA as one of their Earth Explorer missions. It monitors changes in polar ice sheets. Use to determine fluctuations in the mass of the Earth's major land and marine ice fields",
+  "description": "CryoSat-2 is the first successfully launched satellite in the CryoSat series. The mission is operated by ESA as one of their Earth Explorer missions. It monitors changes in polar ice sheets. Use to determine fluctuations in the mass of the Earths major land and marine ice fields",
   "links": [
     {
       "rel": "root",

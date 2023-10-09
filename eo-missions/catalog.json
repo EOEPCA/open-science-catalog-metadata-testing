@@ -11,12 +11,6 @@
       "title": "Open Science Catalog"
     },
     {
-      "rel": "parent",
-      "href": "../catalog.json",
-      "type": "application/json",
-      "title": "Open Science Catalog"
-    },
-    {
       "rel": "child",
       "href": "./aeolus/catalog.json",
       "type": "application/json",
@@ -303,6 +297,12 @@
       "href": "./topex-poseidon/catalog.json",
       "type": "application/json",
       "title": "TOPEX/Poseidon"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Open Science Catalog"
     }
   ],
   "title": "EO Missions"

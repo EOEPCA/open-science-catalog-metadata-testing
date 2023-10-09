@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "landsat-8",
   "stac_version": "1.0.0",
-  "description": "Landsat-8, launched in February 2013, is the eighth satellite in NASA's Landsat spacecraft series, and the first of the Landsat Data Continuity Mission (LDCM). Operated by the United States Geological Survey (USGS), this collaborative mission aims to collect and archive thermal and multispectral image data whilst ensuring consistency with previous Landsat mission data. ",
+  "description": "Landsat-8, launched in February 2013, is the eighth satellite in NASAs Landsat spacecraft series, and the first of the Landsat Data Continuity Mission (LDCM). Operated by the United States Geological Survey (USGS), this collaborative mission aims to collect and archive thermal and multispectral image data whilst ensuring consistency with previous Landsat mission data. ",
   "links": [
     {
       "rel": "root",
