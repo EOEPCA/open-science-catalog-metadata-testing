@@ -21,6 +21,10 @@
       "title": "Documentation"
     },
     {
+      "rel": "cite-as",
+      "href": "https://doi.org/0.5281/zenodo.5903642"
+    },
+    {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",
@@ -29,7 +33,8 @@
   ],
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0-rc.3/schema.json",
-    "https://stac-extensions.github.io/cf/v0.2.0/schema.json"
+    "https://stac-extensions.github.io/cf/v0.2.0/schema.json",
+    "https://stac-extensions.github.io/scientific/v1.0.0/schema.json"
   ],
   "title": "Antarctic Ice Shelf Calving Fronts 1997-2021",
   "osc:themes": [
@@ -51,6 +56,7 @@
   "created": "2023-01-25T00:00:00Z",
   "start_datetime": "1997-01-01T00:00:00Z",
   "end_datetime": "2021-12-31T23:59:59Z",
+  "sci:doi": "0.5281/zenodo.5903642",
   "extent": {
     "spatial": {
       "bbox": [
