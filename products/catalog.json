@@ -14,7 +14,7 @@
       "rel": "child",
       "href": "./absolute-sea-level-heights-baltics-sar-hsu/collection.json",
       "type": "application/json",
-      "title": "SL-ABS:Â Absolute Sea Level Heights_Baltics_Multimission"
+      "title": "SL-ABS: Absolute Sea Level Heights_Baltics_Multimission"
     },
     {
       "rel": "child",
@@ -30,9 +30,15 @@
     },
     {
       "rel": "child",
-      "href": "./aerosol-dust-od-livas/collection.json",
+      "href": "./aerosol-dust-od-avg-grid-livas/collection.json",
       "type": "application/json",
       "title": "Aerosol (and dust aerosol) optical depth, averaged per overpass along 1x1 degree grid_Global_CALIPSO"
+    },
+    {
+      "rel": "child",
+      "href": "./aerosol-dust-od-livas/collection.json",
+      "type": "application/json",
+      "title": "Aerosol (and dust aerosol) optical depth_Global_CALIPSO"
     },
     {
       "rel": "child",
@@ -272,13 +278,13 @@
       "rel": "child",
       "href": "./dem-antarctica-2013-lpf-mitap/collection.json",
       "type": "application/json",
-      "title": "Digital Elevation Model Antarctic Peninsula <70Â°S 2013_Antarctica_TanDEM-X"
+      "title": "Digital Elevation Model Antarctic Peninsula <70°S 2013_Antarctica_TanDEM-X"
     },
     {
       "rel": "child",
       "href": "./dem-antarctica-2017-lpf-mitap/collection.json",
       "type": "application/json",
-      "title": "Digital Elevation Model Antarctic Peninsula <70Â°S 2017_Antarctica_TanDEM-X"
+      "title": "Digital Elevation Model Antarctic Peninsula <70°S 2017_Antarctica_TanDEM-X"
     },
     {
       "rel": "child",
@@ -326,7 +332,7 @@
       "rel": "child",
       "href": "./electronic-delay-correction-baltics-sar-hsu/collection.json",
       "type": "application/json",
-      "title": "COR-EC2:Â ECR Electronic Delay Correction_Baltics_Multimission"
+      "title": "COR-EC2: ECR Electronic Delay Correction_Baltics_Multimission"
     },
     {
       "rel": "child",
@@ -356,7 +362,7 @@
       "rel": "child",
       "href": "./geodynamic-corrections-baltics-sar-hsu/collection.json",
       "type": "application/json",
-      "title": "COR-GC:Â Geodynamic Corrections_Baltics_Multimission"
+      "title": "COR-GC: Geodynamic Corrections_Baltics_Multimission"
     },
     {
       "rel": "child",
@@ -368,7 +374,7 @@
       "rel": "child",
       "href": "./geoid-heights-baltics-sar-hsu/collection.json",
       "type": "application/json",
-      "title": "GEO-HGT:Â Geoid Heights_Baltics_Multimission"
+      "title": "GEO-HGT: Geoid Heights_Baltics_Multimission"
     },
     {
       "rel": "child",
@@ -392,7 +398,7 @@
       "rel": "child",
       "href": "./glacier-mass-balance-lpf-mitap/collection.json",
       "type": "application/json",
-      "title": "Geodetic glacier mass balances Antarctic Peninsula <70Â°S between 2013 and 2017_Antarctica_TanDEM-X"
+      "title": "Geodetic glacier mass balances Antarctic Peninsula <70°S between 2013 and 2017_Antarctica_TanDEM-X"
     },
     {
       "rel": "child",
@@ -428,7 +434,7 @@
       "rel": "child",
       "href": "./gnss-positioning-solution-baltics-sar-hsu/collection.json",
       "type": "application/json",
-      "title": "GNSS-POS:Â GNSS positioning solution_Baltics_Multimission"
+      "title": "GNSS-POS: GNSS positioning solution_Baltics_Multimission"
     },
     {
       "rel": "child",
@@ -560,19 +566,19 @@
       "rel": "child",
       "href": "./ionospheric-delays-baltics-sar-hsu/collection.json",
       "type": "application/json",
-      "title": "COR-ID:Â Ionospheric Delays_Baltics_Multimission"
+      "title": "COR-ID: Ionospheric Delays_Baltics_Multimission"
     },
     {
       "rel": "child",
       "href": "./l2-smos-sss-daily-ascending-eo4sibs/collection.json",
       "type": "application/json",
-      "title": "Level 2 SMOS , Ascending orbit, 0.25Â°*0.25Â°, daily averaged produced daily"
+      "title": "Level 2 SMOS , Ascending orbit, 0.25°*0.25°, daily averaged produced daily"
     },
     {
       "rel": "child",
       "href": "./l2-smos-sss-daily-descending-eo4sibs/collection.json",
       "type": "application/json",
-      "title": "Level 2 SMOS , Descending orbit, 0.25Â°*0.25Â°, daily averaged produced daily"
+      "title": "Level 2 SMOS , Descending orbit, 0.25°*0.25°, daily averaged produced daily"
     },
     {
       "rel": "child",
@@ -608,7 +614,7 @@
       "rel": "child",
       "href": "./l3-sss-9day-average-eo4sibs/collection.json",
       "type": "application/json",
-      "title": "Level 3 SSS, 0.25Â°*0.25Â°, 9-day averaged produced daily"
+      "title": "Level 3 SSS, 0.25°*0.25°, 9-day averaged produced daily"
     },
     {
       "rel": "child",
@@ -626,25 +632,25 @@
       "rel": "child",
       "href": "./l4-dynamic-topography-eo4sibs/collection.json",
       "type": "application/json",
-      "title": "Level 4, absolute dynamic topography, multi-mission gridded merged products for a period of 1 year, 0.0625Â°*0.0625Â°, daily"
+      "title": "Level 4, absolute dynamic topography, multi-mission gridded merged products for a period of 1 year, 0.0625°*0.0625°, daily"
     },
     {
       "rel": "child",
       "href": "./l4-geostrophic-currents-eo4sibs/collection.json",
       "type": "application/json",
-      "title": "Level 4, geostrophic currents, multi-mission gridded merged products for a period of 1 year, 0.0625Â°*0.0625Â°, daily"
+      "title": "Level 4, geostrophic currents, multi-mission gridded merged products for a period of 1 year, 0.0625°*0.0625°, daily"
     },
     {
       "rel": "child",
       "href": "./l4-sea-level-anomaly-eo4sibs/collection.json",
       "type": "application/json",
-      "title": "Level 4, sea level anomaly, multi-mission gridded merged products for a period of 1 year, 0.0625Â°*0.0625Â°, daily"
+      "title": "Level 4, sea level anomaly, multi-mission gridded merged products for a period of 1 year, 0.0625°*0.0625°, daily"
     },
     {
       "rel": "child",
       "href": "./l4-sss-eo4sibs/collection.json",
       "type": "application/json",
-      "title": "Level 4 product SSS, 0.05Â°*0.0505Â°"
+      "title": "Level 4 product SSS, 0.05°*0.0505°"
     },
     {
       "rel": "child",
@@ -992,7 +998,7 @@
       "rel": "child",
       "href": "./s1-corrections-baltics-sar-hsu/collection.json",
       "type": "application/json",
-      "title": "COR-SC:Â Sentinel-1 SystematicÂ Effects Corrections_Baltics_Multimission"
+      "title": "COR-SC: Sentinel-1 Systematic Effects Corrections_Baltics_Multimission"
     },
     {
       "rel": "child",
@@ -1004,19 +1010,19 @@
       "rel": "child",
       "href": "./sar-observation-solution-baltics-sar-hsu/collection.json",
       "type": "application/json",
-      "title": "SAR-OBS:Â SAR Observation Solution_Baltics_Multimission"
+      "title": "SAR-OBS: SAR Observation Solution_Baltics_Multimission"
     },
     {
       "rel": "child",
       "href": "./sar-positioning-solution-baltics-sar-hsu/collection.json",
       "type": "application/json",
-      "title": "SAR-POS:Â SAR Positioning Solution_Baltics_Multimission"
+      "title": "SAR-POS: SAR Positioning Solution_Baltics_Multimission"
     },
     {
       "rel": "child",
       "href": "./sar-raw-measurements-baltics-sar-hsu/collection.json",
       "type": "application/json",
-      "title": "PTA-OBS:Â SAR Raw Measurements_Baltics_Multimission"
+      "title": "PTA-OBS: SAR Raw Measurements_Baltics_Multimission"
     },
     {
       "rel": "child",
@@ -1118,7 +1124,7 @@
       "rel": "child",
       "href": "./sea-surface-heights-corrected-baltics-sar-hsu/collection.json",
       "type": "application/json",
-      "title": "TG-SSH:Â Corrected Sea Surface Height at Tide Gauge Stations_Baltics_Multimission"
+      "title": "TG-SSH: Corrected Sea Surface Height at Tide Gauge Stations_Baltics_Multimission"
     },
     {
       "rel": "child",
@@ -1370,7 +1376,7 @@
       "rel": "child",
       "href": "./surface-elevation-change-lpf-mitap/collection.json",
       "type": "application/json",
-      "title": "Surface elevation changes Antarctic Peninsula <70Â°S between 2013 and 2017_Antarctica_TanDEM-X"
+      "title": "Surface elevation changes Antarctic Peninsula <70°S between 2013 and 2017_Antarctica_TanDEM-X"
     },
     {
       "rel": "child",
@@ -1412,7 +1418,7 @@
       "rel": "child",
       "href": "./target-locations-baltics-sar-hsu/collection.json",
       "type": "application/json",
-      "title": "PTA-RES:Â Extracted Target Locations_Baltics_Multimission"
+      "title": "PTA-RES: Extracted Target Locations_Baltics_Multimission"
     },
     {
       "rel": "child",
@@ -1472,7 +1478,7 @@
       "rel": "child",
       "href": "./tropospheric-delays-baltics-sar-hsu/collection.json",
       "type": "application/json",
-      "title": "COR-TD:Â Tropospheric Delays_Baltics_Multimission"
+      "title": "COR-TD: Tropospheric Delays_Baltics_Multimission"
     },
     {
       "rel": "child",

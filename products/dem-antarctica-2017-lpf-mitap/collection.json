@@ -2,19 +2,13 @@
   "type": "Collection",
   "id": "dem-antarctica-2017-lpf-mitap",
   "stac_version": "1.0.0",
-  "description": "Digital Elevation Model Antarctic Peninsula <70Â°S 2017",
+  "description": "Digital Elevation Model Antarctic Peninsula <70°S 2017",
   "links": [
     {
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
       "title": "Open Science Catalog"
-    },
-    {
-      "rel": "via",
-      "href": "https://esa.example",
-      "type": "text/html",
-      "title": "Example"
     },
     {
       "rel": "parent",
@@ -27,7 +21,7 @@
     "https://stac-extensions.github.io/osc/v1.0.0-rc.3/schema.json",
     "https://stac-extensions.github.io/cf/v0.2.0/schema.json"
   ],
-  "title": "Digital Elevation Model Antarctic Peninsula <70Â°S 2017_Antarctica_TanDEM-X",
+  "title": "Digital Elevation Model Antarctic Peninsula <70°S 2017_Antarctica_TanDEM-X",
   "osc:themes": [
     "Cryosphere",
     "Land"

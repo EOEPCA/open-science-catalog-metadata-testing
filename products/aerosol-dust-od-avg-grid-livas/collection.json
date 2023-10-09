@@ -1,8 +1,8 @@
 {
   "type": "Collection",
-  "id": "antarctic-ice-shelf-calving-fronts",
+  "id": "aerosol-dust-od-avg-grid-livas",
   "stac_version": "1.0.0",
-  "description": "Antarctic Coastlines, 1997-2021. Time-evolving Antarctic calving fronts from observations. Greene, Chad A., Gardner, Alex S., Schlegel, Nicole-Jeanne, & Fraser, Alexander D. (2022)",
+  "description": "Aerosol (and dust aerosol) optical depth at 532 nm. The products are provided for all CALIPSO overpasses, using the CALIPSO L2 aerosol product horizontal resolution of 5km.",
   "links": [
     {
       "rel": "root",
@@ -12,12 +12,12 @@
     },
     {
       "rel": "via",
-      "href": "https://zenodo.org/record/5903643",
+      "href": "ftps://livas:livas-public@react.space.noa.gr",
       "title": "Access"
     },
     {
       "rel": "via",
-      "href": "https://www.nature.com/articles/s41586-022-05037-w",
+      "href": "http://195.251.203.238/beyond/images/docs/publications/atmospheric/Amiridis_LIVAS.pdf",
       "title": "Documentation"
     },
     {
@@ -31,41 +31,43 @@
     "https://stac-extensions.github.io/osc/v1.0.0-rc.3/schema.json",
     "https://stac-extensions.github.io/cf/v0.2.0/schema.json"
   ],
-  "title": "Antarctic Ice Shelf Calving Fronts 1997-2021",
+  "title": "Aerosol (and dust aerosol) optical depth, averaged per overpass along 1x1 degree grid_Global_CALIPSO",
   "osc:themes": [
-    "Cryosphere"
+    "Atmosphere"
   ],
-  "osc:missions": [],
-  "osc:project": "Polar+ Ice Shelves",
+  "osc:missions": [
+    "CALIPSO"
+  ],
+  "osc:project": "Lidar Climatology of Vertical Aerosol Structure for Space-Based Lidar Simulation Studies-LIVAS",
   "osc:variables": [
-    "Ice Extent"
+    "Aerosol Optical Depth/Thickness"
   ],
-  "osc:status": "completed",
+  "osc:status": "ongoing",
   "osc:type": "product",
   "cf:parameter": [
     {
-      "name": "antarctic-ice-shelf-calving-fronts"
+      "name": "atmosphere_optical_thickness_due_to_dust_dry_aerosol"
     }
   ],
-  "osc:region": "Antarctica",
-  "created": "2023-01-25T00:00:00Z",
-  "start_datetime": "1997-01-01T00:00:00Z",
+  "osc:region": "Global",
+  "created": "2021-01-01T00:00:00Z",
+  "start_datetime": "2006-01-01T00:00:00Z",
   "end_datetime": "2021-12-31T23:59:59Z",
   "extent": {
     "spatial": {
       "bbox": [
         [
           -180.0,
-          -60.0,
+          -90.0,
           180.0,
-          83.0
+          90.0
         ]
       ]
     },
     "temporal": {
       "interval": [
         [
-          "1997-01-01T00:00:00Z",
+          "2006-01-01T00:00:00Z",
           "2021-12-31T23:59:59Z"
         ]
       ]
@@ -73,10 +75,7 @@
   },
   "license": "proprietary",
   "keywords": [
-    "Glaciers/Ice Sheets",
-    "Sea Ice",
-    "Ice Shelf",
-    "Ice Extent",
-    "Cryospheric Indicators"
+    "Aerosols",
+    "Aerosol Optical Depth/Thickness"
   ]
 }

@@ -31,7 +31,7 @@
     "https://stac-extensions.github.io/osc/v1.0.0-rc.3/schema.json",
     "https://stac-extensions.github.io/cf/v0.2.0/schema.json"
   ],
-  "title": "Level 4, absolute dynamic topography, multi-mission gridded merged products for a period of 1 year, 0.0625Â°*0.0625Â°, daily",
+  "title": "Level 4, absolute dynamic topography, multi-mission gridded merged products for a period of 1 year, 0.0625°*0.0625°, daily",
   "osc:themes": [
     "Oceans"
   ],

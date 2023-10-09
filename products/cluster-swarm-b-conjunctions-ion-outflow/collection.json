@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "cluster-swarm-b-conjunctions-ion-outflow",
   "stac_version": "1.0.0",
-  "description": "CSV file with a list of all conjunctions between Swarm-Bravo and Cluster-4. Conjunctions were identified by NASAÃÂ¢Ã¢âÂ¬Ã¢âÂ¢s Â«Satellite Situation Center WebÂ» Query tool in Nov 2018.",
+  "description": "CSV file with a list of all conjunctions between Swarm-Bravo and Cluster-4. Conjunctions were identified by NASAÃ¢â¬â¢s «Satellite Situation Center Web» Query tool in Nov 2018.",
   "links": [
     {
       "rel": "root",

@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "sar-observation-solution-baltics-sar-hsu",
   "stac_version": "1.0.0",
-  "description": "Time series of range and azimuth standard deviations ÃÂÃâr and ÃÂÃâa, provided by the variance component estimation and observation residuals. Product details available at: https://www.asg.ed.tum.de/fileadmin/w00cip/iapg/Baltic/SAR-HSU-TN-0019_Dataset_User_Manual.pdf",
+  "description": "Time series of range and azimuth standard deviations ÃÆr and ÃÆa, provided by the variance component estimation and observation residuals. Product details available at: https://www.asg.ed.tum.de/fileadmin/w00cip/iapg/Baltic/SAR-HSU-TN-0019_Dataset_User_Manual.pdf",
   "links": [
     {
       "rel": "root",
@@ -26,7 +26,7 @@
     "https://stac-extensions.github.io/osc/v1.0.0-rc.3/schema.json",
     "https://stac-extensions.github.io/cf/v0.2.0/schema.json"
   ],
-  "title": "SAR-OBS:Â SAR Observation Solution_Baltics_Multimission",
+  "title": "SAR-OBS: SAR Observation Solution_Baltics_Multimission",
   "osc:themes": [
     "Oceans"
   ],

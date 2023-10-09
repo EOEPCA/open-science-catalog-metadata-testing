@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "geodynamo-simulation-4d-earth-swarm",
   "stac_version": "1.0.0",
-  "description": "Long time series of outputs from a geodynamo model approaching EarthÃÂ¢Ã¢âÂ¬Ã¢âÂ¢s core conditions and a catalogue of simulated jerks from a geodynamo model approaching EarthÃÂ¢Ã¢âÂ¬Ã¢âÂ¢s core conditions",
+  "description": "Long time series of outputs from a geodynamo model approaching EarthÃ¢â¬â¢s core conditions and a catalogue of simulated jerks from a geodynamo model approaching EarthÃ¢â¬â¢s core conditions",
   "links": [
     {
       "rel": "root",

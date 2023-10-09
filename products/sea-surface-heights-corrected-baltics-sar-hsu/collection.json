@@ -26,7 +26,7 @@
     "https://stac-extensions.github.io/osc/v1.0.0-rc.3/schema.json",
     "https://stac-extensions.github.io/cf/v0.2.0/schema.json"
   ],
-  "title": "TG-SSH:Â Corrected Sea Surface Height at Tide Gauge Stations_Baltics_Multimission",
+  "title": "TG-SSH: Corrected Sea Surface Height at Tide Gauge Stations_Baltics_Multimission",
   "osc:themes": [
     "Oceans"
   ],

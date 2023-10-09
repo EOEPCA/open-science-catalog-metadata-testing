@@ -26,7 +26,7 @@
     "https://stac-extensions.github.io/osc/v1.0.0-rc.3/schema.json",
     "https://stac-extensions.github.io/cf/v0.2.0/schema.json"
   ],
-  "title": "COR-EC2:Â ECR Electronic Delay Correction_Baltics_Multimission",
+  "title": "COR-EC2: ECR Electronic Delay Correction_Baltics_Multimission",
   "osc:themes": [
     "Oceans"
   ],
