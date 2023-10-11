@@ -43,7 +43,7 @@
   "osc:missions": [
     "CryoSat-2"
   ],
-  "osc:project": "ArcticSummIT: Arctic Summer Ice Thickness",
+  "osc:project": "lpf-arcticsummit",
   "osc:variables": [
     "Ice Depth/Thickness",
     "Freeboard"

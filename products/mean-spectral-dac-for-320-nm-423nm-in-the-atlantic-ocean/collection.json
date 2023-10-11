@@ -39,7 +39,7 @@
   "osc:missions": [
     "Sentinel-5p"
   ],
-  "osc:project": "SENTINEL-5P+ INNOVATION OCEAN COLOUR (S5P+-I-OC)",
+  "osc:project": "s5p-inno-s5p-i-oc",
   "osc:variables": [
     "Diffuse Attenuation Coefficient (DAC)"
   ],

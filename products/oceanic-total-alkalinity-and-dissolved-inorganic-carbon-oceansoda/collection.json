@@ -39,7 +39,7 @@
     "SMOS",
     "Sentinel-3"
   ],
-  "osc:project": "Satellite Oceanographic Datasets for Acidification (OceanSODA)",
+  "osc:project": "oceansoda",
   "osc:variables": [
     "Dissolved Organic Carbon",
     "Alkalinity"

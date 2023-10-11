@@ -39,7 +39,7 @@
     "CryoSat-2",
     "SARAL"
   ],
-  "osc:project": "CASSIS (Climate Altimetric Studies with Sea Ice and Snow)",
+  "osc:project": "lpf-cassis",
   "osc:variables": [
     "Ice Depth/Thickness",
     "Freeboard"

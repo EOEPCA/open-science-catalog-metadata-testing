@@ -41,7 +41,7 @@
     "Meteosat",
     "Terra"
   ],
-  "osc:project": "VAD3EMECUM. Vegetation and drought: towards improved data-driven estimated of ecosystem carbon fluxes under moisture stress",
+  "osc:project": "lpf-vad3emecum",
   "osc:variables": [
     "Carbon Flux"
   ],

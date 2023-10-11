@@ -41,7 +41,7 @@
     "Land"
   ],
   "osc:missions": [],
-  "osc:project": "Earth System Data Lab (ESDL)",
+  "osc:project": "esdl",
   "osc:variables": [
     "Land Use/Land Cover Classification"
   ],

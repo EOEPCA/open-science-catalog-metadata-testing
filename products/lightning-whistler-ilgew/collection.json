@@ -34,7 +34,7 @@
   "osc:missions": [
     "SWARM"
   ],
-  "osc:project": "Investigating lightning generated ELF Whistlers to improve ionospheric models (ILGEW)",
+  "osc:project": "ilgew",
   "osc:variables": [
     "Lightning"
   ],

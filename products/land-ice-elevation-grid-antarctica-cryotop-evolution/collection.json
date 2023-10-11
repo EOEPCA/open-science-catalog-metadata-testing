@@ -38,7 +38,7 @@
   "osc:missions": [
     "CryoSat"
   ],
-  "osc:project": "CryoTop Evolution",
+  "osc:project": "cryotop-evolution",
   "osc:variables": [
     "Glacier Elevation/Ice Sheet Elevation"
   ],

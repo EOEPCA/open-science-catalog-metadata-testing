@@ -33,7 +33,7 @@
   "osc:missions": [
     "Sentinel-3"
   ],
-  "osc:project": "ALBIOM (ALtimetry for BIOMass)",
+  "osc:project": "albiom",
   "osc:variables": [
     "Biomass"
   ],

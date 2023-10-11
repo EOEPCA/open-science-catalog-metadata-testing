@@ -38,7 +38,7 @@
   "osc:missions": [
     "Sentinel-1"
   ],
-  "osc:project": "Irrigation+",
+  "osc:project": "irrigation",
   "osc:variables": [
     "Anthropogenic Water Use"
   ],

@@ -28,7 +28,7 @@
   "osc:missions": [
     "CryoSat-2"
   ],
-  "osc:project": "CryoSat+ Mountain Glaciers",
+  "osc:project": "cryosat-mountain-glaciers",
   "osc:variables": [
     "Glacier Elevation/Ice Sheet Elevation"
   ],

@@ -33,7 +33,7 @@
   "osc:missions": [
     "Sentinel-3"
   ],
-  "osc:project": "Pre-Operational Sentinel-3 snow and ice products (SICE)",
+  "osc:project": "s3-snow-and-ice-products",
   "osc:variables": [
     "Albedo"
   ],

@@ -40,7 +40,7 @@
     "GOCE",
     "GRACE"
   ],
-  "osc:project": "4D-ANTARCTICA",
+  "osc:project": "4d-antarctica",
   "osc:variables": [
     "Gravity Anomalies"
   ],

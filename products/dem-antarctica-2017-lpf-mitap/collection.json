@@ -29,7 +29,7 @@
   "osc:missions": [
     "TanDEM-X"
   ],
-  "osc:project": "Mass balance and ice dynamics of Antarctic Peninsula glaciers (MIT-AP)",
+  "osc:project": "lpf-mit-ap",
   "osc:variables": [
     "Digital Elevation/Terrain Model (DEM)"
   ],

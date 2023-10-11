@@ -11,14 +11,14 @@ const EXTENSION_SCHEMES = {
 
 // List of project IDs that do not have a technical officer
 const TECHNICAL_OFFICER_EXCEPTIONS = [
-  'lidar-climatology-of-vertical-aerosol-structure-for-space-based-lidar-simulation-studies-livas',
+  'livas',
   'polar-low-detection-from-s-1-data',
-  'pre-melt-preconditioning-the-trigger-for-rapid-arctic-ice-melt',
+  'pre-melt',
 ];
 
 // List of project IDs that do not have a via link
 const VIA_LINK_PROJECT_EXCEPTIONS = [
-  'ocean-health-ocean-acidification',
+  'ocean-health-oa',
 ];
 
 // List of product IDs that do not have a via link

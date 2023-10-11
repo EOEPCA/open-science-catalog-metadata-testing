@@ -33,7 +33,7 @@
   "osc:missions": [
     "SMOS"
   ],
-  "osc:project": "SMOS+ VEGETATION",
+  "osc:project": "smos-vegetation",
   "osc:variables": [
     "Soil Moisture"
   ],

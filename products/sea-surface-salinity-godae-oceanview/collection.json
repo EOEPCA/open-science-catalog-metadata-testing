@@ -43,7 +43,7 @@
   "osc:missions": [
     "SMOS"
   ],
-  "osc:project": "GODAE OCEAN OBSERVING SYSTEM EVALUATION OF SATELLITE SEA SURFACE SALINITY AND EL NINO 2015 (SMOS-NINO15)",
+  "osc:project": "smos-nino-2015",
   "osc:variables": [
     "Sea Surface Salinity"
   ],

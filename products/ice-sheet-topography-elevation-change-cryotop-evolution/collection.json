@@ -38,7 +38,7 @@
   "osc:missions": [
     "CryoSat-2"
   ],
-  "osc:project": "STSE CryoSat+ CryoTop Evolution",
+  "osc:project": "cryosat-cryotop-evolution",
   "osc:variables": [
     "Glacier Topography/Ice Sheet Topography"
   ],

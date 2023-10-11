@@ -35,7 +35,7 @@
     "Sentinel-2",
     "Sentinel-3"
   ],
-  "osc:project": "Development of pan-European Multi-Sensor Snow Mapping Methods Exploiting Sentinel-1",
+  "osc:project": "s14science-snow",
   "osc:variables": [
     "Snow Cover"
   ],

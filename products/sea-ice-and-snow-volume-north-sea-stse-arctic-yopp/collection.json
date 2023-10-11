@@ -38,7 +38,7 @@
   "osc:missions": [
     "CryoSat-2"
   ],
-  "osc:project": "STSE-ARCTIC+ THEME 5 Ã¢â¬â CONTRIBUTIONS TO THE YEAR OF POLAR PREDICTIONS (YOPP)",
+  "osc:project": "stse-arctic",
   "osc:variables": [
     "Sea Ice Volume",
     "Snow Cover"

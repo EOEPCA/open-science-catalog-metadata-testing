@@ -38,7 +38,7 @@
   "osc:missions": [
     "Sentinel-5p"
   ],
-  "osc:project": "SENTINEL-5P+ INNOVATION SOLAR INDUCED CHLOROPHYLL FLUORESCENCE (SIF)",
+  "osc:project": "s5p-inno-sif",
   "osc:variables": [
     "Reflectance"
   ],

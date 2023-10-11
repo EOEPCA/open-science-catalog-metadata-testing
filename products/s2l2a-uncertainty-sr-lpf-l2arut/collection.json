@@ -28,7 +28,7 @@
   "osc:missions": [
     "Sentinel-2"
   ],
-  "osc:project": "L2A-RUT",
+  "osc:project": "lpf-l2a-rut",
   "osc:variables": [
     "Reflectance"
   ],

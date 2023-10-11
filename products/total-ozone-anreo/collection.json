@@ -43,7 +43,7 @@
   "osc:missions": [
     "Sentinel-3"
   ],
-  "osc:project": "AnREO: Retrieval of Total Ozone using OLCI-S-3 over Antarctica",
+  "osc:project": "anreo",
   "osc:variables": [
     "Total Ozone"
   ],

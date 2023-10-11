@@ -36,7 +36,7 @@
     "Oceans"
   ],
   "osc:missions": [],
-  "osc:project": "World Ocean circulation",
+  "osc:project": "woc",
   "osc:variables": [
     "Surface Currents"
   ],

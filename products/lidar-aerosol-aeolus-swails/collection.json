@@ -33,7 +33,7 @@
   "osc:missions": [
     "AEOLUS"
   ],
-  "osc:project": "AEOLUS+ INNOVATION - STUDIES ON WIND AND AEROSOL INFORMATION FROM LIDAR SURFACE RETURNS (SWAILS+)",
+  "osc:project": "aeolus-inno-swails",
   "osc:variables": [
     "Aerosol Optical Depth/Thickness"
   ],

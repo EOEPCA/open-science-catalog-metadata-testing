@@ -38,7 +38,7 @@
   "osc:missions": [
     "Sentinel-5p"
   ],
-  "osc:project": "WIFT: Water vapour Isotopologues From TROPOMI",
+  "osc:project": "lpf-wift",
   "osc:variables": [
     "Water Vapor"
   ],

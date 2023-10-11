@@ -33,7 +33,7 @@
   "osc:missions": [
     "SWARM"
   ],
-  "osc:project": "SWARM+ COUPLING: HIGH-LOW ATMOSPHERE INTERACTIONS: VERtical coupling in Earth's Atmosphere at mid and high latitudes (VERA)",
+  "osc:project": "vera",
   "osc:variables": [
     "Sudden Stratospheric Warming (SSW)"
   ],
