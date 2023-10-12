@@ -44,7 +44,7 @@
   "osc:missions": [
     "SMOS"
   ],
-  "osc:project": "Arctic + Salinity",
+  "osc:project": "arctic-salinity",
   "osc:variables": [
     "Sea Surface Salinity"
   ],

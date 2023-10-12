@@ -32,7 +32,7 @@
     "Magnetosphere_Ionosphere"
   ],
   "osc:missions": [],
-  "osc:project": "The 4D-Earth Swarm project",
+  "osc:project": "4d-earth-swarm",
   "osc:variables": [
     "Magnetic Fields/Magnetic Currents",
     "Geomagnetic Indices"

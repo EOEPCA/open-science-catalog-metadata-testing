@@ -34,7 +34,7 @@
     "Sentinel-2",
     "Sentinel-3"
   ],
-  "osc:project": "Stratospheric ozone from limb observations: validation of the profiles, evaluation of trends and their dynamical and chemical drivers (SOLVE)",
+  "osc:project": "lpf-solve",
   "osc:variables": [
     "Total Ozone"
   ],

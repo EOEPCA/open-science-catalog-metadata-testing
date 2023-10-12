@@ -39,7 +39,7 @@
     "GOCE",
     "SWARM"
   ],
-  "osc:project": "3D-Earth",
+  "osc:project": "3d-earth",
   "osc:variables": [
     "Geothermal Energy"
   ],

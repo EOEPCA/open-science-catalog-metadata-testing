@@ -38,7 +38,7 @@
   "osc:missions": [
     "SWARM"
   ],
-  "osc:project": "Contribution of Swarm data to the prompt detection of Tsunamis and other natural hazards  (COSTO)",
+  "osc:project": "costo",
   "osc:variables": [
     "Ionosphere/Magnetosphere Dynamics"
   ],

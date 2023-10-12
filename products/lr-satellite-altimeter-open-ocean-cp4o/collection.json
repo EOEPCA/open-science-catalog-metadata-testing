@@ -34,7 +34,7 @@
   "osc:missions": [
     "CryoSat"
   ],
-  "osc:project": "CryoSat Plus For Oceans (CP4O)",
+  "osc:project": "cryosat-oceans",
   "osc:variables": [
     "Sea Surface Height Anomaly (SSHA)"
   ],

@@ -34,7 +34,7 @@
   "osc:missions": [
     "Sentinel-3"
   ],
-  "osc:project": "Sentinel-3 for Science, Land Study 1: Snow",
+  "osc:project": "s34science-snow",
   "osc:variables": [
     "Snow Grain Size"
   ],

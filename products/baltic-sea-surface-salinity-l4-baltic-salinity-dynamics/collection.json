@@ -39,7 +39,7 @@
     "SMOS",
     "SMAP"
   ],
-  "osc:project": "BALTIC+ Salinity Dynamics",
+  "osc:project": "baltic-salinity-dynamics",
   "osc:variables": [
     "Sea Surface Salinity"
   ],

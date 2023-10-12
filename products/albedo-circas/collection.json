@@ -36,7 +36,7 @@
   "osc:missions": [
     "Sentinel-3"
   ],
-  "osc:project": "ConsIstent Retrieval of Cloud Aerosol Surface",
+  "osc:project": "circas",
   "osc:variables": [
     "Albedo"
   ],

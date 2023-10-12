@@ -44,7 +44,7 @@
     "CALIPSO",
     "EarthCARE"
   ],
-  "osc:project": "Lidar Climatology of Vertical Aerosol Structure for Space-Based Lidar Simulation Studies-LIVAS",
+  "osc:project": "livas",
   "osc:variables": [
     "Aerosol Optical Depth/Thickness"
   ],

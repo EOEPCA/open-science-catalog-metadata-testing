@@ -34,7 +34,7 @@
     "Sentinel-1",
     "Sentinel-2"
   ],
-  "osc:project": "AlpGlacier",
+  "osc:project": "alpglacier",
   "osc:variables": [
     "Glacier Motion/Ice Sheet Motion"
   ],

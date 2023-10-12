@@ -41,7 +41,7 @@
     "Land"
   ],
   "osc:missions": [],
-  "osc:project": "SeasFire: Earth System Deep learning for Seasonal Fire Forecasting in Europe",
+  "osc:project": "seasfire",
   "osc:variables": [
     "Burned Area"
   ],

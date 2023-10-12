@@ -38,7 +38,7 @@
   "osc:missions": [
     "CryoSat-2"
   ],
-  "osc:project": "Sentinel-3 Performance Improvement for ICE Sheets (SPICE)",
+  "osc:project": "spice",
   "osc:variables": [
     "Glacier Topography/Ice Sheet Topography"
   ],

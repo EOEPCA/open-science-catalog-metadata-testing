@@ -33,7 +33,7 @@
   "osc:missions": [
     "AEOLUS"
   ],
-  "osc:project": "AEOLUS+ INNOVATION - CDOM-PROXY RETRIEVAL FROM AEOLUS OBSERVATIONS (COLOR)",
+  "osc:project": "aeolus-inno-color",
   "osc:variables": [
     "Diffuse Attenuation Coefficient (DAC)"
   ],

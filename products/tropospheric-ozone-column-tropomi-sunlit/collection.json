@@ -33,7 +33,7 @@
   "osc:missions": [
     "Sentinel-5p"
   ],
-  "osc:project": "SUNLIT - Synergy of Using Nadir and Limb Instruments for Tropospheric ozone monitoring",
+  "osc:project": "sunlit",
   "osc:variables": [
     "Tropospheric Ozone"
   ],

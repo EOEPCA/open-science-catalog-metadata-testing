@@ -33,7 +33,7 @@
   "osc:missions": [
     "Limb-Viewing Instruments"
   ],
-  "osc:project": "SUNLIT - Synergy of Using Nadir and Limb Instruments for Tropospheric ozone monitoring",
+  "osc:project": "sunlit",
   "osc:variables": [
     "Total Ozone"
   ],

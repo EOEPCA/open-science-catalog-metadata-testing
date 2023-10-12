@@ -38,7 +38,7 @@
   "osc:missions": [
     "Sentinel-2"
   ],
-  "osc:project": "S2 for Land and Water, Change Detection/Multi-temporal",
+  "osc:project": "s2-for-land-and-water-change-detection",
   "osc:variables": [
     "Land Use/Land Cover Classification"
   ],

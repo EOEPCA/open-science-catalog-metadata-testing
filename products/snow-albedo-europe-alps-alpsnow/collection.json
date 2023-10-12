@@ -42,7 +42,7 @@
     "Landsat-8",
     "Terra"
   ],
-  "osc:project": "AlpSnow",
+  "osc:project": "alpsnow",
   "osc:variables": [
     "Albedo"
   ],

@@ -37,7 +37,7 @@
     "AQUA (EOS/PM-1)",
     "Suomi NPP"
   ],
-  "osc:project": "PHYSIOGLOB: Assessing the inter-annual physiological response of phytoplankton to global warming using long-term satellite observations",
+  "osc:project": "lpf-physioglob",
   "osc:variables": [
     "Chlorophyll Concentration"
   ],

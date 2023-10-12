@@ -34,7 +34,7 @@
     "Sentinel-2",
     "Sentinel-3"
   ],
-  "osc:project": "S2 for Land and Water, Coastal and Inland Waters Theme",
+  "osc:project": "meteolakes",
   "osc:variables": [
     "Lakes/Reservoirs",
     "Montane Lake"

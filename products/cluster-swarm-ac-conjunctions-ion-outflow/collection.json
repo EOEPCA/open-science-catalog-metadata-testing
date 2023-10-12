@@ -33,7 +33,7 @@
   "osc:missions": [
     "SWARM"
   ],
-  "osc:project": "Swarm+ Coupling High-Low Atmosphere Interactions: Ion Outflow",
+  "osc:project": "swarm-outflow",
   "osc:variables": [
     "Magnetic Fields/Magnetic Currents",
     "Geomagnetic Indices"

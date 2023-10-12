@@ -33,7 +33,7 @@
   "osc:missions": [
     "GOSAT"
   ],
-  "osc:project": "WATER CYCLE CHANGES CHARACTERISED FROM ATMOSPHERIC MOISTURE RECYCLING (WEATHER)",
+  "osc:project": "lpf-weather",
   "osc:variables": [
     "Water Vapor Profiles"
   ],

@@ -35,7 +35,7 @@
     "Sentinel-1",
     "GLONASS"
   ],
-  "osc:project": "BALTIC+ Geodetic SAR for Baltic Height System Unification (SAR-HSU)",
+  "osc:project": "sar-hsu",
   "osc:variables": [
     "Sea Surface Height Anomaly (SSHA)"
   ],

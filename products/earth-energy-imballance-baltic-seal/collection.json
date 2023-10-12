@@ -34,7 +34,7 @@
     "GRACE",
     "GRACE-FO"
   ],
-  "osc:project": "BALTIC+ SEAL - Sea Level",
+  "osc:project": "baltic-seal-sea-level",
   "osc:variables": [
     "Sea Surface Height Anomaly (SSHA)"
   ],

@@ -41,7 +41,7 @@
     "Sentinel-3",
     "CryoSat-2"
   ],
-  "osc:project": "Earth Observation data For Science and Innovation in the Black Sea",
+  "osc:project": "eo4sibs",
   "osc:variables": [
     "Chlorophyll Concentration"
   ],

@@ -41,7 +41,7 @@
     "CryoSat-2",
     "Terra"
   ],
-  "osc:project": "RIDESAT - RIver flow monitoring and Discharge Estimation by integrating multiple SATellite data",
+  "osc:project": "ridesat",
   "osc:variables": [
     "Fresh Water River Discharge"
   ],

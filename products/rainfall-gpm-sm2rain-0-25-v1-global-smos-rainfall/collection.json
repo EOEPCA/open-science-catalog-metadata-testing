@@ -45,7 +45,7 @@
     "SMOS",
     "SMAP"
   ],
-  "osc:project": "SMOS+ Rainfall Land",
+  "osc:project": "smos-rainfall-land",
   "osc:variables": [
     "Precipitation Amount"
   ],

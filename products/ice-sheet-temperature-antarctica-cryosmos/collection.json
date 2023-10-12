@@ -38,7 +38,7 @@
   "osc:missions": [
     "SMOS"
   ],
-  "osc:project": "CryoSMOS",
+  "osc:project": "cryosmos",
   "osc:variables": [
     "Ice Temperature"
   ],

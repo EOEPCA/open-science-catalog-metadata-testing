@@ -39,7 +39,7 @@
   "osc:missions": [
     "GOCE"
   ],
-  "osc:project": "GOCE+ ANTARCTICA",
+  "osc:project": "goce-antarctica",
   "osc:variables": [
     "Gravitational Field",
     "Crustal Motion"

@@ -38,7 +38,7 @@
     "OrbView-2",
     "Sentinel-3"
   ],
-  "osc:project": "Biological Pump and Carbon Exchange Processes",
+  "osc:project": "bicep",
   "osc:variables": [
     "Ocean Mixed Layer"
   ],

@@ -33,7 +33,7 @@
   "osc:missions": [
     "SMOS"
   ],
-  "osc:project": "SMOS+ Med: Sea Surface Salinity in the Mediterranean",
+  "osc:project": "smos-mediterranean",
   "osc:variables": [
     "Sea Surface Salinity"
   ],
