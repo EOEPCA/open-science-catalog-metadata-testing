@@ -78,7 +78,6 @@ class CustomValidator extends BaseValidator {
   async afterValidation(data, test, report, config) {
     const isRootCatalog = report.id.endsWith('/catalog.json') && data.id === "osc";
     const isEoMission = !!report.id.match(/\/eo-missions\/[^\/]+\/catalog.json/);
-//  const isProcess = !!report.id.match(/\/processes\/[^\/]+\/collection.json/);
     const isProduct = !!report.id.match(/\/products\/[^\/]+\/collection.json/);
     const isProductUserContent = !!report.id.match(/\/products\/[^\/]+\/.+.json/) && !isProduct;
     const isProject = !!report.id.match(/\/projects\/[^\/]+\/collection.json/);
@@ -100,7 +99,13 @@ class CustomValidator extends BaseValidator {
     }
     else if (isSubCatalog) {
       const childEntity = path.basename(path.dirname(report.id));
-      const childStacType = ['products', 'projects'].includes(childEntity) ? 'Collection' : 'Catalog';
+      let childStacType = 'Catalog';
+      if (['products', 'projects'].includes(childEntity)) {
+        childStacType = 'Collection';
+      }
+      else if (childEntity === 'processes') {
+        childStacType = 'Process';
+      }
       await run.validateSubCatalogs(childStacType);
     }
     else if (isRootCatalog) {
@@ -109,9 +114,6 @@ class CustomValidator extends BaseValidator {
     else if (isEoMission) {
       await run.validateEoMission();
     }
-  // else if (isProcess) {
-  // 	run.validateProcess();
-  // }
     else if (isProduct) {
       await run.validateProduct();
     }
@@ -153,7 +155,7 @@ class ValidationRun {
     await this.requireChildLinksForOtherJsonFiles("Catalog", ROOT_CHILDREN);
   }
   
-  async validateSubCatalogs(childStacType = "Catalog") {
+  async validateSubCatalogs(childStacType) {
     this.t.equal(this.data.type, "Catalog", `type must be 'Catalog'`);
     this.ensureIdIsFolderName();
   
@@ -162,7 +164,12 @@ class ValidationRun {
     await this.requireRootLink("../catalog.json");
   
     // check child links
-    await this.requireChildLinksForOtherJsonFiles(childStacType);
+    if (childStacType === 'Process') {
+      await this.requireChildLinksForOtherJsonFiles(null, [], 'cwl', 'process', 'application/cwl');
+    }
+    else {
+      await this.requireChildLinksForOtherJsonFiles(childStacType);
+    }
   }
   
   validateUserContent() {
@@ -177,10 +184,6 @@ class ValidationRun {
     await this.requireParentLink("../catalog.json");
     await this.requireRootLink("../../catalog.json");
     BEFORE_BUILD && this.disallowRelatedLinks();
-  }
-  
-  validateProcess() {
-    // @todo: Which rules apply?
   }
   
   async validateProduct() {
@@ -288,14 +291,26 @@ class ValidationRun {
   }
   
   // check that all files are linked to as child links and that all child links exist
-  async requireChildLinksForOtherJsonFiles(type, files = []) {
+  async requireChildLinksForOtherJsonFiles(type, files = [], fileExt = 'json', linkRel = 'child', linkType = 'application/json') {
     if(files.length === 0) {
       const dir = await fs.opendir(this.folder);
       for await (const file of dir) {
         if (file.isDirectory()) {
-          const filename = type.toLowerCase();
-          const filepath = path.normalize(`${this.folder}/${file.name}/${filename}.json`);
-          files.push(filepath);
+          if (type) {
+            const filename = type.toLowerCase();
+            const filepath = path.normalize(`${this.folder}/${file.name}/${filename}.${fileExt}`);
+            files.push(filepath);
+          }
+          else {
+            const subfolder = `${this.folder}/${file.name}`;
+            const subdir = await fs.opendir(subfolder);
+            for await (const file of subdir) {
+              if (file.name.endsWith(`.${fileExt}`)) {
+                const filepath = path.normalize(`${subfolder}/${file.name}`);
+                files.push(filepath);
+              }
+            }
+          }
         }
       }
     }
@@ -303,22 +318,24 @@ class ValidationRun {
       files = files.map(file => path.resolve(this.folder, file));
     }
 
-    const links = this.data.getLinksWithRels(['child']);
+    const links = this.data.getLinksWithRels([linkRel]);
     for(const link of links) {
-      this.t.equal(link.type, "application/json", `Child link to ${link.href} must be of type application/json`);
-      await this.checkLinkTitle(link, this.folder);
+      this.t.equal(link.type, linkType, `Link with relation ${linkRel} to ${link.href} must be of type ${linkType}`);
+      if (link.href.endsWith('.json')) {
+        await this.checkLinkTitle(link, this.folder);
+      }
     }
   
     const linkHrefs = links.map(link => path.resolve(this.folder, link.href));
   
     let missingChilds = files.filter(x => !linkHrefs.includes(x));
     for(const file of missingChilds) {
-      this.t.fail(`must have child link to ${file}`);
+      this.t.fail(`must have link with relation ${linkRel} to ${file}`);
     }
   
     let missingFiles = linkHrefs.filter(x => !files.includes(x));
     for(const file of missingFiles) {
-      this.t.fail(`must have file for child link ${file}`);
+      this.t.fail(`must have file for link ${file} with relation ${linkRel}`);
     }
   }
 
