@@ -61,8 +61,6 @@
       "role": "consortium_member"
     }
   ],
-  "start_datetime": "2019-10-16T00:00:00Z",
-  "end_datetime": "2020-06-11T23:59:59Z",
   "extent": {
     "spatial": {
       "bbox": [

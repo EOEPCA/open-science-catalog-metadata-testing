@@ -93,8 +93,6 @@
       "role": "consortium_member"
     }
   ],
-  "start_datetime": "2020-01-28T00:00:00Z",
-  "end_datetime": "2022-02-18T23:59:59Z",
   "extent": {
     "spatial": {
       "bbox": [
