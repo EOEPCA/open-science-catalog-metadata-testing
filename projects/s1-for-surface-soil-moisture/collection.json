@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Malcolm Davidson",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "malcolm.davidson@esa.int"
@@ -50,19 +52,27 @@
     },
     {
       "name": "CNR INSTITUTE FOR ELECTROMAGNETIC SENSING OF THE ENVIRONMENT (IREA) (IT)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "GAMMA REMOTE SENSING AG (CH)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "Institute of Geodesy and Cartography (IGiK) (PL)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "LUDWIG:MAXIMILIAN UNIVERSITAT MUNCHEN (DE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "start_datetime": "2016-10-20T00:00:00Z",

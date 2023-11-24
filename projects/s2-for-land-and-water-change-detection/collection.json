@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Espen Volden",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "espen.volden@esa.int"
@@ -50,11 +52,15 @@
     },
     {
       "name": "UNIVERSITA DEGLI STUDI DI TRENTO (IT)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "FONDAZIONE BRUNO KESSLER FBK (IT)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "start_datetime": "2015-01-12T00:00:00Z",

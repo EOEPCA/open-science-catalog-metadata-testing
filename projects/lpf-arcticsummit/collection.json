@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Anca Anghelea",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "anca.anghelea@esa.int"
@@ -50,7 +52,9 @@
     },
     {
       "name": "UNIVERSITY OF BRISTOL (GB)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "start_datetime": "2018-10-16T00:00:00Z",

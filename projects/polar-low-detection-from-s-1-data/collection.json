@@ -36,7 +36,9 @@
   "contacts": [
     {
       "name": "NORCE (NO)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "start_datetime": "2020-04-02T00:00:00Z",

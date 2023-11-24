@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Matthias Drusch",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "matthias.drusch@esa.int"
@@ -50,15 +52,21 @@
     },
     {
       "name": "THE INVERSION LAB THOMAS KAMINSKI CONSULTING (DE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "LUND UNIVERSITY (SE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "UNIVERSITE TOULOUSE III PAUL SABATIER (FR)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "start_datetime": "2016-10-05T00:00:00Z",

@@ -42,7 +42,9 @@
   "contacts": [
     {
       "name": "Diego Fernandez",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "diego.fernandez@esa.int"
@@ -51,15 +53,21 @@
     },
     {
       "name": "ARGANS LIMITED (GB)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "AGENCIA ESTATAL CONSEJO SUPERIOR DE (ES)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "NANSEN ENVIRONMENTAL AND REMOTE SENSING CENTER (NO)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "start_datetime": "2018-10-16T00:00:00Z",

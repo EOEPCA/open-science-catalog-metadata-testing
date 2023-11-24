@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Simon Pinnock",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "simon.pinnock@esa.int"
@@ -50,23 +52,33 @@
     },
     {
       "name": "Environmental Earth Observation IT GmbH (ENVEO IT GmbH)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "Finnish Meteorological Institute (FMI)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "University of Zurich (UZH)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "Finnish Environment Institute (SYKE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "Northern Research Institute (NORUT)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "start_datetime": "2016-10-20T00:00:00Z",

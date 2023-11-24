@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Roger Haagmans",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "roger.haagmans@esa.int"
@@ -50,15 +52,21 @@
     },
     {
       "name": "HELMHOLTZ:ZENTRUM POTSDAM DEUTSCHES GEOFORSCHUNGZENTRUM (GFZ) (DE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "Research Centre Rez (CZ)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "UNIVERSITY OF NEW BRUNSWICK (CA)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "start_datetime": "2019-02-22T00:00:00Z",

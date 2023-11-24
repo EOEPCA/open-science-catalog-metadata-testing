@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Diego Fernandez",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "diego.fernandez@esa.int"
@@ -50,23 +52,33 @@
     },
     {
       "name": "UNIVERSITY OF EXETER (GB)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "EIDGENÃ¢ËÅ¡ÃÂ±SSISCHE TECHNISCHE HOCHSCHULE ZURICH (ETH ZURICH) (CH)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "IFREMER (FR)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "NERC",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "PLYMOUTH MARINE LABORATORY (GB)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "start_datetime": "2018-11-22T00:00:00Z",

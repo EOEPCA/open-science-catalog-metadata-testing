@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Stephen Plummer",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "stephen.plummer@esa.int"
@@ -50,11 +52,15 @@
     },
     {
       "name": "ITALIAN NATIONAL AGENCY FOR NEW TECHNOLOGIES",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "ENERGY AND SUSTAINABLE ECONOMIC DEVELOPMENT (ENEA) (IT)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "start_datetime": "2018-01-10T00:00:00Z",

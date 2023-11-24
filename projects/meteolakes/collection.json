@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Ferran Gascon",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "Ferran.Gascon@esa.int"
@@ -50,15 +52,21 @@
     },
     {
       "name": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE (CH)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "INSTITUT NATIONAL DE LA RECHERCHE AGRONOMIQUE (INRA) (FR)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "ODERMATT & BROCKMANN GMBH (CH)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "start_datetime": "2015-02-12T00:00:00Z",

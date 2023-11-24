@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Marcus Engdahl",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "marcus.engdahl@esa.int"
@@ -50,23 +52,33 @@
     },
     {
       "name": "UNIVERSITY OF LANCASTER ENVIROMENT CENTRE (GB)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "ENVEO ENVIRONMENTAL EARTH OBSERVATION INFORMATION TECHNOLOGY GMBH (AT)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "SHEPHERD SPACE LTD. (GB)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "Science [&] Technology Norway (NO)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "Technical University of Denmark (DK)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "start_datetime": "2020-08-27T00:00:00Z",
