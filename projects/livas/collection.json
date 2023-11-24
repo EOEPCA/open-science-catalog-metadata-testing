@@ -36,7 +36,9 @@
   "contacts": [
     {
       "name": "NATIONAL OBSERVATORY OF ATHENS (GR)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "extent": {

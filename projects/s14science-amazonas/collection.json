@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Anca Anghelea",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "anca.anghelea@esa.int"
@@ -50,19 +52,27 @@
     },
     {
       "name": "GISAT S.R.O. (CZ)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "Agresta S. Coop. (ES)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "NLS FINNISH GEOSPATIAL RESEARCH INS (FI)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "Norwegian University of Life Scienc (NO)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "extent": {

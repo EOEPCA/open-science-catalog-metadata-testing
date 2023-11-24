@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Jerome Bouffard",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "jerome.bouffard@esa.int"
@@ -50,19 +52,27 @@
     },
     {
       "name": "UNIVERSITY OF OSLO (NO)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "GMV INNOVATING SOLUTIONS SP. Z O.O. (PL)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "ISTITUTO NAZIONALE DI GEOFISICA E VULCANOLOGIA (IT)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "NOTTINGHAM TRENT UNIVERSITY (GB)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "extent": {

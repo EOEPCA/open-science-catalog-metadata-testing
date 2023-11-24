@@ -43,7 +43,9 @@
   "contacts": [
     {
       "name": "Anca Anghelea",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "anca.anghelea@esa.int"
@@ -52,11 +54,15 @@
     },
     {
       "name": "National Technical University of Athens (GR)CNR:RESEARCH INSTITUTE FOR GEO:HYDROLOGICAL PROTECTION IRPI (IT)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "Tethys Consulting (GR)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "extent": {

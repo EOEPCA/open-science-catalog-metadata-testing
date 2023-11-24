@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Marie-Helene Rio",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "marie-helene.rio@esa.int"
@@ -50,35 +52,51 @@
     },
     {
       "name": "UNIVERSITY OF LIEGE (BE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "AGENCIA ESTATAL CONSEJO SUPERIOR DE (ES)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "CLS COLLECTE LOCALISATION SATELLITES (FR)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "Jailoo srl (RO)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "NATIONAL INSTITUTE FOR MARINE RES.R (RO)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "Sorbonne UniversitÃ¢ËÅ¡ÃÂ©",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "SU (FR)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "TERRASIGNA SRL (RO)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "extent": {

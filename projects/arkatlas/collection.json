@@ -42,7 +42,9 @@
   "contacts": [
     {
       "name": "Craig James Donlon",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "craig.donlon@esa.int"
@@ -51,19 +53,27 @@
     },
     {
       "name": "Nansen Environmental and Remote Sensing Center Norway",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "IFREMER France",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "OceanDataLab  France",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "NOVELTIS France",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "extent": {

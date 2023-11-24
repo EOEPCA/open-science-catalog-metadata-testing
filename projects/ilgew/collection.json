@@ -42,7 +42,9 @@
   "contacts": [
     {
       "name": "Roger Haagmans",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "roger.haagmans@esa.int"
@@ -51,15 +53,21 @@
     },
     {
       "name": "INST PHYSIQUE GLOBE (FR)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "AGH UST: UNIVERSITY OF SCIENCE AND (PL)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "INSTITUTE OF ATMOSPHERIC PHYSICS (CZ)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "extent": {

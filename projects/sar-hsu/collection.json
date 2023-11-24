@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Nuno Miranda",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "nuno.miranda@esa.int"
@@ -50,31 +52,45 @@
     },
     {
       "name": "TECHNICAL UNIVERSITY OF MUNICH (DE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "LANTMATERIET (SE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "NLS FINNISH GEOSPATIAL RESEARCH INS (FI)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "Space Research Centre",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "Polish Academy of Sciences (CBK:PAN) (PL)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "TALLINNA TEHNIKAÃ¢ËÅ¡ÃÂºLIKOOL (EE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "Technical University of Denmark (DK)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "extent": {

@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Ola Grabak",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "ola.grabak@esa.int"
@@ -50,27 +52,39 @@
     },
     {
       "name": "Norwegian Research Centre (NORCE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "project leader",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "The Norwegian Meteorological Institute (MET)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "Nansen Environmental and Remote Sensing Center (NERSC)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "Science and Technology (S&T)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "The Norwegian Polar Institute (NPI)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "extent": {

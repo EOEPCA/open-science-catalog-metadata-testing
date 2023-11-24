@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Espen Volden",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "espen.volden@esa.int"
@@ -50,39 +52,57 @@
     },
     {
       "name": "CNR : INSTITUTE FOR ELECTROMAGNETIC SENSING OF THE ENVIRONMENT (IREA) (IT)CIMA RESEARCH FOUNDATION (IT)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "ESTELLUS SAS (FR)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "EURAC RESEARCH : ACCADEMIA EUROPEA (IT)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "GHENT UNIVERSITY (BE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "INSTITUT DE RECHERCHE POUR LE DEVELOPPEMENT (IRD) (FR)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "KU. KATH. KATHOLIEKE UNIVERSITEIT T (BE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "OBSERVATORI DE L EBRE (ES)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "TECHNISCHE UNIVERSITAT WIEN (TU WIEN) (AT)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "VANDERSAT B.V. (NL)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "extent": {

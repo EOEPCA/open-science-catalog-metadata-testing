@@ -43,7 +43,9 @@
   "contacts": [
     {
       "name": "Anca Anghelea",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "anca.anghelea@esa.int"
@@ -52,31 +54,45 @@
     },
     {
       "name": "BROCKMANN CONSULT GMBH (DE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "CENTRE FOR RESEARCH ON THE EPIDEMILOGY OF DISASTERS",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "SCHOOL OF PUBLIC HEALTH",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "UNIVERSITE CATHOLIQUE DE LOUVAIN (BE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "MAX PLANCK INSTITUTE FOR BIOGEOCHEMISTRY (DE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "NERC",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "PLYMOUTH MARINE LABORATORY (GB)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "extent": {

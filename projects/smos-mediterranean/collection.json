@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Diego Fernandez",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "Diego.fernandez@esa.int"
@@ -50,11 +52,15 @@
     },
     {
       "name": "UNIVERSITY OF LIEGE (BE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "INSTITUTO DE CIENCIAS DEL MAR : CSIC (ES)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "extent": {

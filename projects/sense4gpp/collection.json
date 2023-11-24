@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Stephen Plummer",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "stephen.plummer@esa.int"
@@ -50,27 +52,39 @@
     },
     {
       "name": "NOVELTIS SAS (FR)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "CEA:LSCE (FR)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "Fondazione Centro Euro:Mediterraneo (IT)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "MAX PLANCK INSTITUTE FOR BIOGEOCHEMISTRY (DE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "UNIVERSITAT POLITECNICA DE VALENCIA (ES)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "UNIVERSITY OF SOUTHAMPTON (GB)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "extent": {

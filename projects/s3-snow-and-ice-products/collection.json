@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Michael Kern",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "michael.kern@esa.int"
@@ -50,11 +52,15 @@
     },
     {
       "name": "GEOLOGICAL SURVEY OF DENMARK AND GREENLAND (DK)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "VITROCISET BELGIUM SPRL (BE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "extent": {

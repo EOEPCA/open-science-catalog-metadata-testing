@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Marc Paganini",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "marc.paganini@esa.int"
@@ -50,31 +52,45 @@
     },
     {
       "name": "UNIVERSITY OF TWENTE (NL)CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE (CNRS) (FR)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "FINNISH ENVIRONMENT INSTITUTE (SYKE) (FI)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "LUND UNIVERSITY (SE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "STICHTING WAGENINGEN RESEARCH (NL)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "UN WORLD CONSERVATION MONITORING CENTRE (UN:WCMC) (GB)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "UNIVERSITY OF ZURICH (CH)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "VLAAMSE INSTELLING VOOR TECHNOLOGISCH ONDERZOEK VITO (BE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "extent": {

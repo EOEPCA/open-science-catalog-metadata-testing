@@ -36,7 +36,9 @@
   "contacts": [
     {
       "name": "Christian Retscher",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "christian.retscher@esa.int"
@@ -45,11 +47,15 @@
     },
     {
       "name": "NILU NORWEGIAN INSTITUTE FOR AIR RESEARCH (NO)BELGIAN INSTITUTE OF SPACE AERONOMY (BIRA IASB) (BE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "LUDWIG:MAXIMILIAN UNIVERSITAT MUNCHEN (DE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "extent": {

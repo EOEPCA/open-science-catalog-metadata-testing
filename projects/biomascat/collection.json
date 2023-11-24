@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Marcus Engdahl",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "marcus.engdahl@esa.int"
@@ -50,11 +52,15 @@
     },
     {
       "name": "GAMMA REMOTE SENSING AG (CH)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "MAX PLANCK INSTITUTE FOR BIOGEOCHEMISTRY (DE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "extent": {

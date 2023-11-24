@@ -42,7 +42,9 @@
   "contacts": [
     {
       "name": "Nicolas Longepe",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "nicolas.longepe@esa.int"
@@ -51,11 +53,15 @@
     },
     {
       "name": "E:GEOS (IT)NATIONAL AND KAPODISTRIAN UNIVERSIT (GR)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "TECHN UNIV BERLIN (DE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "extent": {

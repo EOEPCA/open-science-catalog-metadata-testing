@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Marc Paganini",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "marc.paganini@esa.int"
@@ -50,19 +52,27 @@
     },
     {
       "name": "BROCKMANN GEOMATICS SWEDEN AB (HEAD (SE)BROCKMANN CONSULT GMBH (DE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "Deltares (NL)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "EAWAG (CH)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "PBL Netherlands Environmental Asses (NL)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "extent": {

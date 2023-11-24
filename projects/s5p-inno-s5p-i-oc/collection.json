@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Marie-Helene Rio",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "marie-helene.rio@esa.int"
@@ -50,19 +52,27 @@
     },
     {
       "name": "ALFRED WEGENER INSTITUTE (DE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "U. LISBON (PT)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "UNIVERSITAET BREMEN (DE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "UNIVERSITY OF VICTORIA (CA)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "extent": {

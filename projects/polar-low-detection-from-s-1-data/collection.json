@@ -36,7 +36,9 @@
   "contacts": [
     {
       "name": "NORCE (NO)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "extent": {
