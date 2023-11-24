@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Bertrand Le Saux",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "bertrand.le.saux@esa.int"
@@ -50,7 +52,9 @@
     },
     {
       "name": "UK Centre for Ecology and Hydrology (GB)RSS:Hydro (LU)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "start_datetime": "2022-11-21T00:00:00Z",

@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "University of Bristo (UK)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "start_datetime": "2019-01-12T00:00:00Z",

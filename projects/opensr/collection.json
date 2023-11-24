@@ -38,7 +38,9 @@
   "contacts": [
     {
       "name": "Nicolas Longepe",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "nicolas.longepe@esa.int"
@@ -47,11 +49,15 @@
     },
     {
       "name": "UNIVERSITY OF OXFORD (GB)BROCKMANN CONSULT GMBH (DE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "UNIV VALENCIA (ES)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "start_datetime": "2022-02-01T00:00:00Z",

@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Craig James Donlon",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "craig.donlon@esa.int"
@@ -50,15 +52,21 @@
     },
     {
       "name": "CLS COLLECTE LOCALISATION SATELLITES (FR)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "Mercator Ocean International (FR)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "MetOffice (GB)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "start_datetime": "2016-07-27T00:00:00Z",

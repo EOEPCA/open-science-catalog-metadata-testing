@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Christian Retscher",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "christian.retscher@esa.int"
@@ -50,11 +52,15 @@
     },
     {
       "name": "DLR : GERMAN AEROSPACE CENTER (DE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "INSTITUTE OF ATMOSPHERIC PHYSICS (CZ)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "start_datetime": "2020-11-30T00:00:00Z",

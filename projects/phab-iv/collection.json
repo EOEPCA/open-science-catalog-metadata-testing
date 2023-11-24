@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Marcus Engdahl",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "marcus.engdahl@esa.int"
@@ -50,15 +52,21 @@
     },
     {
       "name": "Technical University of Denmark (DK)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "ENVEO ENVIRONMENTAL EARTH OBSERVATION INFORMATION TECHNOLOGY GMBH (AT)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "GEOLOGICAL SURVEY OF DENMARK AND GREENLAND (DK)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "start_datetime": "2019-12-20T00:00:00Z",

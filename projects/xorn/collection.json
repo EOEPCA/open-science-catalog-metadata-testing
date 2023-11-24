@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Ilias Daras",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "ilias.daras@esa.int"
@@ -50,7 +52,9 @@
     },
     {
       "name": "GEOMATICS RESEARCH AND DEVELOPMENT (IT)CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE (CNRS) (FR)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "start_datetime": "2022-07-04T00:00:00Z",

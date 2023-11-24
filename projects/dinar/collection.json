@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Christian Retscher",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "christian.retscher@esa.int"
@@ -50,7 +52,9 @@
     },
     {
       "name": "BELGIAN INSTITUTE OF SPACE AERONOMY (BIRA:IASB) (BE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "start_datetime": "2021-10-09T00:00:00Z",

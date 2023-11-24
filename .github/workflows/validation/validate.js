@@ -385,7 +385,7 @@ class ValidationRun {
   requireTechnicalOfficer() {
     // Check for technical officer information
     this.t.truthy(Array.isArray(this.data.contacts), "must have contacts");
-    const contact = this.data.contacts.find(c => c.role === "technical_officer");
+    const contact = this.data.contacts.find(c => Array.isArray(c.roles) && c.roles.includes("technical_officer"));
     if (contact) {
       this.t.truthy(typeof contact.name === "string" && contact.name.length > 1, "must have name for technical officer");
       this.t.truthy(Array.isArray(contact.emails) && contact.emails.length > 0, "must have email array for technical officer");

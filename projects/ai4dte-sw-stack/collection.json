@@ -38,7 +38,9 @@
   "contacts": [
     {
       "name": "Sveinung Loekken",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "sveinung.loekken@esa.int"
@@ -47,27 +49,39 @@
     },
     {
       "name": "TELESPAZIO VEGA UK LIMITED (GB)Rothamsted Research Ltd (GB)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "Rothamsted Research Ltd (GB)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "UKRI Rutherford Appleton Laboratory (GB)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "UNIVERSITAT POLITECNICA DE VALENCIA (ES)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "UNIVERSITY OF EDINBURGH (GB)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "UNIVERSITY OF LEICESTER (GB)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "start_datetime": "2021-12-20T00:00:00Z",

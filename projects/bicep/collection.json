@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Marie-Helene Rio",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "marie-helene.rio@esa.int"
@@ -50,31 +52,45 @@
     },
     {
       "name": "PLYMOUTH MARINE LABORATORY (GB)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "FINNISH METEOROLOGICAL INSTITUTE (FI)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "HELLENIC CENTRE FOR MARINE RESEARCH (HCMR) (GR)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "HYGEOS (FR)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "NATIONAL AND KAPODISTRIAN UNIVERSIT (GR)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "UNIVERSITY OF EXETER (GB)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "UNIVERSITY OF OXFORD (GB)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "start_datetime": "2019-09-12T00:00:00Z",

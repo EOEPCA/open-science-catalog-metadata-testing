@@ -42,7 +42,9 @@
   "contacts": [
     {
       "name": "Diego Fernandez",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "diego.fernandez@esa.int"
@@ -51,23 +53,33 @@
     },
     {
       "name": "FINNISH ENVIRONMENT INSTITUTE (SYKE) (FI)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "BROCKMANN CONSULT GMBH (DE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "BROCKMANN GEOMATICS SWEDEN AB (HEAD (SE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "Leibniz Institute for Baltic Sea Re (DE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "SOLVO (FR)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
   "start_datetime": "2018-12-14T00:00:00Z",
