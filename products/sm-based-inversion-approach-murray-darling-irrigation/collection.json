@@ -51,8 +51,6 @@
   ],
   "osc:region": "Murray-Darling basin (South-eastern Australia)",
   "created": "2022-11-21T00:00:00Z",
-  "start_datetime": "2017-04-01T00:00:00Z",
-  "end_datetime": "2020-07-31T23:59:59Z",
   "extent": {
     "spatial": {
       "bbox": [

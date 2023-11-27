@@ -36,11 +36,11 @@
   "contacts": [
     {
       "name": "NORCE (NO)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
-  "start_datetime": "2020-04-02T00:00:00Z",
-  "end_datetime": "2021-02-24T23:59:59Z",
   "extent": {
     "spatial": {
       "bbox": [

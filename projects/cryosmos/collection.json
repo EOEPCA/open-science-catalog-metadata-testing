@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Ola Grabak",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "ola.grabak@esa.int"
@@ -50,31 +52,41 @@
     },
     {
       "name": "FAC:CNR ISTITUTO DI FISICA APPLICATA NELLO CARRARA (IT)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "CNRS",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "DELEGATION REGIONALE ALPES (FR)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "Technical University of Denmark (DK)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "UNIVERSITE TOULOUSE III  PAUL SABATIER (FR)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "UNIVERSITY OF HAMBURG (DE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
-  "start_datetime": "2014-09-23T00:00:00Z",
-  "end_datetime": "2017-10-31T23:59:59Z",
   "extent": {
     "spatial": {
       "bbox": [

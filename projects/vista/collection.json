@@ -43,7 +43,9 @@
   "contacts": [
     {
       "name": "Christian Retscher",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "christian.retscher@esa.int"
@@ -52,19 +54,23 @@
     },
     {
       "name": "GEO:K SRL (IT)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "AIRES TECH PLC (GB)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "ISTITUTO NAZIONALE DI GEOFISICA E VULCANOLOGIA (IT)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
-  "start_datetime": "2019-03-09T00:00:00Z",
-  "end_datetime": "2021-11-16T23:59:59Z",
   "extent": {
     "spatial": {
       "bbox": [

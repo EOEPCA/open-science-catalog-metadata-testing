@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Jerome Benveniste",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "jerome.benveniste@esa.int"
@@ -50,51 +52,71 @@
     },
     {
       "name": "SATELLITE OCEANOGRAPHIC CONSULTANTS LTD. (GB)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "Along-track (FR)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "ARESYS SRL (IT)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "CNR:RESEARCH INSTITUTE FOR GEO:HYDROLOGICAL PROTECTION IRPI (IT)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "ISARDSAT S.L. (ES)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "National Oceanography Centre (GB)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "NATIONAL UNIVERSITY OF IRELAND",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "MAY (IE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "NOVELTIS SAS (FR)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "TECHNICAL UNIVERSITY OF DENMARK (DK)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "TECHNI",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
-  "start_datetime": "2020-01-28T00:00:00Z",
-  "end_datetime": "2022-02-18T23:59:59Z",
   "extent": {
     "spatial": {
       "bbox": [

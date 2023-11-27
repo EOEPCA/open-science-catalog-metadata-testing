@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Stephen Plummer",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "stephen.plummer@esa.int"
@@ -50,11 +52,11 @@
     },
     {
       "name": "UNIVERSITAET BREMEN (DE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
-  "start_datetime": "2020-11-09T00:00:00Z",
-  "end_datetime": "2023-01-11T23:59:59Z",
   "extent": {
     "spatial": {
       "bbox": [

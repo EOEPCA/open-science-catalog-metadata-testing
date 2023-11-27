@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Christian Retscher",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "christian.retscher@esa.int"
@@ -50,19 +52,23 @@
     },
     {
       "name": "UNIVERSITY OF BREMEN (DE)FINNISH METEOROLOGICAL INSTITUTE (FI)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "UNIVERSITY OF LEEDS",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "SCHOOL OF EARTH AND ENVIRONMENT (GB)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
-  "start_datetime": "2022-11-29T00:00:00Z",
-  "end_datetime": "2024-12-15T23:59:59Z",
   "extent": {
     "spatial": {
       "bbox": [

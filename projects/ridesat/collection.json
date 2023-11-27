@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Jerome Benveniste",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "jerome.benveniste@esa.int"
@@ -50,15 +52,17 @@
     },
     {
       "name": "CNR:RESEARCH INSTITUTE FOR GEO:HYDROLOGICAL PROTECTION IRPI",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "TECHNICAL UNIVERSITY OF DENMARK (DK)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
-  "start_datetime": "2018-11-10T00:00:00Z",
-  "end_datetime": "2019-11-15T23:59:59Z",
   "extent": {
     "spatial": {
       "bbox": [

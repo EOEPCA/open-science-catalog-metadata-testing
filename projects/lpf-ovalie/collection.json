@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Stephen Plummer",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "stephen.plummer@esa.int"
@@ -50,11 +52,11 @@
     },
     {
       "name": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE (CNRS) (FR)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
-  "start_datetime": "2018-10-17T00:00:00Z",
-  "end_datetime": "2020-10-31T23:59:59Z",
   "extent": {
     "spatial": {
       "bbox": [

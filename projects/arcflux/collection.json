@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Diego Fernandez",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "diego.fernandez@esa.int"
@@ -50,19 +52,23 @@
     },
     {
       "name": "Technical University of Denmark (DK)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "CNRS DELEGATION REGIONALE MIDI:PYRENEE (FR)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "ENVEO ENVIRONMENTAL EARTH OBSERVATION GMBH (AT)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
-  "start_datetime": "2016-06-25T00:00:00Z",
-  "end_datetime": "2018-01-03T23:59:59Z",
   "extent": {
     "spatial": {
       "bbox": [

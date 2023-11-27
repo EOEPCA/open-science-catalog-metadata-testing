@@ -36,7 +36,9 @@
   "contacts": [
     {
       "name": "Frank Martin Seifert",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "frank.martin.seifert@esa.int"
@@ -45,11 +47,11 @@
     },
     {
       "name": "GAMMA REMOTE SENSING AG (CH)ESTELLUS SAS (FR)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
-  "start_datetime": "2021-09-22T00:00:00Z",
-  "end_datetime": "2023-01-09T23:59:59Z",
   "extent": {
     "spatial": {
       "bbox": [

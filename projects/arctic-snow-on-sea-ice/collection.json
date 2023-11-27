@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Ola Grabak",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "ola.grabak@esa.int"
@@ -50,27 +52,35 @@
     },
     {
       "name": "ISARDSAT SP. Z O.O. (PL)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "FINNISH METEOROLOGICAL INSTITUTE (FI)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "MULLARD SPACE SCIENCE LABORATORY:UNIVERSITY COLLEGE LONDON (GB)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "UNIVERSITY OF YORK",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "CENTRE FOR RESEARCH IN EARTH AND SPACE SCIENCE (CA)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
-  "start_datetime": "2016-12-07T00:00:00Z",
-  "end_datetime": "2018-09-30T23:59:59Z",
   "extent": {
     "spatial": {
       "bbox": [

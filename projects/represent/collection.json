@@ -43,7 +43,9 @@
   "contacts": [
     {
       "name": "Bertrand Le Saux",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "bertrand.le.saux@esa.int"
@@ -52,19 +54,23 @@
     },
     {
       "name": "DLR : GERMAN AEROSPACE CENTER (DE)E:GEOS (IT)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE (CH)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "VTT TECHNICAL RESEARCH CENTRE OF FINLAND LTD (FI)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
-  "start_datetime": "2022-11-25T00:00:00Z",
-  "end_datetime": "2024-12-20T23:59:59Z",
   "extent": {
     "spatial": {
       "bbox": [

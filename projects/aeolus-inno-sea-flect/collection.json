@@ -42,7 +42,9 @@
   "contacts": [
     {
       "name": "Christian Retscher",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "christian.retscher@esa.int"
@@ -51,15 +53,17 @@
     },
     {
       "name": "Verisk Analytics GmbH (DE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "INFORMUS GMBH (DE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
-  "start_datetime": "2020-11-11T00:00:00Z",
-  "end_datetime": "2021-06-22T23:59:59Z",
   "extent": {
     "spatial": {
       "bbox": [

@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Ola Grabak",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "ola.grabak@esa.int"
@@ -50,19 +52,23 @@
     },
     {
       "name": "THE INVERSION LAB THOMAS KAMINSKI CONSULTING (DE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "DANISH METEOROLOGICAL INSTITUTE (DK)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "O.A.SYS OCEAN ATMOSPHERE SYSTEMS (DE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
-  "start_datetime": "2016-06-06T00:00:00Z",
-  "end_datetime": "2018-02-28T23:59:59Z",
   "extent": {
     "spatial": {
       "bbox": [
