@@ -73,7 +73,7 @@ class CustomValidator extends BaseValidator {
 	async afterLoading(data, report, config) {
     // Add UI schema to STAC extensions to validate against them additionally
     const match = report.id.match(/\/(eo-missions|processes|products|projects|themes|variables)\/(catalog.json|.+)/);
-    if (match && !BEFORE_BUILD) {
+    if (match) {
       const type = match[1];
       const level = match[2] === 'catalog.json' ? 'parent' : 'children';
       const isProcess = type === 'process' && level === 'children';
@@ -85,7 +85,7 @@ class CustomValidator extends BaseValidator {
         const url = `https://raw.githubusercontent.com/EOEPCA/open-science-catalog-metadata-testing/ui-schemas/schemas/${type}/${level}.json`;
         const file = `../../../schemas/${type}/${level}.json`;
         data.stac_extensions.push(url);
-        config.schemaMap = {url: file};
+        config.schemaMap[url] = file;
       }
     }
 

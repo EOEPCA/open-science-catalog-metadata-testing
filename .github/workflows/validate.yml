@@ -8,8 +8,9 @@ on:
     branches:
       - main
 
-# env:
-#   BUILD_STAGE: after-build
+env:
+  BUILD_STAGE: before-build
+# BUILD_STAGE: after-build
 
 jobs:
   check:

@@ -104,8 +104,7 @@
           "title": "Address",
           "description": "The URL of the linked resource.",
           "type": "string",
-          "minLength": 1,
-          "format": "url"
+          "minLength": 1
         },
         "title": {
           "title": "Title",
@@ -120,6 +119,35 @@
         "rel": {
           "title": "Relation",
           "type": "string"
+        }
+      },
+      "if": {
+        "properties": {
+          "rel": {
+            "enum": [
+              "root",
+              "parent",
+              "child"
+            ]
+          }
+        }
+      },
+      "then": {
+        "$comment": "Allow relative links for non STAC relation types",
+        "properties": {
+          "href": {
+            "type": "string",
+            "format": "uri-reference"
+          }
+        }
+      },
+      "else": {
+        "$comment": "Require absolute links for non STAC relation types",
+        "properties": {
+          "href": {
+            "type": "string",
+            "format": "uri"
+          }
         }
       }
     },
