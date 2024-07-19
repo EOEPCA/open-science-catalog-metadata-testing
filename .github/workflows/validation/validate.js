@@ -43,7 +43,7 @@ const ROOT_CHILDREN = [
 
 const THEMES_SCHEME = 'https://github.com/stac-extensions/osc#theme';
 
-const BEFORE_BUILD = true;
+const BEFORE_BUILD = process.env.BUILD_STAGE !== 'after-build';
 
 class CustomValidator extends BaseValidator {
 
@@ -71,7 +71,27 @@ class CustomValidator extends BaseValidator {
   }
 
 	async afterLoading(data, report, config) {
+    // Add UI schema to STAC extensions to validate against them additionally
+    const match = report.id.match(/\/(eo-missions|processes|products|projects|themes|variables)\/(catalog.json|.+)/);
+    if (match && !BEFORE_BUILD) {
+      const type = match[1];
+      const level = match[2] === 'catalog.json' ? 'parent' : 'children';
+      const isProcess = type === 'process' && level === 'children';
+
+      if (!Array.isArray(data.stac_extensions)) {
+        data.stac_extensions = [];
+      }
+      if (!isProcess) { // No schema available for processes
+        const url = `https://raw.githubusercontent.com/EOEPCA/open-science-catalog-metadata-testing/ui-schemas/schemas/${type}/${level}.json`;
+        const file = `../../../schemas/${type}/${level}.json`;
+        data.stac_extensions.push(url);
+        config.schemaMap = {url: file};
+      }
+    }
+
+    // Cache title to allow checks for consistent titles
     this.registerTitle(report.id, data);
+
     return data;
 	}
 

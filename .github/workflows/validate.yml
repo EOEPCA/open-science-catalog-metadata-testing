@@ -8,6 +8,9 @@ on:
     branches:
       - main
 
+# env:
+#   BUILD_STAGE: after-build
+
 jobs:
   check:
     runs-on: ${{ matrix.os }}
