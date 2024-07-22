@@ -122,7 +122,9 @@
                 "type": "array",
                 "format": "temporal-interval",
                 "items": {
-                  "type": "string",
+                  "type": [
+                    "string", "null"
+                  ],
                   "format": "date-time"
                 },
                 "minItems": 2,
