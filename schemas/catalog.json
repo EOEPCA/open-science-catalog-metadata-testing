@@ -95,8 +95,6 @@
       "type": "object",
       "required": [
         "href",
-        "title",
-        "type",
         "rel"
       ],
       "properties": {
