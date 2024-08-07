@@ -162,6 +162,7 @@
       "uniqueItems": true,
       "items": {
         "type": "string",
+        "format": "osc-mission",
         "minLength": 1
       }
     },
@@ -172,15 +173,8 @@
       "uniqueItems": true,
       "items": {
         "type": "string",
-        "minLength": 1,
-        "enum": [
-          "atmosphere",
-          "cryosphere",
-          "land",
-          "magnetosphere-ionosphere",
-          "oceans",
-          "solid-earth"
-        ]
+        "format": "osc-theme",
+        "minLength": 1
       }
     }
   }
