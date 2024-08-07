@@ -52,7 +52,7 @@ class CustomValidator extends BaseValidator {
     if (match) {
       const type = match[1];
       const level = match[2] === 'catalog.json' ? 'parent' : 'children';
-      const isProcess = type === 'process' && level === 'children';
+      const isProcess = type === 'processes' && level === 'children';
 
       if (!Array.isArray(data.stac_extensions)) {
         data.stac_extensions = [];
