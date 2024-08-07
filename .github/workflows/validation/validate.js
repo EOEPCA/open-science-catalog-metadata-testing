@@ -2,48 +2,24 @@ const BaseValidator = require('stac-node-validator/src/baseValidator.js');
 const fs = require('fs-extra');
 const path = require('path');
 const sizeOf = require('image-size');
-
-const EXTENSION_SCHEMES = {
-  themes: 'https://stac-extensions.github.io/themes/v1.0.0/schema.json',
-  contacts: 'https://stac-extensions.github.io/contacts/v0.1.1/schema.json',
-  osc: 'https://stac-extensions.github.io/osc/v1.0.0-rc.3/schema.json'
-};
-
-// List of project IDs that do not have a technical officer
-const TECHNICAL_OFFICER_EXCEPTIONS = [
-  'livas',
-  'polar-low-detection-from-s-1-data',
-  'pre-melt',
-];
-
-// List of project IDs that do not have a via link
-const VIA_LINK_PROJECT_EXCEPTIONS = [
-  'ocean-health-oa',
-];
-
-// List of product IDs that do not have a via link
-const VIA_LINK_PRODUCT_EXCEPTIONS = [
-  'dem-antarctica-2013-lpf-mitap',
-  'dem-antarctica-2017-lpf-mitap',
-  'glacier-elevation-cryosat-mountain-glaciers',
-  'glacier-mass-balance-lpf-mitap',
-  'model-ionosphere-4dionosphere',
-  's2l2a-uncertainty-sr-lpf-l2arut',
-  'surface-elevation-change-lpf-mitap',
-];
-
-const ROOT_CHILDREN = [
-  './eo-missions/catalog.json',
-  './processes/catalog.json',
-  './products/catalog.json',
-  './projects/catalog.json',
-  './themes/catalog.json',
-  './variables/catalog.json'
-];
-
-const THEMES_SCHEME = 'https://github.com/stac-extensions/osc#theme';
+const {
+  EXTENSION_SCHEMES,
+  TECHNICAL_OFFICER_EXCEPTIONS,
+  VIA_LINK_PROJECT_EXCEPTIONS,
+  VIA_LINK_PRODUCT_EXCEPTIONS,
+  ROOT_CHILDREN,
+  THEMES_SCHEME
+} = require('./definitions.js');
 
 const BEFORE_BUILD = process.env.BUILD_STAGE !== 'after-build';
+const GITHUB_SCHEMA_URI = process.env.GITHUB_SCHEMA_URI;
+
+if (!GITHUB_SCHEMA_URI) {
+  throw new Error("GITHUB_SCHEMA_URI environment variable is not set");
+}
+else {
+  console.log(`Using schema URI: ${GITHUB_SCHEMA_URI}`);
+}
 
 class CustomValidator extends BaseValidator {
 
@@ -82,7 +58,7 @@ class CustomValidator extends BaseValidator {
         data.stac_extensions = [];
       }
       if (!isProcess) { // No schema available for processes
-        const url = `https://raw.githubusercontent.com/EOEPCA/open-science-catalog-metadata-testing/ui-schemas/schemas/${type}/${level}.json`;
+        const url = `${GITHUB_SCHEMA_URI}/schemas/${type}/${level}.json`;
         const file = `../../../schemas/${type}/${level}.json`;
         data.stac_extensions.push(url);
         config.schemaMap[url] = file;
