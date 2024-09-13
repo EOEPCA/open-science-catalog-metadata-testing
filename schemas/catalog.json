@@ -133,6 +133,15 @@
         }
       },
       "then": {
+        "$comment": "Require absolute links for STAC relation types",
+        "properties": {
+          "href": {
+            "type": "string",
+            "format": "uri"
+          }
+        }
+      },
+      "else": {
         "$comment": "Allow relative links for non STAC relation types",
         "properties": {
           "href": {
@@ -140,13 +149,29 @@
             "format": "uri-reference"
           }
         }
-      },
-      "else": {
-        "$comment": "Require absolute links for non STAC relation types",
-        "properties": {
-          "href": {
-            "type": "string",
-            "format": "uri"
+      }
+    },
+    "links_root_parent_child_via_other": {
+      "properties": {
+        "links": {
+          "items": {
+            "oneOf": [
+              {
+                "$ref": "#/definitions/other_links"
+              },
+              {
+                "$ref": "#/definitions/stac_link_root"
+              },
+              {
+                "$ref": "#/definitions/stac_link_parent"
+              },
+              {
+                "$ref": "#/definitions/stac_link_child"
+              },
+              {
+                "$ref": "#/definitions/via_links"
+              }
+            ]
           }
         }
       }
