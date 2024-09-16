@@ -29,7 +29,6 @@ const VIA_LINK_PRODUCT_EXCEPTIONS = [
 
 const ROOT_CHILDREN = [
   './eo-missions/catalog.json',
-  './processes/catalog.json',
   './products/catalog.json',
   './projects/catalog.json',
   './themes/catalog.json',
