@@ -133,11 +133,11 @@
         }
       },
       "then": {
-        "$comment": "Require absolute links for STAC relation types",
+        "$comment": "Allow relative links for STAC relation types",
         "properties": {
           "href": {
             "type": "string",
-            "format": "uri"
+            "format": "uri-reference"
           }
         }
       },
