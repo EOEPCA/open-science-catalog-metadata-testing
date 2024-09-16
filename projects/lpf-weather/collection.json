@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Stephen Plummer",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "stephen.plummer@esa.int"
@@ -50,11 +52,11 @@
     },
     {
       "name": "UNIVERSITY OF LEICESTER (GB)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
-  "start_datetime": "2020-04-29T00:00:00Z",
-  "end_datetime": "2022-01-06T23:59:59Z",
   "extent": {
     "spatial": {
       "bbox": [

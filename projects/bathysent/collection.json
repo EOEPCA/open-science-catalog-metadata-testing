@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Espen Volden",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "espen.volden@esa.int"
@@ -50,19 +52,23 @@
     },
     {
       "name": "BUREAU DE RECHERCHES GEOLOGIQUES ET MINIERES (BRGM) (FR",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "CLOUDFERRO SP Z O. (PL)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "HELLENIC CENTRE FOR MARINE RESEARCH (HCMR) (GR)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
-  "start_datetime": "2018-07-05T00:00:00Z",
-  "end_datetime": "2019-06-15T23:59:59Z",
   "extent": {
     "spatial": {
       "bbox": [

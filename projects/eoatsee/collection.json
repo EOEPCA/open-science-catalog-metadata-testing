@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Jerome Benveniste",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "jerome.benveniste@esa.int"
@@ -50,39 +52,53 @@
     },
     {
       "name": "Deimos Engenharia (PT)+ATLANTIC : Association for an Atla (PT)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "Atlantic International Research Centre (AIR Centre) (PT)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "CLS COLLECTE LOCALISATION SATELLITES (FR)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "Deimos Engineering and Systems (ES)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "Deltares (NL)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "Fondazione Centro Euro:Mediterraneo (IT)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "TELESPAZIO FRANCE (FR)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "UNIV BOLOGNA ALMA MATER STUDIORUM (IT)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
-  "start_datetime": "2021-07-09T00:00:00Z",
-  "end_datetime": "2023-02-10T23:59:59Z",
   "extent": {
     "spatial": {
       "bbox": [

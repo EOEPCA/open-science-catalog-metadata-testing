@@ -8,6 +8,12 @@ on:
     branches:
       - main
 
+env:
+  BUILD_STAGE: before-build
+# BUILD_STAGE: after-build
+  GITHUB_SCHEMA_URI: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.event.pull_request && github.head_ref || github.ref_name }}
+  
+
 jobs:
   check:
     runs-on: ${{ matrix.os }}
@@ -16,7 +22,7 @@ jobs:
         os: [ubuntu-latest, windows-latest]
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Prepare
         run: |
           cd .github/workflows/validation

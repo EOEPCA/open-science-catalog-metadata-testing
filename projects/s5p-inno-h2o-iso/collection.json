@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Christian Retscher",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "christian.retscher@esa.int"
@@ -50,19 +52,23 @@
     },
     {
       "name": "UNIVERSITY OF LEICESTER (GB)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "KARLSRUHE INSTITUTE OF TECHNOLOGY (DE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "UNIVERSITY OF BERGEN (NO)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
-  "start_datetime": "2019-02-07T00:00:00Z",
-  "end_datetime": "2021-12-30T23:59:59Z",
   "extent": {
     "spatial": {
       "bbox": [

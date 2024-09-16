@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Roger Haagmans",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "roger.haagmans@esa.int"
@@ -50,35 +52,47 @@
     },
     {
       "name": "UNIVERSITY OF KIEL (DE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "BRITISH ANTARCTIC SURVEY (GB)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "DUBLIN INSTITUTE FOR ADVANCED STUDIES (DIAS) (IE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "GEOLOGICAL SURVEY OF DENMARK AND GREENLAND (DK)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "TU DELFT (NL)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "Technical University of Denmark (DK)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "UNIVERSITY OF OSLO (NO)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
-  "start_datetime": "2019-10-22T00:00:00Z",
-  "end_datetime": "2020-12-11T23:59:59Z",
   "extent": {
     "spatial": {
       "bbox": [

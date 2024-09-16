@@ -52,8 +52,6 @@
   ],
   "osc:region": "South Atlantic Ocean",
   "created": "2022-03-17T00:00:00Z",
-  "start_datetime": "2018-05-19T00:00:00Z",
-  "end_datetime": "2018-05-27T23:59:59Z",
   "extent": {
     "spatial": {
       "bbox": [

@@ -2,48 +2,24 @@ const BaseValidator = require('stac-node-validator/src/baseValidator.js');
 const fs = require('fs-extra');
 const path = require('path');
 const sizeOf = require('image-size');
+const {
+  EXTENSION_SCHEMES,
+  TECHNICAL_OFFICER_EXCEPTIONS,
+  VIA_LINK_PROJECT_EXCEPTIONS,
+  VIA_LINK_PRODUCT_EXCEPTIONS,
+  ROOT_CHILDREN,
+  THEMES_SCHEME
+} = require('./definitions.js');
 
-const EXTENSION_SCHEMES = {
-  themes: 'https://stac-extensions.github.io/themes/v1.0.0/schema.json',
-  contacts: 'https://stac-extensions.github.io/contacts/v0.1.1/schema.json',
-  osc: 'https://stac-extensions.github.io/osc/v1.0.0-rc.3/schema.json'
-};
+const BEFORE_BUILD = process.env.BUILD_STAGE !== 'after-build';
+const GITHUB_SCHEMA_URI = process.env.GITHUB_SCHEMA_URI;
 
-// List of project IDs that do not have a technical officer
-const TECHNICAL_OFFICER_EXCEPTIONS = [
-  'livas',
-  'polar-low-detection-from-s-1-data',
-  'pre-melt',
-];
-
-// List of project IDs that do not have a via link
-const VIA_LINK_PROJECT_EXCEPTIONS = [
-  'ocean-health-oa',
-];
-
-// List of product IDs that do not have a via link
-const VIA_LINK_PRODUCT_EXCEPTIONS = [
-  'dem-antarctica-2013-lpf-mitap',
-  'dem-antarctica-2017-lpf-mitap',
-  'glacier-elevation-cryosat-mountain-glaciers',
-  'glacier-mass-balance-lpf-mitap',
-  'model-ionosphere-4dionosphere',
-  's2l2a-uncertainty-sr-lpf-l2arut',
-  'surface-elevation-change-lpf-mitap',
-];
-
-const ROOT_CHILDREN = [
-  './eo-missions/catalog.json',
-  './processes/catalog.json',
-  './products/catalog.json',
-  './projects/catalog.json',
-  './themes/catalog.json',
-  './variables/catalog.json'
-];
-
-const THEMES_SCHEME = 'https://github.com/stac-extensions/osc#theme';
-
-const BEFORE_BUILD = true;
+if (!GITHUB_SCHEMA_URI) {
+  throw new Error("GITHUB_SCHEMA_URI environment variable is not set");
+}
+else {
+  console.log(`Using schema URI: ${GITHUB_SCHEMA_URI}`);
+}
 
 class CustomValidator extends BaseValidator {
 
@@ -71,7 +47,25 @@ class CustomValidator extends BaseValidator {
   }
 
 	async afterLoading(data, report, config) {
+    // Add UI schema to STAC extensions to validate against them additionally
+    const match = report.id.match(/\/(eo-missions|products|projects|themes|variables)\/(catalog.json|.+)/);
+    if (match) {
+      const type = match[1];
+      const level = match[2] === 'catalog.json' ? 'parent' : 'children';
+
+      if (!Array.isArray(data.stac_extensions)) {
+        data.stac_extensions = [];
+      }
+
+      const url = `${GITHUB_SCHEMA_URI}/schemas/${type}/${level}.json`;
+      const file = `../../../schemas/${type}/${level}.json`;
+      data.stac_extensions.push(url);
+      config.schemaMap[url] = file;
+    }
+
+    // Cache title to allow checks for consistent titles
     this.registerTitle(report.id, data);
+
     return data;
 	}
 
@@ -83,7 +77,7 @@ class CustomValidator extends BaseValidator {
     const isProject = !!report.id.match(/\/projects\/[^\/]+\/collection.json/);
     const isTheme = !!report.id.match(/\/themes\/[^\/]+\/catalog.json/);
     const isVariable = !!report.id.match(/\/variables\/[^\/]+\/catalog.json/);
-    const isSubCatalog = !!report.id.match(/\/(eo-missions|processes|products|projects|themes|variables)\/catalog.json/);
+    const isSubCatalog = !!report.id.match(/\/(eo-missions|products|projects|themes|variables)\/catalog.json/);
 
     // Ensure consistent STAC version
     // @todo: Enable STAC 1.1.0 support once released
@@ -102,9 +96,6 @@ class CustomValidator extends BaseValidator {
       let childStacType = 'Catalog';
       if (['products', 'projects'].includes(childEntity)) {
         childStacType = 'Collection';
-      }
-      else if (childEntity === 'processes') {
-        childStacType = 'Process';
       }
       await run.validateSubCatalogs(childStacType);
     }
@@ -164,12 +155,7 @@ class ValidationRun {
     await this.requireRootLink("../catalog.json");
   
     // check child links
-    if (childStacType === 'Process') {
-      await this.requireChildLinksForOtherJsonFiles(null, [], 'cwl', 'process', 'application/cwl');
-    }
-    else {
-      await this.requireChildLinksForOtherJsonFiles(childStacType);
-    }
+    await this.requireChildLinksForOtherJsonFiles(childStacType);
   }
   
   validateUserContent() {
@@ -385,7 +371,7 @@ class ValidationRun {
   requireTechnicalOfficer() {
     // Check for technical officer information
     this.t.truthy(Array.isArray(this.data.contacts), "must have contacts");
-    const contact = this.data.contacts.find(c => c.role === "technical_officer");
+    const contact = this.data.contacts.find(c => Array.isArray(c.roles) && c.roles.includes("technical_officer"));
     if (contact) {
       this.t.truthy(typeof contact.name === "string" && contact.name.length > 1, "must have name for technical officer");
       this.t.truthy(Array.isArray(contact.emails) && contact.emails.length > 0, "must have email array for technical officer");

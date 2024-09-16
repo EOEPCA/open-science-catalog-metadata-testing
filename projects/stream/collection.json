@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Jerome Benveniste",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "jerome.benveniste@esa.int"
@@ -50,19 +52,23 @@
     },
     {
       "name": "CNR INSTITUTE FOR ELECTROMAGNETIC SENSING OF THE ENVIRONMENT (IREA) (IT)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "Technical University of Denmark (DK)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "UNIVERSITY OF STUTTGART INSTITUTE OF GEODESY (DE)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
-  "start_datetime": "2019-02-25T00:00:00Z",
-  "end_datetime": "2020-01-04T23:59:59Z",
   "extent": {
     "spatial": {
       "bbox": [

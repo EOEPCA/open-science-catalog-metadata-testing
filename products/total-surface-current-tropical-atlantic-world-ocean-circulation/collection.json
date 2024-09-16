@@ -43,8 +43,6 @@
     }
   ],
   "osc:region": "Tropical Atlantic",
-  "start_datetime": "2018-01-01T00:00:00Z",
-  "end_datetime": "2018-12-31T23:59:59Z",
   "extent": {
     "spatial": {
       "bbox": [

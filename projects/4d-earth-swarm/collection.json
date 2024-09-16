@@ -42,7 +42,9 @@
   "contacts": [
     {
       "name": "Roger Haagmans",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "roger.haagmans@esa.int"
@@ -51,31 +53,41 @@
     },
     {
       "name": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE (CNRS) (FR)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "EIDGENOSSISCHE TECHNISCHE HOCHSCHULE ZURICH (ETH ZURICH) (CH)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "INST PHYSIQUE GLOBE (FR)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "Technical University of Denmark (DK)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "UNIVERSITY OF LEEDS",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "SCHOOL OF EARTH AND ENVIRONMENT (GB)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
-  "start_datetime": "2019-04-16T00:00:00Z",
-  "end_datetime": "2022-04-30T23:59:59Z",
   "extent": {
     "spatial": {
       "bbox": [

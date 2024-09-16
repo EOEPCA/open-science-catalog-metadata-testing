@@ -37,7 +37,9 @@
   "contacts": [
     {
       "name": "Rochelle Schneider",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "rochelle.schneider@esa.int"
@@ -46,11 +48,11 @@
     },
     {
       "name": "EIDGENOSSISCHE TECHNISCHE HOCHSCHULE ZURICH (ETH ZURICH) (CH)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
-  "start_datetime": "2021-10-22T00:00:00Z",
-  "end_datetime": "2022-12-31T23:59:59Z",
   "extent": {
     "spatial": {
       "bbox": [

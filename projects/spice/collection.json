@@ -41,7 +41,9 @@
   "contacts": [
     {
       "name": "Jerome Benveniste",
-      "role": "technical_officer",
+      "roles": [
+        "technical_officer"
+      ],
       "emails": [
         {
           "value": "jerome.benveniste@esa.int"
@@ -50,23 +52,29 @@
     },
     {
       "name": "UNIVERSITY OF LEEDS",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "SCHOOL OF EARTH AND ENVIRONMENT (GB)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "CLS COLLECTE LOCALISATION SATELLITES (FR)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     },
     {
       "name": "isardSAT UK (GB)",
-      "role": "consortium_member"
+      "roles": [
+        "consortium_member"
+      ]
     }
   ],
-  "start_datetime": "2015-09-21T00:00:00Z",
-  "end_datetime": "2019-09-30T23:59:59Z",
   "extent": {
     "spatial": {
       "bbox": [
