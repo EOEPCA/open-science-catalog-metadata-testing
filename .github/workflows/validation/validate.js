@@ -48,21 +48,19 @@ class CustomValidator extends BaseValidator {
 
 	async afterLoading(data, report, config) {
     // Add UI schema to STAC extensions to validate against them additionally
-    const match = report.id.match(/\/(eo-missions|processes|products|projects|themes|variables)\/(catalog.json|.+)/);
+    const match = report.id.match(/\/(eo-missions|products|projects|themes|variables)\/(catalog.json|.+)/);
     if (match) {
       const type = match[1];
       const level = match[2] === 'catalog.json' ? 'parent' : 'children';
-      const isProcess = type === 'processes' && level === 'children';
 
       if (!Array.isArray(data.stac_extensions)) {
         data.stac_extensions = [];
       }
-      if (!isProcess) { // No schema available for processes
-        const url = `${GITHUB_SCHEMA_URI}/schemas/${type}/${level}.json`;
-        const file = `../../../schemas/${type}/${level}.json`;
-        data.stac_extensions.push(url);
-        config.schemaMap[url] = file;
-      }
+
+      const url = `${GITHUB_SCHEMA_URI}/schemas/${type}/${level}.json`;
+      const file = `../../../schemas/${type}/${level}.json`;
+      data.stac_extensions.push(url);
+      config.schemaMap[url] = file;
     }
 
     // Cache title to allow checks for consistent titles
@@ -79,7 +77,7 @@ class CustomValidator extends BaseValidator {
     const isProject = !!report.id.match(/\/projects\/[^\/]+\/collection.json/);
     const isTheme = !!report.id.match(/\/themes\/[^\/]+\/catalog.json/);
     const isVariable = !!report.id.match(/\/variables\/[^\/]+\/catalog.json/);
-    const isSubCatalog = !!report.id.match(/\/(eo-missions|processes|products|projects|themes|variables)\/catalog.json/);
+    const isSubCatalog = !!report.id.match(/\/(eo-missions|products|projects|themes|variables)\/catalog.json/);
 
     // Ensure consistent STAC version
     // @todo: Enable STAC 1.1.0 support once released
@@ -98,9 +96,6 @@ class CustomValidator extends BaseValidator {
       let childStacType = 'Catalog';
       if (['products', 'projects'].includes(childEntity)) {
         childStacType = 'Collection';
-      }
-      else if (childEntity === 'processes') {
-        childStacType = 'Process';
       }
       await run.validateSubCatalogs(childStacType);
     }
@@ -160,12 +155,7 @@ class ValidationRun {
     await this.requireRootLink("../catalog.json");
   
     // check child links
-    if (childStacType === 'Process') {
-      await this.requireChildLinksForOtherJsonFiles(null, [], 'cwl', 'process', 'application/cwl');
-    }
-    else {
-      await this.requireChildLinksForOtherJsonFiles(childStacType);
-    }
+    await this.requireChildLinksForOtherJsonFiles(childStacType);
   }
   
   validateUserContent() {
